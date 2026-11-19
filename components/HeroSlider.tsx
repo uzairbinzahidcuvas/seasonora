@@ -1,7 +1,7 @@
 "use client";
 import { useEffect, useRef, useState } from "react";
 import Link from "next/link";
-import { catBySlug, fmtDate, type Post } from "@/lib/posts";
+import { fmtDate, type Post } from "@/lib/posts";
 
 /**
  * Full-bleed hero slider: the latest posts appear here automatically —
@@ -27,14 +27,12 @@ export default function HeroSlider({ posts }: { posts: Post[] }) {
       onMouseEnter={() => setPaused(true)} onMouseLeave={() => setPaused(false)}
       onFocus={() => setPaused(true)} onBlur={() => setPaused(false)}>
       {posts.map((p, idx) => {
-        const cat = catBySlug(p.category);
         const active = idx === i;
         return (
           <div key={p.slug} className={`hero2-slide ${active ? "active" : ""}`} aria-hidden={!active}>
             {p.hero && <img className="hero2-img" src={p.hero.src} alt={active ? p.hero.alt : ""} />}
             <div className="hero2-shade" aria-hidden="true" />
             <div className="hero2-content">
-              <Link className="cat-chip" style={{ background: cat.chipBg, color: cat.chipInk }} href={`/${cat.slug}`} tabIndex={active ? 0 : -1}>{cat.name}</Link>
               <h2><Link href={`/post/${p.slug}`} tabIndex={active ? 0 : -1}>{p.title}</Link></h2>
               <p className="hero2-excerpt">{p.excerpt}</p>
               <p className="hero2-meta">{fmtDate(p.date)} · {p.readTime} min read</p>

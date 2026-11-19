@@ -2,7 +2,7 @@ import Link from "next/link";
 import PostCard from "@/components/PostCard";
 import Newsletter from "@/components/Newsletter";
 import HeroSlider from "@/components/HeroSlider";
-import { POSTS, catBySlug, fmtDate } from "@/lib/posts";
+import { POSTS, CATEGORIES, catBySlug, fmtDate } from "@/lib/posts";
 
 const SEASONS = [
   { name: "Spring", sub: "Fresh Beginnings", img: "/img/s-spring", href: "/seasonal-living", accent: "#8FC99A" },
@@ -30,12 +30,17 @@ function SecHead({ title, sub }: { title: string; sub?: string }) {
 export default function Home() {
   const latest = POSTS.slice(0, 8);
   const guides = POSTS.slice(0, 4);
+  // Hero slider: the newest post from EVERY category (each category's trending post).
+  const heroSlides = CATEGORIES
+    .map((c) => POSTS.find((p) => p.category === c.slug))
+    .filter((p): p is NonNullable<typeof p> => Boolean(p))
+    .sort((a, b) => b.date.localeCompare(a.date));
 
   return (
     <>
       <h1 className="sr-only">Seasonora — Make Every Season Special. Seasonal decor, holiday ideas, easy recipes and DIY inspiration.</h1>
-      {/* Hero — auto slider of the latest posts (full-bleed photo + overlay text) */}
-      <HeroSlider posts={POSTS.slice(0, 5)} />
+      {/* Hero — auto slider, one trending post per category (full-bleed photo + overlay text) */}
+      <HeroSlider posts={heroSlides} />
 
       <div className="wrap">
         {/* Section 4 — Seasonal Inspiration */}
@@ -120,7 +125,7 @@ export default function Home() {
 
         {/* Section 11 — About Seasonora */}
         <section className="about-band" aria-labelledby="about-h">
-          <div className="about-photo"><img src="/img/s-about" alt="Gardening tools and fresh soil, ready for the season" loading="lazy" /></div>
+          <div className="about-logo"><img src="/logo.png" alt="Seasonora — Make Every Season Special" loading="lazy" /></div>
           <div className="about-copy">
             <p className="kicker-text">About Seasonora</p>
             <h2 id="about-h">Life Is Better With a Little Inspiration.</h2>

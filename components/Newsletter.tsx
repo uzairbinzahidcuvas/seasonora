@@ -27,7 +27,6 @@ export default function Newsletter({ compact = false }: { compact?: boolean }) {
   }
   return (
     <div className="newsletter-band" id="newsletter">
-      <img className="nl-bg" src="/img/s-newsletter" alt="" aria-hidden="true" />
       <div className="nl-inner">
         <h2>A Little Inspiration, Delivered.</h2>
         <p>Get fresh seasonal ideas, creative inspiration and thoughtful tips delivered straight to your inbox.</p>
