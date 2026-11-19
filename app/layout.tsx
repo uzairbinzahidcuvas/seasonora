@@ -21,6 +21,7 @@ export const metadata: Metadata = {
   twitter: { card: "summary_large_image", title: `${SITE_NAME} — ${TAGLINE}`, description: SITE_DESCRIPTION, images: ["/logo.png"] },
   robots: { index: true, follow: true },
   icons: { icon: "/favicon.svg" },
+  other: { "p:domain_verify": "f292788a5579f1d5a79259a8b25d4355" },
 };
 
 const jsonLd = {

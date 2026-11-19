@@ -6,7 +6,7 @@ export const SITE_NAME = "Seasonora";
 export const TAGLINE = "Make Every Season Special.";
 export const SITE_DESCRIPTION =
   "Seasonora shares seasonal decor, holiday ideas, easy recipes, DIY inspiration and lifestyle finds for readers in the US, UK and Canada — make every season special.";
-export const PINTEREST_URL = "https://www.pinterest.com/theseasonora/";
+export const PINTEREST_URL = "https://www.pinterest.com/seasonoraofficial/";
 export const FACEBOOK_URL = "https://www.facebook.com/theseasonora/";
 
 export const NAV = [

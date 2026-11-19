@@ -92,7 +92,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
             Save on Pinterest
           </a>
         </div>
-        <p className="meta">Follow us on <a href={PINTEREST_URL} target="_blank" rel="noreferrer">Pinterest @theseasonora</a> for a fresh pin for every new guide.</p>
+        <p className="meta">Follow us on <a href={PINTEREST_URL} target="_blank" rel="noreferrer">Pinterest @seasonoraofficial</a> for a fresh pin for every new guide.</p>
 
         <div className="author-box">
           <span className="author-avatar" aria-hidden="true">S</span>
