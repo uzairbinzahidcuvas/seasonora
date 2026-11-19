@@ -2,6 +2,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { CATEGORIES } from "@/lib/posts";
 import { PINTEREST_URL, FACEBOOK_URL, TAGLINE } from "@/lib/config";
+import { PinterestIcon, FacebookIcon, RssIcon } from "./SocialIcons";
 
 export default function Footer() {
   return (
@@ -11,9 +12,9 @@ export default function Footer() {
           <Image src="/logo.png" alt="Seasonora logo" width={250} height={81} />
           <p>Seasonora shares thoughtful seasonal inspiration for home, celebrations, food, DIY and everyday living — helping readers make every season feel special.</p>
           <p className="footer-social">
-            <a href={PINTEREST_URL} target="_blank" rel="noreferrer">Pinterest</a>
-            <a href={FACEBOOK_URL} target="_blank" rel="noreferrer">Facebook</a>
-            <a href="/feed.xml">RSS</a>
+            <a href={PINTEREST_URL} target="_blank" rel="noreferrer"><PinterestIcon size={16} /> Pinterest</a>
+            <a href={FACEBOOK_URL} target="_blank" rel="noreferrer"><FacebookIcon size={16} /> Facebook</a>
+            <a href="/feed.xml"><RssIcon size={16} /> RSS</a>
           </p>
         </div>
         <nav aria-label="Categories">

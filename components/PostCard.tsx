@@ -8,7 +8,7 @@ export default function PostCard({ post }: { post: Post }) {
     <article className="card post-card">
       <Link href={`/post/${post.slug}`} className="thumb" aria-label={post.title}><Visual post={post} /></Link>
       <div className="post-card-body">
-        <Link className="cat-label" href={`/${cat.slug}`}>{cat.name}</Link>
+        <Link className="cat-chip" style={{ background: `linear-gradient(135deg, ${cat.from}, ${cat.to})` }} href={`/${cat.slug}`}>{cat.name}</Link>
         <h3><Link href={`/post/${post.slug}`}>{post.title}</Link></h3>
         <p className="excerpt">{post.excerpt}</p>
         <p className="meta">{fmtDate(post.date)} · {post.readTime} min read</p>

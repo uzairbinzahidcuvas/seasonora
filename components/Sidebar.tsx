@@ -4,6 +4,7 @@ import Newsletter from "./Newsletter";
 import Visual from "./Visual";
 import { CATEGORIES, POSTS, TAGS, popularPosts, fmtDate } from "@/lib/posts";
 import { PINTEREST_URL, FACEBOOK_URL } from "@/lib/config";
+import { PinterestIcon, FacebookIcon, RssIcon, MailIcon } from "./SocialIcons";
 
 export default function Sidebar() {
   return (
@@ -12,10 +13,10 @@ export default function Sidebar() {
         <Image src="/logo.png" alt="Seasonora" width={190} height={62} />
         <p>Seasonal decor, holiday ideas, easy recipes and DIY inspiration — make every season special.</p>
         <div className="social-grid">
-          <a href={PINTEREST_URL} target="_blank" rel="noreferrer" aria-label="Pinterest">Pinterest</a>
-          <a href={FACEBOOK_URL} target="_blank" rel="noreferrer" aria-label="Facebook">Facebook</a>
-          <a href="/feed.xml" aria-label="RSS feed">RSS Feed</a>
-          <Link href="/contact" aria-label="Contact Seasonora">Contact</Link>
+          <a href={PINTEREST_URL} target="_blank" rel="noreferrer" aria-label="Pinterest"><PinterestIcon size={17} /> Pinterest</a>
+          <a href={FACEBOOK_URL} target="_blank" rel="noreferrer" aria-label="Facebook"><FacebookIcon size={17} /> Facebook</a>
+          <a href="/feed.xml" aria-label="RSS feed"><RssIcon size={17} /> RSS Feed</a>
+          <Link href="/contact" aria-label="Contact Seasonora"><MailIcon size={17} /> Contact</Link>
         </div>
       </section>
 
@@ -35,7 +36,7 @@ export default function Sidebar() {
         <h3 className="side-title">Categories</h3>
         <ul className="cat-list">
           {CATEGORIES.map((c) => (
-            <li key={c.slug}><Link href={`/${c.slug}`}>{c.name}</Link>
+            <li key={c.slug}><Link href={`/${c.slug}`}><i className="cat-dot" style={{ background: `linear-gradient(135deg, ${c.from}, ${c.to})` }} />{c.name}</Link>
               <span>{POSTS.filter((p) => p.category === c.slug).length}</span></li>
           ))}
         </ul>

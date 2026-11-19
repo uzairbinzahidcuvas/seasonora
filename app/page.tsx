@@ -34,7 +34,7 @@ export default function Home() {
           <article className="card hero-card">
             <Link href={`/post/${hero.slug}`} className="thumb" aria-label={hero.title}><Visual post={hero} large /></Link>
             <div className="hero-body">
-              <Link className="cat-label" href={`/${heroCat.slug}`}>{heroCat.name}</Link>
+              <Link className="cat-chip" style={{ background: `linear-gradient(135deg, ${heroCat.from}, ${heroCat.to})` }} href={`/${heroCat.slug}`}>{heroCat.name}</Link>
               <h2><Link href={`/post/${hero.slug}`}>{hero.title}</Link></h2>
               <p className="excerpt" style={{ WebkitLineClamp: 3 }}>{hero.excerpt}</p>
               <p className="meta">{fmtDate(hero.date)} · {hero.readTime} min read</p>
