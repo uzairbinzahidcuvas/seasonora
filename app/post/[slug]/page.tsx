@@ -62,22 +62,30 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
 
         <nav className="toc" aria-label="Table of contents">
           <h2>In this guide</h2>
-          <ol>{post.sections.map((s) => <li key={s.heading}><a href={`#${anchor(s.heading)}`}>{s.heading}</a></li>)}
+          <ol>{post.sections.map((s, si) => <li key={s.heading}><a href={`#${anchor(s.heading)}`}>{si + 1}. {s.heading}</a></li>)}
             <li><a href="#faq">Frequently asked questions</a></li></ol>
         </nav>
 
-        {post.sections.map((s, si) => (
-          <section key={s.heading}>
-            <h2 id={anchor(s.heading)}>{s.heading}</h2>
-            {s.body.map((para, i) => <p key={i}>{para}</p>)}
-            {(post.images ?? []).filter((im) => im.after === si).map((im) => (
-              <figure className="article-figure" key={im.img.src}>
-                <img className="article-img" src={im.img.src} alt={im.img.alt} loading="lazy" />
-                {im.img.caption && <figcaption>{im.img.caption}</figcaption>}
-              </figure>
-            ))}
-          </section>
-        ))}
+        {post.sections.map((s, si) => {
+          let h3n = 0;
+          return (
+            <section key={s.heading}>
+              <h2 id={anchor(s.heading)}>{si + 1}. {s.heading}</h2>
+              {s.blocks.map((b, bi) => {
+                if (b.t === "p") return <p key={bi}>{b.text}</p>;
+                if (b.t === "h3") { h3n += 1; return <h3 key={bi}>{si + 1}.{h3n} {b.text}</h3>; }
+                if (b.t === "ul") return <ul key={bi} className="art-list">{b.items.map((it, ii) => <li key={ii}>{it}</li>)}</ul>;
+                return <ol key={bi} className="art-list art-ol">{b.items.map((it, ii) => <li key={ii}>{it}</li>)}</ol>;
+              })}
+              {(post.images ?? []).filter((im) => im.after === si).map((im) => (
+                <figure className="article-figure" key={im.img.src}>
+                  <img className="article-img" src={im.img.src} alt={im.img.alt} loading="lazy" />
+                  {im.img.caption && <figcaption>{im.img.caption}</figcaption>}
+                </figure>
+              ))}
+            </section>
+          );
+        })}
 
         <section className="faq">
           <h2 id="faq">Frequently asked questions</h2>

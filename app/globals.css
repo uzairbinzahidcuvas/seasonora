@@ -113,6 +113,10 @@ h1,h2,h3,h4{font-family:var(--serif);color:var(--green);line-height:1.2;margin:0
 .visual{display:block;width:100%;aspect-ratio:8/5}
 .visual-lg{aspect-ratio:16/9;border-radius:var(--radius)}
 .visual-img{object-fit:cover}
+.art-list{margin:.4rem 0 1rem;padding-left:1.35rem}
+.art-list li{margin:.42rem 0;line-height:1.6}
+.art-list li::marker{color:var(--gold);font-weight:700}
+ol.art-ol li{padding-left:.2rem}
 .article-figure{margin:1.4rem 0}
 .article-img{display:block;width:100%;max-height:560px;object-fit:cover;border-radius:12px}
 .article-figure figcaption{color:var(--muted);font-size:.85rem;text-align:center;margin-top:.5rem;font-style:italic}
