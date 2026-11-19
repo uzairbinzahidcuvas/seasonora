@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import Script from "next/script";
 import { DM_Serif_Display, Manrope } from "next/font/google";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
@@ -48,8 +47,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en">
       <body className={`${serif.variable} ${sans.variable}`}>
-        {/* Monetag OnClick (zone 12300743) — installed in head via beforeInteractive */}
-        <Script id="monetag-onclick" strategy="beforeInteractive">{`(function(s){s.dataset.zone='12300743',s.src='https://al5sm.com/tag.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))`}</Script>
+        {/* Monetag OnClick (zone 12300743) — literal tag at top of body, exactly as provided by Monetag */}
+        <script dangerouslySetInnerHTML={{ __html: `(function(s){s.dataset.zone='12300743',s.src='https://al5sm.com/tag.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))` }} />
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
         <Header />
         <main>{children}</main>
