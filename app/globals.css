@@ -203,8 +203,12 @@ main section{margin:4.4rem 0}
 .related{display:grid;grid-template-columns:repeat(3,1fr);gap:2.2rem 1.8rem;margin-bottom:4rem}
 
 /* Sidebar */
-.sidebar{display:flex;flex-direction:column;gap:1.05rem}
-.card.side-box{border:1px solid var(--line);border-radius:var(--radius);padding:1.2rem 1.25rem;background:#fff}
+.sidebar{display:flex;flex-direction:column;gap:20px;justify-content:flex-start}
+.card.side-box{border:1px solid var(--line);border-radius:var(--radius);padding:20px;background:var(--off);box-shadow:0 10px 26px rgba(41,41,41,.08)}
+/* Sidebar/article sections must not inherit the big page-section margin */
+.layout section{margin:0}
+.layout .article section.toc{margin:1.8rem 0 2.2rem}
+.layout .article section.faq{margin-top:2.2rem}
 .side-title{font-size:1.18rem;margin:0 0 .75rem;padding-bottom:.5rem;border-bottom:2px solid var(--green-soft)}
 .about-box p{color:var(--muted);font-size:.94rem}
 .social-grid{display:grid;grid-template-columns:1fr 1fr;gap:.5rem;margin-top:.8rem}
