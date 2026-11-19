@@ -15,7 +15,7 @@ export const CATEGORIES: Category[] = [
     name: "Seasonal Living",
     nav: "Seasonal Living",
     intro:
-      "Seasonal living is about small, timely changes that make everyday life feel fresh — a warmer throw in winter, lighter linens in spring, a bowl of citrus in summer. These guides help you refresh your home and routines in step with the year, without starting from scratch each season.",
+      "Most of us don't redecorate the whole house every season — we swap a few things and the room feels new again. That's what these guides are for: small changes for spring, summer, fall and winter that fit real homes and real budgets.",
     subcategories: ["Spring Ideas", "Summer Ideas", "Fall / Autumn Ideas", "Winter Ideas", "Seasonal Bucket Lists", "Seasonal Home Refresh"],
     motif: "leaf", from: "#7FA653", to: "#46682F",
   },
@@ -24,7 +24,7 @@ export const CATEGORIES: Category[] = [
     name: "Holidays & Celebrations",
     nav: "Holidays",
     intro:
-      "From Friendsgiving tables to New Year's Eve countdowns, celebrations are easier — and far more enjoyable — with a plan. Here you will find themes, timelines, menus and checklists for the holidays readers celebrate most, written so you can host with confidence and still enjoy the day yourself.",
+      "Hosting is a lot easier when someone hands you a plan. Here you'll find the themes, timelines, menus and checklists for Christmas, Friendsgiving, New Year's Eve and the rest — so everything gets done and you can still sit down with your guests.",
     subcategories: ["Christmas", "Thanksgiving & Friendsgiving", "Halloween", "New Year's Eve", "Valentine's Day", "Easter", "Mother's Day", "Birthdays & Gatherings"],
     motif: "star", from: "#E3A72F", to: "#B95E14",
   },
@@ -33,7 +33,7 @@ export const CATEGORIES: Category[] = [
     name: "Home & Decor",
     nav: "Home & Decor",
     intro:
-      "Good seasonal decor works with the home you already have. Our decor guides are organised room by room — apartments and small spaces included — with styling tips, colour palettes and budget notes, so a festive, comfortable home never depends on a big house or a big spend.",
+      "Good decor doesn't need a big house or a big budget. These guides go room by room — apartments and small spaces very much included — with honest prices, simple styling rules and ideas you can copy this weekend.",
     subcategories: ["Apartment Decor", "Living Room", "Bedroom", "Kitchen & Dining", "Entryway", "Tablescapes", "Window Decor", "Wreaths", "Budget Decor", "Small-Space Ideas"],
     motif: "tree", from: "#4E7D46", to: "#243B24",
   },
@@ -42,7 +42,7 @@ export const CATEGORIES: Category[] = [
     name: "Food & Recipes",
     nav: "Food & Recipes",
     intro:
-      "Seasonal cooking starts with clear recipes: honest ingredient lists, step-by-step method, timings and storage advice. From Christmas cookies to party appetisers and seasonal drinks, these are recipes written to be baked, served and shared — not just admired.",
+      "Every recipe here is written the way we'd want to read it: a clear list of ingredients, steps in order, exact temperatures and timings, and a note on storing leftovers. Christmas cookies are the current favourite, with plenty more on the way.",
     subcategories: ["Cookies & Baking", "Desserts", "Appetizers", "Party Food", "Drinks", "Brunch", "Holiday Menus", "Seasonal Ingredients"],
     motif: "cookie", from: "#DE7A3D", to: "#A83E1B",
   },
@@ -51,7 +51,7 @@ export const CATEGORIES: Category[] = [
     name: "DIY & Crafts",
     nav: "DIY & Crafts",
     intro:
-      "Handmade touches are what make seasonal decor feel personal. Each project here lists the materials you actually need, a realistic difficulty level and clear steps — from beginner-friendly window painting to wreaths, garlands and gifts you can make in an afternoon.",
+      "The projects here use supplies you probably already own, or can grab in one quick shop run. Each one lists what you need, how long it really takes and how hard it is — starting with window painting, wreaths and garlands.",
     subcategories: ["Window Painting", "Wreaths & Garlands", "Handmade Gifts", "Paper Crafts", "Table Decor DIY", "Kids' Activities", "Printables"],
     motif: "snow", from: "#4E8FB8", to: "#275E7E",
   },
@@ -60,7 +60,7 @@ export const CATEGORIES: Category[] = [
     name: "Lifestyle, Beauty & Style",
     nav: "Lifestyle",
     intro:
-      "Seasons change more than the weather — they change what we wear, how we host and how we spend our days. This hub gathers seasonal outfits, hairstyle inspiration, hosting tips and everyday routines that help you feel in step with the time of year.",
+      "Seasons change more than the weather. They change what we wear, how we host and how we spend a Saturday. This section covers seasonal outfits, hairstyles, hosting tips and the small routines that make the time of year feel right.",
     subcategories: ["Hairstyles", "Seasonal Outfits", "Beauty Inspiration", "Hosting Tips", "Family Activities", "Everyday Routines", "Gift Guides"],
     motif: "bloom", from: "#C4748F", to: "#8C4462",
   },

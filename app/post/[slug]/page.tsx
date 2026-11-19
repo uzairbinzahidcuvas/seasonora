@@ -112,7 +112,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
           <span className="author-avatar" aria-hidden="true">S</span>
           <div>
             <strong>Seasonora Editorial</strong>
-            <p>Seasonora is a seasonal lifestyle publication sharing practical decor, celebration, recipe and DIY ideas for readers in the US, UK and Canada. Every guide is edited against our editorial policy before it is published.</p>
+            <p>We write Seasonora for readers in the US, UK and Canada who love the seasons — decor, celebrations, recipes and DIY, explained plainly. Every guide is read and checked before it goes live.</p>
           </div>
         </div>
       </article>

@@ -10,15 +10,15 @@ export default function Page() {
       <div className="page-head"><h1>Editorial Policy</h1><p>How Seasonora researches, writes, reviews and corrects its content.</p></div>
       <div className="prose">
         <h2>How we research</h2>
-        <p>Every guide starts with a reader question and a check of what a genuinely useful answer must include. We verify facts, quantities, timings and safety notes before publication, and we prefer specific detail — dimensions, budgets, materials and timings — over general statements.</p>
+        <p>Every guide starts with a question a reader actually asked, and a simple check: what would a genuinely useful answer have to include? We check facts, quantities, timings and safety notes before anything goes live, and we'd always rather give you a number — a size, a price, a minute count — than a vague statement.</p>
         <h2>Originality and images</h2>
-        <p>Our articles are written and edited for Seasonora. We use images we create, license or have permission to use, and we do not imply a recipe or project was tested if it was not.</p>
+        <p>Everything here is written and edited for Seasonora. We use images we create ourselves or have permission to use, and we never pretend a recipe or project was tested if it wasn't.</p>
         <h2>AI assistance</h2>
-        <p>Drafting tools, including AI assistance, may support research and editing. A human editor reviews every article for accuracy, clarity and usefulness before it is published, and remains responsible for it.</p>
+        <p>We use drafting tools, including AI, to help with research and editing. A human editor still reads every article before it goes live, checks it makes sense, and is responsible for what's in it.</p>
         <h2>Affiliate links and advertising</h2>
-        <p>If an article contains affiliate links, that relationship is disclosed on the page, and an Affiliate Disclosure is published before affiliate links are used. Commercial relationships never change our editorial conclusions.</p>
+        <p>If an article ever contains affiliate links, we'll say so on the page, and our Affiliate Disclosure goes up before any affiliate links are used. Being paid never changes what we recommend.</p>
         <h2>Corrections</h2>
-        <p>If we find an error, we correct the article and, where the change is significant, note the update. Readers can report errors through the Contact page.</p>
+        <p>Mistakes happen. When we find one, we fix the article — and if the change matters, we say what changed. If you spot something we've missed, tell us through the Contact page.</p>
       </div>
     </div>
   );

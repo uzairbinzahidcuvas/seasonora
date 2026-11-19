@@ -8,7 +8,7 @@ export default function Page() {
   return (
     <div className="wrap">
       <div className="page-head"><h1>Contact Seasonora</h1>
-      <p>Questions about an article, a correction, or working with us? Send a message below and we will reply by email. Please note this form is a front-end contact form — for an urgent message, you can also reach us through our Pinterest profile.</p></div>
+      <p>Questions about an article? Spotted a mistake? Want to work with us? Send a message below and we'll get back to you by email. If it's urgent, you can also reach us through our Pinterest profile.</p></div>
       <div className="prose">
         <form className="contact-form" action="#" method="post">
           <label>Your name<input name="name" required autoComplete="name" /></label>

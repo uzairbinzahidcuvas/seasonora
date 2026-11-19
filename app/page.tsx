@@ -1,50 +1,53 @@
 import Link from "next/link";
-import Visual from "@/components/Visual";
 import PostCard from "@/components/PostCard";
-import Newsletter from "@/components/Newsletter";
-import { POSTS, catBySlug, fmtDate } from "@/lib/posts";
+import HeroSlider from "@/components/HeroSlider";
+import { POSTS, type Post } from "@/lib/posts";
 
 const SEASONS = [
-  { name: "Spring", cls: "spring", blurb: "Fresh decor, Easter tables and garden beginnings." },
-  { name: "Summer", cls: "summer", blurb: "Outdoor gatherings, easy drinks and light living." },
-  { name: "Fall", cls: "fall", blurb: "Cosy home refreshes, harvest tables and Halloween." },
-  { name: "Winter", cls: "winter", blurb: "Christmas, candlelight and comfortable rooms." },
+  { name: "Spring", cls: "spring", cat: "seasonal-living", href: "/seasonal-living", blurb: "Fresh decor, Easter tables and garden beginnings." },
+  { name: "Summer", cls: "summer", cat: "seasonal-living", href: "/seasonal-living", blurb: "Outdoor gatherings, easy drinks and light living." },
+  { name: "Fall", cls: "fall", cat: "holidays", href: "/seasonal-living", blurb: "Cosy home refreshes, harvest tables and Halloween." },
+  { name: "Winter", cls: "winter", cat: "home-decor", href: "/seasonal-living", blurb: "Christmas, candlelight and comfortable rooms." },
 ];
 const OCCASIONS = [
-  { name: "Christmas", href: "/holidays", blurb: "Decor, cookies, crafts and hosting." },
-  { name: "Thanksgiving & Friendsgiving", href: "/holidays", blurb: "Tables, menus and potluck plans." },
-  { name: "Halloween", href: "/holidays", blurb: "Party ideas and playful decor." },
-  { name: "Easter", href: "/seasonal-living", blurb: "Spring tables, baskets and brunch." },
-  { name: "Valentine's Day", href: "/lifestyle", blurb: "At-home date nights and table ideas." },
-  { name: "New Year's Eve", href: "/holidays", blurb: "Themes, food timing and countdowns." },
+  { name: "Christmas", cat: "holidays", href: "/holidays", blurb: "Decor, cookies, crafts and hosting." },
+  { name: "Thanksgiving & Friendsgiving", cat: "holidays", href: "/holidays", blurb: "Tables, menus and potluck plans." },
+  { name: "Halloween", cat: "holidays", href: "/holidays", blurb: "Party ideas and playful decor." },
+  { name: "Easter", cat: "seasonal-living", href: "/seasonal-living", blurb: "Spring tables, baskets and brunch." },
+  { name: "Valentine's Day", cat: "lifestyle", href: "/lifestyle", blurb: "At-home date nights and table ideas." },
+  { name: "New Year's Eve", cat: "holidays", href: "/holidays", blurb: "Themes, food timing and countdowns." },
 ];
 
+const latestIn = (slug: string) => POSTS.find((p) => p.category === slug);
+
+function Tile({ name, cls, cat, href, blurb }: { name: string; cls?: string; cat: string; href: string; blurb: string }) {
+  const post: Post | undefined = latestIn(cat);
+  return (
+    <Link href={post ? `/post/${post.slug}` : href} className={`tile ${cls ?? "occ"}`}>
+      {post?.hero && (
+        <>
+          <img className="tile-img" src={post.hero.src} alt="" aria-hidden="true" />
+          <span className="tile-shade" aria-hidden="true" />
+        </>
+      )}
+      <span className="tile-text">
+        <h3>{name}</h3>
+        <p>{post ? post.title : blurb}</p>
+        {post && <span className="tile-latest">Latest article →</span>}
+      </span>
+    </Link>
+  );
+}
+
 export default function Home() {
-  const [hero, ...rest] = POSTS;
-  const recent = rest.slice(0, 6);
+  const slides = POSTS.slice(0, 5);
+  const recent = POSTS.length > 1 ? POSTS.slice(1, 7) : POSTS.slice(0, 6);
   const recipes = POSTS.filter((p) => p.category === "food-recipes");
   const diy = POSTS.filter((p) => p.category === "diy-crafts");
-  const heroCat = catBySlug(hero.category);
   return (
     <div className="wrap">
-      <article className="hero-feature">
-        <Link href={`/post/${hero.slug}`} className="hero-media" aria-label={hero.title}>
-          {hero.hero ? <img src={hero.hero.src} alt={hero.hero.alt} /> : <Visual post={hero} large />}
-        </Link>
-        <div className="hero-shade" aria-hidden="true" />
-        <div className="hero-content">
-          <div className="hero-kicker">
-            <span className="hero-featured">Featured</span>
-            <Link className="cat-chip" style={{ background: `linear-gradient(135deg, ${heroCat.from}, ${heroCat.to})` }} href={`/${heroCat.slug}`}>{heroCat.name}</Link>
-          </div>
-          <h2><Link href={`/post/${hero.slug}`}>{hero.title}</Link></h2>
-          <p className="hero-excerpt">{hero.excerpt}</p>
-          <p className="hero-meta"><span className="avatar" aria-hidden="true">S</span> Seasonora · {fmtDate(hero.date)} · {hero.readTime} min read</p>
-        </div>
-        <Link href={`/post/${hero.slug}`} className="hero-arrow" aria-label={`Read: ${hero.title}`}>
-          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><line x1="4" y1="12" x2="20" y2="12" /><polyline points="13 5 20 12 13 19" /></svg>
-        </Link>
-      </article>
+      <h1 className="sr-only">Seasonora — Seasonal Decor, Holiday Ideas, Easy Recipes and DIY Inspiration</h1>
+      <HeroSlider posts={slides} />
 
       {recent.length > 0 && (
         <section aria-labelledby="recent">
@@ -57,18 +60,14 @@ export default function Home() {
       <section id="topics" aria-labelledby="by-season">
         <div className="section-head"><h2 id="by-season">Explore by Season</h2><Link href="/seasonal-living">Seasonal Living →</Link></div>
         <div className="tile-grid">
-          {SEASONS.map((s) => (
-            <Link key={s.name} href="/seasonal-living" className={`tile ${s.cls}`}><h3>{s.name}</h3><p>{s.blurb}</p></Link>
-          ))}
+          {SEASONS.map((s) => <Tile key={s.name} name={s.name} cls={s.cls} cat={s.cat} href={s.href} blurb={s.blurb} />)}
         </div>
       </section>
 
       <section aria-labelledby="by-occasion">
         <div className="section-head"><h2 id="by-occasion">Explore by Occasion</h2><Link href="/holidays">All Holidays →</Link></div>
         <div className="tile-grid six">
-          {OCCASIONS.map((o) => (
-            <Link key={o.name} href={o.href} className="tile occ"><h3>{o.name}</h3><p>{o.blurb}</p></Link>
-          ))}
+          {OCCASIONS.map((o) => <Tile key={o.name} name={o.name} cat={o.cat} href={o.href} blurb={o.blurb} />)}
         </div>
       </section>
 
@@ -85,8 +84,6 @@ export default function Home() {
           <div className="strip-3">{diy.map((p) => <PostCard key={p.slug} post={p} />)}</div>
         </section>
       )}
-
-      <Newsletter />
     </div>
   );
 }

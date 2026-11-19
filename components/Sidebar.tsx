@@ -11,7 +11,7 @@ export default function Sidebar() {
     <aside className="sidebar">
       <section className="card side-box about-box">
         <Image src="/logo.png" alt="Seasonora" width={190} height={62} />
-        <p>Seasonal decor, holiday ideas, easy recipes and DIY inspiration — make every season special.</p>
+        <p>Decor, holiday ideas, easy recipes and DIY projects for every season — made for real homes.</p>
         <div className="social-grid">
           <a href={PINTEREST_URL} target="_blank" rel="noreferrer" aria-label="Pinterest"><PinterestIcon size={17} /> Pinterest</a>
           <a href={FACEBOOK_URL} target="_blank" rel="noreferrer" aria-label="Facebook"><FacebookIcon size={17} /> Facebook</a>

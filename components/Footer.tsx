@@ -3,6 +3,7 @@ import Image from "next/image";
 import { CATEGORIES } from "@/lib/posts";
 import { PINTEREST_URL, FACEBOOK_URL, TAGLINE } from "@/lib/config";
 import { PinterestIcon, FacebookIcon, RssIcon } from "./SocialIcons";
+import Newsletter from "./Newsletter";
 
 export default function Footer() {
   return (
@@ -18,10 +19,12 @@ export default function Footer() {
             </div>
           </div>
 
+          <Newsletter variant="footer" />
+
           <div className="footer-grid">
             <div className="footer-about">
               <Image src="/logo.png" alt="Seasonora logo" width={250} height={81} />
-              <p>Seasonora shares thoughtful seasonal inspiration for home, celebrations, food, DIY and everyday living — helping readers make every season feel special.</p>
+              <p>Seasonora is where we share the seasonal ideas we actually use — decor that fits small homes, recipes that work first time, and holiday plans that do not take over your life.</p>
               <p className="footer-social">
                 <a href={PINTEREST_URL} target="_blank" rel="noreferrer"><PinterestIcon size={16} /> Pinterest</a>
                 <a href={FACEBOOK_URL} target="_blank" rel="noreferrer"><FacebookIcon size={16} /> Facebook</a>
