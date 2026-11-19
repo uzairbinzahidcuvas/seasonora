@@ -1,65 +1,65 @@
 "use client";
-import { useCallback, useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import Link from "next/link";
-import Visual from "./Visual";
 import { catBySlug, fmtDate, type Post } from "@/lib/posts";
 
+/**
+ * Full-bleed hero slider: the latest posts appear here automatically —
+ * each slide is the post's own photo with its title and excerpt overlaid.
+ */
 export default function HeroSlider({ posts }: { posts: Post[] }) {
-  const [idx, setIdx] = useState(0);
+  const [i, setI] = useState(0);
   const [paused, setPaused] = useState(false);
-  const timer = useRef<ReturnType<typeof setInterval> | null>(null);
   const n = posts.length;
-  const go = useCallback((i: number) => setIdx(((i % n) + n) % n), [n]);
+  const timer = useRef<ReturnType<typeof setInterval> | null>(null);
 
   useEffect(() => {
-    if (paused || n < 2) return;
-    timer.current = setInterval(() => setIdx((v) => (v + 1) % n), 6500);
+    if (n < 2 || paused) return;
+    timer.current = setInterval(() => setI((v) => (v + 1) % n), 6500);
     return () => { if (timer.current) clearInterval(timer.current); };
-  }, [paused, n]);
+  }, [n, paused]);
 
   if (n === 0) return null;
+  const go = (d: number) => setI((v) => (v + d + n) % n);
+
   return (
-    <div className="hero-slider" role="region" aria-roledescription="carousel" aria-label="Featured articles"
+    <section className="hero2" aria-label="Featured stories"
       onMouseEnter={() => setPaused(true)} onMouseLeave={() => setPaused(false)}
       onFocus={() => setPaused(true)} onBlur={() => setPaused(false)}>
-      {posts.map((post, i) => {
-        const cat = catBySlug(post.category);
-        const active = i === idx;
+      {posts.map((p, idx) => {
+        const cat = catBySlug(p.category);
+        const active = idx === i;
         return (
-          <article key={post.slug} className={`hero-slide ${active ? "active" : ""}`} aria-hidden={!active}>
-            <Link href={`/post/${post.slug}`} className="hero-media" aria-label={post.title} tabIndex={active ? 0 : -1}>
-              {post.hero ? <img src={post.hero.src} alt={post.hero.alt} /> : <Visual post={post} large />}
-            </Link>
-            <div className="hero-shade" aria-hidden="true" />
-            <div className="hero-content">
-              <div className="hero-kicker">
-                <span className="hero-featured">Featured</span>
-                <Link className="cat-chip" style={{ background: `linear-gradient(135deg, ${cat.from}, ${cat.to})` }} href={`/${cat.slug}`} tabIndex={active ? 0 : -1}>{cat.name}</Link>
-              </div>
-              <h2><Link href={`/post/${post.slug}`} tabIndex={active ? 0 : -1}>{post.title}</Link></h2>
-              <p className="hero-excerpt">{post.excerpt}</p>
-              <p className="hero-meta"><span className="avatar" aria-hidden="true">S</span> Seasonora · {fmtDate(post.date)} · {post.readTime} min read</p>
+          <div key={p.slug} className={`hero2-slide ${active ? "active" : ""}`} aria-hidden={!active}>
+            {p.hero && <img className="hero2-img" src={p.hero.src} alt={active ? p.hero.alt : ""} />}
+            <div className="hero2-shade" aria-hidden="true" />
+            <div className="hero2-content">
+              <Link className="cat-chip" style={{ background: cat.chipBg, color: cat.chipInk }} href={`/${cat.slug}`} tabIndex={active ? 0 : -1}>{cat.name}</Link>
+              <h2><Link href={`/post/${p.slug}`} tabIndex={active ? 0 : -1}>{p.title}</Link></h2>
+              <p className="hero2-excerpt">{p.excerpt}</p>
+              <p className="hero2-meta">{fmtDate(p.date)} · {p.readTime} min read</p>
+              <Link className="btn-green" href={`/post/${p.slug}`} tabIndex={active ? 0 : -1}>Read the Guide <span aria-hidden="true">→</span></Link>
             </div>
-          </article>
+          </div>
         );
       })}
       {n > 1 && (
         <>
-          <div className="hero-dots" role="tablist" aria-label="Choose featured article">
-            {posts.map((p, i) => (
-              <button key={p.slug} className={i === idx ? "active" : ""} aria-label={`Show: ${p.title}`} aria-selected={i === idx} role="tab" onClick={() => go(i)} />
+          <div className="hero2-dots" role="tablist" aria-label="Choose slide">
+            {posts.map((p, idx) => (
+              <button key={p.slug} className={idx === i ? "active" : ""} aria-label={`Show: ${p.title}`} aria-current={idx === i} onClick={() => setI(idx)} />
             ))}
           </div>
-          <div className="hero-nav">
-            <button aria-label="Previous article" onClick={() => go(idx - 1)}>
-              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><line x1="20" y1="12" x2="4" y2="12" /><polyline points="11 5 4 12 11 19" /></svg>
+          <div className="hero2-nav">
+            <button aria-label="Previous slide" onClick={() => go(-1)}>
+              <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.4" strokeLinecap="round" aria-hidden="true"><polyline points="14.5 5 7.5 12 14.5 19" /></svg>
             </button>
-            <button aria-label="Next article" onClick={() => go(idx + 1)}>
-              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><line x1="4" y1="12" x2="20" y2="12" /><polyline points="13 5 20 12 13 19" /></svg>
+            <button aria-label="Next slide" onClick={() => go(1)}>
+              <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.4" strokeLinecap="round" aria-hidden="true"><polyline points="9.5 5 16.5 12 9.5 19" /></svg>
             </button>
           </div>
         </>
       )}
-    </div>
+    </section>
   );
 }

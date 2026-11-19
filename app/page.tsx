@@ -1,7 +1,8 @@
 import Link from "next/link";
 import PostCard from "@/components/PostCard";
 import Newsletter from "@/components/Newsletter";
-import { POSTS, catBySlug, fmtDate, type Post } from "@/lib/posts";
+import HeroSlider from "@/components/HeroSlider";
+import { POSTS, catBySlug, fmtDate } from "@/lib/posts";
 
 const SEASONS = [
   { name: "Spring", sub: "Fresh Beginnings", img: "/img/s-spring", href: "/seasonal-living", accent: "#8FC99A" },
@@ -26,46 +27,15 @@ function SecHead({ title, sub }: { title: string; sub?: string }) {
   );
 }
 
-function PickSmall({ post }: { post: Post }) {
-  const cat = catBySlug(post.category);
-  return (
-    <article className="pick-small">
-      <Link href={`/post/${post.slug}`} className="pick-small-img">{post.hero && <img src={post.hero.src} alt={post.hero.alt} loading="lazy" />}</Link>
-      <div>
-        <Link className="cat-chip" style={{ background: cat.chipBg, color: cat.chipInk }} href={`/${cat.slug}`}>{cat.name}</Link>
-        <h3><Link href={`/post/${post.slug}`}>{post.title}</Link></h3>
-        <p className="card-meta">{fmtDate(post.date)} · {post.readTime} min read</p>
-      </div>
-    </article>
-  );
-}
-
 export default function Home() {
-  const picks = POSTS.slice(0, 3);
-  const featured = picks[0];
-  const latest = POSTS.slice(3, 11);
+  const latest = POSTS.slice(0, 8);
   const guides = POSTS.slice(0, 4);
-  const fcat = featured ? catBySlug(featured.category) : null;
 
   return (
     <>
-      {/* Section 3 — Hero */}
-      <section className="hero-split">
-        <div className="wrap hero-in">
-          <div className="hero-copy">
-            <p className="kicker-pill">Inspired by Every Season</p>
-            <h1>Make Every Season a Little More Beautiful.</h1>
-            <p className="hero-desc">Discover fresh ideas, thoughtful inspiration and simple ways to make everyday living more special, whatever the season.</p>
-            <p className="hero-ctas">
-              <Link className="btn-green" href="/seasonal-living">Explore Inspiration <span aria-hidden="true">→</span></Link>
-              <Link className="text-link" href="#handpicked">Discover Our Stories</Link>
-            </p>
-          </div>
-          <div className="hero-photo">
-            <img src="/img/s-hero" alt="A bright, sunlit apartment living space styled for the season" />
-          </div>
-        </div>
-      </section>
+      <h1 className="sr-only">Seasonora — Make Every Season Special. Seasonal decor, holiday ideas, easy recipes and DIY inspiration.</h1>
+      {/* Hero — auto slider of the latest posts (full-bleed photo + overlay text) */}
+      <HeroSlider posts={POSTS.slice(0, 5)} />
 
       <div className="wrap">
         {/* Section 4 — Seasonal Inspiration */}
@@ -99,35 +69,12 @@ export default function Home() {
           </div>
         </section>
 
-        {/* Section 6 — Editor's Picks */}
-        {featured && fcat && (
-          <section id="handpicked" aria-labelledby="picks-h">
-            <div className="picks-grid">
-              <div className="picks-intro">
-                <h2 id="picks-h">Handpicked for You</h2>
-                <p>Thoughtful ideas, creative projects and seasonal inspiration, chosen just for you.</p>
-                <Link className="btn-green" href="/home-decor">Explore More <span aria-hidden="true">→</span></Link>
-              </div>
-              <article className="pick-feature">
-                <Link href={`/post/${featured.slug}`} className="pick-feature-img">{featured.hero && <img src={featured.hero.src} alt={featured.hero.alt} />}</Link>
-                <Link className="cat-chip" style={{ background: fcat.chipBg, color: fcat.chipInk }} href={`/${fcat.slug}`}>{fcat.name}</Link>
-                <h3><Link href={`/post/${featured.slug}`}>{featured.title}</Link></h3>
-                <p className="excerpt">{featured.excerpt}</p>
-                <p className="card-meta">{fmtDate(featured.date)} · {featured.readTime} min read</p>
-              </article>
-              <div className="picks-side">
-                {picks.slice(1).map((p) => <PickSmall key={p.slug} post={p} />)}
-              </div>
-            </div>
-          </section>
-        )}
-
-        {/* Section 7 — Latest Stories */}
+        {/* Latest Stories */}
         {latest.length > 0 && (
           <section id="latest" aria-labelledby="latest-h">
             <SecHead title="Fresh From Seasonora" sub="Explore our latest ideas, guides and inspiration." />
             <div className="grid-4">{latest.map((p) => <PostCard key={p.slug} post={p} />)}</div>
-            {POSTS.length > 11 && <p className="load-more"><Link href="/search">View All Stories</Link></p>}
+            {POSTS.length > 8 && <p className="load-more"><Link href="/search">View All Stories</Link></p>}
           </section>
         )}
       </div>

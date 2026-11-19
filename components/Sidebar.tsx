@@ -2,11 +2,14 @@ import Link from "next/link";
 import Image from "next/image";
 import Newsletter from "./Newsletter";
 import Visual from "./Visual";
-import { CATEGORIES, POSTS, TAGS, popularPosts, fmtDate } from "@/lib/posts";
+import { CATEGORIES, POSTS, TAGS, fmtDate } from "@/lib/posts";
 import { PINTEREST_URL, FACEBOOK_URL } from "@/lib/config";
 import { PinterestIcon, FacebookIcon, RssIcon, MailIcon } from "./SocialIcons";
 
-export default function Sidebar() {
+export default function Sidebar({ exclude }: { exclude?: string }) {
+  const rest = POSTS.filter((p) => p.slug !== exclude);
+  const recent = rest.slice(0, 4);
+  const popular = rest.slice(4, 8);
   return (
     <aside className="sidebar">
       <section className="card side-box about-box">
@@ -20,15 +23,29 @@ export default function Sidebar() {
         </div>
       </section>
 
-      <section className="card side-box">
-        <h3 className="side-title">Popular Posts</h3>
-        {popularPosts.map((p) => (
-          <Link key={p.slug} href={`/post/${p.slug}`} className="mini-post">
-            <span className="mini-thumb">{p.hero ? <img src={p.hero.src} alt="" loading="lazy" /> : <Visual post={p} />}</span>
-            <span><strong>{p.title}</strong><small>{fmtDate(p.date)}</small></span>
-          </Link>
-        ))}
-      </section>
+      {recent.length > 0 && (
+        <section className="card side-box">
+          <h3 className="side-title">Recent Posts</h3>
+          {recent.map((p) => (
+            <Link key={p.slug} href={`/post/${p.slug}`} className="mini-post">
+              <span className="mini-thumb">{p.hero ? <img src={p.hero.src} alt="" loading="lazy" /> : <Visual post={p} />}</span>
+              <span><strong>{p.title}</strong><small>{fmtDate(p.date)}</small></span>
+            </Link>
+          ))}
+        </section>
+      )}
+
+      {popular.length > 0 && (
+        <section className="card side-box">
+          <h3 className="side-title">Popular Posts</h3>
+          {popular.map((p) => (
+            <Link key={p.slug} href={`/post/${p.slug}`} className="mini-post">
+              <span className="mini-thumb">{p.hero ? <img src={p.hero.src} alt="" loading="lazy" /> : <Visual post={p} />}</span>
+              <span><strong>{p.title}</strong><small>{fmtDate(p.date)}</small></span>
+            </Link>
+          ))}
+        </section>
+      )}
 
       <section className="card side-box nl-wrap"><Newsletter compact /></section>
 

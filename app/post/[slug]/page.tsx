@@ -4,6 +4,7 @@ import Link from "next/link";
 import Visual from "@/components/Visual";
 import PostCard from "@/components/PostCard";
 import ShareRow from "@/components/ShareRow";
+import Sidebar from "@/components/Sidebar";
 import { POSTS, postBySlug, catBySlug, relatedPosts, fmtDate } from "@/lib/posts";
 import { SITE_URL, SITE_NAME, PINTEREST_URL } from "@/lib/config";
 
@@ -53,6 +54,8 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
     <div className="wrap">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <p className="breadcrumb"><Link href="/">Home</Link> › <Link href={`/${cat.slug}`}>{cat.name}</Link> › {post.title}</p>
+      <div className="layout">
+      <div>
       <article className="article">
         <p className="article-cat"><Link className="cat-chip" style={{ background: cat.chipBg, color: cat.chipInk }} href={`/${cat.slug}`}>{cat.name}</Link><span className="subcat">{post.subcategory}</span></p>
         <h1>{post.title}</h1>
@@ -123,6 +126,9 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
           <div className="related">{related.map((p) => <PostCard key={p.slug} post={p} />)}</div>
         </section>
       )}
+      </div>
+      <Sidebar exclude={post.slug} />
+      </div>
     </div>
   );
 }
