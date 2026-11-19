@@ -62,7 +62,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
 
         <nav className="toc" aria-label="Table of contents">
           <h2>In this guide</h2>
-          <ol>{post.sections.map((s, si) => <li key={s.heading}><a href={`#${anchor(s.heading)}`}>{si + 1}. {s.heading}</a></li>)}
+          <ol>{post.sections.map((s) => <li key={s.heading}><a href={`#${anchor(s.heading)}`}>{s.heading}</a></li>)}
             <li><a href="#faq">Frequently asked questions</a></li></ol>
         </nav>
 
