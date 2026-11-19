@@ -17,7 +17,7 @@ export const CATEGORIES: Category[] = [
     intro:
       "Seasonal living is about small, timely changes that make everyday life feel fresh — a warmer throw in winter, lighter linens in spring, a bowl of citrus in summer. These guides help you refresh your home and routines in step with the year, without starting from scratch each season.",
     subcategories: ["Spring Ideas", "Summer Ideas", "Fall / Autumn Ideas", "Winter Ideas", "Seasonal Bucket Lists", "Seasonal Home Refresh"],
-    motif: "leaf", from: "#78866B", to: "#243B24",
+    motif: "leaf", from: "#7FA653", to: "#46682F",
   },
   {
     slug: "holidays",
@@ -26,7 +26,7 @@ export const CATEGORIES: Category[] = [
     intro:
       "From Friendsgiving tables to New Year's Eve countdowns, celebrations are easier — and far more enjoyable — with a plan. Here you will find themes, timelines, menus and checklists for the holidays readers celebrate most, written so you can host with confidence and still enjoy the day yourself.",
     subcategories: ["Christmas", "Thanksgiving & Friendsgiving", "Halloween", "New Year's Eve", "Valentine's Day", "Easter", "Mother's Day", "Birthdays & Gatherings"],
-    motif: "star", from: "#C99A45", to: "#8a6420",
+    motif: "star", from: "#E3A72F", to: "#B95E14",
   },
   {
     slug: "home-decor",
@@ -35,7 +35,7 @@ export const CATEGORIES: Category[] = [
     intro:
       "Good seasonal decor works with the home you already have. Our decor guides are organised room by room — apartments and small spaces included — with styling tips, colour palettes and budget notes, so a festive, comfortable home never depends on a big house or a big spend.",
     subcategories: ["Apartment Decor", "Living Room", "Bedroom", "Kitchen & Dining", "Entryway", "Tablescapes", "Window Decor", "Wreaths", "Budget Decor", "Small-Space Ideas"],
-    motif: "tree", from: "#3d5c3a", to: "#243B24",
+    motif: "tree", from: "#4E7D46", to: "#243B24",
   },
   {
     slug: "food-recipes",
@@ -44,7 +44,7 @@ export const CATEGORIES: Category[] = [
     intro:
       "Seasonal cooking starts with clear recipes: honest ingredient lists, step-by-step method, timings and storage advice. From Christmas cookies to party appetisers and seasonal drinks, these are recipes written to be baked, served and shared — not just admired.",
     subcategories: ["Cookies & Baking", "Desserts", "Appetizers", "Party Food", "Drinks", "Brunch", "Holiday Menus", "Seasonal Ingredients"],
-    motif: "cookie", from: "#b07a3f", to: "#7a4a1e",
+    motif: "cookie", from: "#DE7A3D", to: "#A83E1B",
   },
   {
     slug: "diy-crafts",
@@ -53,7 +53,7 @@ export const CATEGORIES: Category[] = [
     intro:
       "Handmade touches are what make seasonal decor feel personal. Each project here lists the materials you actually need, a realistic difficulty level and clear steps — from beginner-friendly window painting to wreaths, garlands and gifts you can make in an afternoon.",
     subcategories: ["Window Painting", "Wreaths & Garlands", "Handmade Gifts", "Paper Crafts", "Table Decor DIY", "Kids' Activities", "Printables"],
-    motif: "snow", from: "#5b7a8c", to: "#2f4a5a",
+    motif: "snow", from: "#4E8FB8", to: "#275E7E",
   },
   {
     slug: "lifestyle",
@@ -62,7 +62,7 @@ export const CATEGORIES: Category[] = [
     intro:
       "Seasons change more than the weather — they change what we wear, how we host and how we spend our days. This hub gathers seasonal outfits, hairstyle inspiration, hosting tips and everyday routines that help you feel in step with the time of year.",
     subcategories: ["Hairstyles", "Seasonal Outfits", "Beauty Inspiration", "Hosting Tips", "Family Activities", "Everyday Routines", "Gift Guides"],
-    motif: "bloom", from: "#a06a7a", to: "#6e4453",
+    motif: "bloom", from: "#C4748F", to: "#8C4462",
   },
 ];
 
@@ -98,7 +98,7 @@ export const POSTS: Post[] = [
   "date": "2026-11-19",
   "readTime": 11,
   "motif": "tree",
-  "from": "#3d5c3a",
+  "from": "#4E7D46",
   "to": "#243B24",
   "intro": "Decorating a small apartment for Christmas is not about squeezing a department-store display into 600 square feet. It is about choosing a few high-impact pieces, placing them where your eye already lands, and letting light and texture do the rest. This guide walks through the exact order that works in real rentals: set a palette and budget first, pick a tree sized to your ceiling, then build outward to the entryway, textiles, walls and windows. Every idea is renter-friendly, most take under fifteen minutes, and the three budget shopping lists mean you can start this weekend.",
   "sections": [

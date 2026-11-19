@@ -1,7 +1,6 @@
 import Link from "next/link";
 import Visual from "@/components/Visual";
 import PostCard from "@/components/PostCard";
-import Sidebar from "@/components/Sidebar";
 import Newsletter from "@/components/Newsletter";
 import { POSTS, catBySlug, fmtDate } from "@/lib/posts";
 
@@ -22,31 +21,40 @@ const OCCASIONS = [
 
 export default function Home() {
   const [hero, ...rest] = POSTS;
-  const grid = rest.slice(0, 6);
+  const recent = rest.slice(0, 6);
   const recipes = POSTS.filter((p) => p.category === "food-recipes");
   const diy = POSTS.filter((p) => p.category === "diy-crafts");
-  const latest = [...POSTS].slice(0, 3);
   const heroCat = catBySlug(hero.category);
   return (
     <div className="wrap">
-      <div className="layout">
-        <div>
-          <article className="card hero-card">
-            <Link href={`/post/${hero.slug}`} className="thumb" aria-label={hero.title}>{hero.hero ? <img className="visual visual-lg visual-img" src={hero.hero.src} alt={hero.hero.alt} /> : <Visual post={hero} large />}</Link>
-            <div className="hero-body">
-              <Link className="cat-chip" style={{ background: `linear-gradient(135deg, ${heroCat.from}, ${heroCat.to})` }} href={`/${heroCat.slug}`}>{heroCat.name}</Link>
-              <h2><Link href={`/post/${hero.slug}`}>{hero.title}</Link></h2>
-              <p className="excerpt" style={{ WebkitLineClamp: 3 }}>{hero.excerpt}</p>
-              <p className="meta">{fmtDate(hero.date)} · {hero.readTime} min read</p>
-            </div>
-          </article>
-          <div className="grid-2">{grid.map((p) => <PostCard key={p.slug} post={p} />)}</div>
-          <p className="load-more"><Link href="/holidays">Load More Ideas</Link></p>
+      <article className="hero-feature">
+        <Link href={`/post/${hero.slug}`} className="hero-media" aria-label={hero.title}>
+          {hero.hero ? <img src={hero.hero.src} alt={hero.hero.alt} /> : <Visual post={hero} large />}
+        </Link>
+        <div className="hero-shade" aria-hidden="true" />
+        <div className="hero-content">
+          <div className="hero-kicker">
+            <span className="hero-featured">Featured</span>
+            <Link className="cat-chip" style={{ background: `linear-gradient(135deg, ${heroCat.from}, ${heroCat.to})` }} href={`/${heroCat.slug}`}>{heroCat.name}</Link>
+          </div>
+          <h2><Link href={`/post/${hero.slug}`}>{hero.title}</Link></h2>
+          <p className="hero-excerpt">{hero.excerpt}</p>
+          <p className="hero-meta"><span className="avatar" aria-hidden="true">S</span> Seasonora · {fmtDate(hero.date)} · {hero.readTime} min read</p>
         </div>
-        <Sidebar />
-      </div>
+        <Link href={`/post/${hero.slug}`} className="hero-arrow" aria-label={`Read: ${hero.title}`}>
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><line x1="4" y1="12" x2="20" y2="12" /><polyline points="13 5 20 12 13 19" /></svg>
+        </Link>
+      </article>
 
-      <section aria-labelledby="by-season">
+      {recent.length > 0 && (
+        <section aria-labelledby="recent">
+          <div className="section-head"><h2 id="recent">Recent blog posts</h2><Link href="/seasonal-living">Seasonal Living →</Link></div>
+          <div className="grid-3">{recent.map((p) => <PostCard key={p.slug} post={p} />)}</div>
+          <p className="load-more"><a href="#topics">Browse All Topics</a></p>
+        </section>
+      )}
+
+      <section id="topics" aria-labelledby="by-season">
         <div className="section-head"><h2 id="by-season">Explore by Season</h2><Link href="/seasonal-living">Seasonal Living →</Link></div>
         <div className="tile-grid">
           {SEASONS.map((s) => (
@@ -77,11 +85,6 @@ export default function Home() {
           <div className="strip-3">{diy.map((p) => <PostCard key={p.slug} post={p} />)}</div>
         </section>
       )}
-
-      <section aria-labelledby="latest">
-        <div className="section-head"><h2 id="latest">Latest Articles</h2></div>
-        <div className="strip-3">{latest.map((p) => <PostCard key={p.slug} post={p} />)}</div>
-      </section>
 
       <Newsletter />
     </div>
