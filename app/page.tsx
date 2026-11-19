@@ -13,11 +13,11 @@ const SEASONS = [
 ];
 const OCCASIONS = [
   { name: "Christmas", href: "/holidays", blurb: "Decor, cookies, crafts and hosting." },
-  { name: "Thanksgiving & Friendsgiving", href: "/post/friendsgiving-party-ideas", blurb: "Tables, menus and potluck plans." },
+  { name: "Thanksgiving & Friendsgiving", href: "/holidays", blurb: "Tables, menus and potluck plans." },
   { name: "Halloween", href: "/holidays", blurb: "Party ideas and playful decor." },
   { name: "Easter", href: "/seasonal-living", blurb: "Spring tables, baskets and brunch." },
   { name: "Valentine's Day", href: "/lifestyle", blurb: "At-home date nights and table ideas." },
-  { name: "New Year's Eve", href: "/post/new-years-eve-party-ideas", blurb: "Themes, food timing and countdowns." },
+  { name: "New Year's Eve", href: "/holidays", blurb: "Themes, food timing and countdowns." },
 ];
 
 export default function Home() {
@@ -32,7 +32,7 @@ export default function Home() {
       <div className="layout">
         <div>
           <article className="card hero-card">
-            <Link href={`/post/${hero.slug}`} className="thumb" aria-label={hero.title}><Visual post={hero} large /></Link>
+            <Link href={`/post/${hero.slug}`} className="thumb" aria-label={hero.title}>{hero.hero ? <img className="visual visual-lg visual-img" src={hero.hero.src} alt={hero.hero.alt} /> : <Visual post={hero} large />}</Link>
             <div className="hero-body">
               <Link className="cat-chip" style={{ background: `linear-gradient(135deg, ${heroCat.from}, ${heroCat.to})` }} href={`/${heroCat.slug}`}>{heroCat.name}</Link>
               <h2><Link href={`/post/${hero.slug}`}>{hero.title}</Link></h2>
@@ -64,15 +64,19 @@ export default function Home() {
         </div>
       </section>
 
-      <section aria-labelledby="recipes-strip">
-        <div className="section-head"><h2 id="recipes-strip">Recipes &amp; Food</h2><Link href="/food-recipes">More Recipes →</Link></div>
-        <div className="strip-3">{recipes.map((p) => <PostCard key={p.slug} post={p} />)}</div>
-      </section>
+      {recipes.length > 0 && (
+        <section aria-labelledby="recipes-strip">
+          <div className="section-head"><h2 id="recipes-strip">Recipes &amp; Food</h2><Link href="/food-recipes">More Recipes →</Link></div>
+          <div className="strip-3">{recipes.map((p) => <PostCard key={p.slug} post={p} />)}</div>
+        </section>
+      )}
 
-      <section aria-labelledby="diy-strip">
-        <div className="section-head"><h2 id="diy-strip">DIY &amp; Creative Ideas</h2><Link href="/diy-crafts">More DIY →</Link></div>
-        <div className="strip-3">{diy.map((p) => <PostCard key={p.slug} post={p} />)}</div>
-      </section>
+      {diy.length > 0 && (
+        <section aria-labelledby="diy-strip">
+          <div className="section-head"><h2 id="diy-strip">DIY &amp; Creative Ideas</h2><Link href="/diy-crafts">More DIY →</Link></div>
+          <div className="strip-3">{diy.map((p) => <PostCard key={p.slug} post={p} />)}</div>
+        </section>
+      )}
 
       <section aria-labelledby="latest">
         <div className="section-head"><h2 id="latest">Latest Articles</h2></div>

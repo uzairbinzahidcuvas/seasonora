@@ -70,187 +70,125 @@ export const catBySlug = (slug: string) => CATEGORIES.find((c) => c.slug === slu
 
 export type Section = { heading: string; body: string[] };
 export type Faq = { q: string; a: string };
+export type PostImage = { src: string; alt: string; caption?: string };
+
 export type Post = {
   slug: string; title: string; category: string; subcategory: string;
   excerpt: string; date: string; readTime: number;
   motif: string; from: string; to: string;
   intro: string; sections: Section[]; faqs: Faq[];
+  hero?: PostImage;
+  images?: { after: number; img: PostImage }[];
 };
 
 const P = (o: Post) => o;
 
 export const POSTS: Post[] = [
   P({
-    slug: "christmas-apartment-decor-ideas", title: "Christmas Apartment Decor Ideas",
-    category: "home-decor", subcategory: "Apartment Decor",
-    excerpt: "Room-by-room Christmas styling for small apartments — a tree that fits, renter-friendly touches and cosy layers that store away in one box.",
-    date: "2026-11-18", readTime: 8, motif: "tree", from: "#3d5c3a", to: "#243B24",
-    intro: "A small apartment can feel every bit as festive as a big house — the secret is decorating in layers and choosing pieces that earn their space. This guide walks room by room through practical, renter-friendly Christmas ideas that look generous without overwhelming a compact home.",
-    sections: [
-      { heading: "Start with a tree that fits the room", body: ["Choose a slim or tabletop tree sized to your floor space rather than the tree you wish you had room for. A narrow tree in a woven basket or a simple stand keeps the footprint small and the look intentional.", "Decorate in a limited palette — two or three colours plus warm white lights — so the tree reads as one calm focal point instead of visual noise in a small room."] },
-      { heading: "Layer textiles before you buy decor", body: ["Swap cushion covers, add a plaid or knit throw and lay a washable seasonal runner before buying anything new. Textiles change the feel of a room faster than ornaments do, and they fold flat for storage in January."] },
-      { heading: "Use windows, doors and shelves", body: ["Wreaths on interior doors, garland along a bookshelf and a few ornaments in a bowl on the coffee table spread Christmas through the apartment without using floor space. Command hooks and over-door hangers keep everything renter-friendly."] },
-      { heading: "Finish with light and scent", body: ["Warm fairy lights along a shelf or window frame make a small room glow in the evening. A simmer pot or a cedar-scented candle adds the seasonal scent that makes decor feel complete."] },
-    ],
-    faqs: [
-      { q: "How can I decorate a rental apartment without damaging walls?", a: "Use removable adhesive hooks, over-door wreath hangers and tension rods for garlands. Everything in this guide can be hung, draped or placed — nothing needs nails or paint." },
-      { q: "What is the best Christmas tree size for a small apartment?", a: "A slim tree between 4 and 6 feet tall usually fits best. Measure your ceiling height and floor corner first, and leave at least a few inches above the tree topper." },
-      { q: "How do I store apartment Christmas decor?", a: "Aim for one or two lidded boxes: wrap lights around card, store ornaments in divided boxes or egg cartons, and fold textiles into the same box so everything comes out together next year." },
-    ],
-  }),
-  P({
-    slug: "christmas-window-painting-ideas", title: "Christmas Window Painting Ideas",
-    category: "diy-crafts", subcategory: "Window Painting",
-    excerpt: "Festive window art anyone can try — the right paints, simple designs from snowflakes to village scenes, and how to clean it all off in January.",
-    date: "2026-11-17", readTime: 7, motif: "snow", from: "#5b7a8c", to: "#2f4a5a",
-    intro: "Painted windows are one of the cheapest, happiest ways to decorate for Christmas — visible from inside and out, and completely temporary. This guide covers the paints that wash off cleanly, beginner-friendly designs and the cleanup, so you can try it with confidence.",
-    sections: [
-      { heading: "Choose paint that washes off", body: ["Use water-based tempera (gouache-style poster paint) or purpose-made washable window paint. A tiny drop of dish soap in the mix helps the paint grip glass and makes removal easier later.", "Avoid acrylic craft paint on windows you rent or want spotless — it can need scraping to remove."] },
-      { heading: "Beginner designs that always work", body: ["Start with snowflakes, stars, a simple snowy village silhouette along the bottom pane, or holly sprigs in the corners. White paint alone looks elegant and is the most forgiving for first attempts.", "Print a design and tape it to the outside of the glass, then trace from inside — the easiest way to get shapes you are happy with."] },
-      { heading: "Work in layers and let them dry", body: ["Paint the white base shapes first and let them dry for 20–30 minutes before adding colour details. Thin layers look smoother and dry faster than one thick coat."] },
-      { heading: "Cleaning it off in January", body: ["Spray the paint with warm water, wait a few minutes, then wipe with a cloth or squeegee. Washable tempera lifts off easily; a plastic scraper handles any stubborn edges without scratching glass."] },
-    ],
-    faqs: [
-      { q: "What paint is best for Christmas window painting?", a: "Washable tempera or poster paint is the best choice for most people: it covers well, is inexpensive and washes off with warm water." },
-      { q: "Will window paint damage the glass?", a: "Water-based washable paints do not damage glass. Avoid permanent markers and oil-based paints, and test any new product on a small corner first." },
-    ],
-  }),
-  P({
-    slug: "friendsgiving-party-ideas", title: "Friendsgiving Party Ideas",
-    category: "holidays", subcategory: "Thanksgiving & Friendsgiving",
-    excerpt: "A complete Friendsgiving plan — themes, a realistic hosting timeline, potluck coordination and table ideas so the host enjoys the day too.",
-    date: "2026-11-16", readTime: 9, motif: "leaf", from: "#b07a3f", to: "#7a4a1e",
-    intro: "Friendsgiving is Thanksgiving's relaxed sibling: the people are chosen, the rules are flexible and the food is shared. This guide gives you a theme shortlist, a week-by-week timeline and a potluck system that prevents the classic outcome — five desserts and no sides.",
-    sections: [
-      { heading: "Pick a simple theme", body: ["A theme gives guests direction without adding work: try Classic Harvest, Pie & Sides Only, or a Soup-and-Sweaters night for small spaces. State the theme plainly on the invitation so nobody has to guess."] },
-      { heading: "Run the potluck with a sign-up list", body: ["Share one sign-up list with categories — mains, sides, salads, desserts, drinks — and ask guests to write exactly what they are bringing. As host, claim the turkey (or main) and the gravy so the centre of the meal is covered."] },
-      { heading: "Follow a calm timeline", body: ["Two weeks out: send invitations and the sign-up list. Three days out: confirm dishes and borrow chairs. The day before: set the table and chill drinks. On the day, your only jobs are the main dish, warming space and enjoying your friends."] },
-      { heading: "Add one memorable activity", body: ["A gratitude card at each place setting, a pie-judging vote or a group photo by the table turns dinner into an occasion. Keep it optional and short — the conversation is the entertainment."] },
-    ],
-    faqs: [
-      { q: "When should Friendsgiving be held?", a: "Most people host it the weekend before or after Thanksgiving Day, so friends who travel to family can still come. Send invitations at least two weeks ahead." },
-      { q: "How do I avoid duplicate potluck dishes?", a: "Use a shared sign-up list where guests can see what others have claimed, and assign categories rather than leaving the menu fully open." },
-    ],
-  }),
-  P({
-    slug: "christmas-cookie-recipes", title: "Christmas Cookie Recipes",
-    category: "food-recipes", subcategory: "Cookies & Baking",
-    excerpt: "A reliable starter collection of Christmas cookies — gingerbread, shortbread and chocolate crinkles — with timings, storage and gifting advice.",
-    date: "2026-11-15", readTime: 10, motif: "cookie", from: "#b07a3f", to: "#7a4a1e",
-    intro: "A good Christmas cookie box needs contrast: something spiced, something buttery, something chocolate. These three foundation recipes are chosen because the doughs are forgiving, the timings are reliable and all three keep well for gifting.",
-    sections: [
-      { heading: "Spiced gingerbread", body: ["Whisk 350g plain flour, 1 tsp bicarbonate of soda, 2 tsp ground ginger and 1 tsp cinnamon. Rub in 125g cold butter, then mix in 175g brown sugar, 1 egg and 4 tbsp golden syrup. Chill 30 minutes, roll to 5mm, cut shapes and bake at 180°C (160°C fan) for 10–12 minutes."] },
-      { heading: "Classic shortbread", body: ["Beat 200g soft butter with 100g caster sugar, then fold in 300g plain flour until a dough forms. Pat into a lined tin or roll and cut rounds; chill 20 minutes. Bake at 160°C (140°C fan) for 18–22 minutes until pale gold. Dust with sugar while warm."] },
-      { heading: "Chocolate crinkles", body: ["Mix 200g caster sugar, 60ml oil, 2 eggs and 1 tsp vanilla; add 200g flour, 50g cocoa, 1 tsp baking powder and a pinch of salt. Chill at least 2 hours, roll balls in icing sugar and bake at 180°C (160°C fan) for 10 minutes — crinkled tops, soft centres."] },
-      { heading: "Storage and gifting", body: ["Store each variety in its own airtight tin so flavours stay distinct; all three keep 1–2 weeks at room temperature. For gifts, layer cookies between parchment in a lined tin and add a note with the bake date."] },
-    ],
-    faqs: [
-      { q: "Can I freeze Christmas cookie dough?", a: "Yes. Gingerbread and crinkle doughs freeze well for up to 3 months — portion first, freeze on a tray, then bag. Bake from frozen, adding 1–2 minutes." },
-      { q: "Why did my cookies spread too much?", a: "The dough was too warm or the butter too soft. Chill shaped cookies for 15–20 minutes before baking and check your oven temperature with a thermometer if it happens often." },
-    ],
-  }),
-  P({
-    slug: "christmas-apartment-decorating-on-a-budget", title: "Christmas Apartment Decorating on a Budget",
-    category: "home-decor", subcategory: "Budget Decor",
-    excerpt: "A festive apartment for less — what to buy first, what to make free from nature and paper, and the swaps that save the most money.",
-    date: "2026-11-14", readTime: 7, motif: "star", from: "#C99A45", to: "#8a6420",
-    intro: "A beautiful Christmas apartment is mostly about editing, not spending. This budget plan ranks purchases by impact, leans on free natural and paper decor, and shows where a small spend actually shows.",
-    sections: [
-      { heading: "Spend first on light", body: ["One set of warm-white fairy lights changes an evening room more than any ornament. Drape them over a shelf, mirror or window and let them do the decorating after dark."] },
-      { heading: "Make decor from nature and paper", body: ["Pinecones, clipped greenery (where permitted), dried orange slices and paper snowflakes cost almost nothing and look genuinely elegant. A bowl of pinecones with a ribbon is a centrepiece."] },
-      { heading: "Shop your home before shops", body: ["Re-group what you own: red or gold books as risers, scarves as table runners, mugs as candle holders. Moving existing pieces into seasonal arrangements often removes half the shopping list."] },
-      { heading: "Buy once, store well", body: ["If you buy, choose classic pieces you will reuse for years — a wreath, a tree skirt, neutral lights — and store them in one labelled box so next December starts free."] },
-    ],
-    faqs: [
-      { q: "What is a realistic budget for apartment Christmas decor?", a: "Many readers do it for the cost of one set of lights plus craft supplies by making paper and natural decor. Set your number first, then follow the priority order in this guide." },
-      { q: "What should I never buy cheap?", a: "Lights — very cheap sets can run hot and fail quickly. Buy certified lights from a reputable retailer and never leave them on unattended." },
-    ],
-  }),
-  P({
-    slug: "easy-christmas-window-painting-designs", title: "Easy Christmas Window Painting Designs",
-    category: "diy-crafts", subcategory: "Window Painting",
-    excerpt: "Beginner designs step by step — snowflakes, a robin, a candle arch and a snowy village — each with the strokes in order.",
-    date: "2026-11-13", readTime: 6, motif: "snow", from: "#5b7a8c", to: "#2f4a5a",
-    intro: "You do not need drawing skills to paint a window people stop to look at — you need designs built from simple shapes. Each design below is broken into the order of strokes, using washable tempera and one round brush plus one flat brush.",
-    sections: [
-      { heading: "Design 1: Five-minute snowflakes", body: ["Paint one straight cross, add a smaller X over it, then short V ticks at the end of each arm. Vary the size across the pane — a drift of different snowflakes looks more natural than identical copies."] },
-      { heading: "Design 2: A round robin", body: ["Start with a brown circle for the body and a smaller circle for the head. Add a red semicircle breast, a triangle beak and a tail. A white dot in the eye brings it to life; perch it on a simple branch line."] },
-      { heading: "Design 3: Candle arch", body: ["Paint a wide arch outline in white along the top of the pane, then hang simple candle shapes from it — rectangles with a teardrop flame in warm yellow. It frames the whole window and glows against evening glass."] },
-      { heading: "Design 4: Snowy village strip", body: ["Along the bottom pane, paint a row of simple house silhouettes in white — rectangles, triangle roofs, square windows in yellow. Add falling dots of snow above. It reads beautifully from the street."] },
-    ],
-    faqs: [
-      { q: "I cannot draw — which design should I start with?", a: "Snowflakes. They are built from straight lines, mistakes look like variety, and a window of them in white paint looks polished at any skill level." },
-      { q: "Can children join in?", a: "Yes — washable tempera is ideal for children with supervision. Give them a lower pane and the snow-dot job, and keep a damp cloth nearby for drips." },
-    ],
-  }),
-  P({
-    slug: "friendsgiving-table-decor-ideas", title: "Friendsgiving Table Decor Ideas",
-    category: "holidays", subcategory: "Thanksgiving & Friendsgiving",
-    excerpt: "Centrepieces, place settings and small-space table styling for Friendsgiving — warm, layered and achievable the day before.",
-    date: "2026-11-12", readTime: 7, motif: "leaf", from: "#a8622c", to: "#6e3d14",
-    intro: "A Friendsgiving table should feel generous but not precious — guests will pass dishes across it all evening. These ideas build a warm, layered table from a runner, low centrepieces and place settings that double as favours.",
-    sections: [
-      { heading: "Build the base: runner and layers", body: ["Start with a linen or plaid runner down the centre, then layer chargers or woven placemats at each seat. Mixing two napkin colours in the same palette keeps the table relaxed rather than matched."] },
-      { heading: "Keep centrepieces low", body: ["Choose low arrangements — a line of small pumpkins and candles, a garland of eucalyptus, or bowls of apples and nuts — so guests can see each other and pass dishes without moving decor."] },
-      { heading: "Place settings with a purpose", body: ["Add a name card and one small prompt — a gratitude question or a favourite-memory starter. A mini pumpkin or a wrapped biscuit at each setting doubles as a take-home favour."] },
-      { heading: "Small tables and mixed seating", body: ["For a small table, run decor vertically instead: a hanging branch or paper garland above the table keeps the surface free. Mismatched chairs are part of Friendsgiving's charm — unify them with the same napkin colour."] },
-    ],
-    faqs: [
-      { q: "How early can I set the Friendsgiving table?", a: "The day before is ideal for everything except fresh flowers and food. Setting early removes the biggest day-of stress and lets you spot missing chairs or glasses in time." },
-      { q: "Are candles safe on a busy table?", a: "Use candles in glass holders away from paper decor, or choose good LED candles for crowded tables and homes with children or pets." },
-    ],
-  }),
-  P({
-    slug: "christmas-cookie-decorating-ideas", title: "Christmas Cookie Decorating Ideas",
-    category: "food-recipes", subcategory: "Cookies & Baking",
-    excerpt: "Icing techniques, colour palettes and simple designs that look impressive — flooding, piping and sprinkle strategies for every skill level.",
-    date: "2026-11-11", readTime: 8, motif: "cookie", from: "#a06a7a", to: "#6e4453",
-    intro: "Decorated cookies look professional when you master two consistencies of icing and a short list of designs. This guide explains flooding and piping in plain terms, suggests palettes that photograph beautifully and orders the designs from easiest to showpiece.",
-    sections: [
-      { heading: "Two icings, every design", body: ["Royal icing at piping consistency holds edges; thinned to flood consistency it fills smoothly inside them. Make one batch, pipe outlines with the thick half, then thin the rest with drops of water for flooding."] },
-      { heading: "Palettes that always work", body: ["Classic red, white and green; soft sage and cream; or gingerbread brown with white alone. Limiting colours makes a mixed box look designed — and saves buying a shelf of colourings."] },
-      { heading: "Start with sprinkle and dip designs", body: ["Half-dipped cookies with sprinkles, white-iced snowflakes with a single piped line pattern, and stamped shortbread need no fine piping skills and still look gift-worthy."] },
-      { heading: "Level up: wet-on-wet patterns", body: ["While flood icing is wet, dot a second colour and drag a cocktail stick through it for hearts, feathers and marbling. Work one cookie at a time — the technique depends on the icing staying wet."] },
-    ],
-    faqs: [
-      { q: "How long does royal icing take to dry?", a: "Flooded cookies need 6–8 hours (ideally overnight) before stacking or packaging. A fan in the room helps the surface set with a smooth shine." },
-      { q: "Can I decorate cookies with children?", a: "Yes — give children cooled cookies, thicker icing in squeezy bottles and bowls of sprinkles. Expect delicious, not perfect, and photograph them anyway." },
-    ],
-  }),
-  P({
-    slug: "new-years-eve-party-ideas", title: "New Year's Eve Party Ideas",
-    category: "holidays", subcategory: "New Year's Eve",
-    excerpt: "Themes, food timing, decor and a countdown plan for a New Year's Eve party at home — including an early-evening version for families.",
-    date: "2026-11-10", readTime: 8, motif: "star", from: "#3a3f6b", to: "#1e2138",
-    intro: "The best New Year's Eve parties are paced, not packed: food in waves, one or two planned moments and a countdown that feels like an event. This guide offers themes for different homes and a timing plan that carries a party comfortably to midnight.",
-    sections: [
-      { heading: "Choose a theme with a dress code hint", body: ["Black-and-gold classic, silver disco, or pyjama-party comfort — any theme works if the invitation hints at dress level. Guests relax when they know what to wear."] },
-      { heading: "Serve food in three waves", body: ["Shareable appetisers on arrival, something warm and substantial around 10pm, and a small sweet bite before midnight. Waves keep the table fresh and the host out of the kitchen."] },
-      { heading: "Plan the countdown properly", body: ["Decide your midnight moment: a streamed countdown on the TV, glasses ready five minutes before, and a song queued for just after. A balloon drop from a net or a shower of confetti poppers makes the moment for children and adults alike."] },
-      { heading: "The family-friendly early version", body: ["Celebrate 'midnight' at 8pm with a countdown video from another time zone, then let children head to bed feeling included. The party continues, nobody misses the moment."] },
-    ],
-    faqs: [
-      { q: "How much food do I need for a New Year's Eve party?", a: "Plan on appetisers as a meal: roughly 10–12 pieces per guest across the evening for a party without a sit-down dinner, plus one substantial warm dish in the middle of the night." },
-      { q: "What is a good non-alcoholic midnight toast?", a: "Sparkling apple or grape juice in proper glasses, or a homemade citrus-and-ginger fizz. The ritual matters more than the drink." },
-    ],
-  }),
-  P({
-    slug: "winter-home-decor-ideas", title: "Winter Home Decor Ideas",
-    category: "seasonal-living", subcategory: "Winter Ideas",
-    excerpt: "After-Christmas winter styling — cosy textures, candlelight and calm palettes that carry your home from January to early spring.",
-    date: "2026-11-09", readTime: 7, motif: "bloom", from: "#78866B", to: "#43543f",
-    intro: "When the Christmas decor comes down, rooms can feel bare — but winter itself has a look worth keeping. This guide styles the post-holiday home with texture, warm light and a calm palette, so January feels cosy rather than empty.",
-    sections: [
-      { heading: "Keep the texture, remove the theme", body: ["Stay cosy by keeping knit throws, wool cushions and candles while packing away anything explicitly festive. The room keeps its winter warmth without a single ornament."] },
-      { heading: "Switch to a calm winter palette", body: ["Cream, soft grey, sage and natural wood replace red and green. A bowl of pinecones, bare branches in a vase and white flowers or eucalyptus keep the seasonal link in a quieter register."] },
-      { heading: "Make light the decor", body: ["Short days make lighting the main event: layered lamps, candles grouped on trays, and one string of plain warm fairy lights (no colours) along a shelf carry a room through to spring."] },
-      { heading: "Add one fresh element per room", body: ["A new cushion cover, a stack of winter books, a scented candle — one deliberate change per room signals a new season arriving, not the old one ending."] },
-    ],
-    faqs: [
-      { q: "When should Christmas decor come down?", a: "Traditionally by Twelfth Night (5–6 January), but any time in early January works. Packing away in daylight with labelled boxes makes next year easier." },
-      { q: "How do I stop my home feeling empty afterwards?", a: "Replace, don't just remove: for every festive item packed away, add back a neutral winter piece — texture, greenery or light — from the ideas in this guide." },
-    ],
-  }),
+  "slug": "christmas-apartment-decor-ideas",
+  "title": "Christmas Apartment Decor Ideas",
+  "category": "home-decor",
+  "subcategory": "Apartment Decor",
+  "excerpt": "Christmas apartment decor ideas for small spaces and rentals: slim trees, damage-free tricks, layered light and cozy textiles on budgets from $50 to $200.",
+  "date": "2026-11-19",
+  "readTime": 11,
+  "motif": "tree",
+  "from": "#3d5c3a",
+  "to": "#243B24",
+  "intro": "Decorating a small apartment for Christmas is not about squeezing a department-store display into 600 square feet. It is about choosing a few high-impact pieces, placing them where your eye already lands, and letting light and texture do the rest. This guide walks through the exact order that works in real rentals: set a palette and budget first, pick a tree sized to your ceiling, then build outward to the entryway, textiles, walls and windows. Every idea is renter-friendly, most take under fifteen minutes, and the three budget shopping lists mean you can start this weekend.",
+  "sections": [
+    {
+      "heading": "Start with a plan: palette, budget and footprint",
+      "body": [
+        "Walk your apartment with your phone and photograph the three spots you see most: the view from the front door, the sofa wall, and the kitchen pass-through or dining corner. Those are your decorating zones — everything else is optional. Measure each zone's width and note where your outlets are, because a beautiful plan that needs an extension cord across a walkway will annoy you by December 10. In a studio or one-bedroom, three zones plus the tree corner is plenty; decorating fewer places, more completely, looks more intentional than scattering twenty small items everywhere.",
+        "Pick a palette of two main colors and one metal — for example, deep green and cream with brass, or burgundy and blush with gold. A tight palette is the single cheapest upgrade you can make, because it lets a $4 grocery-store garland sit happily next to last year's ornaments. Then set a hard budget and split it roughly: 50 percent on the tree and lights, 30 percent on textiles and one statement piece, 20 percent on the small stuff — hooks, batteries, ribbon and replacement bulbs. Write the numbers down before you open a single shopping tab."
+      ]
+    },
+    {
+      "heading": "Choose a tree that fits your floor space",
+      "body": [
+        "The reliable rule is tree height equals ceiling height minus at least 12 inches, leaving room for a topper and breathing space. With a standard 8-foot ceiling, a 6- to 6.5-foot tree is the sweet spot; in older buildings with 9- or 10-foot ceilings you can go to 7.5 feet. Diameter matters more than height in apartments, though. A full-profile tree can spread 45 to 55 inches at the base, while a slim or pencil tree takes just 24 to 32 inches — the difference between blocking a walkway and slotting neatly beside a media console.",
+        "Measure your corner diagonally before ordering, and check the product listing's stated base diameter rather than the marketing photo. If floor space is truly scarce, consider a 4-foot tabletop tree on a sturdy sideboard, a flat-back half tree that sits flush against the wall, or a wall-mounted branch arrangement. Pre-lit trees save money and storage hassle in small homes — a 6-foot pre-lit slim tree typically carries 250 to 400 lights, which is exactly the density that looks good, and it removes one bulky box of separate light strings from your closet."
+      ]
+    },
+    {
+      "heading": "Make the entryway feel festive in five minutes",
+      "body": [
+        "Your entryway is probably three feet of wall, a door and a mat — and that is enough. Start with the door: hang a 20- to 24-inch wreath on an over-door hook (about $6) or a heavy-duty adhesive hook rated for 7 pounds if the door is metal or glass. No nails, no landlord issues. Too much for a narrow hallway? A swag of faux greenery tied with ribbon at the door handle gives the same signal for under $10 and stores flat.",
+        "Next, work at ankle and eye level. Swap your everyday doormat for a festive coir mat ($12 to $18) — it is the one decoration every guest actually steps on, and it shakes clean. Add a battery lantern or warm-white micro lights around the door frame on clear removable clips, set on a timer so the hallway glows when you come home. Finally, put a shallow bowl or tray on the nearest surface for keys and mail, and tuck a sprig of greenery or two cinnamon sticks into it. Five minutes, three objects, and the apartment feels decorated before anyone reaches the living room."
+      ]
+    },
+    {
+      "heading": "Layer textiles before you buy more decor",
+      "body": [
+        "Textiles change a room faster and more cheaply than any ornament, because they cover the largest surfaces you own. Start with what is already on your sofa: swap two cushion covers for seasonal ones in your palette — 18-by-18-inch covers run $8 to $15 each and fold flat for storage, unlike whole cushions. Add one throw with real texture, such as a chunky knit or a plaid wool-blend, draped over the sofa arm where it will actually be used. A 50-by-60-inch throw suits one person; go 60 by 80 if two of you share the sofa.",
+        "Then look down. A washable low-pile runner in the hallway or a festive rug under the coffee table anchors the whole scheme and hides a rental's tired flooring. In the bedroom, skip the full holiday bedding set: a folded throw across the foot of the bed and one seasonal cushion give 80 percent of the effect for a quarter of the price. Finish with the dining table — a simple linen-look runner ($10 to $14) plus cloth napkins in your accent color makes weeknight dinners feel like an occasion, and both go straight in the wash in January."
+      ]
+    },
+    {
+      "heading": "Use vertical space: shelves, windows and doors",
+      "body": [
+        "When floor space runs out, decorate upward. Open shelves and bookcase tops are prime territory: run a faux garland along the front edge of a shelf — 6 feet covers a standard bookcase — and secure it with small clear clips every 12 inches so it does not sag onto your books. Weave a strand of battery micro lights through it and you have the layered, expensive look for about $15. On windows, hang ornaments at varied heights from the curtain rod on ribbon or fishing line; they catch daylight, cost almost nothing and leave zero marks.",
+        "Interior doors are underused real estate. A slim wreath or a hanging swag on the bedroom or bathroom door spreads the theme through the apartment without touching a single wall. Use kitchen cabinet tops, if yours have a gap to the ceiling, for bottle-brush trees or a lighted garland — visible from the sofa, in space that stores dust the other eleven months. And do not forget the mirror trick: a garland draped over a large mirror or a string of lights around its frame doubles every bulb by reflection, which is free brightness in a small, often dim rental."
+      ]
+    },
+    {
+      "heading": "Light the room like you mean it",
+      "body": [
+        "Lighting is where small apartments win, because one well-placed strand transforms a 12-by-14-foot living room. The old department-store rule is 100 mini lights per foot of tree; in a small apartment that reads as glare, so aim for 50 to 70 lights per foot instead — a 6-foot tree wants 300 to 420 lights, which is exactly what most pre-lit slim trees carry. Beyond the tree, plan one 16- to 20-foot string for the window or bookshelf, plus one 10-foot battery string where there is no outlet.",
+        "Choose warm white, 2700K, everywhere — mixing cool-white and warm strands is the fastest way to make a room look like an office party. Put every plug-in strand on a single smart plug or an $8 timer set to your actual evening, roughly 4:30 p.m. to 11 p.m., so the whole apartment switches on at once — no crawling behind the sofa in January. Then add two or three flameless candles on the coffee table and bathroom counter. Real candlelight is lovely, but in a rental with a smoke alarm six feet away, flameless is the version you will actually use every night."
+      ]
+    },
+    {
+      "heading": "Three budget tiers: under $50, $100 and $200",
+      "body": [
+        "Under $50, buy the hits only: one 9-foot faux garland ($10), two 16-foot warm-white light strings ($12 for the pair), a 22-inch wreath ($12), a multi-pack of removable hooks and clips ($6), and one plaid throw ($9). That is $49 covering your door, sofa and one window or shelf — and every item folds flat or nests inside the wreath. If you do not own a tree yet, borrow one this year; lights and textiles are what guests actually notice.",
+        "The $100 tier is where an apartment starts to look designed. Build it around one real purchase — a 6-foot pre-lit slim tree on a November sale ($48 to $55) — then add the garland ($10), one window light string ($6), two seasonal cushion covers ($16) and a festive doormat ($14): about $100 all in. Skip the wreath — the garland swagged over the door frame does the same job — and the tree stores in its own box.",
+        "At $200, stop buying more things and buy better versions of the same list: a fuller 6.5-foot pre-lit tree with dense tips ($115 to $130), a wool-blend throw you will keep out until March ($28), four cushion covers so the bed gets two as well ($28), and a mixed-greenery garland that reads as real from three feet away ($18). About $190 to $205 — and next year's spend drops to batteries and a candle."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How can I decorate a rental for Christmas without damaging the walls?",
+      "a": "Use removable adhesive hooks and strips rated well above what you are hanging — one large strip holds up to 16 pounds, far more than a wreath. Hang swags from over-door hooks, rest garlands on shelves and picture ledges instead of pinning them, and use battery lights with clips on windows and frames. In January, everything comes down with one slow pull on the tab."
+    },
+    {
+      "q": "What size Christmas tree works best in a small apartment?",
+      "a": "For a standard 8-foot ceiling, a 6- to 6.5-foot slim tree with a 24- to 32-inch base is the sweet spot — tall enough to feel generous, narrow enough to keep walkways clear, with 12 inches spare for a topper. Too much footprint still? Try a 4-foot tabletop tree on a sideboard, or a flat-back half tree against the wall."
+    },
+    {
+      "q": "How many fairy lights does a small living room actually need?",
+      "a": "Aim for 300 to 420 warm-white lights on a 6-foot tree (50 to 70 per foot), one 16- to 20-foot string for the window or bookshelf, and one 10-foot battery string for a shelf or headboard. Three sources at three heights read as a designed glow, not one bright corner — and one timer switches them all on together at dusk."
+    },
+    {
+      "q": "How do I store all my Christmas decorations in just one or two boxes?",
+      "a": "Work backward from two 66-quart latching bins (or the tree box plus one). Ornaments sit in a divided tray or egg cartons, lights wind around cardboard rectangles to stay tangle-free, and garlands coil in with washed textiles folded on top as padding. Hang the wreath on a closet hook in a dry-cleaning bag, label bins by room, and January-you will thank December-you."
+    }
+  ],
+  "hero": {
+    "src": "/img/a1-hero",
+    "alt": "Small apartment living room decorated for Christmas with a slim tree, garland over the window and candles on the coffee table"
+  },
+  "images": [
+    {
+      "after": 2,
+      "img": {
+        "src": "/img/a1-entryway",
+        "alt": "Apartment entryway with a Christmas wreath on the door, a garland around the mirror and candles on a console table",
+        "caption": "A wreath, a garlanded mirror and two candles make an entryway feel festive in minutes."
+      }
+    },
+    {
+      "after": 4,
+      "img": {
+        "src": "/img/a1-living",
+        "alt": "Cosy apartment corner with a small Christmas tree, garland on the bookshelf and plaid cushions on a cream sofa",
+        "caption": "Decorate upward: garland along the shelves and layered textiles do the heavy lifting in a small room."
+      }
+    }
+  ]
+}),
 ];
 
 export const postBySlug = (slug: string) => POSTS.find((p) => p.slug === slug);

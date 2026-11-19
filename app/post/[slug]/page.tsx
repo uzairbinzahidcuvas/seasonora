@@ -19,8 +19,8 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     title: post.title,
     description: post.excerpt,
     alternates: { canonical: `/post/${post.slug}` },
-    openGraph: { type: "article", title: post.title, description: post.excerpt, url: `/post/${post.slug}`, publishedTime: post.date, images: ["/logo.png"] },
-    twitter: { card: "summary_large_image", title: post.title, description: post.excerpt, images: ["/logo.png"] },
+    openGraph: { type: "article", title: post.title, description: post.excerpt, url: `/post/${post.slug}`, publishedTime: post.date, images: [post.hero?.src ?? "/logo.png"] },
+    twitter: { card: "summary_large_image", title: post.title, description: post.excerpt, images: [post.hero?.src ?? "/logo.png"] },
   };
 }
 
@@ -38,7 +38,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
         "@type": "Article", headline: post.title, description: post.excerpt, datePublished: post.date,
         author: { "@type": "Organization", name: SITE_NAME, url: SITE_URL },
         publisher: { "@type": "Organization", name: SITE_NAME, logo: { "@type": "ImageObject", url: `${SITE_URL}/logo.png` } },
-        mainEntityOfPage: url, image: `${SITE_URL}/logo.png`,
+        mainEntityOfPage: url, image: post.hero ? `${SITE_URL}${post.hero.src}` : `${SITE_URL}/logo.png`,
       },
       { "@type": "BreadcrumbList", itemListElement: [
         { "@type": "ListItem", position: 1, name: "Home", item: SITE_URL },
@@ -57,7 +57,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
         <p className="article-cat"><Link className="cat-chip" style={{ background: `linear-gradient(135deg, ${cat.from}, ${cat.to})` }} href={`/${cat.slug}`}>{cat.name}</Link><span className="subcat">{post.subcategory}</span></p>
         <h1>{post.title}</h1>
         <p className="meta">By Seasonora Editorial · {fmtDate(post.date)} · {post.readTime} min read</p>
-        <div className="hero-visual"><Visual post={post} large /></div>
+        <div className="hero-visual">{post.hero ? <img className="visual visual-lg visual-img" src={post.hero.src} alt={post.hero.alt} /> : <Visual post={post} large />}</div>
         <p>{post.intro}</p>
 
         <nav className="toc" aria-label="Table of contents">
@@ -66,10 +66,16 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
             <li><a href="#faq">Frequently asked questions</a></li></ol>
         </nav>
 
-        {post.sections.map((s) => (
+        {post.sections.map((s, si) => (
           <section key={s.heading}>
             <h2 id={anchor(s.heading)}>{s.heading}</h2>
             {s.body.map((para, i) => <p key={i}>{para}</p>)}
+            {(post.images ?? []).filter((im) => im.after === si).map((im) => (
+              <figure className="article-figure" key={im.img.src}>
+                <img className="article-img" src={im.img.src} alt={im.img.alt} loading="lazy" />
+                {im.img.caption && <figcaption>{im.img.caption}</figcaption>}
+              </figure>
+            ))}
           </section>
         ))}
 
@@ -103,10 +109,12 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
         </div>
       </article>
 
-      <section aria-labelledby="related-h">
-        <div className="section-head"><h2 id="related-h">You May Also Like</h2></div>
-        <div className="related">{related.map((p) => <PostCard key={p.slug} post={p} />)}</div>
-      </section>
+      {related.length > 0 && (
+        <section aria-labelledby="related-h">
+          <div className="section-head"><h2 id="related-h">You May Also Like</h2></div>
+          <div className="related">{related.map((p) => <PostCard key={p.slug} post={p} />)}</div>
+        </section>
+      )}
     </div>
   );
 }
