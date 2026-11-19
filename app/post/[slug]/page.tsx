@@ -54,7 +54,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
       <p className="breadcrumb"><Link href="/">Home</Link> › <Link href={`/${cat.slug}`}>{cat.name}</Link> › {post.title}</p>
       <article className="article">
-        <p className="article-cat"><Link className="cat-chip" style={{ background: `linear-gradient(135deg, ${cat.from}, ${cat.to})` }} href={`/${cat.slug}`}>{cat.name}</Link><span className="subcat">{post.subcategory}</span></p>
+        <p className="article-cat"><Link className="cat-chip" style={{ background: cat.chipBg, color: cat.chipInk }} href={`/${cat.slug}`}>{cat.name}</Link><span className="subcat">{post.subcategory}</span></p>
         <h1>{post.title}</h1>
         <p className="meta">By Seasonora Editorial · {fmtDate(post.date)} · {post.readTime} min read</p>
         <div className="hero-visual">{post.hero ? <img className="visual visual-lg visual-img" src={post.hero.src} alt={post.hero.alt} /> : <Visual post={post} large />}</div>

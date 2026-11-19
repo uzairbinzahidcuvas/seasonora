@@ -24,7 +24,7 @@ export default function Sidebar() {
         <h3 className="side-title">Popular Posts</h3>
         {popularPosts.map((p) => (
           <Link key={p.slug} href={`/post/${p.slug}`} className="mini-post">
-            <span className="mini-thumb"><Visual post={p} /></span>
+            <span className="mini-thumb">{p.hero ? <img src={p.hero.src} alt="" loading="lazy" /> : <Visual post={p} />}</span>
             <span><strong>{p.title}</strong><small>{fmtDate(p.date)}</small></span>
           </Link>
         ))}
@@ -36,7 +36,7 @@ export default function Sidebar() {
         <h3 className="side-title">Categories</h3>
         <ul className="cat-list">
           {CATEGORIES.map((c) => (
-            <li key={c.slug}><Link href={`/${c.slug}`}><i className="cat-dot" style={{ background: `linear-gradient(135deg, ${c.from}, ${c.to})` }} />{c.name}</Link>
+            <li key={c.slug}><Link href={`/${c.slug}`}><i className="cat-dot" style={{ background: c.to }} />{c.name}</Link>
               <span>{POSTS.filter((p) => p.category === c.slug).length}</span></li>
           ))}
         </ul>

@@ -11,11 +11,9 @@ export const FACEBOOK_URL = "https://www.facebook.com/theseasonora/";
 
 export const NAV = [
   { label: "Home", href: "/" },
-  { label: "Seasonal Living", href: "/seasonal-living" },
-  { label: "Holidays", href: "/holidays" },
-  { label: "Home & Decor", href: "/home-decor" },
-  { label: "Food & Recipes", href: "/food-recipes" },
+  { label: "Decor", href: "/home-decor" },
+  { label: "Recipes", href: "/food-recipes" },
   { label: "DIY & Crafts", href: "/diy-crafts" },
+  { label: "Holidays", href: "/holidays" },
   { label: "Lifestyle", href: "/lifestyle" },
-  { label: "About", href: "/about" },
 ] as const;

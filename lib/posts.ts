@@ -7,6 +7,8 @@ export type Category = {
   motif: string;
   from: string;
   to: string;
+  chipBg: string;
+  chipInk: string;
 };
 
 export const CATEGORIES: Category[] = [
@@ -17,7 +19,7 @@ export const CATEGORIES: Category[] = [
     intro:
       "Most of us don't redecorate the whole house every season — we swap a few things and the room feels new again. That's what these guides are for: small changes for spring, summer, fall and winter that fit real homes and real budgets.",
     subcategories: ["Spring Ideas", "Summer Ideas", "Fall / Autumn Ideas", "Winter Ideas", "Seasonal Bucket Lists", "Seasonal Home Refresh"],
-    motif: "leaf", from: "#7FA653", to: "#46682F",
+    motif: "leaf", from: "#7FA653", to: "#46682F", chipBg: "#EAF3E4", chipInk: "#46682F",
   },
   {
     slug: "holidays",
@@ -26,7 +28,7 @@ export const CATEGORIES: Category[] = [
     intro:
       "Hosting is a lot easier when someone hands you a plan. Here you'll find the themes, timelines, menus and checklists for Christmas, Friendsgiving, New Year's Eve and the rest — so everything gets done and you can still sit down with your guests.",
     subcategories: ["Christmas", "Thanksgiving & Friendsgiving", "Halloween", "New Year's Eve", "Valentine's Day", "Easter", "Mother's Day", "Birthdays & Gatherings"],
-    motif: "star", from: "#E3A72F", to: "#B95E14",
+    motif: "star", from: "#E3A72F", to: "#B95E14", chipBg: "#FAE7E7", chipInk: "#A83E4A",
   },
   {
     slug: "home-decor",
@@ -35,7 +37,7 @@ export const CATEGORIES: Category[] = [
     intro:
       "Good decor doesn't need a big house or a big budget. These guides go room by room — apartments and small spaces very much included — with honest prices, simple styling rules and ideas you can copy this weekend.",
     subcategories: ["Apartment Decor", "Living Room", "Bedroom", "Kitchen & Dining", "Entryway", "Tablescapes", "Window Decor", "Wreaths", "Budget Decor", "Small-Space Ideas"],
-    motif: "tree", from: "#4E7D46", to: "#243B24",
+    motif: "tree", from: "#4E7D46", to: "#243B24", chipBg: "#E7F2E4", chipInk: "#3F6B35",
   },
   {
     slug: "food-recipes",
@@ -44,7 +46,7 @@ export const CATEGORIES: Category[] = [
     intro:
       "Every recipe here is written the way we'd want to read it: a clear list of ingredients, steps in order, exact temperatures and timings, and a note on storing leftovers. Christmas cookies are the current favourite, with plenty more on the way.",
     subcategories: ["Cookies & Baking", "Desserts", "Appetizers", "Party Food", "Drinks", "Brunch", "Holiday Menus", "Seasonal Ingredients"],
-    motif: "cookie", from: "#DE7A3D", to: "#A83E1B",
+    motif: "cookie", from: "#DE7A3D", to: "#A83E1B", chipBg: "#FDEEDC", chipInk: "#9C6210",
   },
   {
     slug: "diy-crafts",
@@ -53,7 +55,7 @@ export const CATEGORIES: Category[] = [
     intro:
       "The projects here use supplies you probably already own, or can grab in one quick shop run. Each one lists what you need, how long it really takes and how hard it is — starting with window painting, wreaths and garlands.",
     subcategories: ["Window Painting", "Wreaths & Garlands", "Handmade Gifts", "Paper Crafts", "Table Decor DIY", "Kids' Activities", "Printables"],
-    motif: "snow", from: "#4E8FB8", to: "#275E7E",
+    motif: "snow", from: "#4E8FB8", to: "#275E7E", chipBg: "#EFE9FB", chipInk: "#6B57A8",
   },
   {
     slug: "lifestyle",
@@ -62,7 +64,7 @@ export const CATEGORIES: Category[] = [
     intro:
       "Seasons change more than the weather. They change what we wear, how we host and how we spend a Saturday. This section covers seasonal outfits, hairstyles, hosting tips and the small routines that make the time of year feel right.",
     subcategories: ["Hairstyles", "Seasonal Outfits", "Beauty Inspiration", "Hosting Tips", "Family Activities", "Everyday Routines", "Gift Guides"],
-    motif: "bloom", from: "#C4748F", to: "#8C4462",
+    motif: "bloom", from: "#C4748F", to: "#8C4462", chipBg: "#FBEAF1", chipInk: "#A04A72",
   },
 ];
 
