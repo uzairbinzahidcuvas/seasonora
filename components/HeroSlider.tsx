@@ -33,7 +33,7 @@ export default function HeroSlider({ posts }: { posts: Post[] }) {
             {p.hero && <img className="hero2-img" src={p.hero.src} alt={active ? p.hero.alt : ""} />}
             <div className="hero2-shade" aria-hidden="true" />
             <div className="hero2-content">
-              <h2><Link href={`/post/${p.slug}`} tabIndex={active ? 0 : -1}>{p.title}</Link></h2>
+              <h2><Link href={`/post/${p.slug}`} tabIndex={active ? 0 : -1}>{p.bannerTitle ?? p.title}</Link></h2>
               <p className="hero2-excerpt">{p.excerpt}</p>
               <p className="hero2-meta">{fmtDate(p.date)} · {p.readTime} min read</p>
               <Link className="btn-green" href={`/post/${p.slug}`} tabIndex={active ? 0 : -1}>Read the Guide <span aria-hidden="true">→</span></Link>

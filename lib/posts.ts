@@ -80,7 +80,7 @@ export type Faq = { q: string; a: string };
 export type PostImage = { src: string; alt: string; caption?: string };
 
 export type Post = {
-  slug: string; title: string; category: string; subcategory: string;
+  slug: string; title: string; bannerTitle?: string; category: string; subcategory: string;
   excerpt: string; date: string; readTime: number;
   motif: string; from: string; to: string;
   intro: string; sections: Section[]; faqs: Faq[];
@@ -94,6 +94,7 @@ export const POSTS: Post[] = [
   P({
   "slug": "friendsgiving-party-ideas",
   "title": "Friendsgiving Party Ideas 2026: Cozy Table Decor, Easy Food, Fun Games & Aesthetic Touches",
+  "bannerTitle": "Friendsgiving Party Ideas 2026",
   "category": "holidays",
   "subcategory": "Thanksgiving & Friendsgiving",
   "excerpt": "Friendsgiving party ideas for a cozy night in 2026: easy table decor, a potluck menu that cooks itself, fun games and cozy small-apartment hosting tips.",
