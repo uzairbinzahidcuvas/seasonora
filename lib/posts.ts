@@ -343,22 +343,22 @@ export const POSTS: Post[] = [
   ],
   "hero": {
     "src": "/img/a2-hero",
-    "alt": "Living room at dusk with a large window painted with a white Christmas village scene, glowing gold windows and a crescent moon"
+    "alt": "Cozy living room at dusk with a large window painted with white chalk snowflakes and a snowy village along the bottom, candles and a small Christmas tree beside it"
   },
   "images": [
     {
       "after": 2,
       "img": {
         "src": "/img/a2-a",
-        "alt": "Close-up of white hand-drawn snowflakes and falling dots painted in chalk on dark blue window glass with warm lights behind",
-        "caption": "Snowflakes and falling dots: the fastest border a beginner can paint, and it still looks planned."
+        "alt": "Real chalk-marker painting on a home window: white houses and snowflakes drawn on the glass, with a fresh fir branch on the sill",
+        "caption": "A real painted window: simple white houses and snowflakes are all it takes to build a whole village."
       }
     },
     {
       "after": 4,
       "img": {
         "src": "/img/a2-b",
-        "alt": "White chalk-painted Christmas wreath with red berries and a gold bow on dark window glass, candles glowing behind it",
+        "alt": "White chalk wreath and pine trees painted on an old window at night, two lit candles on the wooden sill",
         "caption": "A painted wreath takes fifteen minutes and ties the whole window together."
       }
     }
