@@ -1,73 +1,49 @@
 import type { Metadata } from "next";
 import Link from "next/link";
-import { CATEGORIES, fmtDate } from "@/lib/posts";
-import { VIDEOS, fmtDuration } from "@/lib/videos";
+import Newsletter from "@/components/Newsletter";
+import VideosGallery from "@/components/VideosGallery";
+import { CATEGORIES } from "@/lib/posts";
+import { VIDEOS } from "@/lib/videos";
 
 export const metadata: Metadata = {
   title: "Seasonora Videos — Watch Our DIY & Seasonal Projects",
   description:
-    "Watch Seasonora project videos: short, step-by-step DIY and seasonal craft videos, each with a full written guide — pumpkin candle holders, garlands, wreaths and more.",
+    "Discover creative ideas, helpful tips and beautiful moments in our short and engaging videos — DIY crafts, decor, recipes, holidays and lifestyle, each with a full written guide.",
   alternates: { canonical: "/videos" },
   openGraph: {
     type: "website",
     title: "Seasonora Videos — Watch Our DIY & Seasonal Projects",
     description:
-      "Short step-by-step project videos from Seasonora, each with a full written guide.",
+      "Discover creative ideas, helpful tips and beautiful moments in our short and engaging videos.",
     url: "/videos",
+    images: ["/img/s-videos"],
   },
 };
 
 export default function VideosPage() {
-  const cats = CATEGORIES.filter((c) => VIDEOS.some((v) => v.category === c.slug));
+  const cats = CATEGORIES.map((c) => ({ slug: c.slug, nav: c.nav, chipBg: c.chipBg, chipInk: c.chipInk }));
   return (
     <div className="wrap">
       <p className="breadcrumb"><Link href="/">Home</Link> › Videos</p>
-      <div className="videos-head">
-        <h1>Seasonora Videos</h1>
-        <p>
-          Short, watchable project videos — every one shows the whole make, start to finish,
-          and comes with a full written guide listing what you need and each step in order.
-          Press play right here, then open the guide when you are ready to make your own.
-        </p>
-      </div>
 
-      {cats.map((cat) => (
-        <section key={cat.slug} aria-labelledby={`vh-${cat.slug}`}>
-          <div className="section-head">
-            <h2 id={`vh-${cat.slug}`}>{cat.name} Videos</h2>
-            <Link className="section-link" href={`/${cat.slug}`}>All {cat.nav} guides →</Link>
-          </div>
-          <div className="videos-grid">
-            {VIDEOS.filter((v) => v.category === cat.slug).map((v) => (
-              <article className="video-card" key={v.slug}>
-                <video
-                  controls
-                  preload="none"
-                  poster={v.poster}
-                  playsInline
-                  src={`/videos/${v.slug}.mp4`}
-                  aria-label={v.title}
-                />
-                <div className="video-card-body">
-                  <p className="video-card-top">
-                    <span className="cat-chip" style={{ background: cat.chipBg, color: cat.chipInk }}>{v.topic}</span>
-                    <span className="video-meta">{fmtDuration(v.durationSec)} · {fmtDate(v.date)}</span>
-                  </p>
-                  <h3>{v.title}</h3>
-                  <Link className="video-guide-link" href={`/post/${v.articleSlug}`}>
-                    Read the step-by-step guide →
-                  </Link>
-                </div>
-              </article>
-            ))}
-          </div>
-        </section>
-      ))}
+      <section className="videos-hero">
+        <div className="videos-hero-text">
+          <p className="videos-badge"><span aria-hidden="true">▶</span> Watch • Learn • Get Inspired</p>
+          <h1>Seasonora Videos</h1>
+          <p className="videos-sub">Discover creative ideas, helpful tips and beautiful moments in our short and engaging videos.</p>
+          <p className="videos-note-line">Short vertical project videos — every one plays right here and comes with a full step-by-step guide.</p>
+        </div>
+        <div className="videos-hero-media" aria-hidden="true">
+          <img src="/img/s-videos" alt="" />
+          <span className="videos-hero-play">
+            <svg width="30" height="30" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5.5v13l11-6.5z" /></svg>
+          </span>
+        </div>
+      </section>
 
-      <p className="videos-note">
-        New project videos land here through the week. Follow us on Pinterest to catch each
-        one the day it drops.
-      </p>
+      <VideosGallery videos={VIDEOS} cats={cats} />
+
+      <Newsletter />
     </div>
   );
 }

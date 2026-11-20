@@ -5,6 +5,7 @@
 export type VideoEntry = {
   slug: string;        // video slug; file is /videos/<slug>.mp4
   title: string;       // display title
+  description: string; // 1–2 line summary shown on the video card
   category: string;    // site category slug (matches lib/posts CATEGORIES)
   topic: string;       // subcategory / topic label shown as a chip
   articleSlug: string; // companion guide on /post/<articleSlug>
@@ -17,6 +18,7 @@ export const VIDEOS: VideoEntry[] = [
   {
     slug: "mini-pumpkin-led-candle-holders",
     title: "DIY Mini Pumpkin LED Candle Holders",
+    description: "Paint two mini pumpkins in soft fall colors, cut one small opening and drop in an LED tea light — a cozy holder in about 40 minutes.",
     category: "diy-crafts",
     topic: "Autumn Home Decor",
     articleSlug: "mini-pumpkin-led-candle-holders",

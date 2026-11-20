@@ -31,6 +31,7 @@ import sLifestyle from "./imgdata/s-lifestyle";
 import sFeature from "./imgdata/s-feature";
 import sAbout from "./imgdata/s-about";
 import sNewsletter from "./imgdata/s-newsletter";
+import sVideos from "./imgdata/s-videos";
 
 export const IMAGES: Record<string, string> = {
   "a1-hero": a1Hero,
@@ -62,4 +63,5 @@ export const IMAGES: Record<string, string> = {
   "s-feature": sFeature,
   "s-about": sAbout,
   "s-newsletter": sNewsletter,
+  "s-videos": sVideos,
 };
