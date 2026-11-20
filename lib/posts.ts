@@ -92,6 +92,263 @@ const P = (o: Post) => o;
 
 export const POSTS: Post[] = [
   P({
+  "slug": "winter-bucket-list-ideas",
+  "title": "Winter Bucket List Ideas 2026: 30 Cozy Things to Do This Winter, From Snow Days to Movie Nights",
+  "bannerTitle": "Winter Bucket List Ideas 2026",
+  "category": "seasonal-living",
+  "subcategory": "Seasonal Bucket Lists",
+  "excerpt": "Winter bucket list ideas for slow, cozy days: 30 simple things to do this winter — snow days, baking days, movie nights and small adventures at home.",
+  "date": "2026-11-20",
+  "readTime": 10,
+  "motif": "leaf",
+  "from": "#7FA653",
+  "to": "#46682F",
+  "intro": "Winter gets a bad reputation. The days are short, it's dark by five, and most of us spend the whole season just waiting for it to end. A winter bucket list changes that. Instead of counting down to spring, you get small plans to look forward to — a baking day here, a snow walk there, one proper movie night a week. These winter bucket list ideas are simple on purpose. Nothing here needs a big budget or a trip away. Most of it happens at home, with things you already own, and that's kind of the point.",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The first part of the season is for slowing down. Start with the indoor ideas — they're the easiest wins, and they make the house feel like somewhere you actually want to be in January."
+        },
+        {
+          "t": "h3",
+          "text": "Set up a hot drink station once, enjoy it all season"
+        },
+        {
+          "t": "p",
+          "text": "One tray, one corner of the counter: cocoa, marshmallows, cinnamon, the good mugs. It takes ten minutes to set up and it turns an ordinary Tuesday evening into a small event. We put ours out in the first cold week and it stays until the end of February."
+        },
+        {
+          "items": [
+            "Read one whole book in a single slow day, phone in another room",
+            "Hold a hot chocolate night with three toppings and a family taste test",
+            "Start a 1,000-piece puzzle and leave it out on the table all month",
+            "Light candles at dinner every night for one full week",
+            "Write real letters to two people and post them the old-fashioned way"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "p",
+          "text": "None of these need planning or money. They're the backbone of the list — the ones you'll actually do on dark evenings when going out feels like too much."
+        }
+      ],
+      "heading": "Start Slow: Cozy Indoor Winter Bucket List Ideas"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Snow days lose their magic fast if you spend them scrolling. Decide your snow plans now, while they're still just plans, so the first proper snowfall doesn't catch you unprepared."
+        },
+        {
+          "t": "h3",
+          "text": "The classic snow day list"
+        },
+        {
+          "items": [
+            "Build a snowman — a small, wonky one counts",
+            "Make snow angels and take the photo, however it turns out",
+            "Go sledding, or slide down the hill on a tray like you did as a kid",
+            "Take a slow photo walk while the snow is still fresh and untrodden",
+            "Build a blanket fort when you come back in, and have lunch inside it"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "No snow where you live?"
+        },
+        {
+          "t": "p",
+          "text": "Swap the snow items for cold-weather ones: a sunrise walk on the coldest morning, hot drinks in the park with gloves on, and an evening drive to see the neighborhood lights. The list is about marking the season, not the weather."
+        }
+      ],
+      "heading": "Snow Day Winter Bucket List Ideas for the First Big Snowfall"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Cold weather is baking weather. The oven warms the kitchen, the house smells amazing, and nobody has ever been sad about a tray of gingerbread. Put one baking day a week on the list and winter starts to feel generous."
+        },
+        {
+          "t": "h3",
+          "text": "One baking day a week, five weeks covered"
+        },
+        {
+          "items": [
+            "Gingerbread cookies — cut them thick, decorate them badly, eat them anyway",
+            "Cinnamon rolls on a Saturday morning, eaten warm, in pajamas",
+            "A big pot of soup with good bread for dipping, enough for two days",
+            "Homemade pizza night where everyone tops their own",
+            "A cookie swap box: bake double, deliver half to a neighbor or friend"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "p",
+          "text": "Bake more than you need on purpose. Frozen cookie dough and a spare pot of soup in the freezer are what make the busy weeks feel looked-after too."
+        }
+      ],
+      "heading": "Winter Baking Days and Comfort Food Plans"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "A list that's all indoors goes stale by January. You don't need big hikes — short, planned outings with a warm ending work best. The rule we use: outside for about an hour, then home for something hot."
+        },
+        {
+          "t": "h3",
+          "text": "Short trips with a warm finish"
+        },
+        {
+          "items": [
+            "Visit a winter market or craft fair and buy one small thing",
+            "Go ice skating, even if you hold the rail the whole time",
+            "Take a night walk to see the best-decorated street in your area",
+            "Feed the birds, then do one slow loop of the park with a flask of tea",
+            "Have a winter picnic: soup in a flask, sandwiches, ten minutes, done"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "p",
+          "text": "Daylight is the scarce thing in winter, not time. A late-morning outing catches the best of it and still leaves the whole cozy evening ahead of you."
+        }
+      ],
+      "heading": "Get Outside Anyway: Winter Walks, Skating and Small Adventures"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Dark evenings are the whole point of winter. The trick is to plan them a little, so they don't all blur into the same half-watched scroll on the sofa."
+        },
+        {
+          "t": "h3",
+          "text": "A movie marathon, done properly"
+        },
+        {
+          "items": [
+            "Pick a theme for the month — the classics, one favorite actor, or films set in winter",
+            "Make proper snacks: popcorn with real butter, plus one sweet thing",
+            "Blankets on the sofa, phones charging in the kitchen",
+            "Two films maximum, lights low, no pausing to check messages"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "h3",
+          "text": "And on the other nights"
+        },
+        {
+          "items": [
+            "A board game or card night with a running score kept across the season",
+            "A candlelit dinner at the table, no screens, music on low",
+            "Hot drinks on the doorstep to look at the winter stars for ten minutes",
+            "One early night a week — bath, book, bed by nine"
+          ],
+          "t": "ul"
+        }
+      ],
+      "heading": "Evenings In: Movie Nights, Games and Slow Rituals"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Half the list should be free, or it stops being fun. These cost nothing but a little intention, and a few of them are the ones people remember best."
+        },
+        {
+          "items": [
+            "Borrow a stack of winter books and films from the library in one trip",
+            "Photograph the same tree or street once a week as the season changes",
+            "Learn one new card game properly and teach it to someone",
+            "Write your goals for spring on paper, by hand, in one sitting",
+            "Call an old friend you've been meaning to call since autumn",
+            "Watch the sunrise once — winter's late sunrises make this one easy"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "p",
+          "text": "If money is tight this year, this section is the list. Everything else is a bonus."
+        }
+      ],
+      "heading": "Free Winter Bucket List Ideas That Cost Almost Nothing"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "A bucket list only works if it's finishable. Thirty ideas sounds like a lot until you spread them over twelve weeks of winter — that's two or three a week, and most of them are small."
+        },
+        {
+          "t": "h3",
+          "text": "Print it, pin it, tick things off"
+        },
+        {
+          "items": [
+            "Write or print the list and put it on the fridge, where you'll see it every day",
+            "Aim for one planned item a week, plus whatever the weather hands you",
+            "Swap any idea that stops sounding fun — the list serves you, not the other way round",
+            "Take one photo for every item you finish; by spring you'll have the whole season in pictures"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "p",
+          "text": "By the time the last box is ticked, winter won't feel like something you waited out. It'll feel like a season you actually used — and spring can take its time."
+        }
+      ],
+      "heading": "Make the List Work: Small Rules That Help You Actually Finish It"
+    }
+  ],
+  "faqs": [
+    {
+      "a": "A mix of indoor and outdoor ideas: a few baking days, a few snow day plans, evening rituals like movie nights, and a handful of free things like a library trip or a sunrise walk. Keep most of it doable at home so the weather can't cancel your plans.",
+      "q": "What should I put on a winter bucket list?"
+    },
+    {
+      "a": "Around 25 to 30 works well for a full season — roughly two or three a week. Fewer is fine too. A short list you actually finish feels much better than a long one abandoned in January.",
+      "q": "How many ideas should a winter bucket list have?"
+    },
+    {
+      "a": "Set up a hot drink station, run a weekly baking day, hold a proper movie marathon with a theme, keep a season-long board game score, and take one early night a week with a bath and a book. All of them are in the list above, with the details filled in.",
+      "q": "What are some winter bucket list ideas for adults at home?"
+    },
+    {
+      "a": "Plenty — most of this list needs no snow at all. Swap the snow items for frosty morning walks, an evening drive to spot lights, winter market visits, and indoor plans like baking days and a puzzle weekend.",
+      "q": "What can I put on a winter bucket list if it doesn't snow?"
+    }
+  ],
+  "hero": {
+    "src": "/img/a4-hero",
+    "alt": "Snow-covered log cabin at dusk with warm light glowing from the windows, titled Winter Bucket List Ideas 2026"
+  },
+  "images": [
+    {
+      "after": 2,
+      "img": {
+        "src": "/img/a4-a",
+        "alt": "Hands holding a tray of freshly baked gingerbread cookies beside a warm oven in a cozy kitchen",
+        "caption": "Baking day: a tray of gingerbread, still warm from the oven."
+      }
+    },
+    {
+      "after": 4,
+      "img": {
+        "src": "/img/a4-b",
+        "alt": "Cozy sofa with a chunky knit blanket, a bowl of popcorn and lit candles beside a snowy window at night",
+        "caption": "Evenings in: popcorn, candles, and snow falling outside."
+      }
+    }
+  ]
+}),
+  P({
   "slug": "friendsgiving-party-ideas",
   "title": "Friendsgiving Party Ideas 2026: Cozy Table Decor, Easy Food, Fun Games & Aesthetic Touches",
   "bannerTitle": "Friendsgiving Party Ideas 2026",
