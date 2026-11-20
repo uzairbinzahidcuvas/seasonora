@@ -92,6 +92,279 @@ const P = (o: Post) => o;
 
 export const POSTS: Post[] = [
   P({
+  "slug": "christmas-window-painting-ideas",
+  "title": "Christmas Window Painting Ideas",
+  "category": "diy-crafts",
+  "subcategory": "Window Painting",
+  "excerpt": "Easy Christmas window painting ideas for beginners: chalk markers, washable paint and hand-drawn designs that wipe off clean in January — no skill needed.",
+  "date": "2026-11-19",
+  "readTime": 10,
+  "motif": "snow",
+  "from": "#4E8FB8",
+  "to": "#275E7E",
+  "intro": "A painted window is the cheapest big win in Christmas decorating: the glass is already there, the paint costs less than a takeaway, and it all wipes off with warm water in January. We painted our first window three years ago with two chalk markers and a wobbly snowflake, and neighbours still ask about it. This guide covers the exact supplies that work, the prep that takes ten minutes, and seven designs that look good even if you can't draw a straight line. Most take under an hour, all of them come off, and the village scene along the bottom stops people on the street.",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Three things work on glass, and they come off differently. Liquid chalk markers are the easiest place to start: they draw like a pen, dry in about a minute, and wipe off with a damp cloth. Washable tempera paint, mixed half-and-half with dish soap, gives filled-in colour and rinses off with warm water. Static window clings need no paint, but they look flat from the street. For a first window, buy chalk markers and skip the rest."
+        },
+        {
+          "t": "h3",
+          "text": "What to buy for your first window"
+        },
+        {
+          "items": [
+            "White liquid chalk markers, 3 mm and 6 mm tips — a 5-pack costs about $8 and covers two big windows",
+            "One gold or silver metallic marker for stars and lettering, about $3",
+            "Washable tempera paint in white and one accent colour, about $4 a bottle, if you want filled-in scenes",
+            "A roll of painter's tape, $4, to protect the frame",
+            "Microfibre cloths and a spray bottle of warm water for cleanup"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "Test before you commit"
+        },
+        {
+          "t": "p",
+          "text": "Draw a small snowflake in the bottom corner of the glass, leave it for an hour, then wipe it off with a damp cloth. If it comes away clean, your markers are safe for the whole window. This one-minute test has saved us from exactly one disaster: a permanent paint marker that looked identical to the chalk ones in the shop. Skip anything labelled permanent, oil-based or acrylic, and never use a razor blade in January."
+        }
+      ],
+      "heading": "Pick your paint: markers, washable paint or clings"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Paint sticks better and looks brighter on clean glass, and the prep is the dull part that makes the fun part work. Paint on the inside of the glass, never the outside — rain and frost eat an outdoor design in a week. Pick the window people actually see — the front room, or the bedroom window that faces the street."
+        },
+        {
+          "t": "h3",
+          "text": "The ten-minute prep"
+        },
+        {
+          "items": [
+            "Wash the glass with warm soapy water, then dry it with a microfibre cloth until it squeaks — streaks show through white paint",
+            "Run painter's tape along the frame edges so a stray stroke never touches wood or paintwork",
+            "Tape your template to the outside of the glass if you're tracing",
+            "Lay an old towel on the sill to catch drips, and keep a damp cloth in your free hand for instant fixes"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "p",
+          "text": "White chalk looks faint in daylight and shows its real contrast after dark, when the room lights go on behind it. Chalk markers build up in two passes — the second pass is where the design turns properly white."
+        }
+      ],
+      "heading": "Prep the glass in ten minutes"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "If you've never painted a window before, start here. A snowflake border takes twenty minutes, needs no drawing skill, and looks like you planned it for weeks. The trick is repetition: the same three shapes at different sizes read as a pattern, not a mistake. Check the balance as you go."
+        },
+        {
+          "t": "h3",
+          "text": "The snowflake that always works"
+        },
+        {
+          "items": [
+            "Draw a small cross, then an X over it — six spokes from one centre point",
+            "Add a short branch halfway along each spoke, angled back toward the centre",
+            "Dot the ends of the spokes and put one fat dot in the middle",
+            "Vary the size: big flakes at the corners, small ones along the edges, and leave gaps so the glass still shows through"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "h3",
+          "text": "Border patterns to mix in"
+        },
+        {
+          "items": [
+            "Falling dots in three sizes, scattered like snow — the fastest filler there is",
+            "A scalloped garland line with a dot hanging from each scallop",
+            "Tiny stars made from two crossed triangles, with a dot in the centre"
+          ],
+          "t": "ul"
+        }
+      ],
+      "heading": "Start simple: snowflakes, dots and a frosty border"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "This is the design that gets photographed from the pavement. A row of little houses with lit windows, a church steeple and a few pine trees runs along the bottom six inches of the glass — from outside it reads as a whole glowing village. It's the same shapes repeated: rectangles, triangles and dots. Give yourself one quiet evening, put on a playlist, and draw the skyline first."
+        },
+        {
+          "t": "h3",
+          "text": "Build the village in order"
+        },
+        {
+          "items": [
+            "Draw a wavy ground line about six inches up from the sill — snow is never straight",
+            "Add five or six house rectangles of different heights along the line, each with a triangle roof",
+            "Put one taller shape in the middle: a church with a steeple, or a house with a chimney",
+            "Fill the gaps with pine trees — a tall triangle with three wavy tiers and a tiny trunk",
+            "Draw small squares for windows on every house, then fill them in with the gold marker so they glow",
+            "Add falling snow dots above the rooftops"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "h3",
+          "text": "Make the windows glow"
+        },
+        {
+          "t": "p",
+          "text": "The gold windows are what sell the scene, so don't rush them. Fill each window square fully with gold or yellow, then add a thin white cross over the top for the window frame. When the room lights come on behind the glass, the whole village lights up — that's the moment neighbours stop and look. If a window smudges, wipe just that square with a damp cotton bud and redo it; you never need to start the house again."
+        }
+      ],
+      "heading": "Paint a snowy village along the bottom"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Once the border and village are done, one big shape in the middle ties the window together. A wreath is the safest choice: it's a circle, it forgives wobbles, and it looks full even when it's simple. A tree works the same way if you keep it to triangles and dots. A few hand-lettered words across the top — Merry Christmas, or your family's name — make the window feel like yours instead of a shop display."
+        },
+        {
+          "t": "h3",
+          "text": "A wreath in fifteen minutes"
+        },
+        {
+          "items": [
+            "Draw a dinner-plate circle in the centre of the glass, then a smaller circle inside it",
+            "Fill the ring between the two circles with short curved strokes, like pine needles — overlap them and don't aim for neat",
+            "Add six red dots around the ring for berries, spaced evenly",
+            "Tie a bow at the bottom: two loops and two tails, in red or gold"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "h3",
+          "text": "Lettering that looks handwritten (because it is)"
+        },
+        {
+          "items": [
+            "\"Merry Christmas\" in big loose capitals across the top of the glass",
+            "\"Let it Snow\" with a snowflake dotting the i",
+            "Your family name and the year, small, in a bottom corner — it turns the window into a keepsake photo",
+            "Write slowly with the thick marker and let the letters lean a little — perfect letters look printed, slightly wonky ones look hand-painted"
+          ],
+          "t": "ul"
+        }
+      ],
+      "heading": "Wreaths, trees and hand lettering"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Window painting is one of the few Christmas crafts where kids do the real thing instead of watching you. The glass is at their height, the markers wash off hands and clothes, and a wonky snowflake still looks charming. Set up so the mess stays on the glass and the towel, not the sofa. Give each child one window or one corner and let them own it."
+        },
+        {
+          "t": "h3",
+          "text": "Set up a station they can't wreck"
+        },
+        {
+          "items": [
+            "Old t-shirts or aprons on everyone, and a towel on the sill and the floor below",
+            "Chalk markers only — no open paint pots for under-sevens",
+            "One damp cloth per child, so smudges get fixed on the spot instead of smeared",
+            "A paper template taped to the outside for younger kids to trace: a snowman, a tree, a reindeer"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "Designs kids actually finish"
+        },
+        {
+          "t": "p",
+          "text": "Handprints in white paint make good snowmen — one print for the body, one smaller above it for the head, then a carrot nose and coal eyes in marker. Fingerprint reindeer work the same way: brown thumbprints for the body, marker antlers on top. A hand-drawn advent countdown — numbers 1 to 25 in a grid, crossed off one a day — keeps them coming back to the window all December."
+        }
+      ],
+      "heading": "Painting with kids (without repainting the room)"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The best part is the exit: nothing comes down in pieces, nothing leaves holes, no box to store in the loft. Wait for a mild day, open the window, and give yourself fifteen minutes per window. Painted on the inside, the whole design comes off in one wipe — even gold metallic marker gives in to warm water and a little patience."
+        },
+        {
+          "t": "h3",
+          "text": "The two-minute wipe-down"
+        },
+        {
+          "items": [
+            "Spray the glass with warm water and a drop of dish soap, and let it sit for one minute",
+            "Wipe in circles with a damp microfibre cloth — most of the design lifts straight off",
+            "For stubborn gold or thick paint, lay a warm damp cloth over the spot for two minutes, then wipe again",
+            "Dry with a clean cloth and check in daylight for faint ghost lines"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "h3",
+          "text": "Save the good ones for next year"
+        },
+        {
+          "t": "p",
+          "text": "Photograph the window at dusk with the room lights on before you wipe it — that's the shot worth keeping. Save your templates in a folder with the markers so next December starts in ten minutes. Keep the markers cool and upright: a fresh $8 pack each year is still cheaper than one shop-bought sticker set."
+        }
+      ],
+      "heading": "Taking it all down in January"
+    }
+  ],
+  "faqs": [
+    {
+      "a": "No, if you use the right products. Liquid chalk markers and washable tempera paint sit on the surface of the glass and wipe off with warm water. The damage comes from the wrong products — permanent markers, oil-based or acrylic paint — and from scraping with a razor blade. Stick to a damp cloth and a plastic scraper for cleanup.",
+      "q": "Will window paint damage my windows or glass?"
+    },
+    {
+      "a": "Painted on the inside of the glass, a design lasts the whole season — four to six weeks — without fading. Paint on the outside wears off in a week of rain and frost, so always paint from inside, on dry glass that isn't fogging up.",
+      "q": "How long does a painted window last?"
+    },
+    {
+      "a": "Yes — this is one of the most renter-friendly Christmas decorations there is. Nothing is nailed, stuck or drilled, and the paint wipes off completely in January. Chalk markers and washable paint leave no residue on glass, so most landlords never even notice.",
+      "q": "Can I paint windows in a rented apartment?"
+    },
+    {
+      "a": "Trace. Tape a printed template to the outside of the glass and paint over the lines from inside — the design shows straight through. Free templates are easy to find online, or draw one on paper and hold it up. The snowflake border and the falling-dots filler need no template at all, and they still look great.",
+      "q": "What if I can't draw at all?"
+    }
+  ],
+  "hero": {
+    "src": "/img/a2-hero",
+    "alt": "Living room at dusk with a large window painted with a white Christmas village scene, glowing gold windows and a crescent moon"
+  },
+  "images": [
+    {
+      "after": 2,
+      "img": {
+        "src": "/img/a2-a",
+        "alt": "Close-up of white hand-drawn snowflakes and falling dots painted in chalk on dark blue window glass with warm lights behind",
+        "caption": "Snowflakes and falling dots: the fastest border a beginner can paint, and it still looks planned."
+      }
+    },
+    {
+      "after": 4,
+      "img": {
+        "src": "/img/a2-b",
+        "alt": "White chalk-painted Christmas wreath with red berries and a gold bow on dark window glass, candles glowing behind it",
+        "caption": "A painted wreath takes fifteen minutes and ties the whole window together."
+      }
+    }
+  ]
+}),
+  P({
   "slug": "christmas-apartment-decor-ideas",
   "title": "Christmas Apartment Decor Ideas",
   "category": "home-decor",
