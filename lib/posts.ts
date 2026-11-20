@@ -347,6 +347,14 @@ export const POSTS: Post[] = [
   },
   "images": [
     {
+      "after": 0,
+      "img": {
+        "src": "/img/a2-c",
+        "alt": "Christmas window painting with a smiling snowman, a decorated tree and wrapped gifts painted on the glass, titled Christmas Window Painting Ideas — Easy, Creative, Festive",
+        "caption": "The finished look: one snowman, one tree and a row of gifts, all painted straight onto the glass."
+      }
+    },
+    {
       "after": 2,
       "img": {
         "src": "/img/a2-a",
