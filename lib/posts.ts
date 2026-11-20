@@ -342,16 +342,16 @@ export const POSTS: Post[] = [
     }
   ],
   "hero": {
-    "src": "/img/a2-hero",
-    "alt": "Cozy living room at dusk with a large window painted with white chalk snowflakes and a snowy village along the bottom, candles and a small Christmas tree beside it"
+    "src": "/img/a2-c",
+    "alt": "Christmas window painting with a smiling snowman, a decorated tree and wrapped gifts painted on the glass, titled Christmas Window Painting Ideas — Easy, Creative, Festive"
   },
   "images": [
     {
       "after": 0,
       "img": {
-        "src": "/img/a2-c",
-        "alt": "Christmas window painting with a smiling snowman, a decorated tree and wrapped gifts painted on the glass, titled Christmas Window Painting Ideas — Easy, Creative, Festive",
-        "caption": "The finished look: one snowman, one tree and a row of gifts, all painted straight onto the glass."
+        "src": "/img/a2-hero",
+        "alt": "Cozy living room at dusk with a large window painted with white chalk snowflakes and a snowy village along the bottom, candles and a small Christmas tree beside it",
+        "caption": "A painted window at dusk, warm light inside and snow outside — this is the look we're building, step by step."
       }
     },
     {
