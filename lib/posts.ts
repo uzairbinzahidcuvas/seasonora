@@ -92,6 +92,307 @@ const P = (o: Post) => o;
 
 export const POSTS: Post[] = [
   P({
+  "slug": "friendsgiving-party-ideas",
+  "title": "Friendsgiving Party Ideas 2026: Cozy Table Decor, Easy Food, Fun Games & Aesthetic Touches",
+  "category": "holidays",
+  "subcategory": "Thanksgiving & Friendsgiving",
+  "excerpt": "Friendsgiving party ideas for a cozy night in 2026: easy table decor, a potluck menu that cooks itself, fun games and cozy small-apartment hosting tips.",
+  "date": "2026-11-20",
+  "readTime": 10,
+  "motif": "star",
+  "from": "#E3A72F",
+  "to": "#B95E14",
+  "intro": "Friendsgiving is the one dinner party where nobody expects perfection. It's Thanksgiving with the people you chose, on a weekend that suits everyone, with a table full of dishes nobody had to cook alone. Most groups hold theirs the weekend before Thanksgiving, which this year means Saturday, November 21 or Sunday, November 22. This guide is built around one rule that saves every host: you cook one main dish, and your friends bring the rest. Inside you'll find friendsgiving party ideas for the table, the menu, the games and the little touches that make the night feel special — all of it doable in a small apartment, on a normal budget.",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The fastest way to ruin a Friendsgiving is to try to cook everything yourself. You'll spend the whole evening in the kitchen, the turkey will be late, and you'll sit down exhausted just as everyone else is having fun. The fix is simple: you cook one main dish, your friends bring the rest. Nobody minds — people like bringing a dish they're proud of."
+        },
+        {
+          "t": "h3",
+          "text": "Pick your date first — November 21 or 22 works best"
+        },
+        {
+          "t": "p",
+          "text": "Thanksgiving falls on Thursday, November 26 this year, and most of your friends will travel home that week. The weekend before is the sweet spot: Saturday, November 21 or Sunday, November 22. Send the invite this week. A group text works fine, but give people a date, a start time, and one line about what to bring — or they'll all bring the same bag of chips."
+        },
+        {
+          "items": [
+            "Saturday, November 21, from 5 pm — best for a long, slow dinner with games after",
+            "Sunday, November 22, from 3 pm — best if your friends work Monday and want an earlier night",
+            "Skip Thanksgiving Day itself — your friends will be with family, and so will you"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "The one-main-dish rule"
+        },
+        {
+          "t": "p",
+          "text": "You, the host, cook one main dish. A bone-in turkey breast, 6 to 7 pounds for 10 to 12 people, roasts at 325°F for about 2 to 2½ hours until it hits 165°F inside. It carves in five minutes. If turkey feels like too much, a big baked ham or a whole roasted chicken works just as well. One main, done well, and you're free to enjoy your own party."
+        }
+      ],
+      "heading": "Friendsgiving party ideas that start with one simple rule"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "A Friendsgiving table doesn't need a matching set or a single fancy thing. It needs warmth: low light, something orange, and ten minutes of thought. We set our whole table for under $30 last year. The trick is layering cheap things — cloth, leaves, candles — instead of buying one expensive centrepiece."
+        },
+        {
+          "t": "h3",
+          "text": "The $30 friendsgiving table decor shopping list"
+        },
+        {
+          "items": [
+            "A rust or burgundy table runner, about $8 — or a $4 length of burlap cut to size",
+            "Six pillar candles in glass holders, $1 each at the dollar store, in two heights",
+            "Three mini pumpkins, about $1 each, plus a handful of pinecones from any park",
+            "A bunch of eucalyptus or autumn leaves from the grocery store, $3, tucked along the runner",
+            "Cloth napkins in cream or rust, $6 for a set of six — they look ten times better than paper ones"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "Set the table in 20 minutes"
+        },
+        {
+          "items": [
+            "Lay the runner down the middle and scatter the leaves along it — don't line them up, let them fall where they fall",
+            "Put the candles in a loose line down the centre, two tall and four short, and light them just before guests arrive",
+            "Set one mini pumpkin at every other place setting, like little bookends",
+            "Fold each napkin in a loose roll, tie it with kitchen twine, and tuck a single leaf under the knot"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "p",
+          "text": "One thing we learned the hard way: keep the centrepiece low. Anything taller than a wine bottle blocks faces across the table, and half the fun of Friendsgiving is seeing your friends. "
+        }
+      ],
+      "heading": "Cozy friendsgiving table decor that costs less than $30"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "A friendsgiving menu works when every dish has an owner and a job. The host handles the main and the gravy, and everyone else claims one thing from a shared list — so you never end up with four bags of rolls and no dessert. Send the list out with your invite. Mac and cheese is the number one must-have side, and everyone has an opinion about whose is best."
+        },
+        {
+          "t": "h3",
+          "text": "The friendsgiving menu that works for 8 to 10 people"
+        },
+        {
+          "items": [
+            "Host: bone-in turkey breast, 6 to 7 pounds, plus gravy — the only thing you cook",
+            "Mac and cheese, one 9×13-inch tray with a crispy breadcrumb top",
+            "Mashed potatoes, 5 pounds with butter and cream, kept warm in a slow cooker",
+            "Roasted green beans with garlic, one sheet pan, 25 minutes at 400°F",
+            "Sweet potato casserole, one 9×13-inch dish, brown sugar and pecan topping",
+            "Cranberry sauce — 12 ounces of cranberries, 1 cup of sugar, 1 cup of water, simmered 10 minutes",
+            "Two pies: one pumpkin, one apple — store-bought is completely fine, nobody checks",
+            "One big salad, to cut through all the butter and cream"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "How to host a friendsgiving potluck without chaos"
+        },
+        {
+          "items": [
+            "Make a shared list with every slot named — main, two sides, salad, bread, dessert, drinks, ice — and let people claim one each",
+            "Ask everyone to bring their dish ready to serve, with its own serving spoon",
+            "Set the oven to 200°F as a warming drawer for dishes that arrive early",
+            "Put a small card in front of every dish with the cook's name on it"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "p",
+          "text": "For drinks, keep it simple: one big batch of spiced apple cider in a slow cooker, a case of sparkling water, and whatever wine your friends bring. The cider takes five minutes — apple cider, two cinnamon sticks, three cloves and an orange sliced into rounds."
+        }
+      ],
+      "heading": "Easy friendsgiving food: a menu that practically cooks itself"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The best Friendsgiving games are the ones that start in under five minutes and don't make anyone perform. Nobody wants to act out a movie title in front of people they met an hour ago. The games that work are low-effort, a little silly, and easy to join halfway through — because someone always arrives late and someone always leaves early."
+        },
+        {
+          "t": "h3",
+          "text": "Three friendsgiving games that need zero setup"
+        },
+        {
+          "items": [
+            "The thankful guessing game: everyone writes one thing they're thankful for on a slip of paper, you read them out loud, and the table guesses who wrote each one",
+            "Friendsgiving bingo: print a free bingo card with words like 'turkey', 'gravy boat' and 'seconds' — the first person to fill a row wins a leftover pie slice",
+            "Two truths and a Thanksgiving lie: each person tells three short stories about past Thanksgivings, one of them made up, and the table votes on the fake one"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "After-dinner games for the ones who stay"
+        },
+        {
+          "t": "p",
+          "text": "Once the plates are cleared and the second round of drinks is poured, pull out a board game or a deck of cards. Charades with Thanksgiving words — 'stuffing', 'parade', 'food coma' — gets the whole room laughing, and a simple card game like Uno keeps the night going without anyone having to learn rules. Keep each game to about 30 minutes so the night keeps moving."
+        }
+      ],
+      "heading": "Friendsgiving games that actually get played"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The difference between a nice dinner and a night your friends photograph is a handful of small touches — and none of them cost much. It's the playlist that starts before anyone arrives, the drink that has a name, and one corner of the room that looks good in a photo. Two or three touches, done well, are enough."
+        },
+        {
+          "t": "h3",
+          "text": "A friendsgiving drinks station in one corner"
+        },
+        {
+          "items": [
+            "One signature drink with a name: spiced apple cider spritz — cider, sparkling water, a cinnamon stick and an orange wheel in every glass",
+            "A small chalkboard sign that says what's on offer, so nobody has to ask",
+            "Mismatched glasses are fine — they look better than a matched set on a Friendsgiving table",
+            "Keep the station away from the food table, so the drink queue and the food queue never collide"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "The photo corner your friends will actually use"
+        },
+        {
+          "t": "p",
+          "text": "Pick one wall or one corner, hang a string of warm fairy lights across it, and lean a small chalkboard against the wall with 'Friendsgiving 2026' written on it. Add two or three mini pumpkins on the floor and you're done. The best photos from our last Friendsgiving came from that corner, and the only thing we bought was the $3 string of lights."
+        }
+      ],
+      "heading": "Friendsgiving party ideas: aesthetic touches that make the night feel special"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Most Friendsgivings happen in small flats, not big houses — and honestly, a small room full of people feels warmer than a big one with empty chairs. The trick is to let the room work the way it already does. Eight to ten people is the sweet spot for a one-bedroom flat. "
+        },
+        {
+          "t": "h3",
+          "text": "Small-space seating that really works"
+        },
+        {
+          "items": [
+            "A buffet line along the kitchen counter beats sit-down service — people serve themselves and sit wherever there's a chair",
+            "Mix chairs, stools and floor cushions; nobody minds sitting on a cushion when the food is good",
+            "Clear the coffee table and use it as a second, low table for four people with cushions",
+            "Keep coats and bags in the bedroom with the door closed, so the living room stays clear"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "Keep the kitchen clear"
+        },
+        {
+          "t": "p",
+          "text": "In a small flat the kitchen is the bottleneck, so guard it. Cook the turkey the day before if you can — slice it, keep it in its juices in the fridge, and reheat it covered at 300°F for 30 minutes before guests arrive. Wash as you go, and keep the sink empty when the doorbell rings."
+        }
+      ],
+      "heading": "How to host a friendsgiving in a small apartment"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "A Friendsgiving feels easy when the work is spread out over a week instead of crammed into one afternoon. This is the checklist we use every year — the order that stops the last-minute panic. "
+        },
+        {
+          "t": "h3",
+          "text": "The week before"
+        },
+        {
+          "items": [
+            "Send the invite with the date, time and the shared potluck list — seven days ahead is ideal",
+            "Order or buy the turkey breast, and check you have a roasting pan big enough for it",
+            "Buy the candles, runner, napkins and pumpkins from the decor list",
+            "Confirm who's bringing what, and fill any empty slots yourself",
+            "Make a playlist, about two hours long, and test it on the speaker you'll use"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "h3",
+          "text": "The day of"
+        },
+        {
+          "items": [
+            "Morning: set the table, hang the fairy lights, and put the cider in the slow cooker on low",
+            "Two hours before: turkey in the oven, or reheating if you cooked it yesterday",
+            "One hour before: light the candles, start the playlist, and put the drinks station out",
+            "When guests arrive: take the coats, point at the drinks, and let people serve themselves",
+            "After dinner: clear the plates together, start the games, and send everyone home with leftovers in takeaway boxes"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "p",
+          "text": "One main dish, a shared table, a few candles and a game or two — and you've got a Friendsgiving your friends will ask to repeat next year. Send the invite tonight, while the idea is fresh."
+        }
+      ],
+      "heading": "Your friendsgiving checklist: the week before and the day of"
+    }
+  ],
+  "faqs": [
+    {
+      "a": "The weekend before Thanksgiving works best for most groups — this year that's Saturday, November 21 or Sunday, November 22, since Thanksgiving falls on Thursday, November 26. Send the invite about a week ahead, with a start time and one line about what to bring.",
+      "q": "When should I host my friendsgiving party?"
+    },
+    {
+      "a": "Run it as a potluck: you cook one main dish, like a 6 to 7 pound turkey breast, and your friends bring the sides from a shared list. The classic spread is mac and cheese, mashed potatoes, green beans, sweet potato casserole, cranberry sauce and two pies — enough for 8 to 10 people without anyone cooking all day.",
+      "q": "What are the best friendsgiving party ideas for food?"
+    },
+    {
+      "a": "Keep the guest list to 8 to 10 people, serve buffet-style from the kitchen counter, and mix chairs with stools and floor cushions. A low coffee table makes a good second table, and cooking the turkey the day before keeps the kitchen clear when guests arrive.",
+      "q": "What are the best friendsgiving party ideas for a small apartment?"
+    },
+    {
+      "a": "About $10 to $15 each when you split it as a potluck — the host spends roughly $30 to $40 on the turkey and decor, and each guest brings one dish worth about $10. A $30 decor budget covers the runner, candles, pumpkins and napkins for the whole table.",
+      "q": "How much do friendsgiving party ideas cost per person?"
+    }
+  ],
+  "hero": {
+    "src": "/img/a3-hero",
+    "alt": "Friendsgiving Party Ideas 2026 — a cozy autumn table with sunflowers, pumpkins and candles, and a chalkboard reading Good Friends Good Food Great Times"
+  },
+  "images": [
+    {
+      "after": 2,
+      "img": {
+        "src": "/img/a3-a",
+        "alt": "Overhead view of a Friendsgiving table mid-meal: cranberry sauce, roasted squash, mashed potatoes and turkey with autumn leaves scattered across the wood",
+        "caption": "The potluck table mid-meal — cranberry sauce, squash and turkey, with autumn leaves doing the decorating."
+      }
+    },
+    {
+      "after": 4,
+      "img": {
+        "src": "/img/a3-b",
+        "alt": "A cozy fall tablescape at dusk: pumpkins, candles and autumn flowers on a wooden table under a wooden chandelier",
+        "caption": "Candles, pumpkins and one basket of gourds — the whole aesthetic, for about $30."
+      }
+    }
+  ]
+}),
+  P({
   "slug": "christmas-window-painting-ideas",
   "title": "Christmas Window Painting Ideas",
   "category": "diy-crafts",
