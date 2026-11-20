@@ -85,12 +85,266 @@ export type Post = {
   motif: string; from: string; to: string;
   intro: string; sections: Section[]; faqs: Faq[];
   hero?: PostImage;
+  video?: string;
   images?: { after: number; img: PostImage }[];
 };
 
 const P = (o: Post) => o;
 
 export const POSTS: Post[] = [
+  P({
+  "bannerTitle": "Mini Pumpkin LED Candle Holders",
+  "category": "diy-crafts",
+  "date": "2026-11-20",
+  "excerpt": "Mini pumpkin LED candle holders are the easiest fall craft we know: paint two mini pumpkins, cut one small opening, drop in a battery tea light. Here's the full step-by-step, with the colors and styling that make them look bought, not homemade.",
+  "faqs": [
+    {
+      "a": "You can, and the painting and styling steps are the same — but a real pumpkin only lasts a week or two before it softens, and cutting it is messier. Artificial foam pumpkins cut cleanly, take paint well, and come out of the box again next fall, which is why we use them for this project.",
+      "q": "Can I use real mini pumpkins instead?"
+    },
+    {
+      "a": "Ordinary acrylic craft paint works well in two thin coats. Chalk paint is even more forgiving — it grips shiny plastic pumpkins better and dries matte. Avoid spray paint on foam unless the can says foam-safe, as some sprays melt the surface.",
+      "q": "What paint sticks best to foam pumpkins?"
+    },
+    {
+      "a": "Yes — there's no flame and they stay cool, which is the whole reason we use them in a holder surrounded by dried leaves. One sensible note: tea lights with button batteries should be kept where small children can't unscrew them, just like any battery toy.",
+      "q": "Are LED tea lights safe around kids and pets?"
+    },
+    {
+      "a": "About 40 minutes of hands-on time: 10 minutes planning and painting the first coat, a second coat after 15–20 minutes of drying, then 10 minutes to cut, tidy and style. Start after lunch and they're glowing on the table by dinner.",
+      "q": "How long does the whole project take?"
+    }
+  ],
+  "from": "#4E8FB8",
+  "hero": {
+    "alt": "Two finished mini pumpkin LED candle holders, cream and sage, glowing on a linen runner with dried autumn leaves",
+    "src": "/img/a5-hero"
+  },
+  "images": [
+    {
+      "after": 3,
+      "img": {
+        "alt": "Cream and sage mini pumpkin candle holders with LED tea lights, styled with dried leaves on linen",
+        "caption": "Cream and sage — the palette from the video, and the one readers ask about most.",
+        "src": "/img/a5-a"
+      }
+    },
+    {
+      "after": 5,
+      "img": {
+        "alt": "Mini pumpkin LED candle holders glowing on a light wood table with autumn leaves",
+        "caption": "Switched on at dusk, the glow does all the work.",
+        "src": "/img/a5-b"
+      }
+    }
+  ],
+  "intro": "Mini pumpkin LED candle holders took us one autumn afternoon to figure out and about forty minutes to make, and they've been on our table every fall since. The idea is simple: a mini artificial pumpkin, a coat of soft paint, one small opening, and a battery tea light doing a very convincing candle impression. No flame, no wax, no worrying about the tablecloth. The short video above shows the whole make in thirty seconds — and below you'll find every step written out, the exact supplies, and the color pairings that make these look like something from a home store shelf.",
+  "motif": "snow",
+  "readTime": 7,
+  "sections": [
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Fall decorating has a habit of getting expensive and fussy. These holders go the other way: two small pumpkins, a few paints you may already own, and a pair of LED tea lights. The finished pair works as a centerpiece, a mantel accent, or a small warm welcome by the front door — and because the pumpkins are artificial, you box them up in November and bring them out again next year."
+        },
+        {
+          "items": [
+            "Cheap to make: the whole pair usually costs less than one store-bought candle holder",
+            "Safe anywhere: battery lights mean no flame near leaves, linen or little hands",
+            "Quick: about 40 minutes of making, plus paint drying time",
+            "Reusable: artificial pumpkins store flat and last for years",
+            "Easy to match: paint them in whatever colors your room already uses"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "p",
+          "text": "They're also a kind first project if you don't think of yourself as crafty. The painting is forgiving, the cutting is one small circle, and the styling at the end is just arranging things you like the look of."
+        }
+      ],
+      "heading": "Why These Little Holders Earn Their Place"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Everything on this list is easy to find at a craft store or in a supermarket craft aisle. We made the pair in the video with two pumpkins about 4 inches (10 cm) across — big enough for a standard tea light, small enough to sit anywhere."
+        },
+        {
+          "items": [
+            "2 mini artificial pumpkins (foam or plastic, with a fairly flat top)",
+            "A craft knife or small carving tool",
+            "Acrylic paints — we used cream, muted sage and a touch of terracotta",
+            "Paintbrushes: one medium flat brush per color saves washing between coats",
+            "2 LED tea lights (warm white looks most like a real flame)",
+            "A handful of dried autumn leaves for styling",
+            "Optional: a neutral linen napkin or runner, a pencil for marking, masking tape"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "Choosing your pumpkins"
+        },
+        {
+          "t": "p",
+          "text": "Pick pumpkins that sit steady without wobbling — give them a little press on the shop shelf. Foam ones are easiest to cut and paint. If the surface is very shiny plastic, acrylic still works, but expect to need a third thin coat."
+        }
+      ],
+      "heading": "What You Need"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "This is steps one and two of the make, and the part that decides how the finished holders look. Take your time here and the rest is easy."
+        },
+        {
+          "t": "h3",
+          "text": "Plan the opening first"
+        },
+        {
+          "t": "p",
+          "text": "Before any paint goes on, sit each pumpkin in front of you and decide where the tea light will go. We cut the opening at the top, around the stem, so the light sits down inside and the glow spills upward. Rest the tea light on the pumpkin and draw lightly around it with a pencil — that circle is your cutting guide later, and knowing where it is stops you painting a thick ridge right where you'll cut."
+        },
+        {
+          "t": "h3",
+          "text": "Two thin coats, not one thick one"
+        },
+        {
+          "t": "p",
+          "text": "Paint one pumpkin cream and the other muted sage, following the natural grooves from top to bottom. Thin coats are the whole secret: the first coat will look streaky, and that's fine. Let it dry for 15 to 20 minutes, then add the second coat — the color evens out, the brush strokes soften, and the pumpkin keeps its shape instead of disappearing under a blob of paint. Leave the stems unpainted for a natural contrast, or paint them a muddy brown if yours are bright orange plastic."
+        },
+        {
+          "t": "p",
+          "text": "Let both pumpkins dry fully before cutting — at least 30 minutes. Paint that's dry to the touch but soft underneath tears at the cut edge, and tidy edges are what make these look bought rather than homemade."
+        }
+      ],
+      "heading": "Painting the Pumpkins"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Steps three and four: the small bit of careful work, then the satisfying part. The cutting is a job for adult hands — if kids are helping, this is the moment they become chief painters and stylists instead."
+        },
+        {
+          "t": "h3",
+          "text": "Mark it, then cut slowly"
+        },
+        {
+          "t": "p",
+          "text": "Set the tea light on your pencil circle and check the size once more. Then, keeping the pumpkin steady on the table with one hand well away from the blade, cut around the circle with the craft knife in short, gentle strokes. Foam pumpkins cut easily — let the knife do the work rather than pressing hard. Cut just inside your line: you can always widen the hole, you can't shrink it."
+        },
+        {
+          "t": "h3",
+          "text": "Tidy the edges"
+        },
+        {
+          "t": "p",
+          "text": "Lift out the cut piece and pick away any loose bits of foam from inside the opening. If the edge looks rough, pare it down a sliver at a time and brush off the crumbs. A quick ring of paint around the cut edge hides any raw foam color and finishes it neatly."
+        },
+        {
+          "t": "h3",
+          "text": "Drop in the light"
+        },
+        {
+          "t": "p",
+          "text": "Switch the LED tea light on and lower it into the opening. It should sit with its flame tip just above the pumpkin's surface — deep enough to look nestled, high enough to glow. If it sinks too low, drop a small ball of tissue or a coin underneath it. That's the make finished: two holders, ready to style."
+        }
+      ],
+      "heading": "Cutting the Opening and Adding the Light"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "A pair of holders on their own looks sweet; styled with a few autumn bits, they look like a centerpiece. In the video we arranged them on a neutral linen napkin with dried leaves tucked around the bases — that two-minute step is what pulls the whole thing together."
+        },
+        {
+          "items": [
+            "Table centerpiece: both holders on a linen runner, dried leaves and pinecones scattered between them",
+            "Mantel: one at each end of a simple garland, switched on at dusk",
+            "Entryway: a pair on a small tray by the door with a bowl for keys",
+            "Windowsill: a row of three in mixed colors, glowing against the early dark",
+            "Friendsgiving table: one holder per two place settings, with name cards propped against them"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "p",
+          "text": "Keep dried leaves a small distance from the holders if you ever swap in real candles elsewhere in the arrangement — with LED lights there's no risk, but the habit keeps every autumn display safe."
+        }
+      ],
+      "heading": "Styling Them Around the House"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The pumpkins start orange, but after paint they can lean any way your home leans. These three pairings are the ones we reach for again and again."
+        },
+        {
+          "t": "h3",
+          "text": "Cream and sage"
+        },
+        {
+          "t": "p",
+          "text": "The palette from the video: soft, calm, and happy next to light wood, linen and dried grasses. It's the easiest pairing to live with and the one that photographs best in daylight."
+        },
+        {
+          "t": "h3",
+          "text": "Terracotta and cream"
+        },
+        {
+          "t": "p",
+          "text": "Warmer and more autumn-forward. Terracotta picks up the colors of dried leaves and brick, and looks especially good on a darker wood table or with brass anywhere nearby."
+        },
+        {
+          "t": "h3",
+          "text": "White and gold"
+        },
+        {
+          "t": "p",
+          "text": "For a dressier table: matte white pumpkins with the stems painted gold. Add the holders to a Thanksgiving or Friendsgiving table and they read as elegant rather than crafty."
+        },
+        {
+          "t": "p",
+          "text": "Whatever you choose, paint both pumpkins in the same sitting with the same paints — pairs made from one palette always look intentional, even if the two colors are different."
+        }
+      ],
+      "heading": "Color Palettes That Always Work"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The quiet advantage of artificial pumpkins: this is a make-once project. When the season ends, switch the tea lights off (or take the batteries out if yours are replaceable), dust the pumpkins with a dry cloth, and store them in a box with a little tissue between them so the paint doesn't rub."
+        },
+        {
+          "items": [
+            "Store out of direct sunlight — acrylic colors can fade over a long summer in a bright spot",
+            "Touch up scuffs with a dab of the leftover paint before you style them again",
+            "Keep the tea lights with the pumpkins so next year's setup takes two minutes",
+            "If a cut edge crumbles a little in storage, trim it tidy and re-paint the rim"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "p",
+          "text": "And if you fall for the process — most people do — the same paint-cut-glow method works on bigger pumpkins for a porch display. The steps don't change at all, just the size of the tea light."
+        }
+      ],
+      "heading": "Keeping Them for Next Year"
+    }
+  ],
+  "slug": "mini-pumpkin-led-candle-holders",
+  "subcategory": "Table Decor DIY",
+  "title": "Mini Pumpkin LED Candle Holders: Easy DIY Fall Decor With Paint & Tea Lights",
+  "to": "#275E7E",
+  "video": "mini-pumpkin-led-candle-holders"
+}),
   P({
   "slug": "winter-bucket-list-ideas",
   "title": "Winter Bucket List Ideas 2026: 30 Cozy Things to Do This Winter, From Snow Days to Movie Nights",

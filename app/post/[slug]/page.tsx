@@ -6,6 +6,7 @@ import PostCard from "@/components/PostCard";
 import ShareRow from "@/components/ShareRow";
 import Sidebar from "@/components/Sidebar";
 import { POSTS, postBySlug, catBySlug, relatedPosts, fmtDate } from "@/lib/posts";
+import { videoBySlug, fmtDuration } from "@/lib/videos";
 import { SITE_URL, SITE_NAME, PINTEREST_URL } from "@/lib/config";
 
 export function generateStaticParams() {
@@ -30,6 +31,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
   const post = postBySlug(slug);
   if (!post) notFound();
   const cat = catBySlug(post.category);
+  const video = post.video ? videoBySlug(post.video) : undefined;
   const related = relatedPosts(post);
   const url = `${SITE_URL}/post/${post.slug}`;
   const jsonLd = {
@@ -41,6 +43,12 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
         publisher: { "@type": "Organization", name: SITE_NAME, logo: { "@type": "ImageObject", url: `${SITE_URL}/logo.png` } },
         mainEntityOfPage: url, image: post.hero ? `${SITE_URL}${post.hero.src}` : `${SITE_URL}/logo.png`,
       },
+      ...(video ? [{
+        "@type": "VideoObject", name: video.title, description: post.excerpt,
+        thumbnailUrl: [`${SITE_URL}${video.poster}`], uploadDate: post.date,
+        duration: `PT${video.durationSec}S`, contentUrl: `${SITE_URL}/videos/${video.slug}.mp4`,
+        embedUrl: url,
+      }] : []),
       { "@type": "BreadcrumbList", itemListElement: [
         { "@type": "ListItem", position: 1, name: "Home", item: SITE_URL },
         { "@type": "ListItem", position: 2, name: cat.name, item: `${SITE_URL}/${cat.slug}` },
@@ -62,6 +70,13 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
         <p className="meta">By Seasonora Editorial · {fmtDate(post.date)} · {post.readTime} min read</p>
         <div className="hero-visual">{post.hero ? <img className="visual visual-lg visual-img" src={post.hero.src} alt={post.hero.alt} /> : <Visual post={post} large />}</div>
         <p>{post.intro}</p>
+
+        {video && (
+          <figure className="video-block">
+            <video controls preload="metadata" poster={video.poster} playsInline src={`/videos/${video.slug}.mp4`} aria-label={video.title} />
+            <figcaption>Watch the whole project: {video.title} ({fmtDuration(video.durationSec)}) — then follow the steps below.</figcaption>
+          </figure>
+        )}
 
         <nav className="toc" aria-label="Table of contents">
           <h2>In this guide</h2>
