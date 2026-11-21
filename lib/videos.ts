@@ -16,6 +16,17 @@ export type VideoEntry = {
 
 export const VIDEOS: VideoEntry[] = [
   {
+    slug: "pressed-autumn-leaf-glass-frames",
+    title: "DIY Pressed Leaf Frames – Easy Autumn Wall Art",
+    description: "Turn real pressed autumn leaves into elegant botanical wall art with a floating glass frame — a simple nature craft for any living room or gallery wall.",
+    category: "diy-crafts",
+    topic: "Autumn wall art",
+    articleSlug: "pressed-autumn-leaf-glass-frames",
+    poster: "/img/a9-a",
+    durationSec: 30,
+    date: "2026-11-21",
+  },
+  {
     slug: "mini-pumpkin-led-candle-holders",
     title: "DIY Mini Pumpkin LED Candle Holders",
     description: "Paint two mini pumpkins in soft fall colors, cut one small opening and drop in an LED tea light — a cozy holder in about 40 minutes.",

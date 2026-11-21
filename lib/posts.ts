@@ -93,6 +93,266 @@ const P = (o: Post) => o;
 
 export const POSTS: Post[] = [
   P({
+  "bannerTitle": "Pressed Leaf Glass Frames",
+  "category": "diy-crafts",
+  "date": "2026-11-21",
+  "excerpt": "Pressed autumn leaf glass frames turn a walk's worth of fallen leaves into elegant botanical wall art. All you need is a floating glass frame, a few fully dried leaves, and about half an hour — here's the full step-by-step, plus the leaf picks and styling tricks that make it look bought, not homemade.",
+  "faqs": [
+    {
+      "a": "Years, as long as the leaves were fully dry when you framed them and the frame stays out of direct sun and damp. In a normal living room we've seen leaves hold their color for three or four years. If one fades, open the frame and swap it — that's the advantage of a floating frame.",
+      "q": "How long do pressed leaves last in a pressed autumn leaf glass frame?"
+    },
+    {
+      "a": "Press them yourself — it's free, and the book method in this guide takes one to two weeks with no special kit. Buy pressed leaves only if you need a specific species you can't find locally, and check they're fully dry and flat before you pay for them.",
+      "q": "Can I press leaves myself, or should I buy them already pressed?"
+    },
+    {
+      "a": "Yes, eventually — direct sun bleaches the reds and oranges first, sometimes within a single season on a south-facing wall. Hang the frame where it gets bright indirect light instead, and the colors will last years rather than months.",
+      "q": "Will my pressed autumn leaf glass frame fade in sunlight?"
+    },
+    {
+      "a": "An 8 x 10 inch (20 x 25 cm) frame is the sweet spot for three or four leaves, and it hangs well almost anywhere. Go smaller — 5 x 7 inch — for a single leaf, or larger — 11 x 14 inch — for a five-leaf arrangement on a bigger wall.",
+      "q": "What size floating frame works best for pressed leaf art?"
+    }
+  ],
+  "from": "#4E8FB8",
+  "hero": {
+    "alt": "Finished floating glass frame with pressed orange, yellow and burgundy maple leaves hanging on a cream wall in an autumn living room",
+    "src": "/img/a9-hero"
+  },
+  "images": [
+    {
+      "after": 3,
+      "img": {
+        "alt": "Floating glass frame with three pressed maple leaves in orange, yellow and burgundy on a cream wall",
+        "caption": "Three leaves, spaced wide: the calmest layout, and the easiest to get right first time.",
+        "src": "/img/a9-a"
+      }
+    },
+    {
+      "after": 5,
+      "img": {
+        "alt": "Pressed leaf glass frame styled on a light wood console table with a ceramic vase of dried grasses and linen books",
+        "caption": "On a console table, the frame holds its own next to a vase and a stack of books.",
+        "src": "/img/a9-b"
+      }
+    }
+  ],
+  "intro": "Pressed autumn leaf glass frames are one of those projects that look far harder than they are. You gather a few good leaves on a walk, press them flat until they're dry, and sandwich them between two panes of glass — and suddenly you've got a piece of botanical wall art that fits a living room, an entryway, or a gallery wall. The short video above shows the whole make in thirty seconds, and below you'll find every step written out, the exact supplies, and the small choices that make the difference between a frame that looks neat and one that looks like a school project.",
+  "motif": "snow",
+  "readTime": 8,
+  "sections": [
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The idea works because the leaves do the decorating. Autumn hands you the colors for free — bright orange, soft gold, deep burgundy — and the glass keeps them flat and visible from both sides. A floating frame holds the leaves in mid-air, so light passes through and the veins show up like a print. No paint, no glue gun, no drawing skills needed."
+        },
+        {
+          "items": [
+            "Free materials: the best leaves are the ones you pick up on a walk",
+            "Quick: about 30 minutes of making once your leaves are pressed and dry",
+            "No special tools: tweezers and a soft cloth are the fanciest things on the list",
+            "Fits any room: the same frame works in a living room, hallway, bedroom or home office",
+            "Easy to change: swap the leaves out next season and the frame feels new again"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "p",
+          "text": "It's also a kind first project if you don't think of yourself as crafty. The hardest part is choosing which leaves to keep — and the video shows you exactly what a good pick looks like, so you can judge yours against it before you start."
+        }
+      ],
+      "heading": "Why Pressed Autumn Leaf Glass Frames Work So Well"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Everything on this list is easy to find. We used an 8 x 10 inch (20 x 25 cm) floating glass frame for the one in the video — big enough for three or four leaves, small enough to hang anywhere. If you already own a frame, use it; the steps don't change."
+        },
+        {
+          "items": [
+            "Fully dried pressed leaves — maple, oak and sweetgum press best, in orange, yellow and burgundy",
+            "A floating glass frame (two glass panels in a brass or wood edge, with hardware)",
+            "Tweezers, for placing leaves without touching them",
+            "Neutral backing paper — plain cream or white card, cut to fit the frame",
+            "A soft cloth, for wiping fingerprints off the glass",
+            "Frame hardware — the clips or screws that came with your frame, plus a picture hook for hanging"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "Picking the right frame"
+        },
+        {
+          "t": "p",
+          "text": "Look for a frame with a thin metal edge — brass or black both suit autumn leaves — and glass on both sides, not glass on one side and a solid back. The whole point is seeing the leaves float, so a solid backing defeats it. Check the clips before you buy: spring clips are easiest, small screws are sturdier on a wall that gets bumped."
+        }
+      ],
+      "heading": "What You Need"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "This is step one of the make, and it's the part that decides how the finished frame looks. Pick leaves on a dry day, after the morning damp has lifted. You want leaves that are already flat and crisp, with strong color and no torn edges or brown spots."
+        },
+        {
+          "t": "h3",
+          "text": "Leaves that press best"
+        },
+        {
+          "t": "p",
+          "text": "Maple leaves are the classic pick — big, bold shapes and the strongest autumn colors. Oak leaves press well too, and their lobed edges add variety next to maple. Mix sizes: one large leaf as the anchor, then smaller ones around it. Keep three or four of each color, so you can choose the best of the bunch when you arrange."
+        },
+        {
+          "t": "h3",
+          "text": "Pressing them flat"
+        },
+        {
+          "t": "p",
+          "text": "If your leaves aren't fully dry yet, press them first — a damp leaf will curl and spot inside the glass. The old book method still works best:"
+        },
+        {
+          "items": [
+            "Lay each leaf flat between two sheets of plain paper, with no overlaps",
+            "Close the paper inside a heavy book, then stack two or three more books on top",
+            "Leave them alone for one to two weeks — check at one week and give damp leaves more time",
+            "A leaf is ready when it feels papery and crisp, and stays flat when you lift it"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "p",
+          "text": "Don't rush this part. A leaf that still bends will curl inside the frame within a week, and there's no fixing it without opening the whole thing up again."
+        }
+      ],
+      "heading": "Picking and Pressing Your Leaves"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "This is step two, and the most enjoyable part. Lay your backing paper on a clean table and set the bottom glass panel on top of it. Then, using tweezers, place the leaves on the paper one at a time. Tweezers matter here: fingers leave oils on the leaves and smudges on the glass, and pressed leaves are thin enough to crack if you grip them."
+        },
+        {
+          "t": "h3",
+          "text": "A layout that looks balanced"
+        },
+        {
+          "t": "p",
+          "text": "Start with your biggest leaf slightly off-center — dead center looks stiff, while a small shift to one side looks natural. Then add the others around it, leaving real gaps between them. The gaps are part of the design: they let light through and stop the frame from looking crowded."
+        },
+        {
+          "items": [
+            "Odd numbers look best: three or five leaves beat four",
+            "Mix the colors: don't put all the orange leaves on one side",
+            "Point the stems in different directions — it keeps the layout from looking lined up",
+            "Leave a thumb's width of space between leaves and the frame edge",
+            "Step back and look from a distance before you close the glass — small shifts show up from across the room"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "p",
+          "text": "Once you're happy, take a photo of the layout. If a leaf shifts while you lower the glass, the photo tells you exactly where it belonged."
+        }
+      ],
+      "heading": "Arranging Your Pressed Autumn Leaf Glass Frame"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Step three is the careful part. Hold the top glass panel by its edges and lower it straight down onto the leaves — don't slide it, or you'll drag the arrangement out of place. Set it down gently and let its own weight settle it. Then secure the frame hardware: clips or screws, snug but not forced. Glass cracks when hardware is over-tightened, so stop as soon as it holds."
+        },
+        {
+          "t": "h3",
+          "text": "No smudges, no slips"
+        },
+        {
+          "t": "p",
+          "text": "Wipe both outer faces of the glass with the soft cloth, holding the frame by its edge while you work. Fingerprints show up badly against light, so check the glass against a window before you hang it. If a leaf has slipped, open the frame, reset it from your photo, and close it again — better now than on the wall."
+        },
+        {
+          "items": [
+            "Lower the glass straight down — never slide it across the leaves",
+            "Tighten clips just enough to hold; over-tightening cracks glass",
+            "Wipe with a dry soft cloth — spray cleaner can seep between the panes",
+            "Hang with a proper picture hook, not a plain nail, so the frame sits flat"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "p",
+          "text": "Hold the finished frame up to the light and look through it. The leaves should read clearly from both sides, with their veins lit up — that's the moment you know it worked."
+        }
+      ],
+      "heading": "Closing the Glass and Finishing the Frame"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "A pressed leaf frame is quiet decor — it doesn't shout, so it works in places where a loud print would fight the room. Hang it where daylight can reach it, because backlight is what makes the leaves glow. A wall opposite a window is ideal; a dark hallway is not."
+        },
+        {
+          "items": [
+            "Entryway: one frame at eye level, so guests see it the moment they walk in",
+            "Gallery wall: mix one leaf frame in with photos and prints — the nature piece breaks up the rectangles",
+            "Mantel: lean it against the wall between candles or a small vase, so it catches the firelight",
+            "Desk or console: stand it on a small easel next to a vase of dried grasses",
+            "Gift: a framed leaf from a walk you took together beats a shop-bought card every time"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "p",
+          "text": "If you make more than one, hang them as a pair or a trio with matching frames and different leaf colors in each. A row of three small frames reads like a proper collection, and it costs about the same as one store-bought print."
+        }
+      ],
+      "heading": "Styling Your Pressed Leaf Frames Around the House"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Pressed leaves are dry plant matter, so two things age them: sunlight and damp. Keep the frame out of direct sun — a south-facing window will fade orange to pale yellow within a season — and keep it out of steamy rooms like bathrooms. In a normal dry living room, the leaves hold their color for years."
+        },
+        {
+          "t": "h3",
+          "text": "Simple care, and easy variations"
+        },
+        {
+          "t": "p",
+          "text": "Dust the glass with a dry cloth now and then, the same as any picture frame. If a leaf ever fades or a corner curls, open the frame and swap it for a fresh pressed one — that's the real advantage of a floating frame over a glued collage. And once you've made one, the same method works with pressed ferns, small wildflowers, or a single dramatic leaf on its own in a smaller frame."
+        },
+        {
+          "items": [
+            "Keep out of direct sunlight to hold the autumn colors",
+            "Avoid damp rooms — moisture fogs the glass and softens the leaves",
+            "Swap leaves each season: green ferns in spring, wildflowers in summer",
+            "Store spare pressed leaves flat in a book, so next year's frame takes ten minutes"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "p",
+          "text": "That's the whole project: a walk, a book, a frame, and half an hour. The leaves you press this autumn will still be on your wall when the next lot turns."
+        }
+      ],
+      "heading": "Keeping Pressed Leaf Frames Looking Good"
+    }
+  ],
+  "slug": "pressed-autumn-leaf-glass-frames",
+  "subcategory": "Handmade Gifts",
+  "title": "Pressed Autumn Leaf Glass Frames: Easy Botanical Wall Art for Fall",
+  "to": "#275E7E",
+  "video": "pressed-autumn-leaf-glass-frames"
+}),
+  P({
     "slug": "turkey-charcuterie-board",
     "title": "Turkey Charcuterie Board Ideas: Easy Thanksgiving Snack Board with Salami, Cheese & Crackers",
     "bannerTitle": "Turkey Charcuterie Board Ideas",
