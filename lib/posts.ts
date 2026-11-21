@@ -93,6 +93,573 @@ const P = (o: Post) => o;
 
 export const POSTS: Post[] = [
   P({
+    "slug": "turkey-charcuterie-board",
+    "title": "Turkey Charcuterie Board Ideas: Easy Thanksgiving Snack Board with Salami, Cheese & Crackers",
+    "bannerTitle": "Turkey Charcuterie Board Ideas",
+    "category": "food-recipes",
+    "subcategory": "Appetizers",
+    "excerpt": "Turkey charcuterie board ideas for Thanksgiving: a salami-feather snack board with cheese, crackers and a pear body. Feeds 10-12, ready in 30 minutes.",
+    "date": "2026-11-21",
+    "readTime": 10,
+    "motif": "cookie",
+    "from": "#DE7A3D",
+    "to": "#A83E1B",
+    "intro": "Every Thanksgiving, there's that hungry hour before the turkey comes out of the oven, when everyone's standing around the kitchen picking at whatever's in reach. A turkey charcuterie board fixes that hour. It's a big snack board built in the shape of a turkey — salami and cracker feathers fanned out behind a little pear body — and it takes about 30 minutes to put together with zero cooking. We made one last year as a joke for the kids and it vanished faster than the pie. This guide gives you the exact shopping list for 10 to 12 people, the assembly order that makes the turkey shape actually read, and the make-ahead timing so you're not slicing cheese while guests ring the bell.",
+    "sections": [
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "A turkey charcuterie board is just a regular meat and cheese board with one trick: everything is arranged in arcs. The rows of salami, cheese and crackers fan out in a half-circle, and your eye reads those arcs as tail feathers. A pear stood up at the bottom center becomes the body, two chocolate chips become eyes, and suddenly a snack board is a turkey."
+          },
+          {
+            "t": "h3",
+            "text": "What makes a Thanksgiving snack board read as a turkey"
+          },
+          {
+            "items": [
+              "Arcs, not piles — every row follows the same half-circle curve",
+              "Color bands — dark salami, orange cheddar, pale crackers, red grapes, so each feather row stands out",
+              "A clear body — the pear sits low and center, with open space around it so the shape pops",
+              "A face — eyes, a beak and a wattle take ten seconds and sell the whole thing"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "p",
+            "text": "You don't need any carving skills or special tools. If you can overlap slices in a row, you can build this. The order matters more than neatness, and the steps below follow the order that works: feathers first, body last."
+          }
+        ],
+        "heading": "Turkey Charcuterie Board Basics: Why the Shape Works"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "This list fills one large board generously for 10 to 12 people as a pre-dinner snack. Since a full Thanksgiving dinner follows, portions are grazing-size — about 2 ounces of meat and 2 ounces of cheese per person, plus crackers and fruit."
+          },
+          {
+            "t": "h3",
+            "text": "Meats for the feather rows"
+          },
+          {
+            "items": [
+              "8 oz (225 g) Genoa salami slices, about 40 slices — the main feather row",
+              "6 oz (170 g) pepperoni slices — the second feather row",
+              "4 oz (115 g) prosciutto or soppressata — optional third row, ruffled loosely"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "h3",
+            "text": "Cheeses, crackers and the turkey body"
+          },
+          {
+            "items": [
+              "8 oz (225 g) sharp cheddar, sliced — save one slice for the beak and feet",
+              "8 oz (225 g) pepper jack or Colby jack, cut into cubes",
+              "4 oz (115 g) white cheddar slices",
+              "1 box round butter crackers, about 40 crackers — the outer feather tips",
+              "1 box water crackers or flatbread crackers, about 30",
+              "1 firm Bosc pear — the turkey body (a small 8 oz brie wheel works too)"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "h3",
+            "text": "Fruit, garnish and the face"
+          },
+          {
+            "items": [
+              "1 cup red grapes and 1 cup green grapes, on the stem in small clusters",
+              "1/2 cup dried cranberries and 1/2 cup dried apricots",
+              "1/2 cup candied pecans or whole almonds",
+              "1 small red bell pepper — a thin strip for the wattle, the rest in strips for gaps",
+              "2 chocolate chips or 2 black olives — the eyes",
+              "4-5 fresh rosemary sprigs, tucked around the edges",
+              "Optional: 1/4 cup fig jam or cranberry sauce in a small bowl"
+            ],
+            "t": "ul"
+          }
+        ],
+        "heading": "Turkey Charcuterie Board Ingredients for 10 to 12 People"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Set aside 30 minutes and build the board where it will be served, or on a board you can carry with two hands. Work from the outside in — feathers first, face last."
+          },
+          {
+            "t": "h3",
+            "text": "The assembly order that keeps the feathers neat"
+          },
+          {
+            "items": [
+              "Lay out your board (16 to 20 inches — see the size guide below). If you're using the jam bowl, set it in an upper corner now so the arcs can flow around it.",
+              "Fan the salami in a wide arc across the top two-thirds of the board, each slice overlapping the last by half. This is the back feather row and the widest arc.",
+              "Inside the salami, lay the pepperoni in a second, tighter arc. If you're using prosciutto, ruffle it in loose folds between the two rows.",
+              "Add the cheddar slices as the third arc, then run the white cheddar slices or pepper jack cubes in a fourth row closer to the center.",
+              "Fan the round butter crackers along the very top edge as the feather tips, and line the water crackers down both sides.",
+              "Now the body: slice a thin sliver off one side of the pear so it sits flat, and stand it at the bottom center, stem up, in the open space inside the arcs.",
+              "Fill every gap with grape clusters, dried cranberries, apricots, pecans and pepper strips. No bare board should show — small gaps get a single cranberry or nut.",
+              "Give the turkey its face: press two chocolate chips or olive halves into the pear for eyes, cut a small triangle from the saved cheddar slice for the beak, and lay the thin red pepper strip beside the beak as the wattle. Cut two tiny cheddar triangles for feet at the base.",
+              "Tuck rosemary sprigs around the outer edge, step back, and fix any row that looks flat by nudging a few slices upright."
+            ],
+            "t": "ol"
+          },
+          {
+            "t": "p",
+            "text": "Take the photo now, before anyone touches it — the first hand in always goes for the salami row, and the turkey loses a feather fast."
+          }
+        ],
+        "heading": "Turkey Charcuterie Board Assembly: Building the Turkey Shape Step by Step"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "The board is the one thing people get wrong. Too small and the arcs get crowded until the turkey shape disappears; too big and the same ingredients look thin and sad. A round board shows off the fan shape best, but a big rectangular cutting board works fine — just build the arcs across one end."
+          },
+          {
+            "t": "h3",
+            "text": "Board sizes by guest count"
+          },
+          {
+            "items": [
+              "6 to 8 people: a 14-inch round board, use about two-thirds of the ingredient list",
+              "10 to 12 people: a 16 to 18-inch round board, or a 12 x 18-inch rectangle — the full list above",
+              "15 to 20 people: a 20-inch board or two smaller turkeys on two boards (two turkeys look great on a long table)",
+              "No big board? A rimmed baking sheet lined with parchment works, and the rim stops runaway grapes"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "p",
+            "text": "One layout rule worth following: keep the bottom third of the board open until the pear goes in. If the feather rows creep too low, the body has nowhere to sit and the whole bird looks squashed."
+          }
+        ],
+        "heading": "Choosing the Right Board Size for a Thanksgiving Charcuterie Board"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Almost everything on this board can be prepped the day before, which is exactly what you want when the oven is already spoken for. The only real rule: crackers go on last, or they go soft in the fridge overnight."
+          },
+          {
+            "t": "h3",
+            "text": "What to do when"
+          },
+          {
+            "items": [
+              "Night before: cube the pepper jack, slice the cheddar, cut pepper strips, wash and dry the grapes, portion nuts and dried fruit into small containers",
+              "Night before: keep meats sealed in their packs in the fridge — sliced meat dries out fast once it's opened and arranged",
+              "Morning of: set out the board, bowl and serving utensils so assembly is one smooth run",
+              "Up to 2 hours before guests: build the full board except the crackers, cover loosely with plastic wrap and refrigerate",
+              "30 minutes before serving: add the crackers and the pear's face, then set the board out so the cheese loses its fridge chill"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "p",
+            "text": "Food safety is simple here: the finished board can sit out for about 2 hours. At a long, slow gathering, build a smaller board and keep a refill tray in the fridge instead of leaving one big board out all afternoon."
+          }
+        ],
+        "heading": "Make-Ahead Timeline: Prep the Night Before, Assemble in 30 Minutes"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Prices swing a lot by store, but this is a realistic mid-range grocery run. The meats and cheeses are nearly all of the cost — the pear, grapes and garnishes are pocket change by comparison."
+          },
+          {
+            "t": "h3",
+            "text": "Typical cost breakdown for 10 to 12 people"
+          },
+          {
+            "items": [
+              "Meats (salami, pepperoni, prosciutto): $10 to $14",
+              "Cheeses (cheddar, pepper jack, white cheddar): $9 to $12",
+              "Crackers, two boxes: $6 to $8",
+              "Fruit, dried fruit and nuts: $7 to $9",
+              "Pear, pepper, rosemary and face bits: about $3",
+              "Total: roughly $35 to $45 — about $3.50 per person"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "p",
+            "text": "To trim it: buy store-brand salami and cheddar (nobody can tell once it's fanned), pick one nicer cheese instead of three, and skip the prosciutto row. That brings the board closer to $28 without changing how it looks in photos."
+          }
+        ],
+        "heading": "What a Turkey Charcuterie Board Costs to Make"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "The turkey shape survives almost any swap, because the shape comes from the arcs, not from any single ingredient. Swap by row: replace a feather row like for like, and the board still reads as a turkey."
+          },
+          {
+            "t": "h3",
+            "text": "Swaps that keep the shape"
+          },
+          {
+            "items": [
+              "Vegetarian: drop the meats, add a hummus bowl as a second body element, and make the feather rows from cheddar, cucumber slices, carrot sticks and bell pepper strips",
+              "Nut-free: swap pecans for pretzel sticks, pumpkin seeds or extra dried fruit",
+              "Kid-friendly: turkey pepperoni, mild Colby jack, more grapes and strawberries, and a few mini cookies tucked into the outer row",
+              "Gluten-free: use gluten-free crackers for one side of the board and keep them fanned separately so there's no mix-up",
+              "No pear: a small brie wheel, a cheese ball or even a mini pumpkin all make a good body — the face goes on with the same chocolate-chip eyes"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "p",
+            "text": "Leftovers, if there are any, keep for 2 days in the fridge in a sealed container. The crackers won't survive — eat those tonight, standing at the counter, the way everyone actually does."
+          }
+        ],
+        "heading": "Easy Swaps: Vegetarian, Nut-Free and Kid-Friendly Turkey Boards"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "Prep the ingredients the night before — cube the cheese, slice peppers, wash the grapes — and assemble the board up to 2 hours before serving, covered in the fridge. Add the crackers and the pear's face in the last 30 minutes so the crackers stay crisp and the pear doesn't brown.",
+        "q": "How far ahead can I make a turkey charcuterie board?"
+      },
+      {
+        "a": "A 16 to 18-inch round board, or a 12 x 18-inch rectangular board, holds the full ingredient list for 10 to 12 people. For 15 to 20 guests, go up to a 20-inch board or build two smaller turkeys — two boards are easier to carry and refill.",
+        "q": "What size board do I need for a turkey charcuterie board for 12 people?"
+      },
+      {
+        "a": "About 2 hours at room temperature. Thanksgiving grazing tends to run longer than that, so either set the board out right as guests arrive and clear it when dinner starts, or build a smaller board and keep a refill tray in the fridge.",
+        "q": "How long can a charcuterie board sit out at Thanksgiving?"
+      },
+      {
+        "a": "A small 8 oz brie wheel stood on its edge, a cheese ball, or a mini pumpkin all work. The pear is the classic choice because its shape already looks like a little turkey body and the stem reads as a tuft — a firm Bosc pear sits the most steadily.",
+        "q": "What can I use instead of a pear for the turkey body?"
+      }
+    ],
+    "hero": {
+      "src": "/img/a8-hero",
+      "alt": "Turkey charcuterie board with salami and cracker feather arcs, cheddar rows, grape clusters and a pear turkey body on a round wooden board"
+    },
+    "images": [
+      {
+        "after": 2,
+        "img": {
+          "src": "/img/a8-a",
+          "alt": "Close-up of a charcuterie board with salami slices, breadsticks, dried figs and candied nuts on a wooden tray",
+          "caption": "Feather-row details: salami, breadsticks and dried fruit fill every gap."
+        }
+      },
+      {
+        "after": 4,
+        "img": {
+          "src": "/img/a8-b",
+          "alt": "Night-before prep with containers of cubed cheese, washed grapes, a stack of salami slices and pepper strips beside an empty wooden board",
+          "caption": "Night-before prep: everything portioned and ready for a 30-minute assembly."
+        }
+      }
+    ]
+  }),
+  P({
+  "slug": "friendsgiving-table-decor-ideas",
+  "title": "Friendsgiving Table Decor Ideas 2026: Easy Rustic Centerpieces, Place Settings & Budget-Friendly Table Styling",
+  "bannerTitle": "Friendsgiving Table Decor Ideas",
+  "category": "holidays",
+  "subcategory": "Thanksgiving & Friendsgiving",
+  "excerpt": "Friendsgiving table decor ideas that actually work: rustic centerpieces, easy place settings and budget-friendly styling for a small-space table, step by step.",
+  "date": "2026-11-21",
+  "readTime": 10,
+  "motif": "star",
+  "from": "#E3A72F",
+  "to": "#B95E14",
+  "intro": "Friendsgiving table decor is the part of the party your guests see first — before the food, before the playlist, before anyone sits down. And it doesn't take much to get it right. A runner, a few small pumpkins, some candles, and a table that says someone cared. We set our first friendsgiving table in a one-bedroom apartment with a folding table and $25, and our friends still talk about it. These friendsgiving table decor ideas are built the same way: simple pieces, honest prices, and a look that works whether you're feeding four friends or fourteen.",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Every good friendsgiving table starts the same way: with a runner down the middle. It covers the bare wood or the old tablecloth, hides the join in a folding table, and gives every other piece something to sit on. Skip the runner and the table looks like a bunch of dishes that happened to land in the same place. Add one and it looks like you meant it."
+        },
+        {
+          "t": "h3",
+          "text": "Pick a terracotta or cream cheesecloth runner"
+        },
+        {
+          "t": "p",
+          "text": "A gauzy cheesecloth runner in terracotta, rust or cream is the one to buy if you only buy one thing. It costs $12–18 for a 120-inch length, which fits a table for eight to ten, and the frayed edges do the styling for you — no ironing, no fussing. Lay it down the middle and let the ends hang about 8 inches over each edge."
+        },
+        {
+          "items": [
+            "Terracotta cheesecloth runner, 120 inches — $12–18",
+            "Cream linen runner for a lighter look — $15–20",
+            "Burlap runner for a farmhouse feel — $10–14",
+            "No runner? A length of kraft paper down the middle works, and guests can write on it"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "Layer placemats or a second runner across"
+        },
+        {
+          "t": "p",
+          "text": "If the table feels bare at the edges, lay woven placemats at each seat — round jute or rattan ones run about $2–3 each. They frame each plate and stop the table looking like one long strip of fabric. A second short runner laid across under the centerpiece adds a layer for free if you cut a spare piece of fabric."
+        }
+      ],
+      "heading": "Start With a Runner: Friendsgiving Table Decor That Sets the Whole Look"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The centerpiece is the part everyone photographs, so it gets the most attention, and it's the part people overthink. Keep it low. Anything taller than about 12 inches turns dinner into a game of peek-a-boo across the table, and nobody wants that."
+        },
+        {
+          "t": "h3",
+          "text": "The pumpkin, candle and greenery cluster"
+        },
+        {
+          "t": "p",
+          "text": "This is the centerpiece we come back to every year because it takes ten minutes and about $15. Place three small pumpkins — white or pale orange, about 4–6 inches across — spaced down the middle of the runner. Tuck sprigs of eucalyptus or olive branches between them, then add two or three pillar candles in glass holders. The pumpkins give you the season, the candles give you the glow, and the greenery fills the gaps."
+        },
+        {
+          "items": [
+            "3 mini pumpkins (white or pale orange) — $1.50 each at the grocery store",
+            "1 bunch of eucalyptus, cut into sprigs — $4–6",
+            "3 pillar candles in glass hurricanes — $8–12 for the set",
+            "A handful of pinecones, free from the yard or $3 a bag"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "Try a low garland instead of a single piece"
+        },
+        {
+          "t": "p",
+          "text": "If a cluster feels fussy, run one long garland down the middle instead. A faux eucalyptus garland costs $12–18 and you can reuse it for Christmas, or make a fresh one from real branches for about $5. Lay it in a loose S-curve, not a straight line — the curve makes the table feel longer and leaves little pockets for candles and mini pumpkins."
+        }
+      ],
+      "heading": "The Centerpiece: Easy Friendsgiving Centerpiece Ideas"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Place settings are where a friendsgiving table goes from nice to someone really thought about this. You don't need matching china. In fact, mismatched plates look better at a friends' table — they say this is relaxed, sit down, help yourself. What matters is that every seat has the same three things: something under the plate, a napkin, and one small detail."
+        },
+        {
+          "t": "h3",
+          "text": "Chargers and napkins do the heavy lifting"
+        },
+        {
+          "t": "p",
+          "text": "A charger is just a big flat plate that sits under the dinner plate, and it's the cheapest way to make a table look finished. Gold or wood-tone chargers run $2–4 each at discount stores, and you can reuse them all year. Fold a cloth napkin into a simple rectangle on the plate, or roll it and tie it with twine. Linen napkins in cream, sage or rust cost about $10–12 for a set of four."
+        },
+        {
+          "items": [
+            "Chargers: gold, wood or woven — $2–4 each",
+            "Cloth napkins in cream, sage or rust — $10–12 for four",
+            "Twine or ribbon to tie the napkin — $2 a roll",
+            "One sprig of rosemary or eucalyptus tucked into each napkin — free or pennies"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "Handwritten place cards, the five-minute win"
+        },
+        {
+          "t": "p",
+          "text": "Cut a few dried leaves — real ones from the yard work best — and write each guest's name on one with a gold or white paint pen. Five minutes for the whole table, and it's the detail people actually take home and keep. No leaves? Fold a small card from kraft paper and stand it against the glass."
+        }
+      ],
+      "heading": "Place Settings That Make Every Seat Feel Special"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "If the runner is the bones of the table, light is the mood. Friendsgiving happens after dark for most of us, and warm candlelight is what makes a $25 table look like a $200 one. A few flames at table height and the overhead lights turned down will do it."
+        },
+        {
+          "t": "h3",
+          "text": "Taper candles in brass holders"
+        },
+        {
+          "t": "p",
+          "text": "Tall taper candles in brass or gold holders are the single best buy for a holiday table. A set of six tapers and four holders costs about $15–18, and they add height without blocking anyone's view — the flames sit above the plates but below eye level. Stick to cream or deep burgundy tapers; bright white looks like a birthday cake."
+        },
+        {
+          "items": [
+            "6 taper candles, cream or burgundy — $5–7",
+            "4 brass candlesticks — $8–12 for a set",
+            "2–3 glass hurricane holders for the middle — $10–12",
+            "A string of warm-white fairy lights woven through the garland — $5–8"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "Keep it safe with real flames"
+        },
+        {
+          "t": "p",
+          "text": "Real candles look better than LED ones, but keep them at least 6 inches clear of the garland and the napkins on every side. If kids are at the table, swap the middle candles for battery-operated pillars with a flicker setting — they look surprisingly good once the room lights are down. Light everything 15 minutes before guests sit down, not an hour early, so the wax lasts the whole meal."
+        }
+      ],
+      "heading": "Candles and Warm Light: The $20 Glow-Up"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The whole table can cost less than one takeout dinner. We set our first friendsgiving table for eight people for $24, and half of it came from the dollar store. The trick isn't buying less — it's buying the right three things and letting everything else be borrowed, free or already in the cupboard."
+        },
+        {
+          "t": "h3",
+          "text": "The $25 friendsgiving table, item by item"
+        },
+        {
+          "t": "p",
+          "text": "Start at the dollar store: a tablecloth or runner, a pack of taper candles, and a bag of pinecones will run you about $8–10. The grocery store covers the pumpkins and the eucalyptus for another $8. The last few dollars go to a roll of twine and a pack of kraft paper for the place cards. That's the whole list — everything else comes from home."
+        },
+        {
+          "items": [
+            "Dollar store: runner or tablecloth, taper candles, pinecones — $8–10",
+            "Grocery store: 3 mini pumpkins, 1 bunch eucalyptus — $7–8",
+            "Craft aisle or kitchen drawer: twine, kraft paper, gold pen — $4–5",
+            "From home: plates, glasses, napkins, candle holders, serving dishes — $0"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "h3",
+          "text": "Thrift the pieces that look expensive"
+        },
+        {
+          "t": "p",
+          "text": "Brass candlesticks, mismatched vintage plates and amber glassware all cost $1–3 at a thrift store, and they're the pieces that make a table look collected instead of bought in a set. We found four brass candlesticks for $6 total last year and they've been on every holiday table since. Wash them, polish them with vinegar and salt, and nobody will guess where they came from."
+        }
+      ],
+      "heading": "Budget Friendsgiving Table Decor: The $25 Table"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Most friendsgiving tables aren't in a dining room — they're a kitchen table with a leaf in it, or a folding table pushed against the wall. A small table actually photographs better, because everything is close together and the candles are right there. The rules just change a little: go lower, go narrower, and let the food do some of the decorating."
+        },
+        {
+          "t": "h3",
+          "text": "Keep the centerpiece low and narrow"
+        },
+        {
+          "t": "p",
+          "text": "On a table for four to six, the centerpiece gets a strip about 8 inches wide down the middle — no more. One small pumpkin, two candles and a few sprigs of greenery fill it. Anything wider leaves no room for the serving dishes. Put the big dishes on a sideboard or the kitchen counter and let people serve themselves."
+        },
+        {
+          "items": [
+            "One mini pumpkin + two candles + greenery — the whole centerpiece for 4–6 seats",
+            "Serve the food from a sideboard or counter, not the table",
+            "Use a bench on one side — it seats three where chairs seat two",
+            "Fold the napkins flat under the plates instead of standing them up"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "Let the food be part of the decor"
+        },
+        {
+          "t": "p",
+          "text": "When the table is small, the dishes are the decor. A wooden board of cheese and crackers, a bowl of cranberries, a loaf of bread on a cutting board — these look better than any ornament, and they disappear by dessert. Set one board out before guests arrive so the table looks full from the first photo, then swap in the hot dishes as they come out."
+        }
+      ],
+      "heading": "Small Space Friendsgiving Table Ideas That Actually Work"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The table should be done before the cooking starts, not after. Every year someone ends up setting the table while the turkey rests, and it always looks rushed. Do it the night before and the day of the party is just cooking, music and the doorbell."
+        },
+        {
+          "t": "h3",
+          "text": "The night before: everything that doesn't wilt"
+        },
+        {
+          "t": "p",
+          "text": "Lay the runner, set the chargers and plates, fold the napkins, write the place cards and put the candles in their holders — the night before. Cover the whole table with a clean sheet if you have pets or kids. The only things that wait until the day are the greenery and the pumpkins, which stay fresh in the fridge overnight."
+        },
+        {
+          "items": [
+            "Night before: runner, plates, chargers, napkins, place cards, candles in holders",
+            "Night before: set the sideboard with serving dishes, the drink station and the glasses",
+            "Morning of: lay the greenery, place the pumpkins, fill the water glasses",
+            "30 minutes before guests arrive: light the candles, turn the overhead lights down, put the music on"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "h3",
+          "text": "The last 30 minutes, in order"
+        },
+        {
+          "t": "p",
+          "text": "Half an hour before the doorbell rings, do three things and then stop. Light the candles. Turn the overhead lights down or off. Put one board of snacks on the table so early guests have something to pick at. Then pour yourself a drink and open the door — the table is done, go enjoy your friends."
+        }
+      ],
+      "heading": "The Day-Of Timeline: Setting the Table Without the Stress"
+    }
+  ],
+  "faqs": [
+    {
+      "a": "Start with a cheesecloth runner, three mini pumpkins and a few candles. That's the whole look — the runner covers the table, the pumpkins give you the season, and the candles do the rest. Add cloth napkins and a sprig of greenery at each seat and the table looks finished. You can set it up in about 20 minutes for under $25.",
+      "q": "What is the easiest friendsgiving table decor for beginners?"
+    },
+    {
+      "a": "Spend on three things: a runner ($12–18), candles ($8–12) and pumpkins with greenery ($7–8). Borrow the plates and glasses, thrift the candle holders, and make the place cards from kraft paper. A full table for eight costs $25–30 this way, and most of it — the runner, the holders, the twine — gets used again at Christmas.",
+      "q": "How do you do friendsgiving table decor on a budget?"
+    },
+    {
+      "a": "Keep it low and simple: three small pumpkins, a few sprigs of eucalyptus, and two or three candles in glass holders, all down the middle of the runner. Nothing over 12 inches tall, so guests can see each other. A long garland works the same way if you prefer one piece instead of a cluster.",
+      "q": "What should a friendsgiving table centerpiece include?"
+    },
+    {
+      "a": "Keep the centerpiece to an 8-inch strip down the middle, serve the food from a sideboard or counter, and seat one side on a bench. Fold the napkins flat under the plates and let the food — a cheese board, a bowl of cranberries, a loaf of bread — fill the gaps. Small tables photograph beautifully because everything sits close together.",
+      "q": "How do you set a friendsgiving table for a small space?"
+    }
+  ],
+  "hero": {
+    "src": "/img/a7-hero",
+    "alt": "Friendsgiving table at dusk with a terracotta runner, mini white pumpkins, eucalyptus garland and lit taper candles in brass holders"
+  },
+  "images": [
+    {
+      "after": 2,
+      "img": {
+        "src": "/img/a7-a",
+        "alt": "Overhead place setting with a woven rattan charger, white plate, check napkin and a mini white pumpkin, pinecones and greenery beside it",
+        "caption": "A woven charger, a check napkin and one mini pumpkin — the whole place setting."
+      }
+    },
+    {
+      "after": 4,
+      "img": {
+        "src": "/img/a7-b",
+        "alt": "Warm harvest centerpiece close-up of wheat and cattails, taper candles, a striped gourd, grapes and apples in golden light",
+        "caption": "Thrifted and grocery-store pieces can look this good: wheat, candles and one striped gourd."
+      }
+    }
+  ]
+}),
+  P({
   "slug": "winter-home-refresh-ideas",
   "title": "Winter Home Refresh Ideas 2026: Cozy Living Room Swaps, Warm Lighting & Simple Seasonal Updates",
   "bannerTitle": "Cozy Winter Home Refresh",

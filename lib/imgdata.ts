@@ -21,6 +21,12 @@ import a5B from "./imgdata/a5-b";
 import a6Hero from "./imgdata/a6-hero";
 import a6A from "./imgdata/a6-a";
 import a6B from "./imgdata/a6-b";
+import a7Hero from "./imgdata/a7-hero";
+import a7A from "./imgdata/a7-a";
+import a7B from "./imgdata/a7-b";
+import a8Hero from "./imgdata/a8-hero";
+import a8A from "./imgdata/a8-a";
+import a8B from "./imgdata/a8-b";
 import sHero from "./imgdata/s-hero";
 import sSpring from "./imgdata/s-spring";
 import sSummer from "./imgdata/s-summer";
@@ -56,6 +62,12 @@ export const IMAGES: Record<string, string> = {
   "a6-hero": a6Hero,
   "a6-a": a6A,
   "a6-b": a6B,
+  "a7-hero": a7Hero,
+  "a7-a": a7A,
+  "a7-b": a7B,
+  "a8-hero": a8Hero,
+  "a8-a": a8A,
+  "a8-b": a8B,
   "s-hero": sHero,
   "s-spring": sSpring,
   "s-summer": sSummer,
