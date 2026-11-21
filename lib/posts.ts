@@ -93,6 +93,316 @@ const P = (o: Post) => o;
 
 export const POSTS: Post[] = [
   P({
+  "slug": "winter-home-refresh-ideas",
+  "title": "Winter Home Refresh Ideas 2026: Cozy Living Room Swaps, Warm Lighting & Simple Seasonal Updates",
+  "bannerTitle": "Cozy Winter Home Refresh",
+  "category": "seasonal-living",
+  "subcategory": "Seasonal Home Refresh",
+  "excerpt": "Winter home refresh ideas that work: warm lighting, layered textiles and small seasonal swaps that make your home feel cozy all winter — most under $25.",
+  "date": "2026-11-20",
+  "readTime": 10,
+  "motif": "leaf",
+  "from": "#7FA653",
+  "to": "#46682F",
+  "intro": "A winter home refresh doesn't mean redecorating the whole house. It means swapping a few things — the light bulbs, the throw on the sofa, the pillow covers — and suddenly the room feels like it belongs to the season. We did ours on a Saturday in November, with about $60 and one trip to the shops, and the house has felt different ever since: warmer at 5 pm, softer in the mornings, and much easier to come home to. These winter home refresh ideas are built the same way — small, cheap, and done in a weekend. No paint, no new furniture, no big project. Just the swaps that make the biggest difference, room by room.",
+  "sections": [
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "If you change one thing this winter, change the light. Cold white bulbs make a room feel like an office after dark, and winter has enough dark hours already. Warm light does the opposite — it makes the same room feel smaller, softer and easier to sit in."
+        },
+        {
+          "t": "h3",
+          "text": "Swap every bulb to warm white (2700K)"
+        },
+        {
+          "t": "p",
+          "text": "Go through the house with a notepad and count the bulbs in the rooms you actually live in — living room, bedroom, kitchen. Most homes need 8 to 12. Warm white 2700K LED bulbs cost about $2–3 each, so a whole-house swap runs $20–30 and takes twenty minutes."
+        },
+        {
+          "items": [
+            "Living room: 3–4 warm bulbs — one in each lamp, one overhead",
+            "Bedroom: 2 bedside lamps at 2700K, nothing brighter",
+            "Kitchen: warm bulbs over the counter, keep one bright one over the sink",
+            "Hallway: a single warm bulb so the whole house glows the same"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "Add three sources of light per room"
+        },
+        {
+          "t": "p",
+          "text": "One ceiling light flattens a room. Three smaller lights — a floor lamp, a table lamp, a candle or two — give it depth. Put lamps on dimmers or smart plugs if you can; a $10 plug lets you set the lamps to come on at 4:30 pm, right as it gets dark."
+        },
+        {
+          "t": "p",
+          "text": "Candles count as a light source too. We keep a tray of three pillar candles on the coffee table from November to February. They cost about $12 for the set and they do more for the mood than any lamp we own."
+        }
+      ],
+      "heading": "Warm Lighting First: Winter Home Refresh Ideas That Cost the Least"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Texture is what makes a winter room feel warm before the heating even kicks in. You don't need new furniture — you need softer layers on the furniture you already have."
+        },
+        {
+          "t": "h3",
+          "text": "The throw-and-pillow swap"
+        },
+        {
+          "t": "p",
+          "text": "Pull the light cotton throws and linen pillow covers off the sofa and pack them away until April. Replace them with chunky knit, velvet or faux fur. One chunky knit throw ($25–35) draped over the sofa arm and two velvet pillow covers ($8–12 each) change the whole look of the room."
+        },
+        {
+          "items": [
+            "Chunky knit throw in cream or rust — $25–35",
+            "Two velvet pillow covers in deep green or burgundy — $8–12 each",
+            "A faux fur cushion for the reading chair — $15–20",
+            "A wool blanket folded at the foot of the bed — $30–40"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "Layer rugs the easy way"
+        },
+        {
+          "t": "p",
+          "text": "Bare floors feel cold in January, even with the heating on. A thick wool or shag rug under the coffee table fixes it, and layering a smaller patterned rug over a big jute one adds the texture without buying a huge new rug. Measure first — a rug that's too small looks worse than no rug at all. For most living rooms, 5×7 ft is the minimum under a sofa and chairs."
+        }
+      ],
+      "heading": "Layer Textiles: Throws, Pillows and Rugs"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The living room is where winter happens — the evenings, the movies, the friends who come over. Give it one focused weekend and it'll carry the whole season."
+        },
+        {
+          "t": "h3",
+          "text": "The 15-minute furniture shuffle"
+        },
+        {
+          "t": "p",
+          "text": "Pull the sofa a few inches away from the wall and angle one chair toward the fireplace or the window. It sounds tiny, but it breaks up the flat 'everything against the wall' look and makes a corner for reading. We moved our armchair six inches and suddenly had a reading nook."
+        },
+        {
+          "items": [
+            "Saturday morning: swap the bulbs and put the winter throws out (30 minutes)",
+            "Saturday afternoon: move one chair, add the layered rug, style the coffee table (1 hour)",
+            "Sunday morning: bring in greenery — a vase of eucalyptus on the sideboard (15 minutes)",
+            "Sunday evening: light the candles, put the lamps on, and sit in it for a bit"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "h3",
+          "text": "Style the coffee table for winter"
+        },
+        {
+          "t": "p",
+          "text": "A tray, a stack of two books, a small vase and one candle. That's the whole formula. Keep it low so it doesn't block the view across the room, and leave one clear corner for mugs — a coffee table that can't hold a mug isn't doing its job."
+        }
+      ],
+      "heading": "Refresh Your Living Room in One Weekend"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Greenery keeps a room feeling alive after the Christmas tree comes down. The trick is picking stems that read 'winter', not 'holiday' — no red berries, no tinsel, nothing that has to come down on December 26th."
+        },
+        {
+          "t": "h3",
+          "text": "The stems that last all winter"
+        },
+        {
+          "t": "p",
+          "text": "Eucalyptus is the easiest win: a $5 bunch from the grocery store lasts three weeks in water and smells faintly of a spa. Olive branches last even longer — up to a month — and their silvery green works with any colour scheme. Pine and cedar clippings are free if you know anyone with a tree, and a few sprigs in a tall vase fill an empty corner."
+        },
+        {
+          "items": [
+            "Eucalyptus bunch — about $5, lasts 3 weeks",
+            "Olive branches — about $8, lasts up to a month",
+            "Pine or cedar clippings — free, or $4 a bunch",
+            "Dried pampas or wheat stems — $10, lasts all season"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "Where to put it"
+        },
+        {
+          "t": "p",
+          "text": "One tall vase on the sideboard, one small jar on the kitchen windowsill, one sprig tucked into the bathroom mirror frame. Three spots is enough — more than that and the house starts to look like a garden centre. Change the water every four days and trim the stems by half an inch each time."
+        }
+      ],
+      "heading": "Bring in Winter Greenery (Without the Christmas Look)"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Winter mornings are hard enough without a cold bedroom and a hallway full of wet coats. These two rooms take the least time and make the biggest difference to how the house feels at 7 am."
+        },
+        {
+          "t": "h3",
+          "text": "The bedroom: layer the bed like you layer yourself"
+        },
+        {
+          "t": "p",
+          "text": "Start with flannel or brushed cotton sheets ($30–40 a set), add a wool blanket folded across the foot of the bed, and finish with a heavier duvet than you used in October. A draft stopper along the bottom of the bedroom door ($8) keeps the warm air in overnight. If your feet hit cold floor in the morning, a small rug beside the bed ($20) is worth every penny."
+        },
+        {
+          "t": "h3",
+          "text": "The entryway: make winter's mess easy to live with"
+        },
+        {
+          "t": "p",
+          "text": "A boot tray by the door ($12), a row of hooks at kid height and adult height, and a basket for hats and gloves. That's the whole system. Add a small mirror and a warm bulb and the hallway stops feeling like a cold tunnel. If you have room, a slim bench ($40–60) gives everyone somewhere to sit while they pull boots on."
+        },
+        {
+          "items": [
+            "Boot tray — $12",
+            "Coat hooks, two heights — $15",
+            "Basket for hats and gloves — $10",
+            "Draft stopper for the front door — $8"
+          ],
+          "t": "ul"
+        }
+      ],
+      "heading": "Warm Up the Bedroom and the Entryway"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The best winter refresh ideas are the ones that cost under $10 and take ten minutes. They don't show up in photos, but they're the things you actually notice every day."
+        },
+        {
+          "t": "h3",
+          "text": "Set up a hot drink corner"
+        },
+        {
+          "t": "p",
+          "text": "One tray on the kitchen counter: cocoa, cinnamon, the good mugs, a jar of marshmallows. It takes ten minutes to set up and it turns an ordinary evening into a small ritual. Searches for coffee bar ideas are up 117% since May — people want this corner, and it costs nothing if you already own the mugs."
+        },
+        {
+          "t": "h3",
+          "text": "Scent the house the cheap way"
+        },
+        {
+          "t": "p",
+          "text": "A simmer pot — orange slices, cinnamon sticks, a few cloves in a pot of water on low — scents the whole house for an afternoon and costs about $2. Or light one candle in the room you're sitting in, not every candle in the house. One scent at a time, or the house smells like a shop."
+        },
+        {
+          "items": [
+            "Simmer pot ingredients — about $2 a batch",
+            "One good candle per room — $8–12, burns 40 hours",
+            "Cinnamon sticks tied to a plain pillar candle — $3",
+            "A bowl of pinecones by the door — free, and they smell like the season"
+          ],
+          "t": "ul"
+        }
+      ],
+      "heading": "Small Seasonal Touches That Cost Almost Nothing"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Here's the whole refresh as a checklist, in the order we'd do it. Tick them off over one weekend and you're done until spring."
+        },
+        {
+          "t": "h3",
+          "text": "The one-weekend checklist"
+        },
+        {
+          "items": [
+            "Swap the bulbs to warm white 2700K in the living room and bedroom",
+            "Put the winter throws and pillow covers on the sofa",
+            "Layer a rug under the coffee table",
+            "Move one chair to make a reading corner",
+            "Bring in eucalyptus or olive branches in three spots",
+            "Set up the hot drink tray in the kitchen",
+            "Add a boot tray and hooks by the front door",
+            "Light the candles and enjoy it"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "h3",
+          "text": "What the whole refresh costs"
+        },
+        {
+          "items": [
+            "Bulbs for the whole house — $20–30",
+            "One chunky throw + two pillow covers — $40–55",
+            "Layered rug — $40–80 (or skip it and use what you have)",
+            "Greenery for the season — $10–15",
+            "Boot tray, hooks and basket — $35",
+            "Candles and simmer pot supplies — $15",
+            "Total: about $160–230, or under $100 if you skip the rug"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "p",
+          "text": "Start with light and textiles — those two swaps do 80% of the work. Everything else is a bonus. And when spring comes, pack the winter layers away in one box, swap the bulbs back if you like, and the house is ready for the next season in an afternoon."
+        }
+      ],
+      "heading": "Your Winter Home Refresh Ideas Checklist and Budget"
+    }
+  ],
+  "faqs": [
+    {
+      "a": "Most homes can do a full winter home refresh for $100–230. The two swaps that matter most — warm 2700K bulbs ($20–30 for the house) and winter textiles like a chunky throw and velvet pillow covers ($40–55) — cost under $85 together. A layered rug is the only big-ticket item, and you can skip it if you already have one that works.",
+      "q": "How much do winter home refresh ideas cost in total?"
+    },
+    {
+      "a": "Start with light and textiles — they don't take any floor space. Swap the bulbs to warm white, drape a chunky throw over the sofa arm, and add two velvet pillow covers. Then bring in one vase of eucalyptus and set up a small hot drink tray on the counter. Five swaps, no furniture moved, and the whole apartment feels like winter in the good way.",
+      "q": "What are the easiest winter home refresh ideas for a small apartment?"
+    },
+    {
+      "a": "Late November is the sweet spot — right after the clocks change and the evenings get dark, and before the Christmas decorating takes over. A weekend at the end of November gets the house ready for December, and the layers stay in place until March. If you're reading this in January, don't wait — the same swaps work any time in winter.",
+      "q": "When is the best time to start winter home refresh ideas?"
+    },
+    {
+      "a": "No — the two work together. The winter refresh is the base layer: warm light, soft textiles, greenery. Christmas decor sits on top of it for December, then comes down and the base layer carries January and February on its own. That's why we pick greenery like eucalyptus and olive branches instead of red berries — it looks right all winter, not just at Christmas.",
+      "q": "Do I need to take down my Christmas decor to refresh my home for winter?"
+    }
+  ],
+  "hero": {
+    "src": "/img/a6-hero",
+    "alt": "Cozy winter living room at dusk with a chunky knit throw, green velvet pillows, a lit fireplace and snow falling outside the windows, titled Cozy Winter Home Refresh"
+  },
+  "images": [
+    {
+      "after": 2,
+      "img": {
+        "src": "/img/a6-a",
+        "alt": "Woman wrapped in a chunky cream knit blanket on a sofa with a lit candle on the coffee table",
+        "caption": "The chunky knit throw: the single fastest way to make the sofa feel like winter."
+      }
+    },
+    {
+      "after": 4,
+      "img": {
+        "src": "/img/a6-b",
+        "alt": "Feet in warm wool socks stretched toward a roaring fireplace with mugs of hot drinks beside them",
+        "caption": "Cold mornings, handled: warm socks, a hot drink, and the fire lit before breakfast."
+      }
+    }
+  ]
+}),
+  P({
   "bannerTitle": "Mini Pumpkin LED Candle Holders",
   "category": "diy-crafts",
   "date": "2026-11-20",
