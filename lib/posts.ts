@@ -93,6 +93,292 @@ const P = (o: Post) => o;
 
 export const POSTS: Post[] = [
   P({
+  "bannerTitle": "Budget Christmas Apartment Decor",
+  "category": "home-decor",
+  "date": "2026-11-22",
+  "excerpt": "Christmas apartment decorating on a budget starts with a small tree, warm lights and one colour plan — here's how to make a rental feel festive for about $75.",
+  "faqs": [
+    {
+      "a": "About $75 covers a whole room if you start with what you already own: warm-white lights, 2 strings ($12), a small tree ($25), ribbon and a wreath ($10), two cushion covers ($12), pinecones and candles ($8), removable hooks ($8). The tree, lights and ribbon come back next year, so the second Christmas costs closer to $30.",
+      "q": "How much does Christmas apartment decorating on a budget cost?"
+    },
+    {
+      "a": "Yes — use nothing that makes a hole or leaves a mark. Removable adhesive hooks hold lights and garlands, over-door hooks hold the wreath, and ribbon ties garlands to shelves. Avoid nails, screws and tape on painted walls, and pull the hook tabs straight down in January.",
+      "q": "Can Christmas apartment decorating on a budget work in a rental without losing my deposit?"
+    },
+    {
+      "a": "A slim pencil tree, 5 to 6 feet tall and about 2 feet wide, fits most corners and the gap beside a sofa. In a studio, a tabletop tree of 2 to 3 feet on a console or bookshelf works better. If you have no floor or surface space at all, a garland hung in a triangle on the wall with lights and a few ornaments does the job for about $8.",
+      "q": "What size Christmas tree fits a small apartment?"
+    },
+    {
+      "a": "The weekend after Thanksgiving is the sweet spot — early enough to enjoy it for a full month. If you like a longer season, start the lights the first weekend of December and add the tree the next weekend. Either way, do it in daylight, then switch the lights on at dusk for the real reveal.",
+      "q": "When should I start decorating my apartment for Christmas?"
+    }
+  ],
+  "from": "#4E7D46",
+  "hero": {
+    "alt": "Cozy small apartment living room at dusk with a slim Christmas tree, pine garland over a bookshelf, red knit throw and glowing candles",
+    "src": "/img/a12-hero"
+  },
+  "images": [
+    {
+      "after": 2,
+      "img": {
+        "alt": "Small potted Christmas tree with warm white fairy lights beside a macrame lamp and stacked books",
+        "caption": "A small potted tree with warm lights — the whole Christmas corner, for about $20.",
+        "src": "/img/a12-a"
+      }
+    },
+    {
+      "after": 4,
+      "img": {
+        "alt": "Christmas garland with red and gold ornaments and a burgundy ribbon draped over a bookshelf",
+        "caption": "Garland, ribbon and a few big baubles turn a plain bookshelf into the room's centrepiece.",
+        "src": "/img/a12-b"
+      }
+    }
+  ],
+  "intro": "Christmas apartment decorating on a budget sounds like a compromise, but honestly, a small apartment is easier to make festive than a big house. You don't need a six-foot tree or a mantel you don't have — you need one corner that glows, one window that catches the light, and a colour plan. We've decorated rentals for years, and the rooms that looked best were the ones where every piece earned its spot. This guide keeps the whole job to about $75, uses nothing that puts your deposit at risk, and works in a studio or a one-bedroom. Start with what you already own, then buy only the gaps.",
+  "motif": "tree",
+  "readTime": 10,
+  "sections": [
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Before you spend a dollar, pull out last year's box. Most of us own more Christmas decor than we remember — working lights, a flat-ish wreath, ornaments in a bag at the back of the closet. The box tells you what you actually need — usually two or three small things, not a whole new set."
+        },
+        {
+          "t": "h3",
+          "text": "Shop your own home first"
+        },
+        {
+          "t": "p",
+          "text": "Walk the apartment with fresh eyes. That red throw, the brass candlesticks on the bookshelf, the pinecones from a walk last fall — all of it can do Christmas duty. We once built a whole mantel look from a wooden crate, three jars and a $3 roll of ribbon. The trick is grouping: three ordinary things together read as a display, while one thing alone reads as clutter."
+        },
+        {
+          "items": [
+            "A red or burgundy throw on the sofa arm or the end of the bed",
+            "Plain glass jars — fill them with ornaments, pinecones or fairy lights",
+            "Books with red, green or gold covers as a riser for candles",
+            "A wooden crate or basket to hide a tree stand",
+            "Kitchen twine and brown paper — gift wrap and garland ties in one"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "The one-box rule for last year's decor"
+        },
+        {
+          "t": "p",
+          "text": "If it doesn't fit in one box, you own too much for an apartment. Keep the pieces you love, give away the rest, and write a short list of what's missing before you shop — that list is your budget."
+        }
+      ],
+      "heading": "Christmas Apartment Decorating on a Budget Starts With What You Already Own"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Seventy-five dollars sounds small, but for one room it's plenty — lights and greenery do most of the work. The mistake is buying ten $5 things that add up to $50 and change nothing. Buy five things that matter instead."
+        },
+        {
+          "t": "h3",
+          "text": "Where the money should go"
+        },
+        {
+          "items": [
+            "Warm-white fairy lights, 2 strings — $12",
+            "A slim 4-foot tree or a tabletop tree — $25",
+            "One roll of wide ribbon and a small wreath — $10",
+            "Two cushion covers in your palette — $12",
+            "Pinecones, dried orange slices and candles — $8",
+            "Removable hooks and clips — $8",
+            "Total: $75 — and the lights, tree and ribbon return next year"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "What to skip this year"
+        },
+        {
+          "t": "p",
+          "text": "Skip the matching ornament set, the light-up village and anything that needs floor space you don't have. A $30 village looks sweet in the store and eats a whole shelf at home. Spend that money on better lights instead — good light makes cheap decor look expensive."
+        }
+      ],
+      "heading": "Set a $75 Budget Before You Buy Anything"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The tree sets the scale for everything else, so get it right and the rest falls into place. A slim pencil tree — 5 to 6 feet tall but only 2 feet wide — tucks into a corner or the gap beside the sofa and still reads as a real tree. A tabletop tree, 2 to 3 feet tall in a woven basket, works on a console or a stack of books when the floor is fully spoken for."
+        },
+        {
+          "t": "h3",
+          "text": "Slim trees that work in corners"
+        },
+        {
+          "t": "p",
+          "text": "Look for a pre-lit pencil tree under $30 — it saves you buying a separate string of lights, and the wiring is already hidden. Dress it with one colour of bauble, not three: a dozen matte burgundy or gold baubles look styled, while a mix of glitter, matte and shiny reads as a jumble. Add a ribbon spiralling down."
+        },
+        {
+          "t": "h3",
+          "text": "No floor space? Try a tabletop tree"
+        },
+        {
+          "t": "p",
+          "text": "A tabletop tree is the studio-flat answer. Set it on the kitchen counter, a bookshelf or the windowsill, and let it be the whole Christmas corner. Hide the pot in a basket or wrap it in brown paper tied with twine. If even that won't fit, hang a garland in a triangle on the wall with removable hooks, add lights and a few ornaments — it photographs like a tree and costs a fraction of one."
+        },
+        {
+          "items": [
+            "Slim pencil tree, 5–6 ft tall, 2 ft wide — $25–$35, corner or beside the sofa",
+            "Tabletop tree, 2–3 ft tall — $15–$20, on a console or bookshelf",
+            "Potted pine, 3 ft tall — $20, keeps the room smelling like a forest",
+            "Wall garland triangle — $8, zero floor space"
+          ],
+          "t": "ul"
+        }
+      ],
+      "heading": "Pick a Small Tree That Fits the Room"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "A lit window decorates the room at night and the street outside, for one string of lights and twenty minutes. Warm white is the only colour to buy: 2700K feels like candlelight, while cool white looks like an office. Two strings is the sweet spot for one window."
+        },
+        {
+          "t": "h3",
+          "text": "Warm white beats cool white every time"
+        },
+        {
+          "t": "p",
+          "text": "We learned this the hard way. Our first year we bought the cheapest cool-white lights on the shelf, and the room looked like a fridge. Warm white costs the same and makes the room glow gold at dusk. If you already own cool-white lights, run them behind a sheer curtain — the fabric softens them."
+        },
+        {
+          "t": "h3",
+          "text": "Renter-safe ways to hang lights"
+        },
+        {
+          "items": [
+            "Wipe the frame first — hooks stick better on a clean surface",
+            "Press a removable adhesive clip every 12 inches along the top and sides",
+            "Run the lights from the top corner down, keeping the wire loose",
+            "Hide the battery pack behind the curtain and set a timer for 5–10 pm",
+            "Take the clips down slowly in January — pull the tab straight down, never sideways"
+          ],
+          "t": "ol"
+        }
+      ],
+      "heading": "Light the Window, Not the Floor"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "You don't need to decorate the whole apartment. Pick three spots — one shelf, one table, one door. Three styled spots read as a decorated home; decor scattered everywhere reads as mess. This is the part that makes guests say the place looks like a magazine."
+        },
+        {
+          "t": "h3",
+          "text": "The shelf garland that takes 20 minutes"
+        },
+        {
+          "t": "p",
+          "text": "Drape a faux pine garland across a bookshelf, a console or the top of the TV unit, and tie it on with ribbon — no nails, no marks. Tuck in three small trees or a few ornaments, set two LED candles beside it, and put a bowl of baubles at one end. Twenty minutes and the whole wall looks dressed."
+        },
+        {
+          "t": "h3",
+          "text": "A coffee-table centerpiece for under $10"
+        },
+        {
+          "items": [
+            "A linen runner or a folded tea towel down the middle",
+            "Three candlesticks in different heights — thrifted brass, $1–$2 each",
+            "A sprig of fresh or faux greenery tucked around the bases",
+            "A small bowl of pinecones and dried orange slices",
+            "One scented candle — cinnamon or pine — lit only when you're home"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "p",
+          "text": "Then the door. A wreath on an over-door hook needs no nail and no permission — hang it, add a burgundy bow, and the hallway does the welcoming. If your building has rules about door decor, hang the wreath inside, on the back of the door or above the entryway mirror."
+        }
+      ],
+      "heading": "Style One Shelf, One Table and One Door"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The dollar store is the budget decorator's best friend — if you buy the right things. Glass, wood, ribbon and candles look expensive at any price. Plastic snowmen and glitter reindeer don't — skip them and buy one more string of lights instead."
+        },
+        {
+          "t": "h3",
+          "text": "The $1.25 buys worth getting"
+        },
+        {
+          "items": [
+            "Glass ball ornaments in one colour — a pack of 6 for $1.25",
+            "Wide velvet ribbon, burgundy or forest green — $1.25 a roll",
+            "LED tea lights, pack of 4 — $1.25",
+            "Small bottle-brush trees — $1.25 each, three on a tray look like a set",
+            "Faux pine sprigs — $1.25, tuck them into the garland to fill gaps"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "Thrift-store scores to look for"
+        },
+        {
+          "t": "p",
+          "text": "Thrift shops in November are full of Christmas decor from people clearing out — brass candlesticks for a dollar, a basket for the tree, a wool throw for three. Go on a weekday morning; the good stuff goes fast."
+        }
+      ],
+      "heading": "Dollar Tree and Thrift Finds That Don't Look Cheap"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The order: tree first, then lights, then the shelf, the table and the door. Thirty minutes, five spots, one room that feels like Christmas the second you walk in. Do it on a Saturday afternoon and let the lights come on at dusk — that's the moment it all pays off."
+        },
+        {
+          "t": "h3",
+          "text": "The 30-minute setup order"
+        },
+        {
+          "items": [
+            "Set the tree in its corner and hide the stand in a basket (5 minutes)",
+            "Hang the window lights and check the glow (10 minutes)",
+            "Drape the shelf garland and add the candles (5 minutes)",
+            "Lay the table centerpiece and light the candle (5 minutes)",
+            "Hang the wreath, fluff the cushions, step back and look (5 minutes)"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "h3",
+          "text": "Keep it up till January, then pack it away right"
+        },
+        {
+          "t": "p",
+          "text": "Take the lights down in the first week of January. Coil each string around a piece of cardboard so it doesn't tangle, and pack the ornaments back in the same box with a note on top: what you bought, what you still need, and what you never used. Next December, that note is worth more than any new decoration."
+        }
+      ],
+      "heading": "Put It All Together: Christmas Apartment Decorating on a Budget in 30 Minutes"
+    }
+  ],
+  "slug": "christmas-apartment-decorating-on-a-budget",
+  "subcategory": "Apartment Decor",
+  "title": "Christmas Apartment Decorating on a Budget: Festive Small-Space Ideas That Look Expensive for Less",
+  "to": "#243B24"
+  }),
+  P({
   "bannerTitle": "Cinnamon Stick Candle Decor",
   "category": "diy-crafts",
   "date": "2026-11-22",
