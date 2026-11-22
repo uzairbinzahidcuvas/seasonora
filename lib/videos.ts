@@ -16,6 +16,17 @@ export type VideoEntry = {
 
 export const VIDEOS: VideoEntry[] = [
   {
+    slug: "friendsgiving-table-place-cards",
+    title: "Easy DIY Friendsgiving Place Cards for an Aesthetic Table",
+    description: "Make personalized Friendsgiving place cards with kraft paper, dried oranges and rosemary — a simple handmade detail that adds a warm seasonal touch to a Thanksgiving dinner table.",
+    category: "diy-crafts",
+    topic: "Friendsgiving and Thanksgiving",
+    articleSlug: "friendsgiving-table-place-cards",
+    poster: "/img/a13-a",
+    durationSec: 30,
+    date: "2026-11-22",
+  },
+  {
     slug: "cinnamon-stick-led-candle-decor",
     title: "DIY Cinnamon Stick Candle Decor for Cozy Fall Homes",
     description: "Create a warm rustic candle decoration with cinnamon sticks, jute twine and ribbon — a battery LED candle makes a cozy autumn accent for a mantel or Thanksgiving table.",

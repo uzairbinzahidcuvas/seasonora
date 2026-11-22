@@ -93,6 +93,280 @@ const P = (o: Post) => o;
 
 export const POSTS: Post[] = [
   P({
+  "bannerTitle": "Friendsgiving Place Cards DIY",
+  "category": "diy-crafts",
+  "date": "2026-11-22",
+  "excerpt": "Friendsgiving table place cards are the smallest thing on the table and the first thing people notice. Kraft cardstock, a dried orange slice and a sprig of rosemary turn a plain fold into a warm, personal welcome for every guest.",
+  "faqs": [
+    {
+      "a": "Two or three days ahead is perfect. Cut, fold and write the names, then store the finished cards flat in a shoebox or a large envelope so they don't get bent. Add the dried orange slices and rosemary on the day itself, or the night before at the earliest — the rosemary stays green and fresh that way, and the glue dots hold better when they're fresh. If you attach everything days early, the rosemary can dry out and go brittle, and the cards lose that fresh-cut look.",
+      "q": "How far ahead can I make Friendsgiving table place cards?"
+    },
+    {
+      "a": "Yes — any heavy paper or light card works, as long as it holds a fold without cracking. A thick cream or ivory card looks soft and classic, and a deep green or burgundy card feels rich against a linen tablecloth. What you want to avoid is thin printer paper, which flops over instead of standing up, and very stiff board, which cracks along the fold. Kraft is our first pick because its warm brown tone suits the orange and rosemary so well, but the idea works in any color you love.",
+      "q": "Can I use a different paper instead of kraft cardstock for Friendsgiving table place cards?"
+    },
+    {
+      "a": "You have three easy options. Most craft shops and grocery stores sell bags of dried orange slices in the baking or decor aisle around fall. If you can't find them, you can dry your own: slice an orange thin, lay the rounds on a baking sheet, and bake at the lowest oven setting for two to three hours, flipping once. Or swap the orange for something else entirely — a small pinecone, a dried apple slice, a cinnamon stick or a tiny sprig of eucalyptus all look lovely with the rosemary.",
+      "q": "What if I can't find dried orange slices?"
+    },
+    {
+      "a": "They do, and kids love them — mostly because they get to find their own name on the table. For a kids' table, let each child pick a color of marker for their own name, or swap the rosemary for a small sticker or a dried leaf they helped collect. Keep the twine short so little hands don't tug at it, and use glue dots instead of twine so nothing comes loose during dinner. The cards also make a sweet keepsake for kids to take home after the meal.",
+      "q": "Do Friendsgiving table place cards work for a kids' table too?"
+    }
+  ],
+  "from": "#4E8FB8",
+  "hero": {
+    "alt": "Handmade kraft-paper Friendsgiving place cards with dried orange slices and rosemary on a linen-covered autumn table",
+    "src": "/img/a13-hero"
+  },
+  "images": [
+    {
+      "after": 3,
+      "img": {
+        "alt": "Handmade kraft Friendsgiving place cards with dried orange slices and rosemary, laid on folded linen napkins",
+        "caption": "The finished cards, laid out on linen napkins — kraft, orange and rosemary do all the work.",
+        "src": "/img/a13-a"
+      }
+    },
+    {
+      "after": 5,
+      "img": {
+        "alt": "Close-up of a tent-fold kraft Friendsgiving place card with a dried orange slice and rosemary tied with twine, on a ceramic plate",
+        "caption": "One card, up close: the twine bow holds the orange slice and rosemary in place.",
+        "src": "/img/a13-b"
+      }
+    }
+  ],
+  "intro": "Friendsgiving table place cards are the smallest thing on the table and the first thing people notice. A folded kraft card with a dried orange slice and a sprig of rosemary tells each guest two things before anyone sits down: you thought about them, and this dinner matters to you. The whole set costs a few dollars, takes about half an hour to make, and needs no craft experience at all. The video above shows the full make in thirty seconds, and below you'll find every step written out, the exact supplies, and the small choices that make the cards look neat instead of lopsided.",
+  "motif": "snow",
+  "readTime": 8,
+  "sections": [
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The idea works because three plain materials do three different jobs. The kraft cardstock gives the card its shape and its warm, earthy color — nothing fancy, just honest brown paper that looks at home on a fall table. The dried orange slice adds a pop of amber and a faint citrus scent that guests catch as they sit down. And the rosemary brings the green, plus a fresh piney smell that says autumn without a single pumpkin in sight."
+        },
+        {
+          "items": [
+            "Cheap: one sheet of cardstock and a small bag of dried oranges makes a whole table's worth",
+            "Fast: about 30 minutes for eight cards, with no drying time to wait for",
+            "Personal: a handwritten name beats a printed one every time — guests feel chosen, not seated",
+            "Reusable idea: the same fold works for Christmas, birthdays and baby showers with different decorations",
+            "Keepsake: guests often take their card home, which is more than you can say for a napkin ring"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "p",
+          "text": "A place card also solves a small hosting problem nobody talks about: the awkward minute when everyone stands around the table wondering where to sit. With cards on the table, people find their name, sit down and start talking. You get to seat the quiet cousin next to the funny one, keep the two toddlers at opposite ends, and put grandma near the warmest spot — all without saying a word."
+        }
+      ],
+      "heading": "Why Friendsgiving Table Place Cards Work So Well"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The supply list is short, and you probably own half of it already. One trip to a craft shop covers the rest — and the same bag of dried orange slices and bunch of rosemary will make cards for two or three dinners, so the cost per card stays tiny."
+        },
+        {
+          "items": [
+            "Kraft cardstock, one or two sheets — one sheet makes four to six cards",
+            "A ruler, for measuring even rectangles",
+            "Scissors, or a craft knife and a cutting mat",
+            "A fine-tip marker in black or dark brown",
+            "Dried orange slices, one per card",
+            "Fresh rosemary sprigs, one small sprig per card",
+            "Natural twine, about an arm's length",
+            "Glue dots, for attaching the orange and rosemary"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "Picking the right cardstock"
+        },
+        {
+          "t": "p",
+          "text": "Look for cardstock around 200 to 250 gsm — thick enough to stand up on its own, thin enough to fold without cracking. Hold a sheet up and bend it gently: it should fold with a clean crease and stay standing when you set it down. If the sheet feels floppy like printer paper, it's too light; if it cracks along the fold, it's too heavy. Most craft shops sell kraft cardstock in single sheets, so you don't need to buy a whole pack."
+        },
+        {
+          "t": "h3",
+          "text": "Dried orange slices: buy or make your own"
+        },
+        {
+          "t": "p",
+          "text": "Bought slices are the easy route — look for them in the baking aisle or the fall decor section. If you make your own, slice an orange as thin as you can, lay the rounds on a baking sheet and bake at your oven's lowest setting for two to three hours, flipping once halfway. They should feel dry and firm, not sticky. Pick slices that are roughly the same size, about two inches across, so each card looks balanced."
+        }
+      ],
+      "heading": "What You Need"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Even cards start with even rectangles. This step takes five minutes, but it's the one that decides whether the finished cards look like a matching set or a rough draft. Measure twice, cut once — and keep the offcuts, because they're handy for testing your marker before you write on a real card."
+        },
+        {
+          "t": "h3",
+          "text": "Getting the size right"
+        },
+        {
+          "t": "p",
+          "text": "A good finished size is about 4 inches wide by 2.5 inches tall once folded. That means each rectangle starts at 4 by 5 inches — the fold runs across the middle, so the card stands about 2.5 inches tall. Big enough to read a name from across the table, small enough not to block the view of the person opposite."
+        },
+        {
+          "items": [
+            "Mark the cardstock into 4-by-5-inch rectangles with the ruler and a pencil",
+            "Cut along the lines with scissors, keeping the blade tight against the ruler edge",
+            "Check the first rectangle against the second — they should match exactly",
+            "Trim any rough edges so every card has clean, straight sides",
+            "Set the rectangles in a neat stack, ready for folding"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "p",
+          "text": "If you're making cards for a big table, cut all the rectangles first and fold them all second. Working in batches keeps the sizes consistent, and it's faster than switching between cutting and folding for each card."
+        }
+      ],
+      "heading": "Measuring and Cutting the Cardstock"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The fold is what turns a flat rectangle into a card that stands up. Fold each rectangle in half across the short side, so the crease runs along the 4-inch width and the card stands like a little tent. Press the crease flat with your thumbnail or the flat of the ruler, then open the card and set it down — it should stand on its own without wobbling."
+        },
+        {
+          "items": [
+            "Fold each rectangle in half, matching the short edges exactly",
+            "Run your thumbnail along the crease, from the middle out to each end",
+            "Open the card and stand it on the table — it should hold its tent shape",
+            "If a card leans, press the crease again and check that the two sides are the same length",
+            "Line the folded cards up in a row so you can see at a glance if one sits crooked"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "h3",
+          "text": "A crease that stays put"
+        },
+        {
+          "t": "p",
+          "text": "If your cardstock is on the heavier side, score the fold line first: lay the ruler along the middle and run the back of a butter knife or an empty ballpoint pen firmly along it, then fold. The score line tells the paper exactly where to bend, so the crease comes out sharp instead of cracked. It's a small extra step, and it makes the finished cards look far more polished."
+        }
+      ],
+      "heading": "Folding Each Card into a Tent"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Now the cards get their names. Write on the front face of each tent — the side that faces the guest as they sit down. Use your normal handwriting, just slowed down a little: this is the part people look at closest, and neat lettering is what makes a handmade card feel thoughtful instead of rushed."
+        },
+        {
+          "t": "h3",
+          "text": "Neat lettering without calligraphy skills"
+        },
+        {
+          "t": "p",
+          "text": "You don't need fancy lettering. Write the name in the centre of the card, about a third of the way down from the top fold, leaving room for the orange slice below it. Use the fine-tip marker — a thick marker bleeds into kraft paper and makes the letters look fuzzy. If you're nervous about a wobbly line, write the name first in pencil, trace over it with the marker, then erase the pencil once the ink is dry."
+        },
+        {
+          "items": [
+            "Test the marker on a cardstock offcut first — kraft paper drinks ink fast",
+            "Write first names only, unless two guests share one — then add a last initial",
+            "Keep the name centred, with the same amount of space on each side",
+            "Let the ink dry for a minute before you handle the card or add decorations",
+            "Made a spelling mistake? Flip the card over and start fresh — it's just paper"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "p",
+          "text": "One small tip: write all the names before you attach any decorations. The orange slice and rosemary sit on the lower half of the card, and it's much easier to write on a flat, clean surface than to work around a slice of orange."
+        }
+      ],
+      "heading": "Writing the Guest Names"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "This is the fun part — the moment a plain folded card turns into something that looks like it came from a stationery shop. Each card gets one dried orange slice and one small rosemary sprig, fixed to the front just below the name. The video shows this part in real time, and it's worth watching once before you start, just to see the pace."
+        },
+        {
+          "items": [
+            "Place a glue dot on the back of the dried orange slice and press it onto the card, just below the name",
+            "Lay a small rosemary sprig across the bottom of the orange slice, at a slight angle",
+            "Fix the sprig with a second glue dot, or wrap a short piece of twine around the card and tie a small bow",
+            "Press both pieces gently for a few seconds so the glue dot grips properly",
+            "Stand the card up and check it from the front — nothing should cover the name"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "h3",
+          "text": "Twine or glue dots?"
+        },
+        {
+          "t": "p",
+          "text": "Glue dots are the quick, tidy option: invisible from the front and strong enough to hold a light orange slice. Twine is the prettier one — a small bow around the card looks rustic and gives guests something to untie as a keepsake. If you use twine, wrap it once around the folded card, tie the bow on the front, and tuck the orange slice and rosemary under the knot. Either way works, so pick the one you enjoy doing — you'll be repeating it eight or ten times."
+        }
+      ],
+      "heading": "Adding the Orange Slice and Rosemary"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "A Friendsgiving table place card earns its spot by sitting right where the guest looks first — just above the plate, or leaning against the folded napkin. Set each card with the name facing the chair, not the centre of the table, so guests spot their name the moment they walk up."
+        },
+        {
+          "items": [
+            "Above the plate: the classic spot, easy to read and out of the way of the food",
+            "On the napkin: lean the card against a folded linen napkin for a soft, layered look",
+            "With the menu: tuck a small printed menu behind the card for a restaurant feel",
+            "As a group: line the cards up along a wooden board or a linen runner for the table photo",
+            "As a favor: tell guests the card is theirs to take home — the rosemary smells lovely in a car"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "p",
+          "text": "One styling tip that makes a real difference: repeat the orange and rosemary elsewhere on the table. A few dried orange slices scattered along the runner, a sprig of rosemary on each napkin, and the cards stop looking like an add-on and start looking like the whole table was planned around them — which, of course, it was."
+        }
+      ],
+      "heading": "Styling Your Friendsgiving Table Place Cards"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Look after them and the cards will survive the whole evening — and a few of them will survive long after. Keep finished cards flat in a box until dinner, away from damp and steam, so the kraft paper stays crisp and the rosemary stays green. After dinner, the cards that come home with guests usually end up pinned to a fridge or tucked into a scrapbook, which is exactly the point."
+        },
+        {
+          "t": "h3",
+          "text": "Ways to change it up"
+        },
+        {
+          "t": "p",
+          "text": "The same make works all winter with a few swaps. Trade the orange slice for a small pinecone and the rosemary for a sprig of pine, and the card fits a Christmas table. Use deep green cardstock with a dried apple slice for a New Year's Eve dinner. Add a tiny handwritten note on the back of each card — one line about why you're glad that person is there — and a simple place card becomes the thing people talk about on the drive home."
+        }
+      ],
+      "heading": "Care, Storage and Easy Variations"
+    }
+  ],
+  "slug": "friendsgiving-table-place-cards",
+  "subcategory": "Table Decor DIY",
+  "title": "Friendsgiving Table Place Cards: Easy DIY Kraft Cards with Dried Orange & Rosemary",
+  "to": "#275E7E",
+  "video": "friendsgiving-table-place-cards"
+}),
+  P({
   "bannerTitle": "Budget Christmas Apartment Decor",
   "category": "home-decor",
   "date": "2026-11-22",
