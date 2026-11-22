@@ -93,6 +93,301 @@ const P = (o: Post) => o;
 
 export const POSTS: Post[] = [
   P({
+  "bannerTitle": "Cozy Winter Home Decor",
+  "category": "home-decor",
+  "date": "2026-11-22",
+  "excerpt": "Winter home decor ideas that last all season: warm rugs, chunky knits, 2700K lighting and plain evergreen — a cozy home for about $120, no tree needed.",
+  "faqs": [
+    {
+      "a": "Start with the three things that change a room most: a warm rug underfoot, a chunky throw on the sofa, and 2700K warm bulbs in the lamps. Together they cost about $75 if you buy the rug on sale, and the room feels warmer the same evening. Add plain evergreen branches for $5 and you have the whole look.",
+      "q": "How do I make my home feel cozy for winter on a budget?"
+    },
+    {
+      "a": "Layering beats buying big pieces. A 5-by-7 rug, two velvet cushion covers, one chunky throw and a small lantern give a small room the full winter feeling without crowding it. Keep the palette to three colours — cream, one deep shade like olive or burgundy, and warm wood.",
+      "q": "What are the best winter home decor ideas for a small living room?"
+    },
+    {
+      "a": "Yes — leave the ornaments off. Plain pine, cedar or eucalyptus in a simple vase reads as winter, not Christmas. No ribbon, no glitter, no red berries. One big vase on the table and a small bunch on a shelf is enough, and the branches last three to four weeks in fresh water.",
+      "q": "Can I use evergreen branches for winter decor without it looking like Christmas?"
+    },
+    {
+      "a": "Everything in this guide. Rugs, throws, warm lighting, plain evergreen and a styled mantel have nothing to do with Christmas, so they stay up from November through February. The only thing to pack away is anything with ornaments or tinsel — and this guide has none of that.",
+      "q": "What winter home decor ideas work after Christmas?"
+    }
+  ],
+  "from": "#4E7D46",
+  "hero": {
+    "alt": "Cozy winter living room at dusk with a cream sofa, chunky knit throw, velvet cushions, a lit fireplace with a plain cedar garland, and a candle with eucalyptus on a wooden coffee table",
+    "src": "/img/a14-hero"
+  },
+  "images": [
+    {
+      "after": 2,
+      "img": {
+        "alt": "Glowing candle lanterns in different sizes and heights in a dark, warm living room",
+        "caption": "Lanterns at three heights beat one bright ceiling light — the warm glow does the decorating.",
+        "src": "/img/a14-a"
+      }
+    },
+    {
+      "after": 4,
+      "img": {
+        "alt": "Eucalyptus branches in white ceramic vases on a dark wooden table against a warm brown wall",
+        "caption": "Eucalyptus in plain vases on the table — evergreen for the whole winter, no ornaments needed.",
+        "src": "/img/a14-b"
+      }
+    }
+  ],
+  "intro": "Winter home decor ideas work best when they have nothing to do with Christmas. No tree, no tinsel, no ornaments to pack away in January — just layers that make a cold house feel warm until spring. We redid our own living room last winter with about $120 and one free Saturday, and the room stayed cozy for four months. The trick is simple: something soft underfoot, something warm within arm's reach, and light that glows instead of glares. Pick one room, start there, and stop when it feels right.",
+  "motif": "tree",
+  "readTime": 10,
+  "sections": [
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "A cold floor makes the whole room feel cold, even when the heating is on. A deep rug fixes that faster than anything else you can buy — we swapped ours last November and the living room felt warmer the same evening."
+        },
+        {
+          "t": "h3",
+          "text": "Pick a rug that feels warm in bare feet"
+        },
+        {
+          "t": "p",
+          "text": "Go for pile depth over pattern. A shaggy or high-pile rug in a warm neutral — cream, oatmeal, warm taupe — traps heat under your feet and softens hard floors. In a living room, the front legs of the sofa and chairs should sit on the rug. A 5-by-7-foot rug fits most seating areas."
+        },
+        {
+          "items": [
+            "High-pile or shag rug in cream, oatmeal or warm taupe — $60 to $90 for a 5-by-7",
+            "Wool or wool-blend if you can stretch to it — it holds heat better than polyester",
+            "A rug pad underneath ($15) — it stops slipping and adds a second layer of warmth",
+            "Dark chocolate or rust if you have pets or kids — it hides winter mud far better than white"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "Layer a small rug over a big one"
+        },
+        {
+          "t": "p",
+          "text": "If a new big rug is too much right now, layer instead. A small sheepskin or faux-fur rug ($25) draped over the rug you already own, right where you put your feet, gives you the same warm feeling for a third of the price."
+        }
+      ],
+      "heading": "Start Underfoot: Winter Rugs That Warm the Whole Room"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "This is the fastest winter change there is. Nothing else in the room has to move. A throw over the sofa arm and two new cushion covers, and the whole seating area reads as winter."
+        },
+        {
+          "t": "h3",
+          "text": "Chunky knit throws within arm's reach"
+        },
+        {
+          "t": "p",
+          "text": "Chunky knits show up in nearly every winter living room guide this year — they are the quickest way to make a sofa look and feel like winter. Keep one folded over each sofa arm or draped across the back, so warmth is always within reach. A good chunky knit throw costs $25 to $40; the $15 ones pill after two washes."
+        },
+        {
+          "t": "h3",
+          "text": "Mix velvet and boucle pillows"
+        },
+        {
+          "t": "p",
+          "text": "Velvet and boucle pillows do the decorating for you. The contrast between smooth shine and soft nub makes a plain sofa look dressed without any extra fuss. Two or three cushions are enough — try cream, terracotta and chocolate brown, or cream, deep olive and rust. Buy covers, not whole pillows: two velvet covers run about $12."
+        },
+        {
+          "items": [
+            "One chunky knit throw, cream or oatmeal — $25 to $40",
+            "Two velvet cushion covers in a deep winter shade — about $12",
+            "One boucle or faux-fur cushion for contrast — about $10",
+            "A woven basket ($15) beside the sofa to hold the extras, rolled not folded"
+          ],
+          "t": "ul"
+        }
+      ],
+      "heading": "Layer Throws and Pillows for a Cozy Winter Living Room"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Winter evenings are long and dark, so light does more work in this season than in any other. The mistake most of us make is one bright ceiling light. It flattens the room and makes it feel cold. Three small pools of warm light beat one bright ceiling light every time."
+        },
+        {
+          "t": "h3",
+          "text": "Three pools of warm light, not one bright ceiling"
+        },
+        {
+          "t": "p",
+          "text": "Aim for warm white bulbs around 2700K to 3000K — the amber, candle-like glow of an old incandescent bulb, never clinical white. A floor lamp behind the sofa, a table lamp on a sideboard, and a small lamp on a shelf give the room depth. We swapped all our living room bulbs to 2700K in one trip ($12 for a four-pack)."
+        },
+        {
+          "t": "h3",
+          "text": "Candles and lanterns at different heights"
+        },
+        {
+          "t": "p",
+          "text": "Lanterns work better than a row of candles on one surface. Put one tall lantern on the floor, a medium one on the side table, and a small one on the mantel or shelf. If you have kids or pets, a candle warmer — a flame-free plate that melts a scented candle from below — gives you the scent and the glow without an open flame, for about $20."
+        },
+        {
+          "items": [
+            "2700K warm-white bulbs, four-pack — about $12",
+            "One floor lamp or one tall lantern for the corner — $20 to $35",
+            "Two or three pillar candles in glass hurricanes — $8 to $15 total",
+            "A candle warmer if you want scent without a flame — about $20"
+          ],
+          "t": "ul"
+        }
+      ],
+      "heading": "Warm Lighting: The 2700K Rule for Winter Home Decor Ideas"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Bring in evergreen for the whole winter, not just the holidays. Plain pine, cedar or eucalyptus in a simple vase — no ornaments, no ribbon, no glitter — smells like winter and stays green for weeks, for almost nothing."
+        },
+        {
+          "t": "h3",
+          "text": "Branches that last all winter"
+        },
+        {
+          "t": "p",
+          "text": "Cut branches about 18 inches long and trim the bottom two inches of needles so they sit cleanly in water. Change the water every four or five days and they will last three to four weeks. Cedar holds its needles longest; eucalyptus dries out and still looks good. A bunch from the florist costs $5 to $8."
+        },
+        {
+          "t": "h3",
+          "text": "Where to put winter greenery"
+        },
+        {
+          "t": "p",
+          "text": "One big vase on the dining table, one small bunch on the bathroom shelf, and a few sprigs tucked into the entryway mirror frame. That is enough — greenery works best in threes, not in every corner."
+        },
+        {
+          "items": [
+            "Pine, cedar or eucalyptus branches — $5 to $8 a bunch, or free from the garden",
+            "One tall vase for the dining table and one small vase for a shelf",
+            "A plain cedar garland for the mantel — about $12, no ornaments needed",
+            "Dried orange slices ($3) threaded on string if you want one warm accent"
+          ],
+          "t": "ul"
+        }
+      ],
+      "heading": "Evergreen That Is Not Christmas"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The mantel and the coffee table are the two spots guests actually look at, so they are worth ten minutes each. Both follow the same rule: a line to hold things together, then three things at different heights."
+        },
+        {
+          "t": "h3",
+          "text": "Style the mantel in one line"
+        },
+        {
+          "t": "p",
+          "text": "Start with the cedar garland along the back edge. In front of it, place three things: a tall candle or lantern on one side, a short stack of two books in the middle, and a small vase with branches on the other side."
+        },
+        {
+          "t": "h3",
+          "text": "One tray on the coffee table"
+        },
+        {
+          "t": "p",
+          "text": "A wooden tray ($15) holds the whole coffee table together. Inside it: a small candle, a little stack of books, and one natural piece — a pinecone, a stone bowl, a small plant."
+        },
+        {
+          "items": [
+            "Wooden tray for the coffee table — about $15",
+            "Two books you already own, stacked flat",
+            "One candle in a glass hurricane — $5",
+            "One natural piece: pinecone, stone bowl or small potted plant"
+          ],
+          "t": "ul"
+        }
+      ],
+      "heading": "The Winter Mantel and Coffee Table"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "We spend the most time in the bedroom in winter and the least time decorating it. Two swaps change how it feels at night: heavier bedding and one warm light by the bed. The entryway gets the same treatment — it is the first thing you see when you come in from the cold."
+        },
+        {
+          "t": "h3",
+          "text": "Winter bedroom swaps that take ten minutes"
+        },
+        {
+          "t": "p",
+          "text": "Swap the light summer duvet cover for a flannel or brushed-cotton one ($30) and add a second thin blanket folded across the foot of the bed. A small lamp with a warm bulb on the bedside table replaces the ceiling light in the evening."
+        },
+        {
+          "t": "h3",
+          "text": "An entryway that welcomes you home"
+        },
+        {
+          "t": "p",
+          "text": "A sturdy doormat inside the door, a hook for the heavy coat, and a small bowl for keys — that is the whole entryway. Add one warm thing: a small lantern on the console or a few evergreen sprigs in the mirror frame."
+        },
+        {
+          "items": [
+            "Flannel or brushed-cotton duvet cover — about $30",
+            "One extra throw folded across the foot of the bed — $20",
+            "A small rug beside the bed — $15 to $25",
+            "A basket by the door for scarves and gloves — about $12"
+          ],
+          "t": "ul"
+        }
+      ],
+      "heading": "Winter Bedroom and Entryway: The Rooms You Forget"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "You do not need to buy everything in this guide. Pick the three things that will change your room most — for most homes that is a rug, a throw and warm bulbs — and leave the rest for later."
+        },
+        {
+          "t": "h3",
+          "text": "What the whole winter living room costs"
+        },
+        {
+          "t": "p",
+          "text": "Add it up and the full list lands around $120: rug $60 to $90, throw $25 to $40, two cushion covers $12, bulbs $12, candles $10, branches $5. Start with what you already own and the real spend drops under $75. The rug, the throw and the bulbs come back next winter, so the second year costs almost nothing."
+        },
+        {
+          "t": "h3",
+          "text": "The five-minute evening reset"
+        },
+        {
+          "items": [
+            "Fold the throws and put them back on the sofa arms — 1 minute",
+            "Fluff the cushions and straighten the rug — 1 minute",
+            "Light the candles or switch on the lamps — 30 seconds",
+            "Put the basket of extra blankets back by the sofa — 30 seconds",
+            "Clear the coffee table tray of cups and post — 2 minutes"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "p",
+          "text": "Do that once in the evening and the room greets you warm every night until spring. That is the whole point — not a showroom, just a house that feels good to come home to."
+        }
+      ],
+      "heading": "Winter Home Decor Ideas on a Budget and a 30-Minute Reset"
+    }
+  ],
+  "slug": "winter-home-decor-ideas",
+  "subcategory": "Living Room",
+  "title": "Winter Home Decor Ideas 2026: Cozy Layers, Warm Lighting & Simple Touches That Last All Winter",
+  "to": "#243B24"
+}),
+  P({
   "bannerTitle": "Friendsgiving Place Cards DIY",
   "category": "diy-crafts",
   "date": "2026-11-22",
