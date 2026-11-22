@@ -16,6 +16,17 @@ export type VideoEntry = {
 
 export const VIDEOS: VideoEntry[] = [
   {
+    slug: "cinnamon-stick-led-candle-decor",
+    title: "DIY Cinnamon Stick Candle Decor for Cozy Fall Homes",
+    description: "Create a warm rustic candle decoration with cinnamon sticks, jute twine and ribbon — a battery LED candle makes a cozy autumn accent for a mantel or Thanksgiving table.",
+    category: "diy-crafts",
+    topic: "Cozy fall decor",
+    articleSlug: "cinnamon-stick-led-candle-decor",
+    poster: "/img/a11-a",
+    durationSec: 30,
+    date: "2026-11-22",
+  },
+  {
     slug: "pressed-autumn-leaf-glass-frames",
     title: "DIY Pressed Leaf Frames – Easy Autumn Wall Art",
     description: "Turn real pressed autumn leaves into elegant botanical wall art with a floating glass frame — a simple nature craft for any living room or gallery wall.",

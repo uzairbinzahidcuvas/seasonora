@@ -93,6 +93,561 @@ const P = (o: Post) => o;
 
 export const POSTS: Post[] = [
   P({
+  "bannerTitle": "Cinnamon Stick Candle Decor",
+  "category": "diy-crafts",
+  "date": "2026-11-22",
+  "excerpt": "Cinnamon stick LED candle decor turns a plain battery candle into a warm, rustic fall centerpiece. Cinnamon sticks, jute twine and a cream ribbon are all it takes — about 20 minutes, no flame, and it smells like autumn too.",
+  "faqs": [
+    {
+      "a": "Yes. A battery LED candle stays cool to the touch, and the cinnamon sticks never get warm — that's the whole point of using LED instead of a real flame. Most LED pillars come with a timer setting, so you can set it to glow for a few hours each evening and switch itself off. We still switch ours off when we leave the house, out of habit more than worry.",
+      "q": "Is cinnamon stick LED candle decor safe to leave on overnight?"
+    },
+    {
+      "a": "No — please don't. Cinnamon sticks are dry bark, and twine and ribbon are both flammable, so a real flame next to them is a fire risk. The LED candle is what makes this project safe: it gives you the warm flicker and the glow without any heat at all. If you want a real candle on the same table, put it in a tall glass holder at least a foot away from the cinnamon candle.",
+      "q": "Can I use a real wax candle instead of an LED one?"
+    },
+    {
+      "a": "One full season, easily — and often longer. The cinnamon sticks hold their color and scent for months if you keep the candle out of damp and direct sun. The twine may loosen a little over time; just retie the knot and trim the ends. When fall ends, wrap the candle in tissue paper and store it in a dry cupboard, and it will be ready to use again next year.",
+      "q": "How long does cinnamon stick LED candle decor last?"
+    },
+    {
+      "a": "A wide pillar works best — about 3 inches across and 5 or 6 inches tall. That size is heavy enough to stand steady once the sticks are on, and the sticks sit neatly against the straight sides. A narrow candle wobbles once the sticks go on, and a very tall one needs longer sticks than most craft bags contain. Ivory or cream looks best; the warm LED glow shows through the wax and the cinnamon color pops against it.",
+      "q": "What size LED candle works best for cinnamon stick candle decor?"
+    }
+  ],
+  "from": "#4E8FB8",
+  "hero": {
+    "alt": "Finished cinnamon stick LED candle with jute twine, cream ribbon and autumn berries on a linen-covered fall table",
+    "src": "/img/a11-hero"
+  },
+  "images": [
+    {
+      "after": 3,
+      "img": {
+        "alt": "Cinnamon stick LED candle with jute twine and cream ribbon, styled with dried leaves and pinecones in warm natural light",
+        "caption": "The finished candle, styled with dried leaves and pinecones — no flame, just the LED glow.",
+        "src": "/img/a11-a"
+      }
+    },
+    {
+      "after": 5,
+      "img": {
+        "alt": "Cinnamon stick LED candle on a rustic wooden mantel with dried orange slices, pinecones and autumn leaves",
+        "caption": "On a mantel, it holds its own next to pinecones and dried orange slices.",
+        "src": "/img/a11-b"
+      }
+    }
+  ],
+  "intro": "Cinnamon stick LED candle decor is one of those projects that looks like it took all afternoon and actually takes about twenty minutes. You wrap a plain battery-operated LED pillar candle in cinnamon sticks, tie it off with jute twine, add a small ribbon and a few faux berries — and suddenly you have a centerpiece that smells like autumn and glows like a real candle. The video above shows the whole make in thirty seconds, and below you'll find every step written out, the exact supplies, and the small choices that make it look neat instead of lopsided.",
+  "motif": "snow",
+  "readTime": 8,
+  "sections": [
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The idea works because the cinnamon does three jobs at once. It gives the candle texture — those warm brown ridges catch the light in a way plain wax never does. It gives it color — deep amber against the cream of the candle, which is the exact palette of fall. And it gives it scent — real cinnamon smells like autumn even before you switch the candle on. The LED candle is the quiet partner in all of this: it supplies the glow without a single degree of heat, so the sticks, the twine and the dried leaves around it are never in any danger."
+        },
+        {
+          "items": [
+            "Cheap supplies: a bag of cinnamon sticks and a roll of twine cost less than a takeaway coffee",
+            "Fast: about 20 minutes from start to finish, with no drying time worth waiting for",
+            "Safe: no flame, no heat, so it can sit near dried leaves, fabric and little hands",
+            "Scented for free: the cinnamon gives off a soft, warm smell without any diffuser or spray",
+            "Long season: it works from the first cool week of September right through Thanksgiving"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "p",
+          "text": "It's also a forgiving first project. If a stick sits a little crooked, the twine hides it. If the knot isn't perfect, the ribbon bow covers it. And if you don't like how it looks, the whole thing comes apart in a minute and you start again with the same sticks. We've made a dozen of these now, and no two have come out exactly alike — that's part of the charm."
+        }
+      ],
+      "heading": "Why Cinnamon Stick LED Candle Decor Works So Well"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The supply list is short, and you probably own half of it already. If you need to buy anything, one trip to a craft shop covers it — and the same bag of cinnamon sticks will make three or four candles, so the cost per candle stays tiny."
+        },
+        {
+          "items": [
+            "One wide battery-operated LED pillar candle, about 3 inches across and 5 to 6 inches tall",
+            "12 to 16 cinnamon sticks, roughly the same length as the candle is tall",
+            "Jute twine, about an arm's length",
+            "A short length of cream or natural ribbon",
+            "A small sprig of faux berries",
+            "Scissors",
+            "Craft adhesive that works on wax and wood (a glue gun works too, on its low setting)"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "Picking the right LED candle"
+        },
+        {
+          "t": "p",
+          "text": "Look for a wide pillar in ivory or cream, with a flicker setting and a timer if you can find one. The flicker setting is what sells the whole thing — a steady glow looks like a night light, while a flicker looks like a real flame. Avoid candles with a shiny plastic finish; a matte wax-look surface takes the adhesive better and looks far more convincing next to real cinnamon."
+        },
+        {
+          "t": "h3",
+          "text": "Choosing cinnamon sticks"
+        },
+        {
+          "t": "p",
+          "text": "Buy a bag and pick through it rather than grabbing the first handful. You want sticks that are straight, unbroken and close to the same thickness — the thin, curly ones look pretty but snap when you trim them. A few broken bits are fine for the back of the candle, where nobody looks closely. And give them a sniff before you buy: good sticks smell warm and sweet, while old stock smells like nothing at all."
+        }
+      ],
+      "heading": "What You Need"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "This is the step that decides how the finished candle looks. Cinnamon sticks come in all lengths, and if you glue them on as they come, the top edge will look like a broken fence. Ten minutes of sorting now saves you from staring at a crooked top edge all season."
+        },
+        {
+          "t": "h3",
+          "text": "Sorting them by length"
+        },
+        {
+          "t": "p",
+          "text": "Lay all your sticks on the table and sort them into two piles: the long ones and the short ones. Stand the long ones next to the candle — they should reach from the base to just below the top rim, leaving the LED opening clear. Set the short ones aside for the back of the candle, or save them for a smaller project."
+        },
+        {
+          "t": "h3",
+          "text": "Trimming them to match"
+        },
+        {
+          "t": "p",
+          "text": "Hold each stick against the candle and mark where it needs to end — about a quarter inch below the rim, so the sticks never poke above the candle top. Score the stick with scissors at that mark, then snap it cleanly; cinnamon snaps along the score with a little pressure. Trim the longest ones first, then check them side by side on the table. They don't need to be identical to the millimetre — a few millimetres of difference reads as handmade, not messy."
+        },
+        {
+          "items": [
+            "Sort the sticks into long and short piles before you touch the glue",
+            "Trim each stick so it ends just below the candle's top rim",
+            "Dry-fit the sticks around the candle with no glue, standing them in a ring",
+            "Check the ring from above — the tops should form a fairly level circle",
+            "Set the sticks aside in order, so you can pick them up one by one when you glue"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "p",
+          "text": "Keep the trimmings. The little offcuts are handy for filling a thin gap later, and a small bowl of them on the table smells wonderful while you work."
+        }
+      ],
+      "heading": "Sorting and Trimming Your Cinnamon Sticks"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Now the candle starts to look like something. Work with the candle standing on a flat surface, and glue the sticks one at a time — it's slower than doing them in batches, but each stick stays exactly where you put it. The video shows this part in real time, and it's worth watching once before you start, just to see the pace."
+        },
+        {
+          "items": [
+            "Put a small dot of craft adhesive on the back of the first stick, near the top and near the bottom",
+            "Press the stick against the candle and hold it for five seconds",
+            "Place the next stick tight against the first, with no gap showing between them",
+            "Work your way around the candle, checking every few sticks that the tops stay level",
+            "If a stick leans, pull it off while the glue is still soft and reset it — don't wait"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "h3",
+          "text": "Keeping the sticks straight"
+        },
+        {
+          "t": "p",
+          "text": "The trick is to check from above every few sticks. Crouch down so your eyes are level with the top rim and look at the ring: if one stick leans out, nudge it back before the glue sets. Cinnamon sticks are rarely perfectly straight, so a little lean is normal — what you want to avoid is one stick sticking out further than its neighbours. If the last stick doesn't quite fit the gap, trim a thinner one to fill it rather than forcing a wide stick in."
+        },
+        {
+          "t": "p",
+          "text": "Leave the candle alone for ten minutes once the ring is complete. The glue feels set after a minute, but it needs a little longer to hold firm — and this is the worst moment to knock a stick loose by tying the twine too early."
+        }
+      ],
+      "heading": "Wrapping the Cinnamon Sticks Around the Candle"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The twine is what holds everything together, and the ribbon and berries are what make it look finished. This part takes five minutes, and it's the most satisfying bit — the candle goes from a bundle of sticks to a proper decoration in one wrap."
+        },
+        {
+          "items": [
+            "Wrap the jute twine around the middle of the candle three or four times, keeping each loop tight against the last",
+            "Tie a firm knot at the back, then trim the ends to about an inch",
+            "Tuck the small faux berry sprig behind the knot so the stems hide under the twine",
+            "Tie the cream ribbon in a simple bow over the knot, with the loops facing forward",
+            "Step back and check that nothing — twine, ribbon or berries — covers the LED opening at the top"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "h3",
+          "text": "The ribbon and berries"
+        },
+        {
+          "t": "p",
+          "text": "Keep both small. A big bow fights with the cinnamon for attention, while a small neat bow just finishes the twine off. The same goes for the berries: one sprig with three or four berries is enough. If the sprig keeps slipping, a tiny dot of adhesive behind the knot holds it in place. And whatever you do, keep every decoration below the rim — the LED opening needs to stay clear so the light can spill out and the glow can do its work."
+        }
+      ],
+      "heading": "Tying the Twine and Adding the Finishing Touches"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "A cinnamon stick LED candle decor piece is happiest in the middle of things — a mantel, a dining table, a hallway console — where people pass it and catch the scent. It also works in smaller spots: a bathroom shelf, a bedside table, or next to the front door, where it greets everyone who walks in."
+        },
+        {
+          "items": [
+            "On a mantel: set it in the centre with a few dried leaves and a pinecone on each side",
+            "As a Thanksgiving centerpiece: put it on a wooden board with mini pumpkins, dried orange slices and a linen runner",
+            "On an entryway table: pair it with a small stack of books and a sprig of eucalyptus",
+            "As a gift: wrap it in tissue paper, tie it with the same cream ribbon, and add a handwritten tag",
+            "In a group: make two more in different heights and cluster them — the tallest at the back, the shortest at the front"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "p",
+          "text": "One styling tip that makes a real difference: give the candle a base. A wooden board, a linen cloth or even a plain ceramic plate underneath it makes the whole thing look deliberate instead of just placed. The base catches any bits of cinnamon that flake off, too, which keeps the table clean."
+        }
+      ],
+      "heading": "Styling Your Cinnamon Stick LED Candle Decor"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Look after it and the candle will last the whole season. Dust it with a dry cloth once a week — a damp cloth makes the cinnamon swell and the twine go limp. Keep it out of direct sun, which fades the sticks, and away from steam, so the bathroom is a bad spot for the long term even though it looks lovely there. When fall is over, wrap the candle in tissue paper and store it upright in a dry cupboard; it will be ready to use again next year with nothing more than a fresh ribbon."
+        },
+        {
+          "t": "h3",
+          "text": "Ways to change it up"
+        },
+        {
+          "t": "p",
+          "text": "The same make works all winter with a few swaps. Change the cream ribbon for a deep red or forest green one and it fits a Christmas table. Tuck a dried orange slice behind the twine instead of berries for a simpler look. Add a star anise or two next to the berries for a stronger scent. Or make a pair in different heights and give one away — it's the kind of gift people keep, because it looks like it took far longer than twenty minutes."
+        }
+      ],
+      "heading": "Care, Storage and Easy Variations"
+    }
+  ],
+  "slug": "cinnamon-stick-led-candle-decor",
+  "subcategory": "Table Decor DIY",
+  "title": "Cinnamon Stick LED Candle Decor: A Warm Rustic Fall Craft for Your Mantel",
+  "to": "#275E7E",
+  "video": "cinnamon-stick-led-candle-decor"
+}),
+  P({
+  "bannerTitle": "New Year's Eve Party Ideas",
+  "category": "holidays",
+  "date": "2026-11-21",
+  "excerpt": "New Year's Eve party ideas that work at home — easy themes, budget decor, crowd-pleasing food and games, plus a simple timeline so you enjoy the night too.",
+  "faqs": [
+    {
+      "a": "Keep it small and simple. Eight to twelve people is the sweet spot for a living room — everyone can talk without shouting, and you don't need to cook for an army. Pick one theme, one signature drink, and three or four appetizers, and let the countdown do the rest.",
+      "q": "What are the best New Year's Eve party ideas for a small group at home?"
+    },
+    {
+      "a": "For 10 to 12 guests, $100 to $150 covers the whole night: about $30 to $40 on decor, $50 to $60 on food, and $25 to $30 on drinks and ice. Spend on what guests touch and taste, not on things they'll never notice.",
+      "q": "How much should I budget for New Year's Eve party ideas at home?"
+    },
+    {
+      "a": "Start at 8 PM. That gives guests time to arrive, eat, and settle in before the countdown. If you're serving dinner, start at 7 PM. Either way, plan the big moment — the toast and the photo — for 11:55 PM, so nobody is still in the kitchen when midnight hits.",
+      "q": "What time should a New Year's Eve party start?"
+    },
+    {
+      "a": "Finger food that can sit out for two hours: a baked brie, pigs in a blanket, marinated olives, and something sweet like mini brownies. Add one warm dish — a slow-cooker meatball tray works — and a signature cocktail or mocktail. Skip anything that needs plating at the last minute.",
+      "q": "What food should I serve at a New Year's Eve party?"
+    }
+  ],
+  "from": "#E3A72F",
+  "hero": {
+    "alt": "A warm New Year's Eve living room at night, gold and black balloons, string lights and a table set with champagne glasses under a glowing clock showing nearly midnight",
+    "src": "/img/a10-hero"
+  },
+  "images": [
+    {
+      "after": 2,
+      "img": {
+        "alt": "Gold and silver balloons, disco balls and gold confetti scattered on a wooden floor beside a champagne bottle, a New Year's Eve party setup",
+        "caption": "Balloons, disco balls and a little confetti do most of the decorating for you.",
+        "src": "/img/a10-a"
+      }
+    },
+    {
+      "after": 4,
+      "img": {
+        "alt": "Friends laughing around a coffee table playing a card game at a New Year's Eve house party, with drinks and gold confetti on the table",
+        "caption": "The games that work best need nothing more than a deck of cards and a good question.",
+        "src": "/img/a10-b"
+      }
+    }
+  ],
+  "intro": "The best New Year's Eve party ideas don't start with a theme or a shopping list. They start with three honest answers: how many people, how much room, and how much you want to spend. Get those right and the night almost runs itself. We've hosted this night in a one-bedroom apartment for eight friends and in a house for forty, and the small one was more fun — nobody shouted across a room, the food ran out at exactly the right time, and we were all on the couch together at midnight. This guide is built for that kind of night: a home party that feels special without costing a fortune or eating your whole week.",
+  "motif": "star",
+  "readTime": 10,
+  "sections": [
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The best New Year's Eve party ideas don't start with a theme. They start with three honest answers: how many people, how much room, and how much you want to spend. We've hosted this night for eight friends in a one-bedroom apartment and for forty in a house — the small one was more fun."
+        },
+        {
+          "t": "h3",
+          "text": "Start With the Guest List, Not the Decor"
+        },
+        {
+          "t": "p",
+          "text": "One person needs about 10 square feet to stand with a drink and still move around. In a normal living room, 8 to 12 people feels full and warm; 15 starts to feel crowded. Every extra guest also adds roughly $10 to $12 to the night."
+        },
+        {
+          "items": [
+            "Under 10 guests: one food table, one drinks spot.",
+            "10 to 20 guests: put the food in the kitchen, keep the living room for talking.",
+            "Over 20 guests: rent a folding table and chairs, $25 to $40."
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "Pick a Budget Before You Shop"
+        },
+        {
+          "t": "p",
+          "text": "For 10 to 12 guests, $120 is plenty: $35 on decor, $55 on food, $30 on drinks and ice. Write it down before you shop."
+        }
+      ],
+      "heading": "New Year's Eve Party Ideas That Work in Any Home"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "A theme does two jobs at once: it tells guests what to wear, and it tells you what to buy. Without one, you end up with a random pile of gold, silver and neon that doesn't quite match. Pick the theme that fits your crowd and stick to it for every single buy."
+        },
+        {
+          "t": "h3",
+          "text": "Black and Gold: The Classic That Always Works"
+        },
+        {
+          "t": "p",
+          "text": "Black and gold is the safest New Year's Eve party theme there is, and it photographs beautifully in warm light. Keep the gold to about a third of what you see — too much and the room looks like a gift shop. Black tablecloths, gold plates, and one big gold banner."
+        },
+        {
+          "items": [
+            "Black tablecloth — about $8 at a party shop.",
+            "Gold paper plates and black napkins, 20 of each — about $10 total.",
+            "One gold foil fringe curtain for the photo wall — about $6.",
+            "Black and gold balloons, a pack of 30, plus a $5 hand pump."
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "Retro Disco and Y2K: The Fun One"
+        },
+        {
+          "t": "p",
+          "text": "If your crowd is under 35, disco wins. Small mirror balls catch the light in a way no other decor does, and guests will pose with them all night. Hang two — an 8-inch ball over the food table, a 6-inch one by the door — and add a silver fringe curtain."
+        }
+      ],
+      "heading": "New Year's Eve Party Ideas: Themes That Set the Mood"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Decor is where most people overspend, and it's also where the cheapest tricks look the best. Guests remember the room feeling warm and glowing; they don't remember whether the banner came from a boutique or a dollar store. Spend on light: warm string lights, candles, one good garland."
+        },
+        {
+          "t": "h3",
+          "text": "The Balloon Garland That Costs Under $30"
+        },
+        {
+          "t": "p",
+          "text": "A balloon garland looks like you hired someone. It takes about 45 minutes and one pack of balloons, and it frames a doorway or a fireplace better than anything else you can buy."
+        },
+        {
+          "items": [
+            "Blow up 24 balloons in two sizes — 12-inch and 5-inch.",
+            "Tie them in pairs, then twist two pairs into clusters of four.",
+            "Thread the clusters onto balloon tape, alternating colours.",
+            "Hang with removable hooks and tuck in fake greenery to hide gaps."
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "h3",
+          "text": "A Table That Looks Expensive (It Isn't)"
+        },
+        {
+          "t": "p",
+          "text": "The food table is the one guests photograph most. A dark cloth, a runner down the middle, and food at three heights — a cake stand, a wooden board, a tray on books — make a plain spread look styled. Add a small clock set to 11:55 and a few tea lights."
+        }
+      ],
+      "heading": "New Year's Eve Decor on a Small Budget"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "New Year's Eve food has one rule: it must survive sitting out for two hours and still taste good. Nobody wants a host who disappears into the kitchen every twenty minutes. Pick food you can set out at 8 PM and forget about."
+        },
+        {
+          "t": "h3",
+          "text": "Appetizers That Disappear First"
+        },
+        {
+          "t": "p",
+          "text": "Every year the same things vanish first. A baked brie with honey takes 20 minutes in a 375°F oven and feeds 10 people from one wheel. Pigs in a blanket — one pack of crescent dough and a pack of mini sausages makes 24 pieces in 15 minutes."
+        },
+        {
+          "items": [
+            "Baked brie: one 8-ounce wheel, 2 tablespoons honey, walnuts — 375°F, 18 to 20 minutes.",
+            "Pigs in a blanket: 24 pieces, crescent dough + mini sausages — 375°F, 12 to 15 minutes.",
+            "Slow-cooker meatballs: 2 pounds frozen meatballs, one jar of sauce, 2 hours on low.",
+            "Mini brownies: one box mix in a mini muffin tin, gold sugar on top — 20 minutes."
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "A Simple Champagne Cocktail Bar"
+        },
+        {
+          "t": "p",
+          "text": "A drinks table beats a full bar because guests serve themselves and you stay in the room. One bottle of prosecco or cava ($10 to $12), one bottle of sparkling cider for non-drinkers ($5), and three mixers: orange juice, cranberry juice and elderflower cordial."
+        }
+      ],
+      "heading": "New Year's Eve Party Food That Disappears Fast"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Games are what turn a room full of people standing around into a party. The trick is picking games that need no setup and no explaining — if you have to read out rules for five minutes, half the room has already checked their phones."
+        },
+        {
+          "t": "h3",
+          "text": "Games That Need Zero Setup"
+        },
+        {
+          "t": "p",
+          "text": "Two Truths and a Lie still works after all these years, because it makes people laugh at stories they didn't know. The resolutions jar is even easier: everyone writes one resolution on a slip of paper, folds it, and drops it in a jar."
+        },
+        {
+          "items": [
+            "Two Truths and a Lie: three statements each, guess the lie — 15 minutes, zero props.",
+            "Resolutions jar: slips of paper, a jar, and an 11:30 PM reveal — free.",
+            "A playlist game: play 5 seconds of a song, first to name it wins."
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "A Countdown Game for Midnight"
+        },
+        {
+          "t": "p",
+          "text": "The last ten minutes before midnight can feel awkward if nobody plans them, so plan them. At 11:50, hand everyone a slip of paper and a pen. They write one word for the year that's ending and one word for the year ahead, then read them out at 11:58."
+        },
+        {
+          "items": [
+            "11:50 PM: hand out paper — one word for each year.",
+            "11:55 PM: read them out loud, one person at a time.",
+            "11:59 PM: pour the drinks, hand out the confetti poppers.",
+            "Midnight: toast, hug, take the photo — then let the music take over."
+          ],
+          "t": "ol"
+        }
+      ],
+      "heading": "New Year's Eve Party Games for Adults (and Everyone Else)"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "A dress code saves guests from the worst party feeling: showing up in jeans while everyone else is in sequins, or the other way round. Put it right in the invitation — two words is enough, like \"sparkly casual\" or \"black and gold\"."
+        },
+        {
+          "t": "h3",
+          "text": "What to Wear to a House Party"
+        },
+        {
+          "t": "p",
+          "text": "Sequin tops are the easiest New Year's Eve outfit there is: one sparkly top, black trousers or a black skirt, and you're done. Velvet works the same way — a velvet dress or a velvet blazer over jeans reads festive without trying too hard."
+        },
+        {
+          "items": [
+            "Sequin top + black trousers: the classic, works for every body and every room.",
+            "Velvet dress or blazer: warm, soft, and it photographs beautifully in candlelight.",
+            "Gold or champagne accessories: earrings, a clutch, or a pair of shoes — one piece is enough."
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "Comfortable Shoes, Seriously"
+        },
+        {
+          "t": "p",
+          "text": "You'll be on your feet from 8 PM to past midnight, standing, dancing, and carrying trays. Wear the shoes you can stand in for four hours, not the ones that look best in a photo. Block heels, dressy flats, or clean white trainers with a sparkly top all work."
+        }
+      ],
+      "heading": "New Year's Eve Outfits: What to Wear to a House Party"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "A party without a plan drifts. Someone is still cooking at 10 PM, the music stops at 11, and midnight sneaks up while half the room is in the kitchen. A loose timeline fixes all of it — not a strict schedule, just a few anchors so the night flows."
+        },
+        {
+          "t": "h3",
+          "text": "The 7 PM to Midnight Plan"
+        },
+        {
+          "t": "p",
+          "text": "Five hours sounds long, but it flies by. The morning is for the garland and the table; the afternoon is for the food. By 7 PM everything should be set out and you should be dressed. After that, the night runs itself."
+        },
+        {
+          "items": [
+            "Morning: balloon garland up, table set, playlist ready — about 90 minutes.",
+            "Afternoon: cook the warm dish, bake the brie, chill the drinks.",
+            "7:00 PM: doors open, music on, appetizers out.",
+            "9:00 PM: first game, then dessert at 10:30 and the dance playlist.",
+            "11:50 PM: the one-word game, then the countdown, the toast, and the photo."
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "h3",
+          "text": "What to Do After Midnight"
+        },
+        {
+          "t": "p",
+          "text": "Midnight isn't the end — it's the best part, if you let it be. Put on the dance playlist, bring out the leftover brownies, and let people stay as long as they like. Keep the sparkling cider out for anyone driving home."
+        }
+      ],
+      "heading": "A Simple Timeline for the Night, 7 PM to Midnight"
+    }
+  ],
+  "slug": "new-years-eve-party-ideas",
+  "subcategory": "New Year's Eve",
+  "title": "New Year's Eve Party Ideas 2026: Easy Themes, Decor, Food & Games for a Night to Remember",
+  "to": "#B95E14"
+}),
+  P({
   "bannerTitle": "Pressed Leaf Glass Frames",
   "category": "diy-crafts",
   "date": "2026-11-21",
