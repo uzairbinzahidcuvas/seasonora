@@ -93,6 +93,629 @@ const P = (o: Post) => o;
 
 export const POSTS: Post[] = [
   P({
+  "bannerTitle": "Fall Mason Jar Lanterns",
+  "category": "diy-crafts",
+  "date": "2026-11-23",
+  "excerpt": "Fall mason jar lanterns turn three plain jars into glowing autumn light with tissue paper, jute rope and battery fairy lights — cheap, quick, and lovely on a mantel or dinner table.",
+  "faqs": [
+    {
+      "a": "About 45 minutes of hands-on work, plus at least an hour of drying time. Tearing the tissue takes ten minutes, covering the three jars takes about half an hour, and the jute bows and fairy lights take five minutes at the end. If you leave the jars to dry overnight, the whole project fits into one relaxed evening — start after dinner and the lanterns are ready for the mantel by bedtime.",
+      "q": "How long do fall mason jar lanterns take to make?"
+    },
+    {
+      "a": "No — stick to battery-powered LED fairy lights. Tissue paper and decoupage medium are both flammable, and a real flame inside a paper-covered jar is a fire risk, even for a few minutes. LED fairy lights give the same warm glow, stay cool to the touch, and you can leave them on all evening without worry. If you want a flickering candle look, buy fairy lights with a flicker setting — most craft shops stock them.",
+      "q": "Can I use real candles in fall mason jar lanterns?"
+    },
+    {
+      "a": "Thin, translucent gift-wrap tissue in amber, orange and cream. Hold a sheet up to a window: if the light shines through easily, it's right. Thick craft tissue blocks the light and the lanterns come out dull. One sheet of each colour covers three pint jars with pieces to spare. Avoid tissue with glitter or metallic print — it looks patchy once the decoupage medium goes over it.",
+      "q": "What kind of tissue paper works best for fall mason jar lanterns?"
+    },
+    {
+      "a": "Yes — tearing the tissue and smoothing it onto the jars is a great job for kids, and the torn edges are the whole look, so there's no way to get it wrong. Let them pick the colours and tear the pieces while you handle the brushing. Use a washable decoupage medium and cover the table with newspaper, and the clean-up takes two minutes. Kids also love switching the fairy lights on at the end — it's the best part.",
+      "q": "Can kids help make fall mason jar lanterns?"
+    }
+  ],
+  "from": "#4E8FB8",
+  "hero": {
+    "alt": "Three glowing fall mason jar lanterns in amber, orange and cream tissue paper with jute rope bows and dried leaves on a wooden table",
+    "src": "/img/a16-hero"
+  },
+  "images": [
+    {
+      "after": 3,
+      "img": {
+        "alt": "Three handmade fall mason jar lanterns in amber, orange and cream tissue paper with jute rope bows, glowing warmly",
+        "caption": "The finished lanterns in amber, orange and cream — tissue paper, jute rope and a warm glow.",
+        "src": "/img/a16-a"
+      }
+    },
+    {
+      "after": 5,
+      "img": {
+        "alt": "Fall mason jar lanterns with fairy lights styled on a wooden mantel beside old books and dried leaves",
+        "caption": "Styled on the mantel with old books and dried leaves — the fairy lights do all the glowing.",
+        "src": "/img/a16-b"
+      }
+    }
+  ],
+  "intro": "Fall mason jar lanterns are the easiest way we know to make a room feel like autumn after dark. Three plain jars, a few sheets of tissue paper, some jute rope and a string of battery fairy lights — that's the whole list, and the finished lanterns glow like amber on a mantel or a dinner table. We made our first set on a rainy Saturday with jars from the back of the cupboard, and they stayed out all season. The video above shows the full make in thirty seconds, and below you'll find every step written out, the exact supplies, and the small choices that keep the tissue smooth instead of wrinkled.",
+  "motif": "snow",
+  "readTime": 8,
+  "sections": [
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The idea works because the tissue paper does the hard work for you. Hold a sheet of amber tissue up to a light and you get that warm, honeyed glow that lamps can't copy — the paper softens the light and spreads it across the whole jar. Layer orange over amber and the glow deepens; leave the cream jar plain and it shines pale and soft beside them. The three jars together look like a set, even though each one took five minutes."
+        },
+        {
+          "items": [
+            "Cheap: three jars, a pack of tissue paper and one string of fairy lights costs less than a takeaway lunch",
+            "Fast: about 45 minutes from start to finish, most of it drying time",
+            "Safe: battery fairy lights stay cool, so the lanterns can sit near curtains, books and dried leaves",
+            "Forgiving: torn edges and overlaps are the whole look — there is no wrong way to stick the paper on",
+            "Reusable: the jars last for years — swap the tissue colour and they fit Christmas, spring or a birthday table"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "p",
+          "text": "They also solve the small problem of a dark corner. A mantel, a windowsill, a shelf that never gets the sun — one lantern there in the evening changes the whole room. Put all three together for a centrepiece, or split them up around the house."
+        }
+      ],
+      "heading": "Why Fall Mason Jar Lanterns Work So Well"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The supply list is short, and you probably own half of it already. Mason jars turn up in most kitchens, and the rest costs a few dollars at a craft shop. Check the fairy lights work before you start — there's nothing worse than finishing a lantern and finding the lights are dead."
+        },
+        {
+          "items": [
+            "Three clean mason jars, any size — pint jars look best, but quart jars work too",
+            "Translucent tissue paper in amber, orange and cream — one sheet of each colour is plenty",
+            "Decoupage medium, one small bottle",
+            "A flat paintbrush, about an inch wide",
+            "Jute rope or twine, about an arm's length per jar",
+            "Battery-powered LED fairy lights, one short string per jar",
+            "Scissors, for trimming the rope and any stray paper",
+            "Dried leaves, for styling the finished lanterns"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "Picking the right jars"
+        },
+        {
+          "t": "p",
+          "text": "Any clean glass jar works, but wide-mouth mason jars are the easiest — you can reach inside to place the lights, and the straight sides take the tissue without wrinkles. Wash the jars in warm soapy water, dry them well, and wipe the outside with a dry cloth. Any grease or dust stops the tissue sticking, so don't skip this step."
+        },
+        {
+          "t": "h3",
+          "text": "Tissue paper: thin beats thick"
+        },
+        {
+          "t": "p",
+          "text": "Look for the thin, almost see-through tissue paper sold for gift wrapping, not the thick craft kind. Hold a sheet up to a window: if the light shines through easily, it's right. Thick paper blocks the light and the lanterns come out dull."
+        }
+      ],
+      "heading": "What You Need"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Start with the jars and the paper, before any glue comes out. Clean jars and torn paper are the whole prep, and getting them ready first means you won't be tearing paper with sticky fingers later."
+        },
+        {
+          "t": "h3",
+          "text": "Cleaning the jars"
+        },
+        {
+          "t": "p",
+          "text": "Wash each jar in warm soapy water and dry it inside and out. Run your finger around the outside — it should feel smooth, with no sticky spots. Set the jars upside down on a tea towel for ten minutes so the last drops dry off, then stand them upright on your work table."
+        },
+        {
+          "items": [
+            "Tear the tissue paper into pieces about two inches across — no scissors, torn edges blend better than cut ones",
+            "Keep the colours in three small piles so you can grab amber, orange or cream without thinking",
+            "Tear a few extra pieces of each colour; you'll use more than you expect",
+            "Clear a flat space on the table and lay down newspaper — decoupage medium washes off, but it sticks to wood while it's wet",
+            "Check the fairy lights now: switch each string on and count the bulbs"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "p",
+          "text": "Tearing instead of cutting matters: a cut edge shows as a hard line under the light, while a torn edge fades into the next piece, so the jar looks like coloured glass instead of a patchwork."
+        }
+      ],
+      "heading": "Tearing the Tissue Paper and Cleaning the Jars"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "This is the step the video shows best, so watch it once before you start. The method is simple: brush, stick, smooth — and repeat until the jar is covered. Work on one jar at a time and don't rush the smoothing."
+        },
+        {
+          "items": [
+            "Brush a thin, even coat of decoupage medium onto one patch of the jar, about the size of your palm",
+            "Lay a tissue piece over the wet patch and press it down gently with the brush",
+            "Brush a thin coat of medium over the top of the tissue to seal it",
+            "Add the next piece so it overlaps the first by about half an inch",
+            "Keep going until the whole jar is covered, then set it aside and start the next one"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "h3",
+          "text": "Keeping the tissue smooth"
+        },
+        {
+          "t": "p",
+          "text": "Two things keep the finish neat. First, thin coats — a thick puddle wrinkles the paper as it dries, while a thin coat dries flat. Second, smooth from the middle of each piece out to the edges with the flat of the brush, not your fingers, which leave prints in the wet medium. Small wrinkles are fine, but press big folds flat while the medium is still wet."
+        },
+        {
+          "t": "p",
+          "text": "If a piece tears while you're smoothing it, leave it. A torn piece under the next layer just looks like another layer. This is the most forgiving craft we know — the light hides almost every mistake."
+        }
+      ],
+      "heading": "Brushing On Decoupage Medium and Tissue Paper"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Once all three jars are covered, the hard part is waiting. The tissue needs to dry fully before you touch it again, or the paper slides and bunches. Give it at least an hour — overnight is even better if you can wait."
+        },
+        {
+          "items": [
+            "Leave the jars to dry for at least an hour, somewhere warm and out of the way",
+            "Check the tissue is fully dry by touching it lightly — it should feel papery, not tacky",
+            "Cut a length of jute rope and wrap it twice around the neck of the jar",
+            "Tie a small bow at the front and trim the ends to about two inches",
+            "Drop a string of fairy lights into each jar, battery pack tucked just inside the rim",
+            "Switch the lights on and check the glow before you style the jars"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "h3",
+          "text": "The jute bow"
+        },
+        {
+          "t": "p",
+          "text": "The bow is the detail that makes the jars look finished instead of half-done. Wrap the rope snug, not tight — too tight and it slides down the neck; too loose and it slips off when you move the jar. A double wrap holds better than a single one, and the bow sits best at the front, just under the rim. If the rope frays at the ends, trim it with sharp scissors and the fray stops."
+        },
+        {
+          "t": "p",
+          "text": "For the lights, coil the string loosely inside the jar rather than stuffing it in — a loose coil spreads the light evenly, while a tight ball leaves one bright spot and dark corners. The battery pack sits inside the rim where the jute hides it."
+        }
+      ],
+      "heading": "Drying, Jute Rope and Fairy Lights"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Three lanterns together make a centrepiece; one on its own makes a corner feel cared for. The styling takes two minutes and uses whatever autumn bits you have lying around."
+        },
+        {
+          "items": [
+            "On the mantel: line all three up with a few dried leaves scattered in front, tallest in the middle",
+            "On the dinner table: one lantern at each end and one in the centre, with a linen runner underneath",
+            "By the front door: a single lantern on the console table, so guests see the glow as they come in",
+            "On a windowsill: the light shines out onto the street as well as into the room",
+            "With books: stack two old books beside a lantern on a shelf — the warm light makes the whole shelf look intentional"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "p",
+          "text": "Repeat the amber and orange elsewhere in the room — a few dried leaves on the coffee table, a rust cushion on the sofa — and the lanterns stop looking like an add-on."
+        }
+      ],
+      "heading": "Styling Your Fall Mason Jar Lanterns"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Look after them and the lanterns will last the whole season — and the jars will last for years. Keep them out of damp and away from radiators, so the tissue stays stuck and the colours stay warm. Switch the fairy lights off when you leave the room; the batteries last weeks that way, and the lanterns are ready whenever you want them."
+        },
+        {
+          "t": "h3",
+          "text": "Ways to change it up"
+        },
+        {
+          "t": "p",
+          "text": "The same make works all year with a few swaps. Trade the amber tissue for deep red and gold and the lanterns fit a Christmas table. Use pale green and cream for spring, with a few fresh leaves tucked under the jute. Add a dried orange slice or a cinnamon stick under the bow for a scented version, or write a name on a small kraft tag and tie it to the rope — the lanterns make sweet place markers for a Friendsgiving table, and guests can take them home."
+        },
+        {
+          "t": "p",
+          "text": "When autumn ends, wipe the jars clean and store them upright in a box with the lids off, so no damp gets trapped inside. The tissue peels off with warm water if you want a fresh colour next year — or leave it on, ready for the next cold evening."
+        }
+      ],
+      "heading": "Care, Storage and Easy Variations"
+    }
+  ],
+  "slug": "fall-mason-jar-led-lanterns",
+  "subcategory": "Handmade Gifts",
+  "title": "Fall Mason Jar Lanterns: Easy DIY Tissue Paper Lanterns with Fairy Lights",
+  "to": "#275E7E",
+  "video": "fall-mason-jar-led-lanterns"
+}),
+  P({
+  "bannerTitle": "Christmas Cookie Recipes 2026",
+  "category": "food-recipes",
+  "date": "2026-11-23",
+  "excerpt": "Christmas cookie recipes for a cookie exchange: soft sugar cookies, spiced gingerbread and fudgy chocolate crinkles — three classics, exact amounts, zero fuss.",
+  "faqs": [
+    {
+      "a": "One kind, baked in a double batch — about 4 dozen for 8 guests. Swaps work best when every baker brings a full batch of a single cookie, so the table ends up with real variety. All three recipes in this guide make 2 dozen per batch, so two batches cover a standard exchange.",
+      "q": "How many Christmas cookie recipes should I bake for a cookie exchange?"
+    },
+    {
+      "a": "Yes — and you should. All three doughs freeze for up to 3 months wrapped tight, and baked cookies freeze undecorated for a month. Thaw dough overnight in the fridge, or thaw baked cookies on the counter for 2 hours. Decorate only after thawing, so the icing sets properly.",
+      "q": "Can I freeze Christmas cookie recipes ahead of time?"
+    },
+    {
+      "a": "Almost always warm dough or soft butter. Chill the dough for 30 minutes before rolling, and chill the cut shapes for 10 minutes before they go in the oven. Also check your butter — it should be soft enough to dent with a finger, not shiny or greasy.",
+      "q": "Why did my sugar cookies spread flat?"
+    },
+    {
+      "a": "About 3 to 4 days once iced, kept in a single layer in a tin at room temperature. Keep soft and crisp cookies in separate tins so the crisp ones don't go soft. Undecorated, the same cookies last 5 days, and gingerbread lasts a full two weeks.",
+      "q": "How long do decorated cookies stay fresh?"
+    }
+  ],
+  "from": "#DE7A3D",
+  "hero": {
+    "alt": "Three plates of Christmas cookies — iced sugar cookies, gingerbread men and chocolate crinkle cookies — on a dark wooden table with candles and evergreen",
+    "src": "/img/a15-hero"
+  },
+  "images": [
+    {
+      "after": 2,
+      "img": {
+        "alt": "Three iced gingerbread men with white icing smiles on a black plate",
+        "caption": "Gingerbread men, iced and ready for the tin.",
+        "src": "/img/a15-a"
+      }
+    },
+    {
+      "after": 4,
+      "img": {
+        "alt": "A hand holding a gift box of star-shaped sugar cookies dusted with powdered sugar",
+        "caption": "Star sugar cookies, packed and ready to swap.",
+        "src": "/img/a15-b"
+      }
+    },
+    {
+      "after": 6,
+      "img": {
+        "alt": "Hands tying twine around red gift boxes of decorated Christmas cookies",
+        "caption": "Tying up cookie boxes with twine — the tin comes back next year.",
+        "src": "/img/a15-c"
+      }
+    }
+  ],
+  "intro": "Christmas cookie recipes are the one part of December baking nobody argues about. Every year our kitchen turns into a cookie factory for about two weekends — flour on the counters, three baking sheets rotating through the oven. The three recipes in this guide are the ones that survived years of testing: soft sugar cookies that hold their shape, gingerbread men with a proper snap, and chocolate crinkles that crack open like snow on dark earth. They all travel well, freeze well, and taste even better the next day, which is exactly what a cookie exchange needs.",
+  "motif": "cookie",
+  "readTime": 10,
+  "sections": [
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "A cookie exchange has one rule that matters: bring cookies that still taste good two days later. The soft, gooey batch that melts in your mouth straight from the oven is lovely at home, but it turns into crumbs in a gift box. The three recipes here were picked because they hold up — firm edges, flavors that deepen overnight, and shapes that survive a car ride."
+        },
+        {
+          "t": "h3",
+          "text": "How a cookie exchange usually works"
+        },
+        {
+          "items": [
+            "Each baker brings 2 to 3 dozen cookies of one kind",
+            "Everyone takes home a mixed box — one or two of each kind",
+            "Bring the recipe printed or written on a card, so people can bake it again",
+            "Label anything with nuts, dairy or gluten so nobody has to guess"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "p",
+          "text": "Plan for about 6 cookies per guest to take home, and bake a few extra for the tasting tray. If 8 people are coming, that's 4 dozen from you — two batches of any recipe here, and you're done."
+        },
+        {
+          "t": "h3",
+          "text": "The one timeline that keeps baking calm"
+        },
+        {
+          "items": [
+            "Two weeks before: mix and freeze the doughs — all three freeze beautifully",
+            "Two days before: bake the gingerbread and the crinkles",
+            "One day before: bake the sugar cookies and decorate while they're cool",
+            "Morning of: pack boxes with tissue paper between layers"
+          ],
+          "t": "ol"
+        }
+      ],
+      "heading": "Christmas Cookie Recipes That Actually Work for a Cookie Exchange"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "This is the sugar cookie we come back to every year. Soft in the middle, lightly golden at the edges, and sturdy enough to hold a layer of icing without going soggy. The dough needs 30 minutes in the fridge — skip that and the cookies spread into blobs, so don't."
+        },
+        {
+          "t": "h3",
+          "text": "Sugar cookie ingredients (makes 24 cookies)"
+        },
+        {
+          "items": [
+            "1 cup (226 g) unsalted butter, softened",
+            "1 cup (200 g) granulated sugar",
+            "1 large egg, room temperature",
+            "1 1/2 teaspoons vanilla extract",
+            "3 cups (375 g) all-purpose flour",
+            "1 teaspoon baking powder",
+            "1/2 teaspoon fine salt"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "Sugar cookie method"
+        },
+        {
+          "items": [
+            "Beat the butter and sugar together for 3 minutes until pale and fluffy",
+            "Add the egg and vanilla and beat until smooth",
+            "Stir in the flour, baking powder and salt until a soft dough forms",
+            "Wrap the dough and chill for 30 minutes",
+            "Roll to 1/4 inch thick on a floured surface and cut into shapes",
+            "Bake at 350°F (175°C) for 9 to 11 minutes, until the edges just turn golden",
+            "Cool on the sheet for 5 minutes, then move to a rack"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "p",
+          "text": "Pull them out when they still look a touch pale in the middle — they finish baking on the hot sheet, and that's what keeps them soft."
+        }
+      ],
+      "heading": "Easy Sugar Cookies: Soft, Buttery & Ready to Decorate"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Good gingerbread smells like December the moment it hits the oven. This version is dark and spicy from molasses and ginger, with crisp edges and a chewy middle. It's also the sturdiest cookie in this guide — gingerbread men survive gift boxes, mail, and small hands."
+        },
+        {
+          "t": "h3",
+          "text": "Gingerbread ingredients (makes 24 cookies)"
+        },
+        {
+          "items": [
+            "3 1/4 cups (405 g) all-purpose flour",
+            "1 teaspoon baking soda",
+            "1/2 teaspoon fine salt",
+            "1 tablespoon ground ginger",
+            "1 teaspoon ground cinnamon",
+            "1/4 teaspoon ground cloves",
+            "1/4 teaspoon ground nutmeg",
+            "3/4 cup (170 g) unsalted butter, softened",
+            "3/4 cup (150 g) dark brown sugar, packed",
+            "1 large egg, room temperature",
+            "1/2 cup (120 ml) molasses",
+            "1 teaspoon vanilla extract"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "Gingerbread method"
+        },
+        {
+          "items": [
+            "Whisk the flour, baking soda, salt and all the spices in a bowl",
+            "Beat the butter and brown sugar together for 2 minutes",
+            "Add the egg, molasses and vanilla and beat until smooth",
+            "Mix in the dry ingredients until a firm dough forms",
+            "Wrap and chill for at least 1 hour — overnight is even better",
+            "Roll to 1/4 inch thick and cut into shapes",
+            "Bake at 350°F (175°C) for 9 to 10 minutes, until the edges are set",
+            "Cool on the sheet for 5 minutes, then move to a rack"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "p",
+          "text": "Dark molasses gives the deep color and the old-fashioned flavor, so don't swap in light corn syrup. Roll the dough a little thicker than you think — 1/4 inch keeps the men from going brittle."
+        }
+      ],
+      "heading": "Classic Gingerbread Cookies: Spiced, Sturdy & Full of Christmas Flavor"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Crinkles look like they took real skill, and that's the joke — they're the easiest cookie in this guide. You roll dark chocolate dough in powdered sugar, and the oven does the decorating for you. The tops crack open as they bake, so each cookie comes out looking dusted with snow."
+        },
+        {
+          "t": "h3",
+          "text": "Chocolate crinkle ingredients (makes 24 cookies)"
+        },
+        {
+          "items": [
+            "1 cup (125 g) all-purpose flour",
+            "1/2 cup (50 g) unsweetened cocoa powder",
+            "1 teaspoon baking powder",
+            "1/4 teaspoon fine salt",
+            "1/2 cup (100 g) granulated sugar",
+            "1/4 cup (60 ml) vegetable oil",
+            "2 large eggs, room temperature",
+            "1 teaspoon vanilla extract",
+            "1/2 cup (90 g) chocolate chips",
+            "1/2 cup (60 g) powdered sugar, for rolling"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "Chocolate crinkle method"
+        },
+        {
+          "items": [
+            "Whisk the flour, cocoa, baking powder and salt in a bowl",
+            "Beat the sugar, oil, eggs and vanilla together until smooth",
+            "Stir in the dry ingredients and the chocolate chips",
+            "Chill the dough for 2 hours, or 30 minutes in the freezer",
+            "Roll into 1-inch balls and coat generously in powdered sugar",
+            "Place 2 inches apart on a lined baking sheet",
+            "Bake at 350°F (175°C) for 10 to 12 minutes, until the tops crack and the edges are set",
+            "Cool on the sheet for 5 minutes, then move to a rack"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "p",
+          "text": "The chill is not optional — warm dough spreads flat and the cracks never form. Roll the balls twice in the powdered sugar for the whitest, snowiest finish."
+        }
+      ],
+      "heading": "Chocolate Crinkle Cookies: Fudgy Centers, Crackled Tops"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The baking is the fun part. The packing is what decides whether your cookies arrive looking like cookies. A little planning here saves you from opening a box of crumbs in front of everyone."
+        },
+        {
+          "t": "h3",
+          "text": "How many cookies to bake"
+        },
+        {
+          "items": [
+            "8 guests: 4 dozen of one kind (two batches of any recipe here)",
+            "12 guests: 6 dozen — bake one recipe twice, or two recipes once each",
+            "Always bake 6 extra for the tasting tray and for you",
+            "Small cookies travel better — use a 2-inch cutter, not a 4-inch one"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "p",
+          "text": "Bring one kind, not three. Swaps work best when every baker brings a full batch of one cookie, so the table ends up with a real variety."
+        },
+        {
+          "t": "h3",
+          "text": "Packing that actually protects the cookies"
+        },
+        {
+          "items": [
+            "Line the box with tissue paper or parchment",
+            "Lay cookies in a single layer, flat side down",
+            "Put a sheet of tissue between layers — never stack iced cookies face to face",
+            "Tuck crumpled tissue at the edges so nothing slides around",
+            "Keep soft cookies and crisp cookies in separate boxes so the crisp ones stay crisp"
+          ],
+          "t": "ol"
+        }
+      ],
+      "heading": "Christmas Cookie Recipes for a Cookie Exchange: How to Plan, Pack & Swap"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "You don't need piping bags or a steady hand to make these cookies look like a bakery made them. Pick one simple finish per cookie and do it the same way across the whole batch. Uniform beats fancy every time."
+        },
+        {
+          "t": "h3",
+          "text": "Five finishes anyone can do"
+        },
+        {
+          "items": [
+            "Powdered sugar snow — dust cooled cookies through a small sieve",
+            "Two-color drizzle — melt white and dark chocolate, drizzle with a fork",
+            "Sanding sugar sparkle — brush cookies with a little milk before baking, then sprinkle",
+            "Simple royal icing dots — thin icing in a zip bag, snip the corner, dot and drag",
+            "Crushed candy cane edges — dip half a cooled cookie in melted chocolate, then in crushed candy"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "p",
+          "text": "Decorate only once the cookies are fully cool — warm cookies melt icing into a puddle. If you're short on time, pick the powdered sugar snow. It takes two minutes, it looks like Christmas, and nobody has ever complained about it."
+        },
+        {
+          "t": "h3",
+          "text": "What to buy once and reuse every year"
+        },
+        {
+          "items": [
+            "A set of 3 or 4 metal cutters: star, tree, gingerbread man, snowflake",
+            "Red and green sanding sugar, one jar each",
+            "A small sieve for dusting powdered sugar",
+            "Parchment paper — cookies never stick, and cleanup takes seconds"
+          ],
+          "t": "ul"
+        }
+      ],
+      "heading": "Decorating Ideas That Look Fancy but Take Minutes"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Christmas baking only works if the cookies are still good when people eat them. The freezer is your best friend in December — bake early, freeze flat, and you're calm all month."
+        },
+        {
+          "t": "h3",
+          "text": "How long each cookie keeps"
+        },
+        {
+          "items": [
+            "Sugar cookies: 5 days in a tin at room temperature, 2 weeks in the fridge",
+            "Gingerbread: 2 weeks in a tin — the flavor actually improves after a day or two",
+            "Chocolate crinkles: 5 days in a tin, but re-dust with powdered sugar before serving",
+            "Decorated cookies: 3 to 4 days once iced, kept in a single layer"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "Freezing rules that work"
+        },
+        {
+          "items": [
+            "Freeze baked cookies undecorated, in a single layer, then bag them once solid",
+            "Freeze dough instead — all three doughs keep 3 months wrapped tight",
+            "Thaw baked cookies on the counter for 2 hours, still in the bag so they don't dry out",
+            "Thaw dough overnight in the fridge, then roll and bake as normal"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "p",
+          "text": "For gifting, a simple tin beats a fancy box. Line it with tissue, stack one kind per tin, and tie the lid with twine and a sprig of rosemary. It costs almost nothing, and the tin comes back to you next year."
+        }
+      ],
+      "heading": "Storing, Freezing & Gifting Your Christmas Cookies"
+    }
+  ],
+  "slug": "christmas-cookie-recipes",
+  "subcategory": "Cookies & Baking",
+  "title": "Christmas Cookie Recipes 2026: Easy Sugar Cookies, Gingerbread & Chocolate Crinkle Cookies for a Cookie Exchange",
+  "to": "#A83E1B"
+}),
+  P({
   "bannerTitle": "Cozy Winter Home Decor",
   "category": "home-decor",
   "date": "2026-11-22",

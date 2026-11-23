@@ -16,6 +16,17 @@ export type VideoEntry = {
 
 export const VIDEOS: VideoEntry[] = [
   {
+    slug: "fall-mason-jar-led-lanterns",
+    title: "DIY Fall Mason Jar Lanterns – Easy Autumn Craft",
+    description: "Turn simple mason jars into glowing autumn lanterns with translucent tissue paper, jute rope and battery-powered fairy lights. A budget-friendly fall craft for a mantel or table.",
+    category: "diy-crafts",
+    topic: "Autumn lighting",
+    articleSlug: "fall-mason-jar-led-lanterns",
+    poster: "/img/a16-a",
+    durationSec: 30,
+    date: "2026-11-23",
+  },
+  {
     slug: "friendsgiving-table-place-cards",
     title: "Easy DIY Friendsgiving Place Cards for an Aesthetic Table",
     description: "Make personalized Friendsgiving place cards with kraft paper, dried oranges and rosemary — a simple handmade detail that adds a warm seasonal touch to a Thanksgiving dinner table.",
