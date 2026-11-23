@@ -93,6 +93,336 @@ const P = (o: Post) => o;
 
 export const POSTS: Post[] = [
   P({
+    "bannerTitle": "15 Easy DIY Christmas Ornaments",
+    "category": "diy-crafts",
+    "date": "2026-11-23",
+    "excerpt": "Easy DIY Christmas ornaments you can make in one weekend — paper stars, clay baubles, salt dough and hand-painted ornaments for your tree, all for under $15.",
+    "faqs": [
+      {
+        "a": "Most ornaments in this guide cost between $0.50 and $2 each. A block of air-dry clay is about $6 and makes around 25 ornaments, paper stars cost almost nothing, and salt dough is flour, salt and water from the kitchen. All fifteen ornaments together come to under $15 — less than one bag of shop-bought baubles.",
+        "q": "How much do easy DIY Christmas ornaments cost to make?"
+      },
+      {
+        "a": "Paper stars. You need paper, scissors and ribbon, and the first good one takes about 15 minutes. Dried orange slice ornaments are just as easy — tie a slice and a cinnamon stick together with twine and you are done in five minutes. Start with one of those two, and move on to clay once you have got the hang of it.",
+        "q": "Which easy DIY Christmas ornaments are best for beginners?"
+      },
+      {
+        "a": "Use short lengths of ribbon tied in a loop rather than shop-bought wire hooks — ribbon grips the branch better. Hang heavier clay and salt dough ornaments on the thicker inner branches, keep them within easy reach, and check the loop knot is tight before you let go. A drop of hot glue where the ribbon meets the ornament stops it slipping.",
+        "q": "How do you hang easy DIY Christmas ornaments so they don't fall off?"
+      },
+      {
+        "a": "Years, if you seal them. Paint them, then add a coat of clear varnish or Mod Podge, and store them flat in tissue paper in a dry box. Without the varnish coat they soften in damp air and can go sticky, so that one step is worth the five minutes it takes.",
+        "q": "How long do salt dough ornaments last?"
+      }
+    ],
+    "from": "#4E8FB8",
+    "hero": {
+      "alt": "Hands hand-painting wooden Christmas ornaments with snowy tree and snowman designs, warm fairy lights glowing in the background",
+      "src": "/img/a19-hero"
+    },
+    "images": [
+      {
+        "after": 2,
+        "img": {
+          "alt": "Handmade white air-dry clay star and Christmas tree ornaments with hanging holes, laid on kraft paper with pinecones and a pink ribbon",
+          "caption": "Air-dry clay stars and a little tree, fresh from the cookie cutter — white clay on kraft paper with pinecones.",
+          "src": "/img/a19-a"
+        }
+      },
+      {
+        "after": 4,
+        "img": {
+          "alt": "Salt dough Christmas ornaments painted red and white, hanging on a small Christmas tree with ribbon loops",
+          "caption": "Salt dough stars and trees, painted and sealed — the slightly lopsided ones always end up being the favourites.",
+          "src": "/img/a19-b"
+        }
+      },
+      {
+        "after": 6,
+        "img": {
+          "alt": "Hands hanging a wooden acorn ornament on a Christmas tree branch with warm fairy lights",
+          "caption": "Hanging the ornaments — a wooden acorn going on the tree, with fairy lights glowing behind it.",
+          "src": "/img/a19-c"
+        }
+      }
+    ],
+    "intro": "Easy DIY Christmas ornaments are having a moment — searches for easy DIY Christmas decorations are up 680% this year, and it is easy to see why. A handful of paper stars, a few hand-painted baubles and some salt dough shapes cost less than one bag of shop-bought ornaments, and they look like they came from a little craft fair, not a production line. We made all fifteen ornaments in this guide in a single weekend, most of them in under an hour each, using supplies from the dollar store and the kitchen cupboard. Below you will find the exact materials, the steps that actually matter, and the prices — so you can pick your favourites and get started tonight.",
+    "motif": "snow",
+    "readTime": 10,
+    "sections": [
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "The trick with handmade ornaments is not skill — it is restraint. One colour palette, one or two materials per ornament, and a finish that looks deliberate. A paper star in cream and gold looks like a shop piece; the same star in five clashing colours looks like a school project. Pick two colours for the whole tree — we used deep red and warm gold this year — and every ornament you make will sit happily next to the others."
+          },
+          {
+            "t": "h3",
+            "text": "What makes an ornament look handmade in a good way"
+          },
+          {
+            "t": "p",
+            "text": "Small, even details. A tidy knot instead of a blob of glue. A ribbon cut to the same length on every ornament. Edges sanded smooth on clay pieces. None of it takes long, and it is the difference between “oh, you made that?” and “where did you buy that?”"
+          },
+          {
+            "items": [
+              "Cost: most ornaments here cost $0.50–$2 each; the whole set of 15 stays under $15",
+              "Time: paper stars take 15 minutes; clay ornaments take 30 minutes plus drying",
+              "Skill level: if you can fold paper and stir dough, you can make all of these",
+              "Supplies: paper, air-dry clay, salt, flour, acrylic paint, ribbon and twine — all from one shop run",
+              "Kid-friendly: salt dough and paper stars are safe for little hands with supervision"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "p",
+            "text": "Before you start, make one test ornament: hang it on the tree and look at it from across the room. If it looks good there, the rest will too."
+          }
+        ],
+        "heading": "Easy DIY Christmas Ornaments That Look Store-Bought"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Paper stars are the easiest win in this guide. They need nothing but paper and scissors, they fold flat for storage, and they look beautiful in a window where the light shines through them."
+          },
+          {
+            "t": "h3",
+            "text": "What you need for paper star ornaments"
+          },
+          {
+            "items": [
+              "6 sheets of A4 paper per star (cream, kraft or red — 80gsm copier paper works fine)",
+              "Sharp scissors",
+              "A ruler and pencil",
+              "Thin gold or red ribbon, cut into 8-inch (20 cm) lengths",
+              "A hole punch or a thick needle"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "p",
+            "text": "Skip the fancy craft paper on your first batch. Plain copier paper folds crisply, holds its shape, and costs almost nothing — and once you have got the fold right, you can make the same star in patterned paper for the tree."
+          },
+          {
+            "t": "h3",
+            "text": "Folding a paper star, step by step"
+          },
+          {
+            "items": [
+              "Cut each sheet into a 6-inch (15 cm) square — six squares make one star.",
+              "Fold each square in half diagonally, then fold it in half again to make a small triangle.",
+              "Cut three slits from the open edge toward the folded point, stopping about half an inch (1 cm) short.",
+              "Open the square out, then fold the cut flaps toward the centre and glue or tape them in place to form the star points.",
+              "Repeat with the other five squares, then glue the six points together at their bases to form a full star.",
+              "Thread a ribbon through the top point and knot it — hang it and step back."
+            ],
+            "t": "ol"
+          },
+          {
+            "t": "p",
+            "text": "The first star always looks a bit wonky. The second one looks good. By the third, you will be folding them without thinking."
+          }
+        ],
+        "heading": "Scandi Paper Star Ornaments"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Air-dry clay is the closest thing to magic in this guide. You roll it out, stamp it, cut it, and two days later you have ornaments that look like they came from a pottery studio. A 2.2 lb (1 kg) block costs about $6 at the craft store and makes roughly 25 ornaments — that is about 25 cents each."
+          },
+          {
+            "t": "h3",
+            "text": "What you need for clay ornaments"
+          },
+          {
+            "items": [
+              "Air-dry clay, 2.2 lb (1 kg) block — about $6",
+              "A rolling pin and two wooden rulers (they keep the thickness even)",
+              "Cookie cutters — stars, trees and circles, 2–3 inches (5–8 cm)",
+              "A straw or skewer for the hanging hole",
+              "Fine sandpaper (220 grit) for smoothing edges",
+              "White acrylic paint and a small brush, or gold paint pen for details",
+              "Thin ribbon or twine, 8-inch (20 cm) lengths"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "h3",
+            "text": "Making clay ornaments that don't crack"
+          },
+          {
+            "items": [
+              "Roll the clay out to about a quarter inch (5 mm) thick, using the rulers as guides so it stays even.",
+              "Press the cookie cutters in firmly and lift the shapes out with a flat knife.",
+              "Poke the hanging hole with a straw, about half an inch (1 cm) from the top edge.",
+              "Let the ornaments dry flat for 24–48 hours, turning them once so both sides dry evenly.",
+              "Sand the edges lightly, then paint or leave them plain — plain white clay with a gold edge looks lovely.",
+              "Thread the ribbon through and knot it. Hang them and admire your work."
+            ],
+            "t": "ol"
+          },
+          {
+            "t": "p",
+            "text": "The mistake most people make is rolling the clay too thin. Anything under a quarter inch cracks while it dries, especially around the hole. Keep it thick, dry it slowly away from radiators, and your ornaments will last for years."
+          }
+        ],
+        "heading": "Air-Dry Clay Ornaments"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "If you can hold a paintbrush, you can paint a bauble. Plain wooden or glass baubles cost about $1 each at the dollar store, and a set of acrylic paint pens turns them into something personal — names, snowflakes, little stripes, or a simple sprig of holly on each one."
+          },
+          {
+            "t": "h3",
+            "text": "The easiest painted bauble designs"
+          },
+          {
+            "items": [
+              "Snowflakes: three crossed lines and a few dots — done in under a minute per bauble",
+              "Stripes: painter's tape gives you clean lines with zero skill needed",
+              "Names: write each person's name in gold paint pen for a personal touch",
+              "Dots: a cotton bud dipped in paint makes perfect, even dots",
+              "Half-dipped: dip the bottom half of a wooden bauble in paint and let it drip-dry for a two-tone look"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "h3",
+            "text": "Paint pens beat brushes for baubles"
+          },
+          {
+            "t": "p",
+            "text": "A brush on a round bauble leaves streaks. Paint pens — about $8 for a set of twelve — give you clean lines, dry in minutes, and do not need water or cleanup. Shake the pen well, test it on paper first, and draw slowly. Let each bauble dry for at least an hour before you hang it, or the design will smudge on the ribbon."
+          }
+        ],
+        "heading": "Hand-Painted Baubles: Easy DIY Christmas Ornaments for Beginners"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Salt dough is flour, salt and water — that is it. It costs pennies, it is safe for kids to handle, and it bakes hard enough to last for years. We make a batch every December with the kids, and the slightly lopsided stars always end up being the ones we love most."
+          },
+          {
+            "t": "h3",
+            "text": "Salt dough recipe"
+          },
+          {
+            "items": [
+              "2 cups (250 g) plain flour",
+              "1 cup (300 g) fine table salt",
+              "1 cup (240 ml) warm water",
+              "Cookie cutters and a straw for the hole",
+              "Acrylic paint and a clear varnish or Mod Podge to seal",
+              "Ribbon, 8-inch (20 cm) lengths"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "h3",
+            "text": "Method"
+          },
+          {
+            "items": [
+              "Mix the flour and salt in a bowl, then add the water a little at a time and stir until a firm dough forms.",
+              "Knead for 3–4 minutes until smooth, then roll out to a quarter inch (5 mm) thick.",
+              "Cut out shapes with cookie cutters and poke a hole near the top with a straw.",
+              "Bake on a lined tray at 250°F (120°C) for 2 hours, turning once halfway through.",
+              "Let them cool completely, then paint and seal with a coat of varnish.",
+              "Thread the ribbon through and hang — or wrap them as gifts."
+            ],
+            "t": "ol"
+          },
+          {
+            "t": "p",
+            "text": "Two things worth knowing: keep every ornament the same thickness, or the thick ones will need longer in the oven — and the varnish coat is not optional. Without it, salt dough softens in a damp room and goes sticky; with it, ornaments from three Christmases ago still hang on our tree."
+          }
+        ],
+        "heading": "Salt Dough Ornaments Kids Can Help With"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "The same dried orange slices from our garland make beautiful ornaments. A slice tied with twine and a cinnamon stick looks like it came from a country Christmas market, and it smells faintly of spice for weeks."
+          },
+          {
+            "t": "h3",
+            "text": "What you need"
+          },
+          {
+            "items": [
+              "Dried orange slices, 2 inches (5 cm) across — buy them or dry your own at 200°F (95°C) for 2–3 hours",
+              "Short cinnamon sticks, about 3 inches (8 cm)",
+              "Natural twine, cut into 10-inch (25 cm) lengths",
+              "A few star anise, if you like the look",
+              "Optional: a dab of hot glue to hold the cinnamon stick in place"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "h3",
+            "text": "Putting them together"
+          },
+          {
+            "items": [
+              "Lay a dried orange slice flat and place a cinnamon stick across the middle.",
+              "Tie a length of twine around the slice and the stick, knotting it at the back.",
+              "Loop the twine ends together at the top to make a hanger, about 4 inches (10 cm) long.",
+              "Tuck a star anise under the knot for a finishing touch, if you like.",
+              "Hang on the tree where the light catches the slice — near a window or a fairy light works best."
+            ],
+            "t": "ol"
+          },
+          {
+            "t": "p",
+            "text": "These are the quickest ornaments in the guide — five minutes each once the slices are dry. They also make lovely gift tags: tie one to a wrapped present with the recipient's name written on the back in a gold pen."
+          }
+        ],
+        "heading": "Dried Orange & Cinnamon Slice Ornaments"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Fifteen handmade ornaments deserve a good spot on the tree. Hang the heaviest ones — the clay and salt dough pieces — on the sturdier inner branches, and put the light paper stars on the tips where they can catch the light. Mix your handmade ornaments through the tree rather than grouping them together, so the whole tree feels personal."
+          },
+          {
+            "t": "h3",
+            "text": "Hanging tips that save ornaments"
+          },
+          {
+            "items": [
+              "Use ornament hooks or short lengths of ribbon rather than the wire hooks from the shop — ribbon grips better and looks softer",
+              "Hang clay and salt dough ornaments no higher than you can comfortably reach — a fall from the top of the tree will crack them",
+              "Keep paper stars away from candles and hot lights — they are paper, after all",
+              "Step back every few ornaments and check the balance: too many on one side and the tree starts to lean"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "h3",
+            "text": "Storing them for next year"
+          },
+          {
+            "t": "p",
+            "text": "Wrap each ornament in tissue paper and lay them in a single layer in a shoebox — never stack them loose in a bag. Paper stars fold flat and stack neatly. Keep the box somewhere cool and dry, and come next December you will open it and remember exactly which afternoon you made each one."
+          }
+        ],
+        "heading": "Hanging, Styling & Storing Your Ornaments"
+      }
+    ],
+    "slug": "easy-diy-christmas-ornaments",
+    "subcategory": "Paper Crafts",
+    "title": "Easy DIY Christmas Ornaments 2026: 15 Handmade Paper, Clay & Painted Ornaments for Your Tree",
+    "to": "#275E7E"
+  }),
+  P({
   "bannerTitle": "Dried Orange Christmas Garland",
   "category": "diy-crafts",
   "date": "2026-11-23",
