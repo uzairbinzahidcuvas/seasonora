@@ -16,6 +16,17 @@ export type VideoEntry = {
 
 export const VIDEOS: VideoEntry[] = [
   {
+    slug: "dried-orange-christmas-garland",
+    title: "DIY Dried Orange Christmas Garland \u2013 Natural Holiday Decor",
+    description: "Make a natural Christmas garland with dried orange slices, cinnamon sticks and wooden beads. This simple handmade decoration suits Scandinavian, rustic and minimalist holiday interiors.",
+    category: "diy-crafts",
+    topic: "Christmas natural decor",
+    articleSlug: "dried-orange-christmas-garland",
+    poster: "/img/a18-a",
+    durationSec: 30,
+    date: "2026-11-23",
+  },
+  {
     slug: "fall-mason-jar-led-lanterns",
     title: "DIY Fall Mason Jar Lanterns – Easy Autumn Craft",
     description: "Turn simple mason jars into glowing autumn lanterns with translucent tissue paper, jute rope and battery-powered fairy lights. A budget-friendly fall craft for a mantel or table.",

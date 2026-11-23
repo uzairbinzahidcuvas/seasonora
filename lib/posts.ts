@@ -93,6 +93,241 @@ const P = (o: Post) => o;
 
 export const POSTS: Post[] = [
   P({
+  "bannerTitle": "Dried Orange Christmas Garland",
+  "category": "diy-crafts",
+  "date": "2026-11-23",
+  "excerpt": "Dried orange Christmas garland with wooden beads and cinnamon sticks — a natural, handmade holiday decoration that takes about an hour, costs very little, and smells faintly of citrus and spice for weeks.",
+  "faqs": [
+    {
+      "a": "About six to eight weeks indoors, as long as it stays dry. The slices slowly lose their bright amber colour after that, and the edges start to curl. Keep it out of steamy rooms and away from radiators and it will hold up for the whole festive season. If you store it flat in a dry box, you can often get a second Christmas out of it.",
+      "q": "How long does a dried orange Christmas garland last?"
+    },
+    {
+      "a": "Yes, and it is simple. Slice oranges about a quarter inch (5 mm) thick, blot them dry, and bake on a lined tray at 200°F (95°C) for 2–3 hours, turning them once. They are ready when they feel stiff and light with no soft spots. Let them cool completely before threading — warm slices are still soft and will tear on the needle.",
+      "q": "Can I dry orange slices myself for a dried orange Christmas garland?"
+    },
+    {
+      "a": "Hang it from three points instead of two: add a small hook or pin at the centre as well as the ends. Shortening the loops helps too, and keeping the spacing between slices even spreads the weight along the twine. If the garland is longer than about 5 feet (1.5 m), the centre support makes a big difference.",
+      "q": "How do I stop my dried orange Christmas garland from sagging in the middle?"
+    },
+    {
+      "a": "A covered porch or a sheltered doorway is fine for a few weeks, but a fully open spot is not. Rain and damp air soften the slices fast, and they can go mouldy within days. If you want the same look outside, use the garland under cover and bring it in during wet weather — or make a second, shorter one for the door and keep the long one indoors.",
+      "q": "Can I hang a dried orange Christmas garland outside?"
+    }
+  ],
+  "from": "#4E8FB8",
+  "hero": {
+    "alt": "Handmade dried orange slice Christmas garland with wooden beads and cinnamon sticks draped across a cream mantel with evergreen branches",
+    "src": "/img/a18-hero"
+  },
+  "images": [
+    {
+      "after": 3,
+      "img": {
+        "alt": "Handmade dried orange slice Christmas garland with wooden beads and cinnamon sticks hanging on a cream wall with evergreen branches",
+        "caption": "The finished garland hanging on a cream wall — dried orange slices, wooden beads and cinnamon sticks, with a little evergreen tucked in.",
+        "src": "/img/a18-a"
+      }
+    },
+    {
+      "after": 5,
+      "img": {
+        "alt": "Dried orange Christmas garland styled on a cream wall above a wooden console with a small potted evergreen and warm fairy lights",
+        "caption": "Styled above a wooden console with a small potted evergreen and fairy lights — the slices glow once the lights come on.",
+        "src": "/img/a18-b"
+      }
+    }
+  ],
+  "intro": "A dried orange Christmas garland is one of those projects that looks far harder than it is. You thread a few dried orange slices, wooden beads and cinnamon sticks onto twine, tie a loop at each end, and suddenly you have the kind of natural holiday decoration people assume came from a fancy shop. The whole make takes about an hour, the supplies cost very little, and the garland smells faintly of citrus and spice for weeks. The short video above shows the whole thing in thirty seconds — and below you will find every step written out, plus the styling ideas and storage tips that keep it looking good all season.",
+  "motif": "snow",
+  "readTime": 8,
+  "sections": [
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Christmas decorating has a habit of getting loud — glitter, plastic, blinking lights. A dried orange garland goes the other way. The slices glow amber when the light hits them, the cinnamon sticks add warmth, and the wooden beads keep the whole thing calm and simple. It fits a Scandinavian living room, a rustic farmhouse kitchen, and a small apartment mantel just as well."
+        },
+        {
+          "items": [
+            "Cheap to make: oranges, twine and beads cost less than one shop-bought garland",
+            "Smells wonderful: dried citrus and cinnamon give off a gentle scent for weeks",
+            "Light and easy to hang: no nails in the wall, just a loop over a hook or a pin",
+            "Kind to the planet: everything on it is natural and compostable when the season ends",
+            "Easy to match: the warm amber tones sit well with greens, creams and wood"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "p",
+          "text": "It is also a good first project if you do not think of yourself as crafty. There is no gluing, no sewing and no special tool beyond a blunt needle. If you can thread a bead, you can make this garland — and the finished piece looks like far more work than it was."
+        }
+      ],
+      "heading": "Why a Dried Orange Christmas Garland Works So Well"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Everything on this list is easy to find. Dried orange slices are sold in craft shops and online, but you can also dry your own — see the note in the FAQs. We used slices about 2 inches (5 cm) across for the garland in the video; bigger slices look grand, smaller ones look dainty, so pick the size that suits your space."
+        },
+        {
+          "items": [
+            "10–14 fully dried orange slices (2 inches / 5 cm across works well)",
+            "Natural twine or jute string, about 6 feet (1.8 m) for a mantel-length garland",
+            "20–30 wooden beads, about 0.5 inch (12 mm) across",
+            "6–8 short cinnamon sticks, about 3 inches (8 cm) long",
+            "A blunt large-eye needle (a large-eye craft needle is ideal)",
+            "Scissors",
+            "Optional: a small piece of fresh evergreen, a few pinecones, or a linen ribbon for styling"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "Picking good dried orange slices"
+        },
+        {
+          "t": "p",
+          "text": "Look for slices that are fully dry — stiff, light, and with no soft or sticky spots. A slice that still feels damp will go mouldy on the garland, so if yours bend instead of holding their shape, pop them in a low oven (200°F / 95°C) for another hour and let them cool before you start."
+        }
+      ],
+      "heading": "What You Need"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Start by laying everything out on a clean table, just like the opening shot of the video. Sort the orange slices by size and set aside any that are cracked or uneven — keep the prettiest, roundest ones for the front-facing spots and use the rest toward the ends, where they will be seen less."
+        },
+        {
+          "items": [
+            "Lay out the slices, beads and cinnamon sticks in a row so you can see the pattern before you start threading.",
+            "Cut the twine to length: measure your hanging spot, then add about 12 inches (30 cm) at each end for the loops.",
+            "Thread the blunt needle with the twine and knot the tail end so nothing slips off while you work.",
+            "Decide your repeating pattern — we used two beads, one slice, one cinnamon stick, and repeated it down the line."
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "h3",
+          "text": "A quick pattern test"
+        },
+        {
+          "t": "p",
+          "text": "Before you thread anything, lay one repeat of the pattern flat on the table. It takes thirty seconds and saves you from unthreading half a garland because the spacing looked wrong once it was hanging."
+        }
+      ],
+      "heading": "Step 1: Prepare and Sort Your Dried Orange Slices"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Threading is the slow, calm part of the project — put on some music and take your time. Push the needle through the centre of each orange slice, where the flesh is softest, and slide it down the twine before adding the next piece."
+        },
+        {
+          "items": [
+            "Push the needle through the middle of the first orange slice and slide it down the twine.",
+            "Add two wooden beads, then a cinnamon stick tied on with a small knot of twine so it sits flat against the slice.",
+            "Repeat the pattern — slice, beads, cinnamon — keeping about an inch (2.5 cm) between pieces.",
+            "Every few repeats, hold the garland up and check the spacing looks even before you carry on."
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "h3",
+          "text": "Keeping the thread path tidy"
+        },
+        {
+          "t": "p",
+          "text": "Go through the centre of each slice rather than the edge, or the slices will tilt and spin. If a slice cracks as you push the needle through, set it aside and use another one — forcing it only makes the crack worse, and a cracked slice will keep splitting once the garland is hanging."
+        }
+      ],
+      "heading": "Step 2: Thread the Twine, Beads and Cinnamon Sticks"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Once the last bead is on, tie a firm knot at the end of the twine so nothing slides off, then make a loop at each end. The loops are what the garland hangs from, so make them big enough to slip over a hook, a nail, or a small adhesive hook."
+        },
+        {
+          "items": [
+            "Knot the twine firmly after the last bead, then trim the tail to about an inch.",
+            "Fold each end back on itself and tie a secure loop, about 2 inches (5 cm) across.",
+            "Hang the garland and step back — straighten the slices so they face forward and the beads sit evenly.",
+            "Give the twine a gentle tug at each end so the loops sit flat and the garland hangs in a soft curve."
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "h3",
+          "text": "Getting the drape right"
+        },
+        {
+          "t": "p",
+          "text": "A garland looks best with a gentle dip in the middle, not pulled tight like a washing line. If it sags too much in the centre, shorten the loops a little; if it looks stiff, let out a few inches of twine at one end and re-tie."
+        }
+      ],
+      "heading": "Step 3: Tie the Loops and Hang Your Garland"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The garland does most of the work on its own, but a little styling makes it look finished. It looks best where the light can shine through the slices — a window, a mantel, or a shelf near a lamp."
+        },
+        {
+          "items": [
+            "Mantel: drape it across the front edge with a few sprigs of fresh evergreen tucked behind it",
+            "Window: hang it across the top of the frame so the slices catch the daylight",
+            "Stair banister: wind it loosely around the rail with the loops tied at each newel post",
+            "Table: lay it in a loose curve down the centre of the table as a runner, with candles at each end",
+            "Door: hang a short version across a doorway, or wrap it around a simple evergreen wreath"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "p",
+          "text": "Keep the rest of the styling simple — cream linen, plain wood and green branches are all this garland needs. Too many colours around it and the warm amber slices stop standing out."
+        }
+      ],
+      "heading": "Styling Your Dried Orange Christmas Garland"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Dried orange slices keep their colour for about six to eight weeks indoors, as long as they stay dry. Keep the garland out of steamy kitchens and away from radiators — damp air is what makes slices go soft, and heat fades their colour faster."
+        },
+        {
+          "t": "h3",
+          "text": "Storing it for next year"
+        },
+        {
+          "t": "p",
+          "text": "If you want to use the garland again, take it down before the slices start to curl at the edges. Lay it flat in a box lined with tissue paper, keep it somewhere dry, and it will usually last a second Christmas. The beads and cinnamon sticks keep for years, so even if the slices are past their best, you only need fresh oranges next time."
+        },
+        {
+          "t": "h3",
+          "text": "Ways to change it up"
+        },
+        {
+          "t": "p",
+          "text": "Swap the wooden beads for dried apple slices for a paler, softer look, or add a few star anise for a darker spice note. A thin linen ribbon threaded between the slices gives a softer, more romantic feel, and a short string of warm fairy lights woven through the garland makes the slices glow at night — just keep the lights away from any fresh evergreen tucked behind it."
+        }
+      ],
+      "heading": "Care, Storage and Easy Variations"
+    }
+  ],
+  "slug": "dried-orange-christmas-garland",
+  "subcategory": "Wreaths & Garlands",
+  "title": "Dried Orange Christmas Garland – Natural Holiday Decor with Cinnamon Sticks and Wooden Beads",
+  "to": "#275E7E",
+  "video": "dried-orange-christmas-garland"
+  }),
+  P({
   "bannerTitle": "Festive Cookie Decorating Ideas",
   "category": "food-recipes",
   "date": "2026-11-23",
