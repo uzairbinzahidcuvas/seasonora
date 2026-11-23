@@ -93,6 +93,312 @@ const P = (o: Post) => o;
 
 export const POSTS: Post[] = [
   P({
+  "bannerTitle": "Festive Cookie Decorating Ideas",
+  "category": "food-recipes",
+  "date": "2026-11-23",
+  "excerpt": "Christmas cookie decorating ideas for beginners: royal icing, flooding, wet-on-wet dots and sprinkle finishes — pretty cookies, no fancy tools needed.",
+  "faqs": [
+    {
+      "a": "Royal icing, made with powdered sugar and meringue powder. It dries hard and smooth, so you can stack and gift the cookies, and it holds fine piped details. Buttercream tastes great but stays soft, so it smears the moment cookies touch each other — save it for cookies you'll eat the same day.",
+      "q": "What icing is best for Christmas cookie decorating ideas?"
+    },
+    {
+      "a": "Bake the cookies up to 3 days ahead and keep them in an airtight tin, or freeze undecorated cookies for up to 3 months. Decorate 1–2 days before the party and let the icing dry overnight — 8 hours at least — before you stack or box them. Fully decorated cookies keep about 2 weeks in a tin at room temperature.",
+      "q": "How far ahead can I start Christmas cookie decorating ideas for a party?"
+    },
+    {
+      "a": "Yes — sprinkles and dipping are the best jobs for small hands. Let kids scatter sprinkles on wet icing, dip cookies in marbled icing, and paint with food colouring on dried icing. Leave the piping bags to the adults, or fill a small zip bag with a big snipped hole so the lines stay chunky and fun.",
+      "q": "Can kids help with Christmas cookie decorating ideas?"
+    },
+    {
+      "a": "Cracks usually mean the icing dried too fast in a warm or dry room — a fan nearby helps, but keep cookies away from radiators. Colours bleed when the flood layer is too wet or the next layer goes on before the first has crusted, so let each layer set for 20–30 minutes. And always use gel colouring, not liquid: liquid adds water and thins the icing.",
+      "q": "Why did my royal icing crack or bleed?"
+    }
+  ],
+  "from": "#DE7A3D",
+  "hero": {
+    "alt": "Three plates of decorated Christmas cookies — red and green flooded stars and trees, gingerbread men and chocolate crinkle cookies — with a lit candle, evergreen and a piping bag on a dark wooden table",
+    "src": "/img/a17-hero"
+  },
+  "images": [
+    {
+      "after": 2,
+      "img": {
+        "alt": "A hand piping white royal icing onto gingerbread cookies on a white table",
+        "caption": "Outlining with white royal icing — the first move in every flooded design.",
+        "src": "/img/a17-a"
+      }
+    },
+    {
+      "after": 4,
+      "img": {
+        "alt": "A hand piping pink icing onto Christmas cookies with colourful sprinkles on a cooling rack",
+        "caption": "Sprinkles go on while the icing is still wet — that's the whole trick.",
+        "src": "/img/a17-b"
+      }
+    },
+    {
+      "after": 6,
+      "img": {
+        "alt": "Finished decorated Christmas cookies cooling on a wire rack — snowflakes, candy canes and trees in red, green and white icing",
+        "caption": "The finished tray, drying on the rack — give it overnight before you stack or box the cookies.",
+        "src": "/img/a17-c"
+      }
+    }
+  ],
+  "intro": "The first tray of Christmas cookies I ever decorated looked like a crime scene — red icing in the green bowl, sprinkles in the carpet, and one gingerbread man with three eyes. Fifteen Decembers later, my kitchen still gets messy, but the cookies look like the ones on the cards. The secret isn't talent. It's one good royal icing recipe, a piping bag with a tiny hole, and knowing which designs to try first. These Christmas cookie decorating ideas start simple — outlining, flooding, dots — and build up to marbling and stencils once your hands stop shaking. No fancy tools, no pastry school, just a plan that works.",
+  "motif": "cookie",
+  "readTime": 10,
+  "sections": [
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "A decorated cookie is only as good as the cookie underneath it. Soft, puffy cookies spread in the oven, so the tree you cut turns into a blob and the icing slides off the edges. You want a firm, flat cut-out cookie with sharp edges — the kind that holds its shape and gives the icing a clean border to sit inside."
+        },
+        {
+          "t": "h3",
+          "text": "Why cut-out cookies need a no-spread dough"
+        },
+        {
+          "t": "p",
+          "text": "The recipe below is the one I make every December. It rolls out clean, cuts without sticking, and bakes flat — no domed middles, no spread edges. One batch makes about 24 medium cookies, which is a good afternoon's worth of decorating for two people."
+        },
+        {
+          "t": "h3",
+          "text": "The base cookie recipe"
+        },
+        {
+          "items": [
+            "2¾ cups (345g) plain flour, spooned and levelled",
+            "1 teaspoon baking powder",
+            "½ teaspoon fine salt",
+            "1 cup (225g) unsalted butter, softened",
+            "1 cup (200g) granulated sugar",
+            "1 large egg, at room temperature",
+            "2 teaspoons vanilla extract",
+            "½ teaspoon almond extract (optional — skip it if there's a nut allergy in the house)"
+          ],
+          "t": "ul"
+        },
+        {
+          "items": [
+            "Beat the butter and sugar together for 3 minutes until pale and fluffy — this is what keeps the cookies tender.",
+            "Add the egg and both extracts, then beat again for 30 seconds.",
+            "Stir in the flour, baking powder and salt on low speed until the dough just comes together. Don't overmix.",
+            "Split the dough in two, flatten into discs, wrap in cling film and chill for at least 1 hour (overnight is fine).",
+            "Roll to ¼ inch thick on a lightly floured surface, cut your shapes, and chill the cut cookies on the tray for 15 minutes.",
+            "Bake at 350°F (175°C) for 9–11 minutes, until the edges are just set and the middles look pale. Cool 10 minutes on the tray, then move to a rack."
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "p",
+          "text": "Cool the cookies completely before a drop of icing touches them — warm cookies melt royal icing into a puddle. I bake in the morning and decorate after lunch, and that gap saves more cookies than any piping tip ever will."
+        }
+      ],
+      "heading": "Christmas Cookie Decorating Ideas Start With the Right Base Cookie"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Royal icing is the workhorse here. It dries hard and smooth, so you can stack the cookies in a tin, and it takes colour like a dream. Buttercream tastes lovely, but it never sets, so it smears the moment two cookies touch. For decorating, royal icing wins every time."
+        },
+        {
+          "t": "h3",
+          "text": "The 15-second flooding rule"
+        },
+        {
+          "t": "p",
+          "text": "Royal icing comes in two thicknesses. Stiff icing holds a peak — that's your outline. Flood icing flows flat — that's your fill. The test is simple: lift the spoon and let a ribbon of icing fall back into the bowl. If it melts flat in about 15 seconds, it's flood icing. If it holds its shape, add water a few drops at a time and test again."
+        },
+        {
+          "t": "h3",
+          "text": "The recipe"
+        },
+        {
+          "items": [
+            "4 cups (480g) powdered sugar, sifted — lumps clog piping tips",
+            "3 tablespoons meringue powder",
+            "6 tablespoons lukewarm water, plus a little more for thinning",
+            "½ teaspoon clear vanilla extract (regular vanilla tints white icing cream)",
+            "Gel food colouring in red, green and white — gel, not liquid, so it doesn't thin the icing"
+          ],
+          "t": "ul"
+        },
+        {
+          "items": [
+            "Whisk the powdered sugar and meringue powder together in a large bowl.",
+            "Add the water and vanilla, then beat on medium for 4–5 minutes until stiff peaks form. This is your stiff icing — scoop about a third into a bowl for outlining.",
+            "For flood icing, add water a few drops at a time to the rest, stirring until it passes the 15-second test.",
+            "Tint each bowl with gel colouring — a toothpick tip of gel goes a long way. Red needs more than you'd think; add it in two rounds and wait a minute, because the colour deepens as it sits.",
+            "Cover each bowl with a damp tea towel or cling film pressed right onto the surface. Royal icing crusts in minutes if you leave it open."
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "p",
+          "text": "One batch covers about 24 cookies, and it keeps 2 weeks in the fridge in a sealed tub — just re-beat it for a minute before you use it again."
+        }
+      ],
+      "heading": "Royal Icing: The One Recipe You Need"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Every fancy cookie on Pinterest starts with these two moves. The outline is a thin wall of stiff icing around the edge; the flood fills the middle like water in a pond. Get these two right and the rest is just playing."
+        },
+        {
+          "t": "h3",
+          "text": "Pipe the outline first, then fill it in"
+        },
+        {
+          "items": [
+            "Snip the very tip off a piping bag (or a zip bag) — a 2mm hole is plenty. Bigger holes make fat lines you can't fix.",
+            "Hold the bag at 45 degrees, squeeze gently, and trace the cookie's edge about 2mm in from the rim. Go slow. A wobbly line is fine — nobody sees it once the flood goes in.",
+            "Let the outline set for 10 minutes, then spoon flood icing into the middle and nudge it to the edges with a toothpick or scribe tool.",
+            "Pop any air bubbles with the toothpick, and give the tray one gentle tap on the counter so the icing settles flat."
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "h3",
+          "text": "Fixing a wobbly line"
+        },
+        {
+          "t": "p",
+          "text": "If the outline wobbles, wait until it dries and scrape the bad bit off with a knife — dried royal icing lifts off cleanly. If the flood runs over the edge, you outlined too close to the rim or the flood is too thin; next time, leave a wider gap and test the 15 seconds again. My first dozen flooded cookies looked rough, and the thirteenth looked like the shop ones. That's normal."
+        }
+      ],
+      "heading": "Outline and Flood: The First Technique to Learn"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Wet-on-wet means adding icing while the base flood is still wet, so the colours melt into each other and dry perfectly flat. It looks like it took real skill. It takes about thirty seconds a cookie."
+        },
+        {
+          "t": "h3",
+          "text": "Polka dots in under a minute"
+        },
+        {
+          "items": [
+            "Flood a tree or star cookie in green or red, then right away dot small drops of white flood icing on top with a toothpick.",
+            "For hearts, pipe two dots side by side, then drag a toothpick down through the middle of both — the dots stretch into a heart shape.",
+            "Work fast: you've got about 2–3 minutes before the base starts to crust and the dots sit on top instead of sinking in."
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "h3",
+          "text": "The sweater-cookie trick"
+        },
+        {
+          "t": "p",
+          "text": "Flood a round or mitten cookie in cream, then pipe thin wavy lines of red and green across it while it's still wet. Drag a toothpick through the lines from top to bottom and they ripple into a knit pattern. It looks like a tiny Christmas jumper, and it's the cookie people photograph first."
+        }
+      ],
+      "heading": "Wet-on-Wet Christmas Cookie Decorating Ideas: Dots, Hearts and Sweater Patterns"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Sprinkles are the fastest way to make a plain cookie look finished, but timing is everything. Add them while the icing is wet and they stick. Wait ten minutes and they bounce off onto the table."
+        },
+        {
+          "t": "h3",
+          "text": "When to add sprinkles"
+        },
+        {
+          "items": [
+            "On wet flood icing: scatter within the first minute, while the surface still shines",
+            "On dry icing: dab a tiny dot of fresh icing as glue, then press the sprinkle in",
+            "Sanding sugar goes on wet icing too — it melts into the surface and gives a frosted sparkle",
+            "Sugar pearls and dragées need a dot of stiff icing to hold them, since they're heavy"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "A sprinkle shopping list"
+        },
+        {
+          "t": "p",
+          "text": "You don't need twenty jars. Five cover almost everything: red and green jimmies, white nonpareils, gold star sprinkles, sanding sugar in white and red, and one jar of mixed Christmas sprinkles for the kids' cookies. A small jar costs $2–3 at the supermarket, and one jar decorates about three dozen cookies."
+        }
+      ],
+      "heading": "Sprinkles, Sanding Sugar and Edible Glitter"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Once flooding feels easy, these three techniques make the tray look like a bakery made it. None of them needs new tools — a baking tray, a paintbrush and a stencil are enough."
+        },
+        {
+          "t": "h3",
+          "text": "Marbled icing in a baking tray"
+        },
+        {
+          "items": [
+            "Pour white flood icing into a shallow baking tray, then drizzle thin lines of red and green across it.",
+            "Drag a toothpick through the lines in one direction, then the other — two passes is enough. More than that and the colours turn muddy.",
+            "Dip the top of a plain cookie face-down into the icing, lift it straight up, and let the extra drip off for 10 seconds."
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "h3",
+          "text": "Painting on dried icing"
+        },
+        {
+          "t": "p",
+          "text": "Flood a cookie white and let it dry overnight. Then mix a drop of gel colouring with a few drops of vodka or lemon extract — the alcohol dries fast and leaves the colour behind — and paint with a clean food-safe brush. Snowflakes, holly leaves and simple stripes all work, and mistakes wipe off with a damp cotton bud while the paint is still wet. Stencils work the same way: hold the stencil flat, swipe thick white icing across it with a palette knife, and lift straight up."
+        }
+      ],
+      "heading": "Marbling, Watercolor and Stencils for a Fancy Finish"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The hardest part of decorating is waiting. Royal icing feels dry to the touch in about an hour, but it needs 8 hours — overnight is safest — before you can stack the cookies. Stack them too soon and the designs smudge, and there's no fixing a smudge."
+        },
+        {
+          "t": "h3",
+          "text": "How long royal icing really takes to dry"
+        },
+        {
+          "items": [
+            "Thin flood layers: dry to the touch in 1–2 hours, fully hard in 8 hours",
+            "Thick piped details: allow a full 24 hours before stacking",
+            "Drying in a humid kitchen takes longer — run a fan nearby, not heat",
+            "Don't use the oven to speed it up; heat melts the icing and cracks the surface"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "Packing cookies for a cookie exchange"
+        },
+        {
+          "t": "p",
+          "text": "Layer the cookies in a tin or sturdy box with parchment between each layer, and tuck a little tissue paper into the gaps so nothing slides around. A dozen decorated cookies in a $3 kraft box with twine and a sprig of evergreen looks like a gift from a bakery, and it's the box people remember. Decorated cookies keep 2 weeks in an airtight tin at room temperature, and undecorated baked cookies freeze for up to 3 months — bake in November, decorate in December, and the whole season stays calm."
+        }
+      ],
+      "heading": "Drying, Storing and Gifting Your Finished Cookies"
+    }
+  ],
+  "slug": "christmas-cookie-decorating-ideas",
+  "subcategory": "Cookies & Baking",
+  "title": "Christmas Cookie Decorating Ideas 2026: Easy Royal Icing, Flooding & Sprinkle Designs for Beginners",
+  "to": "#A83E1B"
+}),
+  P({
   "bannerTitle": "Fall Mason Jar Lanterns",
   "category": "diy-crafts",
   "date": "2026-11-23",
