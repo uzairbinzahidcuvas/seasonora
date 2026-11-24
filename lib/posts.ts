@@ -93,6 +93,272 @@ const P = (o: Post) => o;
 
 export const POSTS: Post[] = [
   P({
+    "bannerTitle": "Simple November Nails 2026",
+    "category": "lifestyle",
+    "date": "2026-11-24",
+    "excerpt": "Simple November nails in burgundy, chocolate brown and cozy plaid — easy fall nail ideas you can paint at home or show your nail tech, starting at $3 a bottle.",
+    "faqs": [
+      {
+        "a": "Simple November nails are easy fall manicures in deep, warm colours — burgundy, chocolate brown, espresso and burnt orange — often with one small accent like plaid, a gold dot or a maple leaf. Most designs take 20 to 30 minutes at home, need only two or three polishes, and look best on short to medium nails.",
+        "q": "What are simple November nails?"
+      },
+      {
+        "a": "Burgundy is the best nail colour for November 2026 — it leads every trend list and flatters every skin tone. Chocolate and espresso browns are the best everyday shades, and tortoiseshell, olive, rust and plaid are the patterned picks. For one bottle only, buy burgundy; for two, add chocolate brown.",
+        "q": "What is the best nail colour for November 2026?"
+      },
+      {
+        "a": "Yes — this is one of the easiest seasonal manicures to do yourself. Start with one solid deep shade on short nails: two thin coats, a glossy top coat and cuticle oil, and you're done in 15 minutes. A single plaid or leaf accent nail is the next step up, and it hides small imperfections well.",
+        "q": "Are simple November nails easy to do at home?"
+      },
+      {
+        "a": "A regular polish November manicure lasts 5 to 7 days, and a gel set lasts 2 to 3 weeks. Dark colours show chips sooner than pale ones, so seal with a top coat, add a fresh top coat every 3 days, and wear gloves for washing up. Short nails chip less than long ones.",
+        "q": "How long do simple November nails last?"
+      }
+    ],
+    "from": "#C4748F",
+    "hero": {
+      "alt": "Hands with glossy deep burgundy nails resting on a cream knitted sweater beside a latte and dried autumn leaves on a wooden table, warm November light",
+      "src": "/img/a22-hero"
+    },
+    "images": [
+      {
+        "after": 2,
+        "img": {
+          "alt": "Hand with glossy chocolate brown nails holding a warm ceramic mug of coffee by a bright window, cream knitted sweater",
+          "caption": "Glossy chocolate brown, two thin coats and a ceramic mug — the easiest November manicure there is.",
+          "src": "/img/a22-a"
+        }
+      },
+      {
+        "after": 4,
+        "img": {
+          "alt": "Hand with short glossy burgundy nails holding a pink latte on a wooden cafe table, plaid scarf",
+          "caption": "Short burgundy nails, a pink latte and a plaid scarf — November in one photo.",
+          "src": "/img/a22-b"
+        }
+      },
+      {
+        "after": 6,
+        "img": {
+          "alt": "Hands with tortoiseshell French tip nails and one gold chrome accent nail resting by a lit candle and golden autumn leaves",
+          "caption": "Tortoiseshell French tips with one gold chrome accent — made for Thanksgiving candlelight.",
+          "src": "/img/a22-c"
+        }
+      }
+    ],
+    "intro": "Simple November nails are having a moment — searches for the phrase jumped more than 8,500% in the past month, and it's easy to see why. November sits right between the bright colours of early fall and the sparkle of Christmas, so the nails that work best now are deep, warm and a little bit cozy: burgundy, chocolate brown, espresso and a touch of plaid. This guide rounds up the easiest looks of the season. Most of them take 20 to 30 minutes at home, cost under $10 in polish, and look just as good on short nails as they do on long ones. Pick one idea, grab two or three polishes, and you're set for the whole month.",
+    "motif": "bloom",
+    "readTime": 10,
+    "sections": [
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "November has its own palette, and it's not the same as October's. The pumpkins are gone, the Christmas glitter hasn't started yet, and everything turns warm, deep and soft — burgundy knitwear, hot chocolate, wood smoke and golden leaves. The nail colours that fit that mood are the ones you'll see on every Pinterest board and salon menu this month."
+          },
+          {
+            "t": "h3",
+            "text": "November nail colours 2026: the five shades to know"
+          },
+          {
+            "items": [
+              "Burgundy and merlot — the classic November shade. A bottle of burgundy cream polish runs about $8 to $12, and it works for work, for dinner and for Thanksgiving.",
+              "Chocolate and espresso brown — the colour of fall 2026. Glossy or chrome, it looks expensive on every skin tone and goes with denim, cream knits and camel coats.",
+              "Burnt orange and terracotta — warm and cheerful without feeling like Halloween. Best as an accent nail or a solid short-nail set.",
+              "Olive and moss green — earthy and modern, and lovely with a thin gold line or a gold dot on the ring finger.",
+              "Milky beige and mocha — soft neutrals for a clean, quiet-luxury look. Pair them with one plaid or tortoiseshell accent nail."
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "p",
+            "text": "If you only buy one polish this month, make it burgundy. If you buy two, add a chocolate brown — between them they cover every outfit you'll wear in November, from a chunky sweater to a Thanksgiving dress. Deep shades are also the most forgiving to paint at home: a wobbly edge barely shows on a dark colour."
+          }
+        ],
+        "heading": "Simple November Nails: The Colours Everyone's Wearing This Month"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Burgundy is the best nail colour for November, full stop. It's deep enough for the cold turn, warm enough for the fall closet, and it flatters cool, warm and neutral undertones alike. A salon burgundy set costs about $45 to $65 with gel; the same look at home costs around $12 in polish and takes half an hour."
+          },
+          {
+            "t": "h3",
+            "text": "Burgundy French tips in 20 minutes"
+          },
+          {
+            "items": [
+              "Shape your nails first — short square or soft oval suits burgundy best — then push back the cuticles and wipe each nail with polish remover to remove oils.",
+              "Paint one thin coat of a sheer nude or pale pink and let it dry for 2 minutes. This is the base the burgundy tip sits on.",
+              "Rest a thin brush or a French tip guide along the free edge and sweep deep burgundy across the tip in one smooth stroke. Keep the line thin — a thick tip looks heavy.",
+              "Clean up any slips with a small brush dipped in remover, then seal everything with a glossy top coat.",
+              "Wait a full 10 minutes before touching anything. Dark polish smudges easily while it's still soft."
+            ],
+            "t": "ol"
+          },
+          {
+            "t": "p",
+            "text": "Want the velvet look that's all over Pinterest right now? Paint two coats of burgundy, then hold a magnet over each nail for 10 seconds before curing or drying — that's the cat-eye trick, and it gives the polish a soft, fabric-like glow. A magnetic burgundy polish costs about $10, and the little magnet usually comes in the box."
+          }
+        ],
+        "heading": "Burgundy November Nails That Look Expensive"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Chocolate brown is the easiest fall colour to wear because it goes with everything in your closet. A deep gloss makes it look like a salon manicure even when you did it at the kitchen table, and on short nails it looks neat and polished for weeks. If burgundy feels too red for you, chocolate brown is your November colour."
+          },
+          {
+            "t": "h3",
+            "text": "Chocolate glazed chrome nails"
+          },
+          {
+            "items": [
+              "Milk chocolate or cocoa gel polish, one solid colour — about $9 a bottle.",
+              "Sheer glazed chrome powder with a small sponge applicator — about $6 online.",
+              "A no-wipe glossy top coat — $7 to $10 — to lock the chrome shine in.",
+              "Cuticle oil for daily use — $4 — to keep the dark gloss looking fresh.",
+              "A UV or LED lamp if you use gel — a small one costs $20 to $25 and lasts for years."
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "p",
+            "text": "Paint two thin coats of the brown — never one thick one, or it dries lumpy — then rub the chrome powder over the tacky top coat with the applicator until it shines, and seal it. The whole set takes about 35 minutes. If chrome feels like too much fuss, skip it: a plain glossy espresso on short square nails is the ultimate chic November manicure, and it takes 15 minutes flat."
+          }
+        ],
+        "heading": "Chocolate Brown November Nails"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Plaid is the fall pattern that never goes out of style, and it's the manicure version of your favourite flannel shirt. Rust, brown and cream plaid on one nail, solid colours on the rest — that's the whole trick. You only need one accent nail to get the look, which is why plaid is such a good first pattern to try at home."
+          },
+          {
+            "t": "h3",
+            "text": "Plaid accent nails: one nail is enough"
+          },
+          {
+            "items": [
+              "Paint the accent nail (usually the ring finger) with two coats of cream or milky beige and let it dry completely — about 5 minutes.",
+              "With a thin striping brush, paint two long vertical lines in rust or burgundy, about 3mm apart, then two horizontal lines crossing them.",
+              "Add two thinner lines in chocolate brown between the first lines, crossing the same way, so the grid looks woven.",
+              "Keep the other four nails solid — burgundy, chocolate and burnt orange together make a warm set that matches the plaid.",
+              "Seal the accent nail with a glossy top coat so the thin lines don't chip. Matte top coat works too, for a flannel feel."
+            ],
+            "t": "ol"
+          },
+          {
+            "t": "p",
+            "text": "A striping brush costs about $5, and a set of three lasts for years. If freehand lines scare you, use thin nail tape as a guide — lay two strips down, paint between them, and peel the tape off while the polish is still wet. Sweater plaid and tartan squares both work the same way, and both look best on short to medium nails where the pattern stays readable."
+          }
+        ],
+        "heading": "Cozy Plaid November Nails"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "November is a short-nail month. Dark colours stay sharp and tidy when they're short, patterns scale down well, and a short set grows out gracefully — you won't see the gap at the cuticle for a good two weeks. If your nails break easily or you type all day, short is the smart choice this month."
+          },
+          {
+            "t": "h3",
+            "text": "November nails for short nails: what actually works"
+          },
+          {
+            "items": [
+              "Brown micro French — an ultra-thin chocolate line at the tip over a sheer nude base. Polished, and very easy to copy at home.",
+              "Single leaf accent — keep all nails nude and add one tiny gold or rust maple leaf on the ring finger. Subtle and sweet.",
+              "Milky nude with gold dots — one small gold dot near the cuticle on each nail. Takes 5 minutes and looks done on purpose.",
+              "Solid glossy espresso — one perfect colour, two coats, high shine. The most forgiving first November set.",
+              "Two-tone burgundy and nude — burgundy on three nails, nude with a burgundy tip on the other two."
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "p",
+            "text": "Stick to short square or short oval shapes — they make dark polish look neat, and they're the least likely to break. Skip long coffin shapes unless you get them done at a salon, and skip busy art on every nail: on short nails, one accent nail carries the whole design. A bottle of cuticle oil by the bed helps too — dark polish shows dry cuticles more than pale polish does."
+          }
+        ],
+        "heading": "Simple November Nails for Short Nails"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "You don't need a salon appointment for a November manicure. A basic at-home set takes about 30 minutes from start to finish, costs under $25 in supplies that last all season, and looks good enough for Thanksgiving dinner. The secret is thin coats and patience between them — most smudges happen because the first coat wasn't dry."
+          },
+          {
+            "t": "h3",
+            "text": "Your at-home November manicure in 6 steps"
+          },
+          {
+            "items": [
+              "Remove old polish, trim and file to your shape, then push back cuticles with an orange stick — 5 minutes.",
+              "Wash your hands, then wipe each nail with remover or alcohol so the polish grips — 2 minutes.",
+              "Paint a ridge-filling base coat so dark colour goes on smoothly — 1 minute, then 2 minutes to dry.",
+              "Paint two thin coats of your November shade, waiting 2 to 3 minutes between coats — 10 minutes.",
+              "Add your accent — a plaid nail, gold dots or a French tip — on one or two nails — 5 minutes.",
+              "Seal with a glossy top coat, then sit still for 10 minutes. Add a drop of cuticle oil once everything is dry."
+            ],
+            "t": "ol"
+          },
+          {
+            "t": "h3",
+            "text": "What to buy for under $25"
+          },
+          {
+            "items": [
+              "One burgundy cream polish and one chocolate brown — about $8 each.",
+              "A sheer nude for French tips and leaf accents — about $7.",
+              "A thin striping brush for plaid lines and dots — about $5.",
+              "A ridge-filling base coat and a glossy top coat — about $6 each, and they last months."
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "p",
+            "text": "Paint in a warm room — cold hands make polish go on thick and streaky — and keep a small brush and remover nearby for clean-ups. If a nail smudges, don't redo the whole hand: smooth the spot with a drop of top coat and carry on. Nobody will notice."
+          }
+        ],
+        "heading": "Easy November Nails You Can Do at Home in 30 Minutes"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Thanksgiving is the one November evening when your hands are on show — passing dishes, holding a glass, reaching across the table. It's worth painting your nails two days before, not the morning of, so the polish has time to harden fully and you aren't fixing smudges while the turkey rests."
+          },
+          {
+            "t": "h3",
+            "text": "Thanksgiving nail ideas that photograph well"
+          },
+          {
+            "items": [
+              "Tortoiseshell French tips — amber and brown swirls on the tip over a nude base. Warm, rich and made for candlelight.",
+              "Velvet burgundy with a gold chrome accent — one gold nail among deep burgundy ones, like jewellery for your hands.",
+              "A single maple leaf — gold or rust, on the ring finger, over a milky beige base. The classic Thanksgiving accent.",
+              "Cranberry gloss on short round nails — bright enough to feel festive, dark enough to feel like November."
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "p",
+            "text": "Whatever you pick, add a fresh top coat on Thanksgiving morning — it takes 2 minutes and makes a two-day-old manicure look brand new. Keep the bottle in your bag for touch-ups, and pack a few cotton pads and remover in case of a chip. After dinner, remove dark polish with an acetone-soaked pad held on each nail for 30 seconds — rubbing spreads the colour onto your skin."
+          }
+        ],
+        "heading": "November Nails for Thanksgiving Dinner"
+      }
+    ],
+    "slug": "simple-november-nails",
+    "subcategory": "Beauty Inspiration",
+    "title": "Simple November Nails: Easy Fall Nail Ideas in Burgundy, Chocolate Brown & Cozy Plaid",
+    "to": "#8C4462"
+  }),
+  P({
   "bannerTitle": "Velvet Christmas Tree Ornaments",
   "category": "diy-crafts",
   "date": "2026-11-24",
@@ -661,6 +927,336 @@ export const POSTS: Post[] = [
   "title": "DIY Christmas Wreath Ideas 2026: Easy Evergreen, Dried Orange & Velvet Ribbon Wreaths for Your Front Door",
   "to": "#275E7E"
 }),
+  P({
+    "bannerTitle": "15 Easy DIY Christmas Ornaments",
+    "category": "diy-crafts",
+    "date": "2026-11-23",
+    "excerpt": "Easy DIY Christmas ornaments you can make in one weekend — paper stars, clay baubles, salt dough and hand-painted ornaments for your tree, all for under $15.",
+    "faqs": [
+      {
+        "a": "Most ornaments in this guide cost between $0.50 and $2 each. A block of air-dry clay is about $6 and makes around 25 ornaments, paper stars cost almost nothing, and salt dough is flour, salt and water from the kitchen. All fifteen ornaments together come to under $15 — less than one bag of shop-bought baubles.",
+        "q": "How much do easy DIY Christmas ornaments cost to make?"
+      },
+      {
+        "a": "Paper stars. You need paper, scissors and ribbon, and the first good one takes about 15 minutes. Dried orange slice ornaments are just as easy — tie a slice and a cinnamon stick together with twine and you are done in five minutes. Start with one of those two, and move on to clay once you have got the hang of it.",
+        "q": "Which easy DIY Christmas ornaments are best for beginners?"
+      },
+      {
+        "a": "Use short lengths of ribbon tied in a loop rather than shop-bought wire hooks — ribbon grips the branch better. Hang heavier clay and salt dough ornaments on the thicker inner branches, keep them within easy reach, and check the loop knot is tight before you let go. A drop of hot glue where the ribbon meets the ornament stops it slipping.",
+        "q": "How do you hang easy DIY Christmas ornaments so they don't fall off?"
+      },
+      {
+        "a": "Years, if you seal them. Paint them, then add a coat of clear varnish or Mod Podge, and store them flat in tissue paper in a dry box. Without the varnish coat they soften in damp air and can go sticky, so that one step is worth the five minutes it takes.",
+        "q": "How long do salt dough ornaments last?"
+      }
+    ],
+    "from": "#4E8FB8",
+    "hero": {
+      "alt": "Hands hand-painting wooden Christmas ornaments with snowy tree and snowman designs, warm fairy lights glowing in the background",
+      "src": "/img/a19-hero"
+    },
+    "images": [
+      {
+        "after": 2,
+        "img": {
+          "alt": "Handmade white air-dry clay star and Christmas tree ornaments with hanging holes, laid on kraft paper with pinecones and a pink ribbon",
+          "caption": "Air-dry clay stars and a little tree, fresh from the cookie cutter — white clay on kraft paper with pinecones.",
+          "src": "/img/a19-a"
+        }
+      },
+      {
+        "after": 4,
+        "img": {
+          "alt": "Salt dough Christmas ornaments painted red and white, hanging on a small Christmas tree with ribbon loops",
+          "caption": "Salt dough stars and trees, painted and sealed — the slightly lopsided ones always end up being the favourites.",
+          "src": "/img/a19-b"
+        }
+      },
+      {
+        "after": 6,
+        "img": {
+          "alt": "Hands hanging a wooden acorn ornament on a Christmas tree branch with warm fairy lights",
+          "caption": "Hanging the ornaments — a wooden acorn going on the tree, with fairy lights glowing behind it.",
+          "src": "/img/a19-c"
+        }
+      }
+    ],
+    "intro": "Easy DIY Christmas ornaments are having a moment — searches for easy DIY Christmas decorations are up 680% this year, and it is easy to see why. A handful of paper stars, a few hand-painted baubles and some salt dough shapes cost less than one bag of shop-bought ornaments, and they look like they came from a little craft fair, not a production line. We made all fifteen ornaments in this guide in a single weekend, most of them in under an hour each, using supplies from the dollar store and the kitchen cupboard. Below you will find the exact materials, the steps that actually matter, and the prices — so you can pick your favourites and get started tonight.",
+    "motif": "snow",
+    "readTime": 10,
+    "sections": [
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "The trick with handmade ornaments is not skill — it is restraint. One colour palette, one or two materials per ornament, and a finish that looks deliberate. A paper star in cream and gold looks like a shop piece; the same star in five clashing colours looks like a school project. Pick two colours for the whole tree — we used deep red and warm gold this year — and every ornament you make will sit happily next to the others."
+          },
+          {
+            "t": "h3",
+            "text": "What makes an ornament look handmade in a good way"
+          },
+          {
+            "t": "p",
+            "text": "Small, even details. A tidy knot instead of a blob of glue. A ribbon cut to the same length on every ornament. Edges sanded smooth on clay pieces. None of it takes long, and it is the difference between “oh, you made that?” and “where did you buy that?”"
+          },
+          {
+            "items": [
+              "Cost: most ornaments here cost $0.50–$2 each; the whole set of 15 stays under $15",
+              "Time: paper stars take 15 minutes; clay ornaments take 30 minutes plus drying",
+              "Skill level: if you can fold paper and stir dough, you can make all of these",
+              "Supplies: paper, air-dry clay, salt, flour, acrylic paint, ribbon and twine — all from one shop run",
+              "Kid-friendly: salt dough and paper stars are safe for little hands with supervision"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "p",
+            "text": "Before you start, make one test ornament: hang it on the tree and look at it from across the room. If it looks good there, the rest will too."
+          }
+        ],
+        "heading": "Easy DIY Christmas Ornaments That Look Store-Bought"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Paper stars are the easiest win in this guide. They need nothing but paper and scissors, they fold flat for storage, and they look beautiful in a window where the light shines through them."
+          },
+          {
+            "t": "h3",
+            "text": "What you need for paper star ornaments"
+          },
+          {
+            "items": [
+              "6 sheets of A4 paper per star (cream, kraft or red — 80gsm copier paper works fine)",
+              "Sharp scissors",
+              "A ruler and pencil",
+              "Thin gold or red ribbon, cut into 8-inch (20 cm) lengths",
+              "A hole punch or a thick needle"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "p",
+            "text": "Skip the fancy craft paper on your first batch. Plain copier paper folds crisply, holds its shape, and costs almost nothing — and once you have got the fold right, you can make the same star in patterned paper for the tree."
+          },
+          {
+            "t": "h3",
+            "text": "Folding a paper star, step by step"
+          },
+          {
+            "items": [
+              "Cut each sheet into a 6-inch (15 cm) square — six squares make one star.",
+              "Fold each square in half diagonally, then fold it in half again to make a small triangle.",
+              "Cut three slits from the open edge toward the folded point, stopping about half an inch (1 cm) short.",
+              "Open the square out, then fold the cut flaps toward the centre and glue or tape them in place to form the star points.",
+              "Repeat with the other five squares, then glue the six points together at their bases to form a full star.",
+              "Thread a ribbon through the top point and knot it — hang it and step back."
+            ],
+            "t": "ol"
+          },
+          {
+            "t": "p",
+            "text": "The first star always looks a bit wonky. The second one looks good. By the third, you will be folding them without thinking."
+          }
+        ],
+        "heading": "Scandi Paper Star Ornaments"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Air-dry clay is the closest thing to magic in this guide. You roll it out, stamp it, cut it, and two days later you have ornaments that look like they came from a pottery studio. A 2.2 lb (1 kg) block costs about $6 at the craft store and makes roughly 25 ornaments — that is about 25 cents each."
+          },
+          {
+            "t": "h3",
+            "text": "What you need for clay ornaments"
+          },
+          {
+            "items": [
+              "Air-dry clay, 2.2 lb (1 kg) block — about $6",
+              "A rolling pin and two wooden rulers (they keep the thickness even)",
+              "Cookie cutters — stars, trees and circles, 2–3 inches (5–8 cm)",
+              "A straw or skewer for the hanging hole",
+              "Fine sandpaper (220 grit) for smoothing edges",
+              "White acrylic paint and a small brush, or gold paint pen for details",
+              "Thin ribbon or twine, 8-inch (20 cm) lengths"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "h3",
+            "text": "Making clay ornaments that don't crack"
+          },
+          {
+            "items": [
+              "Roll the clay out to about a quarter inch (5 mm) thick, using the rulers as guides so it stays even.",
+              "Press the cookie cutters in firmly and lift the shapes out with a flat knife.",
+              "Poke the hanging hole with a straw, about half an inch (1 cm) from the top edge.",
+              "Let the ornaments dry flat for 24–48 hours, turning them once so both sides dry evenly.",
+              "Sand the edges lightly, then paint or leave them plain — plain white clay with a gold edge looks lovely.",
+              "Thread the ribbon through and knot it. Hang them and admire your work."
+            ],
+            "t": "ol"
+          },
+          {
+            "t": "p",
+            "text": "The mistake most people make is rolling the clay too thin. Anything under a quarter inch cracks while it dries, especially around the hole. Keep it thick, dry it slowly away from radiators, and your ornaments will last for years."
+          }
+        ],
+        "heading": "Air-Dry Clay Ornaments"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "If you can hold a paintbrush, you can paint a bauble. Plain wooden or glass baubles cost about $1 each at the dollar store, and a set of acrylic paint pens turns them into something personal — names, snowflakes, little stripes, or a simple sprig of holly on each one."
+          },
+          {
+            "t": "h3",
+            "text": "The easiest painted bauble designs"
+          },
+          {
+            "items": [
+              "Snowflakes: three crossed lines and a few dots — done in under a minute per bauble",
+              "Stripes: painter's tape gives you clean lines with zero skill needed",
+              "Names: write each person's name in gold paint pen for a personal touch",
+              "Dots: a cotton bud dipped in paint makes perfect, even dots",
+              "Half-dipped: dip the bottom half of a wooden bauble in paint and let it drip-dry for a two-tone look"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "h3",
+            "text": "Paint pens beat brushes for baubles"
+          },
+          {
+            "t": "p",
+            "text": "A brush on a round bauble leaves streaks. Paint pens — about $8 for a set of twelve — give you clean lines, dry in minutes, and do not need water or cleanup. Shake the pen well, test it on paper first, and draw slowly. Let each bauble dry for at least an hour before you hang it, or the design will smudge on the ribbon."
+          }
+        ],
+        "heading": "Hand-Painted Baubles: Easy DIY Christmas Ornaments for Beginners"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Salt dough is flour, salt and water — that is it. It costs pennies, it is safe for kids to handle, and it bakes hard enough to last for years. We make a batch every December with the kids, and the slightly lopsided stars always end up being the ones we love most."
+          },
+          {
+            "t": "h3",
+            "text": "Salt dough recipe"
+          },
+          {
+            "items": [
+              "2 cups (250 g) plain flour",
+              "1 cup (300 g) fine table salt",
+              "1 cup (240 ml) warm water",
+              "Cookie cutters and a straw for the hole",
+              "Acrylic paint and a clear varnish or Mod Podge to seal",
+              "Ribbon, 8-inch (20 cm) lengths"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "h3",
+            "text": "Method"
+          },
+          {
+            "items": [
+              "Mix the flour and salt in a bowl, then add the water a little at a time and stir until a firm dough forms.",
+              "Knead for 3–4 minutes until smooth, then roll out to a quarter inch (5 mm) thick.",
+              "Cut out shapes with cookie cutters and poke a hole near the top with a straw.",
+              "Bake on a lined tray at 250°F (120°C) for 2 hours, turning once halfway through.",
+              "Let them cool completely, then paint and seal with a coat of varnish.",
+              "Thread the ribbon through and hang — or wrap them as gifts."
+            ],
+            "t": "ol"
+          },
+          {
+            "t": "p",
+            "text": "Two things worth knowing: keep every ornament the same thickness, or the thick ones will need longer in the oven — and the varnish coat is not optional. Without it, salt dough softens in a damp room and goes sticky; with it, ornaments from three Christmases ago still hang on our tree."
+          }
+        ],
+        "heading": "Salt Dough Ornaments Kids Can Help With"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "The same dried orange slices from our garland make beautiful ornaments. A slice tied with twine and a cinnamon stick looks like it came from a country Christmas market, and it smells faintly of spice for weeks."
+          },
+          {
+            "t": "h3",
+            "text": "What you need"
+          },
+          {
+            "items": [
+              "Dried orange slices, 2 inches (5 cm) across — buy them or dry your own at 200°F (95°C) for 2–3 hours",
+              "Short cinnamon sticks, about 3 inches (8 cm)",
+              "Natural twine, cut into 10-inch (25 cm) lengths",
+              "A few star anise, if you like the look",
+              "Optional: a dab of hot glue to hold the cinnamon stick in place"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "h3",
+            "text": "Putting them together"
+          },
+          {
+            "items": [
+              "Lay a dried orange slice flat and place a cinnamon stick across the middle.",
+              "Tie a length of twine around the slice and the stick, knotting it at the back.",
+              "Loop the twine ends together at the top to make a hanger, about 4 inches (10 cm) long.",
+              "Tuck a star anise under the knot for a finishing touch, if you like.",
+              "Hang on the tree where the light catches the slice — near a window or a fairy light works best."
+            ],
+            "t": "ol"
+          },
+          {
+            "t": "p",
+            "text": "These are the quickest ornaments in the guide — five minutes each once the slices are dry. They also make lovely gift tags: tie one to a wrapped present with the recipient's name written on the back in a gold pen."
+          }
+        ],
+        "heading": "Dried Orange & Cinnamon Slice Ornaments"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Fifteen handmade ornaments deserve a good spot on the tree. Hang the heaviest ones — the clay and salt dough pieces — on the sturdier inner branches, and put the light paper stars on the tips where they can catch the light. Mix your handmade ornaments through the tree rather than grouping them together, so the whole tree feels personal."
+          },
+          {
+            "t": "h3",
+            "text": "Hanging tips that save ornaments"
+          },
+          {
+            "items": [
+              "Use ornament hooks or short lengths of ribbon rather than the wire hooks from the shop — ribbon grips better and looks softer",
+              "Hang clay and salt dough ornaments no higher than you can comfortably reach — a fall from the top of the tree will crack them",
+              "Keep paper stars away from candles and hot lights — they are paper, after all",
+              "Step back every few ornaments and check the balance: too many on one side and the tree starts to lean"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "h3",
+            "text": "Storing them for next year"
+          },
+          {
+            "t": "p",
+            "text": "Wrap each ornament in tissue paper and lay them in a single layer in a shoebox — never stack them loose in a bag. Paper stars fold flat and stack neatly. Keep the box somewhere cool and dry, and come next December you will open it and remember exactly which afternoon you made each one."
+          }
+        ],
+        "heading": "Hanging, Styling & Storing Your Ornaments"
+      }
+    ],
+    "slug": "easy-diy-christmas-ornaments",
+    "subcategory": "Paper Crafts",
+    "title": "Easy DIY Christmas Ornaments 2026: 15 Handmade Paper, Clay & Painted Ornaments for Your Tree",
+    "to": "#275E7E"
+  }),
   P({
   "bannerTitle": "Dried Orange Christmas Garland",
   "category": "diy-crafts",
