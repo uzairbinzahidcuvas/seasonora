@@ -93,6 +93,273 @@ const P = (o: Post) => o;
 
 export const POSTS: Post[] = [
   P({
+  "bannerTitle": "Velvet Christmas Tree Ornaments",
+  "category": "diy-crafts",
+  "date": "2026-11-24",
+  "excerpt": "Velvet Christmas ornaments you can make in one evening — wrap plain shatter-resistant baubles in emerald, burgundy and champagne velvet ribbon, add handmade bows and beads, and hang a coordinated tree for under $20.",
+  "faqs": [
+    {
+      "a": "Most velvet Christmas ornaments cost between $1 and $3 each. A pack of six shatter-resistant ornament balls is about $5, a spool of velvet ribbon runs $3 to $4, and ornament hooks and beads cost a couple of dollars. A full set of twelve comes to under $20 — a fraction of what velvet ornaments sell for in shops.",
+      "q": "How much do velvet Christmas ornaments cost to make?"
+    },
+    {
+      "a": "Yes — this is one of the easiest velvet Christmas ornaments projects to start with. There is no sewing and no glue gun needed. You wrap ribbon around a ball, tie a bow and add a hook. If you can tie a shoelace, you can make these. Start with one ornament to get the wrap right, then the rest take about ten minutes each.",
+      "q": "Are velvet Christmas ornaments easy for beginners to make?"
+    },
+    {
+      "a": "Hang them on the sturdier inner branches rather than the thin tips, and use ribbon loops or ornament hooks instead of the thin wire hooks that come in the pack — ribbon grips the branch better and looks softer. Keep the heavier ornaments low enough to reach, and check each knot before you step back.",
+      "q": "How do I hang velvet Christmas ornaments so they don't fall off the tree?"
+    },
+    {
+      "a": "Wrap each velvet Christmas ornament in tissue paper and lay them in a single layer in a box — never pile them loose in a bag, or the ribbon will crease and the bows will flatten. Keep the box in a cool, dry spot. Stored this way, the velvet keeps its pile and the ornaments look just as good next December.",
+      "q": "How do I store velvet Christmas ornaments after the holidays?"
+    }
+  ],
+  "from": "#4E8FB8",
+  "hero": {
+    "alt": "Handmade velvet Christmas ornaments in emerald, burgundy and champagne hanging on an evergreen tree with pinecones and eucalyptus, soft natural light",
+    "src": "/img/a21-hero"
+  },
+  "images": [
+    {
+      "after": 3,
+      "img": {
+        "alt": "Handmade velvet Christmas ornaments in emerald, burgundy and champagne hanging on an evergreen tree branch with pinecones",
+        "caption": "Emerald, burgundy and champagne velvet ornaments on the tree — the three colours sit beautifully together against the green.",
+        "src": "/img/a21-a"
+      }
+    },
+    {
+      "after": 5,
+      "img": {
+        "alt": "Finished velvet Christmas ornaments in emerald, burgundy and champagne grouped on a linen tablecloth beside an evergreen branch",
+        "caption": "The finished set, grouped on the table before they go on the tree — velvet baubles in all three colours, ready to hang.",
+        "src": "/img/a21-b"
+      }
+    }
+  ],
+  "intro": "Velvet Christmas ornaments are the quickest way we know to make a tree look expensive. A plain shatter-resistant bauble costs less than a dollar, a length of velvet ribbon costs pennies, and together they look like something from a boutique window. We made a full set of twelve in one evening, in three colours — emerald, burgundy and champagne — and the whole project came to under $20. Below you will find the exact materials, the four steps, and the styling tips that make the colours work together.",
+  "motif": "snow",
+  "readTime": 8,
+  "sections": [
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Velvet does something no other fabric does on a Christmas tree: it catches the light without shining. The pile of the fabric softens the colour, so emerald reads deep and rich instead of bright, burgundy looks warm instead of loud, and champagne glows instead of glittering. Put the three together and you get a tree that looks planned, not random — even though every ornament took ten minutes."
+        },
+        {
+          "t": "h3",
+          "text": "Why velvet works better than shiny finishes"
+        },
+        {
+          "t": "p",
+          "text": "Shiny baubles reflect everything around them, so they pick up the colour of the room and the lights and can end up looking busy. Velvet absorbs light, which means the colour you see is the colour you chose. That is why a velvet ornament in emerald still looks emerald next to a burgundy one, instead of turning into a muddle."
+        },
+        {
+          "items": [
+            "Cost: a set of twelve velvet Christmas ornaments costs under $20 — about $1.50 each",
+            "Time: ten minutes per ornament once you have made the first one",
+            "Skill level: no sewing, no glue gun — if you can tie a bow, you can make these",
+            "Supplies: shatter-resistant baubles, velvet ribbon, scissors, hooks and beads — one shop run",
+            "Kid-friendly: older kids can wrap and tie bows with supervision; scissors are the only sharp tool"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "p",
+          "text": "One more reason we love this project: the ornaments are shatter-resistant, so they survive being dropped by small hands and packed away in January. The velvet wrap hides any scuffs on cheap baubles, too — the plainest ball in the pack becomes the prettiest ornament on the tree."
+        }
+      ],
+      "heading": "Why Velvet Christmas Ornaments Work So Well"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Keep the supply list short and the colours tight. Three colours are enough — a fourth one starts to look busy. We used emerald, burgundy and champagne because they sit well together and match most trees, but the same method works with any trio you like."
+        },
+        {
+          "t": "h3",
+          "text": "What you need for velvet Christmas ornaments"
+        },
+        {
+          "items": [
+            "12 lightweight shatter-resistant ornament balls, 2–3 inches (5–8 cm) across — about $5 for a pack of six",
+            "Velvet ribbon, 1 inch (2.5 cm) wide, in emerald, burgundy and champagne — one spool of each, about $3–$4 per spool",
+            "Sharp scissors",
+            "12 ornament hooks, or short lengths of ribbon for hanging loops",
+            "Small decorative beads — gold or cream, about 20 pieces",
+            "Craft adhesive or a few dots of hot glue, for fixing the ribbon ends and beads"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "p",
+          "text": "A note on the ribbon: buy real velvet ribbon, not satin. Satin slips, shows every fingerprint and looks shiny next to the velvet. Velvet ribbon grips itself, which is what makes the wrap stay put. If your craft shop only has one width, 1 inch is the sweet spot — narrower ribbon takes too many wraps, wider ribbon bunches at the top."
+        },
+        {
+          "t": "h3",
+          "text": "Picking your colours"
+        },
+        {
+          "t": "p",
+          "text": "Lay your three ribbon spools next to each other before you cut anything. They should look like they belong in the same room — emerald, burgundy and champagne do, because they are all deep, warm tones. If one colour jumps out and fights the other two, swap it for a softer shade. Four of each colour gives you a balanced set of twelve."
+        }
+      ],
+      "heading": "What You Need"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Cutting the ribbon first saves time and waste. A ball 2–3 inches across needs about 18 inches (45 cm) of ribbon to wrap around it with enough left over for a tidy finish. Cut all twelve lengths before you start wrapping, so you can work through the ornaments without stopping to measure."
+        },
+        {
+          "t": "h3",
+          "text": "Cutting velvet ribbon cleanly"
+        },
+        {
+          "items": [
+            "Measure 18 inches (45 cm) of ribbon for each ornament and mark it with a pencil.",
+            "Cut with sharp scissors in one smooth motion — velvet frays if you saw at it.",
+            "Cut the ends at a slight angle so they sit flat when you fold them under.",
+            "Sort the lengths by colour into three small piles, four lengths in each pile."
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "p",
+          "text": "If your baubles are larger than 3 inches, add 4 inches (10 cm) per ornament. Too much ribbon is easy to trim; too little means starting over, so err on the generous side for the first one and adjust from there."
+        }
+      ],
+      "heading": "Step 1: Cut the Velvet Ribbon to Fit Each Ornament"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The wrap is the heart of this project, and it is simpler than it looks. You are not covering the ball in fabric — you are wrapping a band of ribbon around it, top to bottom, so the velvet reads as a soft stripe that catches the light. The ball's own colour shows through on either side, which is why the bauble colour matters: pick baubles in a tone close to your ribbon, or plain gold, so the wrap and the ball work together."
+        },
+        {
+          "t": "h3",
+          "text": "Wrapping velvet ribbon around an ornament"
+        },
+        {
+          "items": [
+            "Hold the ornament in one hand and lay the middle of a ribbon length across the top of the ball, over the cap.",
+            "Bring both ends down around the sides and cross them underneath the ball.",
+            "Pull the ribbon snug — not tight enough to dent the ball, just firm enough that it sits flat.",
+            "Smooth the ribbon with your thumb so the velvet pile lies in one direction and no wrinkles show.",
+            "Fold the two ends under at the bottom of the ball and fix them with a small dot of craft adhesive.",
+            "Hold the ornament up and check the wrap from the front — the band should run straight over the top and sit evenly on both sides."
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "p",
+          "text": "The first wrap always takes the longest. By the third ornament your hands know the motion, and the rest go quickly. If a wrap looks crooked, peel the ends back and redo it — the adhesive dot is small, so the ribbon comes away cleanly."
+        }
+      ],
+      "heading": "Step 2: Wrap the Velvet Ribbon Smoothly Around Each Ornament"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The bow is what turns a wrapped bauble into a velvet Christmas ornament. A small bow in matching ribbon sits at the top of the ball, right under the cap, and it hides the spot where the wrap meets the top. Keep the bows small — about 2 inches (5 cm) across — so they read as a detail, not the main event."
+        },
+        {
+          "t": "h3",
+          "text": "Making a small velvet bow"
+        },
+        {
+          "items": [
+            "Cut a 10-inch (25 cm) length of matching velvet ribbon for each bow.",
+            "Form two loops the way you would tie a shoelace bow, keeping both loops the same size.",
+            "Pinch the centre tight and tie a short piece of ribbon or thread around the middle to hold it.",
+            "Trim the tails at an angle and fluff the loops out with your fingers so they sit evenly.",
+            "Fix the bow to the top of the ornament with a dot of craft adhesive, just under the cap, covering the wrap join.",
+            "Let the adhesive set for a few minutes before you pick the ornament up by the bow."
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "p",
+          "text": "If bows are not your thing, a simple knot with two short tails looks just as good and takes half the time. The rule is the same either way: keep it small, keep it in the same colour as the wrap, and let the velvet do the talking."
+        }
+      ],
+      "heading": "Step 3: Make Small Velvet Bows for the Tops"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The last step is the beads, the hooks and the hanging. A single small bead tucked under the bow adds a finished touch, and a hook or ribbon loop is what gets the ornament onto the tree. Do this step at the table, not on the tree — it is much easier to fix a bead while the ornament is in your hand."
+        },
+        {
+          "t": "h3",
+          "text": "Adding beads and hooks"
+        },
+        {
+          "items": [
+            "Glue one small decorative bead under each bow, or thread two beads onto the hanging loop for a little extra detail.",
+            "Thread an ornament hook through the cap at the top, or tie a 6-inch (15 cm) ribbon loop through it instead.",
+            "Check the hook or loop is secure by giving it a gentle tug before you hang the ornament.",
+            "Hang the finished ornaments on the tree, spacing the three colours evenly — no two of the same colour side by side.",
+            "Step back after every few ornaments and check the balance: too many on one side and the tree starts to lean."
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "p",
+          "text": "Hang the heavier-looking ornaments — the burgundy ones read heaviest — on the sturdier inner branches, and put the champagne ones near the lights, where they catch the glow. The emerald ones look best against the green of the tree, so tuck them a little deeper into the branches."
+        }
+      ],
+      "heading": "Step 4: Add Beads, Hooks and Hang Your Velvet Christmas Ornaments"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Twelve velvet Christmas ornaments will dress a small tree on their own, and on a bigger tree they work best mixed through the rest of your decorations rather than grouped in one spot. Spread the colours evenly, and let the velvet sit next to a few plain baubles and some fairy lights — the contrast is what makes the velvet stand out."
+        },
+        {
+          "t": "h3",
+          "text": "Styling velvet Christmas ornaments around the house"
+        },
+        {
+          "items": [
+            "On the tree: mix the velvet ornaments through the branches, with a few plain gold baubles between them so the colours breathe",
+            "In a bowl: pile four or five ornaments in a shallow bowl with a sprig of evergreen for a table centrepiece",
+            "As gift toppers: tie one ornament onto a wrapped present with the ribbon loop — it doubles as a small gift",
+            "On a garland: hang three ornaments at different heights from a mantel garland, spaced a foot apart"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "Care, storage and easy variations"
+        },
+        {
+          "t": "p",
+          "text": "Velvet picks up dust, so give each ornament a quick brush with a dry cloth before you hang it. If a bow flattens in storage, steam it gently over a kettle for a few seconds and reshape it with your fingers. For variations, try a single colour set in all emerald for a calm, classic tree, or swap the champagne for blush pink if your room runs warm. You can also use the same wrap on pinecones — wrap a short length of ribbon around the middle and tie a bow on top — for matching mantel decor."
+        },
+        {
+          "t": "p",
+          "text": "Store the ornaments wrapped in tissue paper, one layer deep in a box, in a cool dry spot. The velvet keeps its pile for years if it is not squashed, and next December you will open the box and have a tree's worth of ornaments ready to hang."
+        }
+      ],
+      "heading": "Styling, Care and Easy Variations for Velvet Christmas Ornaments"
+    }
+  ],
+  "slug": "velvet-christmas-tree-ornaments",
+  "subcategory": "Handmade Gifts",
+  "title": "Velvet Christmas Ornaments: DIY Elegant Velvet Ribbon Ornaments for Your Tree",
+  "to": "#275E7E",
+  "video": "velvet-christmas-tree-ornaments"
+}),
+  P({
   "bannerTitle": "DIY Christmas Wreath Ideas",
   "category": "diy-crafts",
   "date": "2026-11-23",

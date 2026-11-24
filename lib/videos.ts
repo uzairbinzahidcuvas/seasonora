@@ -16,6 +16,17 @@ export type VideoEntry = {
 
 export const VIDEOS: VideoEntry[] = [
   {
+    slug: "velvet-christmas-tree-ornaments",
+    title: "DIY Velvet Christmas Tree Ornaments \u2013 Elegant Holiday Decor",
+    description: "Give simple shatter-resistant ornaments an elegant makeover with velvet ribbon and handmade bows. Create a coordinated Christmas tree using rich seasonal colors.",
+    category: "diy-crafts",
+    topic: "Elegant Christmas decor",
+    articleSlug: "velvet-christmas-tree-ornaments",
+    poster: "/img/a21-a",
+    durationSec: 30,
+    date: "2026-11-24",
+  },
+  {
     slug: "dried-orange-christmas-garland",
     title: "DIY Dried Orange Christmas Garland \u2013 Natural Holiday Decor",
     description: "Make a natural Christmas garland with dried orange slices, cinnamon sticks and wooden beads. This simple handmade decoration suits Scandinavian, rustic and minimalist holiday interiors.",
