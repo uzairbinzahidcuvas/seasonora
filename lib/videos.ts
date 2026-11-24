@@ -16,6 +16,17 @@ export type VideoEntry = {
 
 export const VIDEOS: VideoEntry[] = [
   {
+    slug: "paper-snowflake-window-decor",
+    title: "Easy DIY Paper Snowflakes for Beautiful Winter Windows",
+    description: "Make delicate paper snowflakes with simple folding and cutting techniques — an inexpensive winter craft for Christmas windows, family craft time and seasonal decorating.",
+    category: "diy-crafts",
+    topic: "Winter and Christmas paper crafts",
+    articleSlug: "paper-snowflake-window-decor",
+    poster: "/img/a23-a",
+    durationSec: 30,
+    date: "2026-11-24",
+  },
+  {
     slug: "velvet-christmas-tree-ornaments",
     title: "DIY Velvet Christmas Tree Ornaments \u2013 Elegant Holiday Decor",
     description: "Give simple shatter-resistant ornaments an elegant makeover with velvet ribbon and handmade bows. Create a coordinated Christmas tree using rich seasonal colors.",

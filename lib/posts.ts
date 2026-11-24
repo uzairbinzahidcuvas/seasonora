@@ -93,6 +93,272 @@ const P = (o: Post) => o;
 
 export const POSTS: Post[] = [
   P({
+    "bannerTitle": "Paper Snowflakes for Windows",
+    "category": "diy-crafts",
+    "date": "2026-11-24",
+    "excerpt": "Paper snowflakes are the cheapest winter window decor we know — a few sheets of white paper, some thread and an afternoon turn a plain window into a soft, snowy scene. Here is the folding, cutting and hanging method that works every time.",
+    "faqs": [
+      {
+        "a": "Plain white printer paper is the best place to start — it folds crisply, cuts easily and looks bright against the glass. Lightweight cardstock makes sturdier flakes that hold their shape in a draughty window, but it is harder to cut through six folded layers, so save it for your second batch. Pale blue and silver paper also look lovely in daylight.",
+        "q": "What kind of paper is best for paper snowflakes?"
+      },
+      {
+        "a": "Use transparent thread and small removable adhesive hooks on the top of the window frame. Tie the thread through one point of the flake, vary the lengths so the flakes sit at different heights, and leave a few inches between them so they cannot tangle. The hooks come off cleanly in January and the flakes themselves weigh almost nothing, so they stay put for months.",
+        "q": "How do I hang paper snowflakes so they stay up all winter?"
+      },
+      {
+        "a": "Yes — the unfold moment is pure magic for children, and the only sharp tool is the scissors. Give younger kids blunt-tipped safety scissors and a simple pattern of triangles, and let older kids try diamonds and curves. Their flakes will come out a little wonky, and that is half the charm. An adult should handle the hanging, since the thread knots are fiddly.",
+        "q": "Are paper snowflakes a good craft for kids?"
+      },
+      {
+        "a": "Lay each flake flat between sheets of tissue paper in a large envelope or a flat box, and keep it somewhere dry. Never fold a finished flake or roll it up — the creases will not come out. Stored flat and dry, paper snowflakes last for years, and you can hang the same set again next winter.",
+        "q": "How do I store paper snowflakes after Christmas?"
+      }
+    ],
+    "from": "#4E8FB8",
+    "hero": {
+      "alt": "Delicate handmade white paper snowflakes hanging from transparent thread in a bright winter window with snow-covered trees outside",
+      "src": "/img/a23-hero"
+    },
+    "images": [
+      {
+        "after": 3,
+        "img": {
+          "alt": "Handmade white paper snowflakes hanging at different heights in a bright winter window, soft daylight and falling snow outside",
+          "caption": "Paper snowflakes at different heights across the window — the mix of sizes is what makes the display feel like real snowfall.",
+          "src": "/img/a23-a"
+        }
+      },
+      {
+        "after": 5,
+        "img": {
+          "alt": "Close-up of handmade white paper snowflakes hanging above a windowsill with a lit candle, pinecone and eucalyptus in soft daylight",
+          "caption": "The finished flakes above a candlelit windowsill — a few snowflakes and a warm glow are all a small window needs.",
+          "src": "/img/a23-b"
+        }
+      }
+    ],
+    "intro": "Paper snowflakes are the cheapest winter window decor we know. A few sheets of white paper, a pencil, a ruler, sharp scissors and some transparent thread are all it takes to turn a plain window into a soft, snowy scene — no shop run for fancy supplies, no special tools, and no mess to clean up after. We hung our first batch one grey November afternoon and they stayed up all winter. Below are the exact materials, the four steps, and the hanging tricks that keep them straight and tangle-free.",
+    "motif": "snow",
+    "readTime": 8,
+    "sections": [
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "A paper snowflake works because it is light. It hangs on a thread so fine you can barely see it, so the flake looks like it is floating in front of the glass. Real snow outside does the rest — the white paper picks up the grey-blue light of a winter sky, and the cut-outs throw soft shadows when the sun comes out. It costs pennies, so you can fill a big window without thinking twice, and if one tears you just fold another."
+          },
+          {
+            "t": "h3",
+            "text": "Why paper snowflakes beat shop-bought window decor"
+          },
+          {
+            "t": "p",
+            "text": "Shop-bought window stickers look flat and peel off in the cold, and plastic flakes cost a few dollars each and look like plastic. Paper flakes are different: each one comes out a little different, the edges are crisp, and they move gently when the heating kicks on."
+          },
+          {
+            "items": [
+              "Cost: a full window costs under $2 — one pack of white paper and a spool of thread",
+              "Time: about ten minutes per flake once you have folded the first one",
+              "Skill level: if you can fold paper and cut along a line, you can make these",
+              "Supplies: paper, pencil, ruler, scissors, thread and hooks — most homes already have them",
+              "Kid-friendly: children love the unfold moment; the only sharp tool is the scissors"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "p",
+            "text": "One more reason we keep coming back to this craft: it scales. One flake is a sweet touch on a small window, and ten at different heights turn a wide living-room window into the prettiest thing in the room. The second batch always looks better than the first, because your hands learn the fold."
+          }
+        ],
+        "heading": "Why Paper Snowflakes Work So Well"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Keep the supply list short. The whole point is that you can start now, with what is already in a kitchen drawer. If you do need to buy anything, one shop run covers it — and the thread and hooks will last for years of windows."
+          },
+          {
+            "t": "h3",
+            "text": "What you need for paper snowflakes"
+          },
+          {
+            "items": [
+              "White paper or lightweight cardstock — plain printer paper works well for a first batch; cardstock gives sturdier flakes",
+              "A pencil, for marking folds and sketching the pattern lightly",
+              "A ruler, for straight folds and measuring thread lengths",
+              "Sharp scissors — small craft scissors cut clean curves far better than blunt kitchen ones",
+              "Transparent thread, for hanging the flakes so they float",
+              "Removable window hooks, so the threads leave no marks on the frame"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "p",
+            "text": "A note on the paper: start with ordinary white printer paper. It folds crisply, cuts easily and looks bright against the glass. Cardstock makes a stiffer flake that holds its shape in a draughty window, but it is harder to cut through six layers, so save it for your second batch. Pale blue works too, but white is the classic — it catches the light best."
+          },
+          {
+            "t": "h3",
+            "text": "Picking your thread and hooks"
+          },
+          {
+            "t": "p",
+            "text": "Transparent thread is the quiet hero of this project. Fishing line works, and so does clear sewing thread — either one disappears against the glass. Cut three or four different lengths, so the flakes sit at different heights. Small removable adhesive hooks stick to the top of the window frame and come off cleanly in January."
+          }
+        ],
+        "heading": "What You Need"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Every paper snowflake starts the same way: a square of paper folded into a wedge. The fold is the whole secret — the pattern you cut into it repeats six times when you open it out, and that is what gives the flake its symmetry. Take your time: a tidy fold is the difference between a crisp flake and a lopsided one."
+          },
+          {
+            "t": "h3",
+            "text": "Folding the paper into a wedge"
+          },
+          {
+            "items": [
+              "Start with a square sheet. If your paper is a rectangle, fold one corner across to the opposite edge, crease it, and trim the strip below.",
+              "Fold the square in half diagonally and press the crease flat with your thumb.",
+              "Fold it in half diagonally again, so you have a smaller triangle with four layers.",
+              "Fold this triangle into thirds: bring the left point over to the right, then the right point over to the left, so it becomes a narrow wedge with a pointed tip.",
+              "Press every crease flat — run the ruler along each fold so the layers sit tight."
+            ],
+            "t": "ol"
+          },
+          {
+            "t": "p",
+            "text": "If the wedge looks uneven, unfold and start again rather than forcing it. Paper remembers a bad crease, and a wedge off by a few millimetres shows up as a lopsided flake. The second try is always quicker than the first."
+          }
+        ],
+        "heading": "Step 1: Fold the Paper Into a Neat Wedge"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "With the wedge folded, the next step is a light pencil sketch. You are not drawing a snowflake — you are marking a few triangles, diamonds and curves along the edges. When the paper opens out, each mark becomes a cut-out that repeats around the flake. Keep the pattern simple on your first flake: simple shapes look cleaner than fussy ones, and they are far easier to cut."
+          },
+          {
+            "t": "h3",
+            "text": "Sketching a snowflake pattern on the folded wedge"
+          },
+          {
+            "items": [
+              "Hold the wedge with the pointed tip down and the wide, folded edge at the top.",
+              "Sketch small triangles along the two long edges — these become the points and notches.",
+              "Add one or two small diamonds or circles near the centre for the lacy middle.",
+              "Draw a gentle curve or a V across the wide top edge.",
+              "Keep every mark a finger's width from the pointed tip, so the centre stays strong."
+            ],
+            "t": "ol"
+          },
+          {
+            "t": "p",
+            "text": "Use a soft pencil and press lightly. Heavy lines show on white paper and are hard to rub out once you have cut. If a line goes wrong, just leave it out — the flake will still be pretty, and no one will know the pattern was meant to be different."
+          }
+        ],
+        "heading": "Step 2: Sketch a Simple Snowflake Pattern"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Cutting is the slowest step, and the one where patience pays. Sharp scissors, small snips and a steady hand are all you need. Keep the paper folded the whole time — the layers are what make the pattern repeat — and let the scissors do the work instead of forcing the blades through six layers at once."
+          },
+          {
+            "t": "h3",
+            "text": "Cutting the snowflake pattern"
+          },
+          {
+            "items": [
+              "Start with the small shapes near the centre, using the tips of the scissors.",
+              "Cut the triangles along the long edges one at a time, opening the scissors fully for each cut.",
+              "Cut the curve across the wide top edge last, in one smooth motion.",
+              "Shake the tiny cut-out pieces off and check both sides before you unfold — if a line is uncut, snip it now while the paper is still folded."
+            ],
+            "t": "ol"
+          },
+          {
+            "t": "p",
+            "text": "Keep your fingers clear of the blades and cut away from your hand, especially on tight curves. If the scissors start to drag, stop and sharpen them or switch to a smaller pair — blunt scissors tear the paper, and the torn edge shows on every point."
+          }
+        ],
+        "heading": "Step 3: Cut Carefully Along the Marked Lines"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "This is the best part. Unfold the wedge slowly, one layer at a time, and watch the pattern appear. Smooth the flake under a book if the creases spring back, then add the thread and hang it. The first flake takes the longest — by the third you will fold and cut without thinking."
+          },
+          {
+            "t": "h3",
+            "text": "Unfolding and hanging paper snowflakes"
+          },
+          {
+            "items": [
+              "Unfold one fold at a time, gently — do not pull the layers apart or the thin points can tear.",
+              "Lay the flake face down and smooth it flat with your palm, then leave it under a heavy book for a minute.",
+              "Thread a needle and pass it through one point of the flake, then tie a small knot.",
+              "Cut the thread to the length you want — vary them so the flakes hang at different heights.",
+              "Stick a removable hook to the top of the window frame, loop the thread over it, and check the height before you hang the next one."
+            ],
+            "t": "ol"
+          },
+          {
+            "t": "p",
+            "text": "Hang the biggest flakes in the middle and the smaller ones towards the edges, with a few inches between them so they can turn gently. If a flake spins and tangles with its neighbour, shorten its thread by an inch or two — a little space is all it takes."
+          }
+        ],
+        "heading": "Step 4: Unfold, Add Thread and Hang Your Paper Snowflakes"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "A window full of paper snowflakes suits almost any room, and looks just as good from outside as from inside. We hang ours in the living-room window where the morning light hits them, and they throw the prettiest shadows across the floor. They also work on a bedroom window, above the kitchen sink, or a hallway window that needs a little winter cheer."
+          },
+          {
+            "t": "h3",
+            "text": "Styling paper snowflakes around the house"
+          },
+          {
+            "items": [
+              "On a wide window: eight to twelve flakes at three heights, the largest in the centre",
+              "On a small window: three flakes at staggered heights — one high, one middle, one low",
+              "With lights: warm fairy lights behind the flakes make them glow after dark",
+              "On a mirror: two or three flakes in front of a hallway mirror for double the sparkle",
+              "As a table display: a few flat flakes under a glass cloche, or scattered along a mantel"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "h3",
+            "text": "Care, storage and easy variations"
+          },
+          {
+            "t": "p",
+            "text": "Paper snowflakes keep well if you store them flat. Lay each flake between sheets of tissue paper in a large envelope or a flat box, somewhere dry — damp is the only real enemy, and a damp flake goes limp and never recovers. Stored this way, the same flakes will look just as good next winter."
+          },
+          {
+            "t": "p",
+            "text": "For variations, try pale blue or silver paper for a frostier look, or cut a few flakes from old sheet music or brown kraft paper for a rustic window. Children can make their own batch with blunt-tipped safety scissors and a simple pattern of triangles — their flakes will be wonkier than yours, and somehow prettier. You can also thread two or three small flakes onto one long thread for a garland across the top of the window."
+          }
+        ],
+        "heading": "Styling, Care and Easy Variations for Paper Snowflakes"
+      }
+    ],
+    "slug": "paper-snowflake-window-decor",
+    "subcategory": "Paper Crafts",
+    "title": "Paper Snowflake Window Decor: Easy DIY Paper Snowflakes for Bright Winter Windows",
+    "to": "#275E7E",
+    "video": "paper-snowflake-window-decor"
+  }),
+  P({
     "bannerTitle": "Simple November Nails 2026",
     "category": "lifestyle",
     "date": "2026-11-24",
