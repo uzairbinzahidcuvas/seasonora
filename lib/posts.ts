@@ -93,6 +93,251 @@ const P = (o: Post) => o;
 
 export const POSTS: Post[] = [
   P({
+  "bannerTitle": "Christmas Party Outfit Ideas",
+  "category": "lifestyle",
+  "date": "2026-11-24",
+  "excerpt": "Christmas party outfit ideas for every invite — velvet blazers, sequin skirts, satin slip dresses and cozy knit looks, most under $60, with makeup to match.",
+  "faqs": [
+    {
+      "a": "Match the outfit to the invite. A velvet blazer with tailored trousers fits an office party, a satin slip dress suits dinner with friends, and a knit dress works for Christmas Eve at home. For New Year's Eve, go bolder — sequins, metallics or a jewel-tone dress. One velvet blazer or one sequin skirt can cover two or three nights with different tops and shoes.",
+      "q": "What are the best Christmas party outfit ideas?"
+    },
+    {
+      "a": "Burgundy, emerald green and classic red lead the list for 2026, with black always a safe pick. Champagne, chocolate brown and midnight blue are the softer choices if red feels too loud. Pick one strong colour and keep the rest of the outfit plain — a burgundy dress with gold hoops, or an emerald velvet blazer with black trousers.",
+      "q": "What colours work best in Christmas party outfit ideas?"
+    },
+    {
+      "a": "Yes, if the party is casual — a house party or drinks with friends. Go dark: black or deep indigo jeans with no rips, plus a sequin top or a velvet blazer and heeled boots. Skip jeans for office parties, formal dinners and anywhere the invite says cocktail or black tie.",
+      "q": "Can I wear jeans to a Christmas party?"
+    },
+    {
+      "a": "Block heels and heeled ankle boots are the most practical — you can stand in them for hours. Pointed flats in gold or black work for long dinners. Save stilettos for short nights, and always pack a pair of foldable flats in your bag for the walk home.",
+      "q": "What shoes go with a Christmas party outfit?"
+    }
+  ],
+  "from": "#C4748F",
+  "hero": {
+    "alt": "Woman in a gold sequin dress holding a champagne glass beside a lit Christmas tree",
+    "src": "/img/a24-hero"
+  },
+  "images": [
+    {
+      "after": 2,
+      "img": {
+        "alt": "Close-up of a shimmering green sequin dress beside a Christmas tree with warm fairy lights",
+        "caption": "One sequin piece is enough — this green sequin dress does all the talking, with the tree lights doing the rest.",
+        "src": "/img/a24-a"
+      }
+    },
+    {
+      "after": 4,
+      "img": {
+        "alt": "Woman in a red dress sitting among frosted Christmas trees with red velvet ornaments",
+        "caption": "A red dress among the frosted trees — the classic Christmas Eve look, cozy enough for a whole evening at home.",
+        "src": "/img/a24-b"
+      }
+    }
+  ],
+  "intro": "Christmas party outfit ideas are all over Pinterest right now — searches for Christmas outfits are up 300% this December. December is the busiest party month of the year: the office do, a dinner with friends, Christmas Eve at home, then New Year's Eve. The good news is that party dressing this season is easier than it looks. Velvet, sequins and satin do most of the work for you, and one good outfit can stretch across two or three nights with a few small swaps. This guide rounds up the looks that actually work — what to wear, what it costs, and how to finish it off — so you can stop staring at your closet at 7 pm.",
+  "motif": "bloom",
+  "readTime": 10,
+  "sections": [
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Every December looks the same in my calendar: an office party on a Thursday, a dinner with friends on Saturday, Christmas Eve at home, then New Year's Eve somewhere loud. Four nights, four different dress codes — and most of us don't want to buy four new outfits. The trick is to match the outfit to the invite, not to the month. A work party, a family lunch and a cocktail night are three different jobs, and dressing for the job is what makes you look right."
+        },
+        {
+          "t": "h3",
+          "text": "The one rule that saves every party outfit"
+        },
+        {
+          "t": "p",
+          "text": "Ask one question before you pick anything: where am I going, and who will be there? If your boss is there, keep it polished. If it's your closest friends, have fun with it. If you're hosting at home, comfort wins — you'll be on your feet all night. Once you know the room, the outfit almost picks itself."
+        },
+        {
+          "items": [
+            "Office Christmas party — smart, polished, nothing too short or too sparkly",
+            "Family Christmas lunch — cozy and warm, something you can sit in for three hours",
+            "Dinner with friends — a little dressy, a little fun, heels optional",
+            "House party or NYE — the boldest look of the season, sequins welcome",
+            "Christmas Eve at home — soft knits, gold hoops, fuzzy slippers after the photos"
+          ],
+          "t": "ul"
+        }
+      ],
+      "heading": "Christmas Party Outfit Ideas That Work for Every Invite"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Velvet is the most holiday fabric there is, and this year it's everywhere — blazers, dresses, trousers, even hair bows. A velvet blazer in burgundy, emerald or black is the smartest buy of the season because it works for the office party and again for dinner out. Wear it with tailored black trousers and a silk camisole, or throw it over a simple black dress and you're done."
+        },
+        {
+          "t": "h3",
+          "text": "Velvet Christmas party outfit ideas for the office party"
+        },
+        {
+          "t": "p",
+          "text": "The office party is the one night where getting it wrong actually matters. Velvet keeps you covered — literally and socially. A blazer with a camisole underneath reads polished, not stuffy, and you can take the blazer off to dance later. If blazers aren't your thing, a velvet midi dress with long sleeves does the same job in one piece."
+        },
+        {
+          "items": [
+            "Velvet blazer — $35 to $60 at Zara, H&M or Target; burgundy or emerald",
+            "Tailored black trousers — the pair you already own works fine",
+            "Silk or satin camisole underneath — champagne or black, $15 to $25",
+            "Pointed flats or block heels — gold hoops, no necklace needed",
+            "Velvet midi dress — $40 to $70, long sleeves, add ankle boots"
+          ],
+          "t": "ul"
+        }
+      ],
+      "heading": "The Velvet Look: Christmas Party Outfit Ideas for the Office Party"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Sequins scare people off, and they shouldn't. The trick is one sequin piece, not three. A sequin midi skirt in silver or champagne with a soft cream sweater on top looks rich without trying too hard. A sequin top with dark jeans works for a house party. And a sequin mini dress is the easiest New Year's Eve outfit you'll ever own — it needs almost nothing else."
+        },
+        {
+          "t": "h3",
+          "text": "One sequin piece is enough"
+        },
+        {
+          "t": "p",
+          "text": "Keep everything else plain and let the sequins do the talking. A black top, simple shoes, small earrings. If the skirt sparkles, the sweater should be plain. If the top sparkles, the jeans should be dark and plain. This is the rule that keeps sequins looking expensive instead of loud."
+        },
+        {
+          "items": [
+            "Sequin midi skirt — silver or champagne, $30 to $55, pair with a cream knit",
+            "Sequin top + dark jeans — the easiest house-party look there is",
+            "Sequin mini dress — NYE classic, add sheer tights if it's cold",
+            "Little black dress, updated — one shoulder, big gold cuff, red lip",
+            "Keep the bag small and plain — a black clutch or a gold chain bag"
+          ],
+          "t": "ul"
+        }
+      ],
+      "heading": "Sequin Christmas Party Outfit Ideas for a Night Out"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "A satin slip dress is one of the easiest party pieces you can own. In winter, layer it over a fitted turtleneck or throw a long wool coat on top, and it goes from a summer dress to a December dinner outfit. Champagne, deep wine, chocolate brown and midnight blue are the colours that work best right now — soft, rich, and easy to photograph by candlelight."
+        },
+        {
+          "t": "h3",
+          "text": "Satin slip dresses and what to wear over them"
+        },
+        {
+          "t": "p",
+          "text": "The layer is what makes this look work in December. A thin black turtleneck under a champagne slip dress is warm, smart and a little bit 90s. A faux fur coat over a wine-coloured slip dress is the closest thing to instant glamour. And a long camel wool coat over any of it means you can walk to the restaurant without freezing."
+        },
+        {
+          "items": [
+            "Pick the dress — slip style, midi length, $25 to $50",
+            "Add a layer — black turtleneck underneath, or a faux fur coat on top",
+            "Choose shoes — strappy heels for dinner, heeled boots for walking",
+            "Add one shiny thing — gold hoops, a thin bracelet, or a small clutch",
+            "Finish with a berry lip — it ties the whole look together in two minutes"
+          ],
+          "t": "ol"
+        }
+      ],
+      "heading": "Satin Slip Dresses: Christmas Party Outfit Ideas for Dinner"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Christmas Eve at home deserves its own outfit — cozy but cute, because the photos will live on the family group chat forever. A red or green knit dress is the classic pick: a ribbed knit midi in red, forest green or cream feels warm and still looks dressed up. Add gold hoops and ankle boots, and you're set for dinner, gifts and the couch after."
+        },
+        {
+          "t": "h3",
+          "text": "Christmas Eve outfits that feel as good as they look"
+        },
+        {
+          "t": "p",
+          "text": "If a dress feels like too much for a night at home, a matching knit set in red or cream is the answer — soft, warm, and it still looks put together in photos. Keep your hair down in soft waves, add a velvet bow if you like, and keep the fuzzy slippers by the door for after the photos are done."
+        },
+        {
+          "items": [
+            "Ribbed knit midi dress — red, forest green or cream, $30 to $50",
+            "Matching knit set — red or cream, cozy and photo-ready",
+            "Gold hoops — the one accessory that lifts every knit look",
+            "Ankle boots for dinner, fuzzy slippers for after",
+            "Velvet bow in the hair — $5, and it reads very Christmas"
+          ],
+          "t": "ul"
+        }
+      ],
+      "heading": "Christmas Eve Outfits for a Night at Home"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "New Year's Eve is the one night of the year when more is more. The sequin mini, the metallic co-ord, the jewel-tone gown — this is their night. Emerald green, sapphire blue and deep burgundy are the big colours for NYE 2026, and black and gold never goes wrong. If you bought one sequin piece for Christmas, this is the night to wear it again with different shoes and a different lip."
+        },
+        {
+          "t": "h3",
+          "text": "NYE outfits that carry you past midnight"
+        },
+        {
+          "t": "p",
+          "text": "Plan for the whole night, not just the photos. You'll be standing, dancing and walking home at 1 am, so block heels beat stilettos and a small crossbody bag beats a clutch you have to hold all night. Pack foldable flats in your bag — your feet will thank you, and nobody will see them in the dark."
+        },
+        {
+          "items": [
+            "Sequin mini or midi dress — NYE classic, $35 to $65",
+            "Metallic co-ord set — gold or silver, dress it down with a black top",
+            "Jewel-tone gown — emerald or sapphire for a formal dinner",
+            "Black and gold — the combo that never misses on NYE",
+            "Foldable flats in your bag — the best $10 you'll spend all night"
+          ],
+          "t": "ul"
+        }
+      ],
+      "heading": "New Year's Eve Outfits: One More Night of Sparkle"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The outfit gets you most of the way there, but the small things are what make people ask where you got it. A velvet bow at the nape of your neck, a slicked-back bun with a middle part, big glossy blowout waves — hair does a lot of the work this season, and most of it takes five minutes. The same goes for makeup: glowing skin plus one focus point, either the eyes or the lips, never both fighting for attention."
+        },
+        {
+          "t": "h3",
+          "text": "Shoes, bags and the five-minute party face"
+        },
+        {
+          "t": "p",
+          "text": "Start with a hydrating base — December air is dry and party rooms are warm, so skin needs the help. Then pick your focus: a classic red lip with soft brown liner, or a soft metallic eye with a glossy nude lip. A swipe of highlighter on your cheekbones and collarbones catches the light in photos, and a small bottle of perfume in your bag keeps you fresh past midnight."
+        },
+        {
+          "items": [
+            "Block heels or heeled boots — stand in them for hours, no regrets",
+            "Small bag — a black clutch or gold chain bag, hands free",
+            "Velvet bow or gold hair clips — $5 to $12, instant party hair",
+            "Red or berry lip — the fastest way to look dressed up",
+            "Perfume in your bag — one spray before midnight, that's all"
+          ],
+          "t": "ul"
+        }
+      ],
+      "heading": "Shoes, Bags & the Little Extras That Finish the Look"
+    }
+  ],
+  "slug": "christmas-party-outfit-ideas",
+  "subcategory": "Seasonal Outfits",
+  "title": "Christmas Party Outfit Ideas 2026: Easy Velvet, Sequin & Satin Looks for Every Party",
+  "to": "#8C4462"
+}),
+  P({
     "bannerTitle": "Paper Snowflakes for Windows",
     "category": "diy-crafts",
     "date": "2026-11-24",
