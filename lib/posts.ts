@@ -93,335 +93,307 @@ const P = (o: Post) => o;
 
 export const POSTS: Post[] = [
   P({
-    "bannerTitle": "15 Easy DIY Christmas Ornaments",
-    "category": "diy-crafts",
-    "date": "2026-11-23",
-    "excerpt": "Easy DIY Christmas ornaments you can make in one weekend — paper stars, clay baubles, salt dough and hand-painted ornaments for your tree, all for under $15.",
-    "faqs": [
-      {
-        "a": "Most ornaments in this guide cost between $0.50 and $2 each. A block of air-dry clay is about $6 and makes around 25 ornaments, paper stars cost almost nothing, and salt dough is flour, salt and water from the kitchen. All fifteen ornaments together come to under $15 — less than one bag of shop-bought baubles.",
-        "q": "How much do easy DIY Christmas ornaments cost to make?"
-      },
-      {
-        "a": "Paper stars. You need paper, scissors and ribbon, and the first good one takes about 15 minutes. Dried orange slice ornaments are just as easy — tie a slice and a cinnamon stick together with twine and you are done in five minutes. Start with one of those two, and move on to clay once you have got the hang of it.",
-        "q": "Which easy DIY Christmas ornaments are best for beginners?"
-      },
-      {
-        "a": "Use short lengths of ribbon tied in a loop rather than shop-bought wire hooks — ribbon grips the branch better. Hang heavier clay and salt dough ornaments on the thicker inner branches, keep them within easy reach, and check the loop knot is tight before you let go. A drop of hot glue where the ribbon meets the ornament stops it slipping.",
-        "q": "How do you hang easy DIY Christmas ornaments so they don't fall off?"
-      },
-      {
-        "a": "Years, if you seal them. Paint them, then add a coat of clear varnish or Mod Podge, and store them flat in tissue paper in a dry box. Without the varnish coat they soften in damp air and can go sticky, so that one step is worth the five minutes it takes.",
-        "q": "How long do salt dough ornaments last?"
-      }
-    ],
-    "from": "#4E8FB8",
-    "hero": {
-      "alt": "Hands hand-painting wooden Christmas ornaments with snowy tree and snowman designs, warm fairy lights glowing in the background",
-      "src": "/img/a19-hero"
+  "bannerTitle": "DIY Christmas Wreath Ideas",
+  "category": "diy-crafts",
+  "date": "2026-11-23",
+  "excerpt": "DIY Christmas wreath ideas you can make in an afternoon — evergreen, dried orange, velvet ribbon and eucalyptus wreaths for the front door, most for under $20.",
+  "faqs": [
+    {
+      "a": "Most of the wreaths here cost between $8 and $20. A grapevine or wire ring is about $4, a bundle of fresh evergreen runs $5 to $8 at the garden centre, and dried oranges, pinecones and ribbon come from the kitchen drawer or the dollar store. The brass hoop version is the priciest at around $25 — still half what a shop charges for the same look.",
+      "q": "How much do DIY Christmas wreath ideas cost to make?"
     },
-    "images": [
-      {
-        "after": 2,
-        "img": {
-          "alt": "Handmade white air-dry clay star and Christmas tree ornaments with hanging holes, laid on kraft paper with pinecones and a pink ribbon",
-          "caption": "Air-dry clay stars and a little tree, fresh from the cookie cutter — white clay on kraft paper with pinecones.",
-          "src": "/img/a19-a"
-        }
-      },
-      {
-        "after": 4,
-        "img": {
-          "alt": "Salt dough Christmas ornaments painted red and white, hanging on a small Christmas tree with ribbon loops",
-          "caption": "Salt dough stars and trees, painted and sealed — the slightly lopsided ones always end up being the favourites.",
-          "src": "/img/a19-b"
-        }
-      },
-      {
-        "after": 6,
-        "img": {
-          "alt": "Hands hanging a wooden acorn ornament on a Christmas tree branch with warm fairy lights",
-          "caption": "Hanging the ornaments — a wooden acorn going on the tree, with fairy lights glowing behind it.",
-          "src": "/img/a19-c"
-        }
+    {
+      "a": "A fresh evergreen wreath lasts 3 to 4 weeks outside if you mist it every few days and keep it out of direct sun. Dried orange, felt ball and paper star wreaths last all season and pack away for next year. If your door gets full afternoon sun, pick a dried or felt wreath — fresh greens dry out fast in the heat.",
+      "q": "How long will a DIY Christmas wreath last on the front door?"
+    },
+    {
+      "a": "Start with the velvet ribbon wreath or the dried orange one. The ribbon wreath is just loops of ribbon pinned around a foam ring — no wiring, no glue gun skills needed — and the dried orange version is slices, cinnamon sticks and twine. Both take under an hour and look like you spent all weekend on them.",
+      "q": "Which DIY Christmas wreath ideas are best for beginners?"
+    },
+    {
+      "a": "Use a wreath hanger that hooks over the top of the door — the metal ones cost about $6 and hold up to 10 pounds. If your door is glass or you rent, a large suction hook rated for 5 pounds works on smooth surfaces, or a Command hook made for outdoor use. Hang the wreath so its centre sits at eye level, about 60 inches from the ground.",
+      "q": "How do you hang a DIY Christmas wreath without damaging the door?"
+    }
+  ],
+  "from": "#4E8FB8",
+  "hero": {
+    "alt": "Handmade evergreen Christmas wreath with dried orange slices, pinecones and a burgundy velvet bow hanging on a dark green front door, warm porch light glowing",
+    "src": "/img/a20-hero"
+  },
+  "images": [
+    {
+      "after": 2,
+      "img": {
+        "alt": "Hands tying a green ribbon onto a fresh evergreen Christmas wreath, with lit candles glowing in the foreground",
+        "caption": "Tying the ribbon on — hands at work on a fresh evergreen wreath, candles glowing in front.",
+        "src": "/img/a20-a"
       }
-    ],
-    "intro": "Easy DIY Christmas ornaments are having a moment — searches for easy DIY Christmas decorations are up 680% this year, and it is easy to see why. A handful of paper stars, a few hand-painted baubles and some salt dough shapes cost less than one bag of shop-bought ornaments, and they look like they came from a little craft fair, not a production line. We made all fifteen ornaments in this guide in a single weekend, most of them in under an hour each, using supplies from the dollar store and the kitchen cupboard. Below you will find the exact materials, the steps that actually matter, and the prices — so you can pick your favourites and get started tonight.",
-    "motif": "snow",
-    "readTime": 10,
-    "sections": [
-      {
-        "blocks": [
-          {
-            "t": "p",
-            "text": "The trick with handmade ornaments is not skill — it is restraint. One colour palette, one or two materials per ornament, and a finish that looks deliberate. A paper star in cream and gold looks like a shop piece; the same star in five clashing colours looks like a school project. Pick two colours for the whole tree — we used deep red and warm gold this year — and every ornament you make will sit happily next to the others."
-          },
-          {
-            "t": "h3",
-            "text": "What makes an ornament look handmade in a good way"
-          },
-          {
-            "t": "p",
-            "text": "Small, even details. A tidy knot instead of a blob of glue. A ribbon cut to the same length on every ornament. Edges sanded smooth on clay pieces. None of it takes long, and it is the difference between “oh, you made that?” and “where did you buy that?”"
-          },
-          {
-            "items": [
-              "Cost: most ornaments here cost $0.50–$2 each; the whole set of 15 stays under $15",
-              "Time: paper stars take 15 minutes; clay ornaments take 30 minutes plus drying",
-              "Skill level: if you can fold paper and stir dough, you can make all of these",
-              "Supplies: paper, air-dry clay, salt, flour, acrylic paint, ribbon and twine — all from one shop run",
-              "Kid-friendly: salt dough and paper stars are safe for little hands with supervision"
-            ],
-            "t": "ul"
-          },
-          {
-            "t": "p",
-            "text": "Before you start, make one test ornament: hang it on the tree and look at it from across the room. If it looks good there, the rest will too."
-          }
-        ],
-        "heading": "Easy DIY Christmas Ornaments That Look Store-Bought"
-      },
-      {
-        "blocks": [
-          {
-            "t": "p",
-            "text": "Paper stars are the easiest win in this guide. They need nothing but paper and scissors, they fold flat for storage, and they look beautiful in a window where the light shines through them."
-          },
-          {
-            "t": "h3",
-            "text": "What you need for paper star ornaments"
-          },
-          {
-            "items": [
-              "6 sheets of A4 paper per star (cream, kraft or red — 80gsm copier paper works fine)",
-              "Sharp scissors",
-              "A ruler and pencil",
-              "Thin gold or red ribbon, cut into 8-inch (20 cm) lengths",
-              "A hole punch or a thick needle"
-            ],
-            "t": "ul"
-          },
-          {
-            "t": "p",
-            "text": "Skip the fancy craft paper on your first batch. Plain copier paper folds crisply, holds its shape, and costs almost nothing — and once you have got the fold right, you can make the same star in patterned paper for the tree."
-          },
-          {
-            "t": "h3",
-            "text": "Folding a paper star, step by step"
-          },
-          {
-            "items": [
-              "Cut each sheet into a 6-inch (15 cm) square — six squares make one star.",
-              "Fold each square in half diagonally, then fold it in half again to make a small triangle.",
-              "Cut three slits from the open edge toward the folded point, stopping about half an inch (1 cm) short.",
-              "Open the square out, then fold the cut flaps toward the centre and glue or tape them in place to form the star points.",
-              "Repeat with the other five squares, then glue the six points together at their bases to form a full star.",
-              "Thread a ribbon through the top point and knot it — hang it and step back."
-            ],
-            "t": "ol"
-          },
-          {
-            "t": "p",
-            "text": "The first star always looks a bit wonky. The second one looks good. By the third, you will be folding them without thinking."
-          }
-        ],
-        "heading": "Scandi Paper Star Ornaments"
-      },
-      {
-        "blocks": [
-          {
-            "t": "p",
-            "text": "Air-dry clay is the closest thing to magic in this guide. You roll it out, stamp it, cut it, and two days later you have ornaments that look like they came from a pottery studio. A 2.2 lb (1 kg) block costs about $6 at the craft store and makes roughly 25 ornaments — that is about 25 cents each."
-          },
-          {
-            "t": "h3",
-            "text": "What you need for clay ornaments"
-          },
-          {
-            "items": [
-              "Air-dry clay, 2.2 lb (1 kg) block — about $6",
-              "A rolling pin and two wooden rulers (they keep the thickness even)",
-              "Cookie cutters — stars, trees and circles, 2–3 inches (5–8 cm)",
-              "A straw or skewer for the hanging hole",
-              "Fine sandpaper (220 grit) for smoothing edges",
-              "White acrylic paint and a small brush, or gold paint pen for details",
-              "Thin ribbon or twine, 8-inch (20 cm) lengths"
-            ],
-            "t": "ul"
-          },
-          {
-            "t": "h3",
-            "text": "Making clay ornaments that don't crack"
-          },
-          {
-            "items": [
-              "Roll the clay out to about a quarter inch (5 mm) thick, using the rulers as guides so it stays even.",
-              "Press the cookie cutters in firmly and lift the shapes out with a flat knife.",
-              "Poke the hanging hole with a straw, about half an inch (1 cm) from the top edge.",
-              "Let the ornaments dry flat for 24–48 hours, turning them once so both sides dry evenly.",
-              "Sand the edges lightly, then paint or leave them plain — plain white clay with a gold edge looks lovely.",
-              "Thread the ribbon through and knot it. Hang them and admire your work."
-            ],
-            "t": "ol"
-          },
-          {
-            "t": "p",
-            "text": "The mistake most people make is rolling the clay too thin. Anything under a quarter inch cracks while it dries, especially around the hole. Keep it thick, dry it slowly away from radiators, and your ornaments will last for years."
-          }
-        ],
-        "heading": "Air-Dry Clay Ornaments"
-      },
-      {
-        "blocks": [
-          {
-            "t": "p",
-            "text": "If you can hold a paintbrush, you can paint a bauble. Plain wooden or glass baubles cost about $1 each at the dollar store, and a set of acrylic paint pens turns them into something personal — names, snowflakes, little stripes, or a simple sprig of holly on each one."
-          },
-          {
-            "t": "h3",
-            "text": "The easiest painted bauble designs"
-          },
-          {
-            "items": [
-              "Snowflakes: three crossed lines and a few dots — done in under a minute per bauble",
-              "Stripes: painter's tape gives you clean lines with zero skill needed",
-              "Names: write each person's name in gold paint pen for a personal touch",
-              "Dots: a cotton bud dipped in paint makes perfect, even dots",
-              "Half-dipped: dip the bottom half of a wooden bauble in paint and let it drip-dry for a two-tone look"
-            ],
-            "t": "ul"
-          },
-          {
-            "t": "h3",
-            "text": "Paint pens beat brushes for baubles"
-          },
-          {
-            "t": "p",
-            "text": "A brush on a round bauble leaves streaks. Paint pens — about $8 for a set of twelve — give you clean lines, dry in minutes, and do not need water or cleanup. Shake the pen well, test it on paper first, and draw slowly. Let each bauble dry for at least an hour before you hang it, or the design will smudge on the ribbon."
-          }
-        ],
-        "heading": "Hand-Painted Baubles: Easy DIY Christmas Ornaments for Beginners"
-      },
-      {
-        "blocks": [
-          {
-            "t": "p",
-            "text": "Salt dough is flour, salt and water — that is it. It costs pennies, it is safe for kids to handle, and it bakes hard enough to last for years. We make a batch every December with the kids, and the slightly lopsided stars always end up being the ones we love most."
-          },
-          {
-            "t": "h3",
-            "text": "Salt dough recipe"
-          },
-          {
-            "items": [
-              "2 cups (250 g) plain flour",
-              "1 cup (300 g) fine table salt",
-              "1 cup (240 ml) warm water",
-              "Cookie cutters and a straw for the hole",
-              "Acrylic paint and a clear varnish or Mod Podge to seal",
-              "Ribbon, 8-inch (20 cm) lengths"
-            ],
-            "t": "ul"
-          },
-          {
-            "t": "h3",
-            "text": "Method"
-          },
-          {
-            "items": [
-              "Mix the flour and salt in a bowl, then add the water a little at a time and stir until a firm dough forms.",
-              "Knead for 3–4 minutes until smooth, then roll out to a quarter inch (5 mm) thick.",
-              "Cut out shapes with cookie cutters and poke a hole near the top with a straw.",
-              "Bake on a lined tray at 250°F (120°C) for 2 hours, turning once halfway through.",
-              "Let them cool completely, then paint and seal with a coat of varnish.",
-              "Thread the ribbon through and hang — or wrap them as gifts."
-            ],
-            "t": "ol"
-          },
-          {
-            "t": "p",
-            "text": "Two things worth knowing: keep every ornament the same thickness, or the thick ones will need longer in the oven — and the varnish coat is not optional. Without it, salt dough softens in a damp room and goes sticky; with it, ornaments from three Christmases ago still hang on our tree."
-          }
-        ],
-        "heading": "Salt Dough Ornaments Kids Can Help With"
-      },
-      {
-        "blocks": [
-          {
-            "t": "p",
-            "text": "The same dried orange slices from our garland make beautiful ornaments. A slice tied with twine and a cinnamon stick looks like it came from a country Christmas market, and it smells faintly of spice for weeks."
-          },
-          {
-            "t": "h3",
-            "text": "What you need"
-          },
-          {
-            "items": [
-              "Dried orange slices, 2 inches (5 cm) across — buy them or dry your own at 200°F (95°C) for 2–3 hours",
-              "Short cinnamon sticks, about 3 inches (8 cm)",
-              "Natural twine, cut into 10-inch (25 cm) lengths",
-              "A few star anise, if you like the look",
-              "Optional: a dab of hot glue to hold the cinnamon stick in place"
-            ],
-            "t": "ul"
-          },
-          {
-            "t": "h3",
-            "text": "Putting them together"
-          },
-          {
-            "items": [
-              "Lay a dried orange slice flat and place a cinnamon stick across the middle.",
-              "Tie a length of twine around the slice and the stick, knotting it at the back.",
-              "Loop the twine ends together at the top to make a hanger, about 4 inches (10 cm) long.",
-              "Tuck a star anise under the knot for a finishing touch, if you like.",
-              "Hang on the tree where the light catches the slice — near a window or a fairy light works best."
-            ],
-            "t": "ol"
-          },
-          {
-            "t": "p",
-            "text": "These are the quickest ornaments in the guide — five minutes each once the slices are dry. They also make lovely gift tags: tie one to a wrapped present with the recipient's name written on the back in a gold pen."
-          }
-        ],
-        "heading": "Dried Orange & Cinnamon Slice Ornaments"
-      },
-      {
-        "blocks": [
-          {
-            "t": "p",
-            "text": "Fifteen handmade ornaments deserve a good spot on the tree. Hang the heaviest ones — the clay and salt dough pieces — on the sturdier inner branches, and put the light paper stars on the tips where they can catch the light. Mix your handmade ornaments through the tree rather than grouping them together, so the whole tree feels personal."
-          },
-          {
-            "t": "h3",
-            "text": "Hanging tips that save ornaments"
-          },
-          {
-            "items": [
-              "Use ornament hooks or short lengths of ribbon rather than the wire hooks from the shop — ribbon grips better and looks softer",
-              "Hang clay and salt dough ornaments no higher than you can comfortably reach — a fall from the top of the tree will crack them",
-              "Keep paper stars away from candles and hot lights — they are paper, after all",
-              "Step back every few ornaments and check the balance: too many on one side and the tree starts to lean"
-            ],
-            "t": "ul"
-          },
-          {
-            "t": "h3",
-            "text": "Storing them for next year"
-          },
-          {
-            "t": "p",
-            "text": "Wrap each ornament in tissue paper and lay them in a single layer in a shoebox — never stack them loose in a bag. Paper stars fold flat and stack neatly. Keep the box somewhere cool and dry, and come next December you will open it and remember exactly which afternoon you made each one."
-          }
-        ],
-        "heading": "Hanging, Styling & Storing Your Ornaments"
+    },
+    {
+      "after": 4,
+      "img": {
+        "alt": "Handmade felt ball Christmas wreath in deep red, forest green and cream wool balls hanging on a white wall beside a lit candle",
+        "caption": "Felt balls in deep red and forest green — soft, warm, and impossible to break if it falls off the hook.",
+        "src": "/img/a20-b"
       }
-    ],
-    "slug": "easy-diy-christmas-ornaments",
-    "subcategory": "Paper Crafts",
-    "title": "Easy DIY Christmas Ornaments 2026: 15 Handmade Paper, Clay & Painted Ornaments for Your Tree",
-    "to": "#275E7E"
-  }),
+    },
+    {
+      "after": 6,
+      "img": {
+        "alt": "Hands hanging a handmade dried orange and cinnamon Christmas wreath on a front door with a metal wreath hanger, golden afternoon light",
+        "caption": "The last step — the dried orange wreath going up on its hanger, centre at eye level.",
+        "src": "/img/a20-c"
+      }
+    }
+  ],
+  "intro": "A wreath is the first thing people see when they come to your door in December, and the ones you make yourself always look better than the ones from the shop — a bit uneven, a bit personal, and exactly your colours. These DIY Christmas wreath ideas are all beginner-friendly, most cost under $20, and every one of them can be finished in a single afternoon with supplies from the garden centre, the craft store, or the kitchen. Pick one, put the kettle on, and start with the ring. The rest is just layering.",
+  "motif": "snow",
+  "readTime": 10,
+  "sections": [
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "If you only make one wreath this year, make this one. A classic evergreen wreath is the base every other design builds on, and once you know the wiring trick it takes about an hour. Fresh cedar and fir smell like December the second you bring them inside, and a 14-inch ring fills a standard door without looking lost."
+        },
+        {
+          "t": "h3",
+          "text": "What you need for a classic evergreen wreath"
+        },
+        {
+          "items": [
+            "One 14-inch wire wreath ring, about $4 at the craft store",
+            "Three bunches of fresh cedar or fir, about $5 to $8 each",
+            "A spool of green floral wire, 22 gauge",
+            "Wire cutters and garden snips",
+            "A handful of pinecones and a 2-yard length of ribbon for the bow"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "p",
+          "text": "Cut the greens into 6-inch sprigs. Lay three together, fan them out, and wire the bundle to the ring with two tight wraps. Overlap the next bundle so it hides the wire, and work your way round. Keep every bundle pointing the same way — clockwise — and it looks messy halfway round and perfect at the end."
+        },
+        {
+          "t": "h3",
+          "text": "Finishing touches that cost almost nothing"
+        },
+        {
+          "t": "p",
+          "text": "Tuck in three or four pinecones with short wire stems, wire on a few dried orange slices if you have them, and tie the bow last so it sits on the fullest part. Mist it every two or three days and it stays fresh for three to four weeks on a shaded door."
+        }
+      ],
+      "heading": "DIY Christmas Wreath Ideas That Work on Any Door"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "This is the wreath people photograph. Dried orange slices glow amber in the porch light, cinnamon sticks add the smell, and the whole thing costs about $10 because most of it comes from the fruit bowl. It lasts the entire season and packs away flat for next year."
+        },
+        {
+          "t": "h3",
+          "text": "Drying the orange slices"
+        },
+        {
+          "items": [
+            "Slice two navel oranges as thin as you can, about 5mm.",
+            "Pat each slice dry with a tea towel, then lay them on a wire rack over a baking tray.",
+            "Bake at 200°F (90°C) for 2 to 3 hours, flipping once halfway, until dry but still bendy.",
+            "Let them cool completely on the rack — they firm up as they cool."
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "p",
+          "text": "Start with a 12-inch grapevine ring, about $4. Wire the slices on in a loose ring, overlapping them slightly, then tuck cinnamon sticks between every second slice and add a few pinecones. A sprig of dried bay leaves fills bare spots. Finish with a twine bow at the bottom — the look is rustic, so don't fuss over symmetry."
+        },
+        {
+          "t": "h3",
+          "text": "Where it looks best"
+        },
+        {
+          "t": "p",
+          "text": "On a dark green or black door the amber slices really pop, or above the mantel where the cinnamon scent drifts into the room. Keep it out of rain and it will look the same on New Year's Day as on the first of December."
+        }
+      ],
+      "heading": "Dried Orange & Cinnamon Wreath"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Velvet ribbon is having a moment this year — deep burgundy and forest green loops are all over Pinterest — and this wreath is the easiest one in the guide. No wiring, no glue gun, no mess. If you can tie a loop, you can make it in under an hour."
+        },
+        {
+          "t": "h3",
+          "text": "What you need"
+        },
+        {
+          "items": [
+            "One 12-inch foam wreath ring, about $3",
+            "Three spools of velvet ribbon in burgundy, forest green and cream, 1.5 inches wide",
+            "A box of straight pins or a hot glue gun",
+            "Five or six small frosted pinecones and one brass bell"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "p",
+          "text": "Cut the ribbon into 6-inch lengths. Fold each one into a loop and pin it to the ring, packing the loops tight so no foam shows. Alternate the colours as you go — two burgundy, one green, one cream — and angle the loops slightly outward so the wreath looks full from the front. Glue the pinecones into one cluster at the bottom and hang the little bell from its centre."
+        },
+        {
+          "t": "h3",
+          "text": "The one mistake to avoid"
+        },
+        {
+          "t": "p",
+          "text": "Don't space the loops out to save ribbon — gaps make a ribbon wreath look thin and sad. Pack them tight; you'll use about 40 loops for a 12-inch ring. If you run short, mix in plain grosgrain ribbon in the same colours; nobody will spot the difference."
+        }
+      ],
+      "heading": "Velvet Ribbon & Pinecone Wreath"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "For a door that leans modern — white walls, black hardware, plain planters — a brass hoop wreath is the right call. It is the lightest wreath here, it takes twenty minutes, and it costs about $25, mostly for the hoop. A florist would charge $60 for the same thing."
+        },
+        {
+          "t": "h3",
+          "text": "Three steps, twenty minutes"
+        },
+        {
+          "items": [
+            "Wrap floral wire around the bottom third of a 14-inch brass hoop, leaving the top two-thirds bare metal.",
+            "Wire on small bunches of eucalyptus and olive branches, all pointing the same way, until the bottom third is covered.",
+            "Add three dried orange slices and a sprig of dried lavender, then tie a thin black ribbon bow where the greenery meets the bare hoop."
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "p",
+          "text": "The trick is restraint — the bare gold ring is part of the design, so don't fill it. Eucalyptus dries beautifully and keeps its shape for months, so this wreath still looks good in February if you forget to take it down. Hang it with a thin black ribbon over a nail or small hook; a chunky hanger would fight the clean lines."
+        },
+        {
+          "t": "h3",
+          "text": "Where to find a brass hoop"
+        },
+        {
+          "t": "p",
+          "text": "Craft stores sell them in the macramé aisle for about $12. Embroidery hoops work too — a 14-inch wooden hoop costs about $8 and sprays gold for $5. Spray outside, two light coats, and let it dry an hour before wiring."
+        }
+      ],
+      "heading": "Eucalyptus & Brass Hoop Wreath: A Modern DIY Christmas Wreath Idea"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "If you have kids, a door that gets slammed, or a cat that treats the hallway like a racetrack, make the felt ball wreath. Nothing on it can break. Wool felt balls are soft, warm and a little fuzzy, and a wreath made of them looks like something from a storybook."
+        },
+        {
+          "t": "h3",
+          "text": "What you need"
+        },
+        {
+          "items": [
+            "One 12-inch foam wreath ring, about $3",
+            "About 60 wool felt balls, 1 inch across, in deep red, forest green and cream",
+            "A hot glue gun and two glue sticks",
+            "A length of grosgrain ribbon for hanging"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "p",
+          "text": "Glue the felt balls onto the ring in tight rings, starting with the outer edge and working in. Alternate colours as you go — two red, one green, one cream came out nicely balanced for us. Fill the middle last, where the gaps show most. The whole job takes about 45 minutes once the glue gun is hot."
+        },
+        {
+          "t": "h3",
+          "text": "Making your own felt balls"
+        },
+        {
+          "t": "p",
+          "text": "A bag of 60 ready-made felt balls costs about $12 online. To make your own, roll wool roving into tight balls with warm soapy water — about two minutes per ball, so set aside an evening in front of the TV. Either way they last for years."
+        }
+      ],
+      "heading": "Felt Ball & Pom-Pom Wreath"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Paper stars sound flimsy until you see them on a door. Folded from kraft paper or old sheet music, they catch the light like little lanterns, and a whole wreath costs about $5. This is the one to make with kids on a rainy afternoon — the folding is simple and every star comes out a little different."
+        },
+        {
+          "t": "h3",
+          "text": "Folding the paper stars"
+        },
+        {
+          "items": [
+            "Cut kraft paper into 2-inch wide strips, about 12 inches long.",
+            "Fold each strip into a five-pointed star — about three minutes each once you have done two.",
+            "Make 12 to 15 stars in mixed sizes, creasing each fold hard with a spoon handle.",
+            "Glue the stars onto a 12-inch cardboard ring, overlapping them slightly, then add a few dried flowers or small pinecones in the gaps."
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "p",
+          "text": "Spray the finished wreath with clear sealant if it will hang outside — paper and rain are not friends. Indoors it needs nothing at all. Old sheet music makes the prettiest version: the printed notes show through the folds and the cream paper glows in candlelight."
+        },
+        {
+          "t": "h3",
+          "text": "Dried flower version"
+        },
+        {
+          "t": "p",
+          "text": "Swap half the paper stars for small bunches of dried lavender, strawflower and statice, wired between the stars. The mix is soft and wintery and smells faintly of lavender for weeks. Dried flowers cost about $8 a bunch, and one bunch covers a whole wreath."
+        }
+      ],
+      "heading": "Paper Star & Dried Flower Wreath"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Making the wreath is the fun part. Hanging it right and putting it away properly is what makes it last. A wreath that falls off the door on Christmas Eve is a memory nobody wants, and one crushed in a box in January has to be remade next year."
+        },
+        {
+          "t": "h3",
+          "text": "Hanging it without wrecking the door"
+        },
+        {
+          "items": [
+            "Over-the-door metal hanger, about $6, holds up to 10 pounds — best for heavy fresh wreaths.",
+            "Outdoor Command hook, rated for 5 pounds, sticks to smooth doors and peels off clean.",
+            "Large suction hook for glass doors — check the weight rating first.",
+            "Centre it at eye level, about 60 inches up, and check it from the street."
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "p",
+          "text": "Fresh wreaths need misting every two or three days and shade from direct sun. If your door faces south, hang a dried, felt or paper wreath there instead — fresh greens dry out in a week in that heat. If it rains, bring a paper star wreath inside; the rest can handle a shower."
+        },
+        {
+          "t": "h3",
+          "text": "Storing wreaths for next year"
+        },
+        {
+          "t": "p",
+          "text": "Dried orange, felt, ribbon and paper wreaths pack away in a flat box with tissue paper between layers. Hang them from a hook inside the box instead of stacking them — stacking flattens loops and crushes stars. Label the box, and next December you will thank yourself. Fresh evergreen wreaths go on the compost heap; save the wire ring for the next one."
+        }
+      ],
+      "heading": "Hanging, Weatherproofing & Storing Your Wreaths"
+    }
+  ],
+  "slug": "diy-christmas-wreath-ideas",
+  "subcategory": "Wreaths & Garlands",
+  "title": "DIY Christmas Wreath Ideas 2026: Easy Evergreen, Dried Orange & Velvet Ribbon Wreaths for Your Front Door",
+  "to": "#275E7E"
+}),
   P({
   "bannerTitle": "Dried Orange Christmas Garland",
   "category": "diy-crafts",
