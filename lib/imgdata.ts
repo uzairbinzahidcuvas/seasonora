@@ -74,6 +74,9 @@ import a22Hero from "./imgdata/a22-hero";
 import a22A from "./imgdata/a22-a";
 import a22B from "./imgdata/a22-b";
 import a22C from "./imgdata/a22-c";
+import a23Hero from "./imgdata/a23-hero";
+import a23A from "./imgdata/a23-a";
+import a23B from "./imgdata/a23-b";
 import sHero from "./imgdata/s-hero";
 import sSpring from "./imgdata/s-spring";
 import sSummer from "./imgdata/s-summer";
@@ -162,6 +165,9 @@ export const IMAGES: Record<string, string> = {
   "a22-a": a22A,
   "a22-b": a22B,
   "a22-c": a22C,
+  "a23-hero": a23Hero,
+  "a23-a": a23A,
+  "a23-b": a23B,
   "s-hero": sHero,
   "s-spring": sSpring,
   "s-summer": sSummer,
