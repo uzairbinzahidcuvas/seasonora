@@ -16,6 +16,17 @@ export type VideoEntry = {
 
 export const VIDEOS: VideoEntry[] = [
   {
+    slug: "felt-christmas-tree-ornaments",
+    title: "DIY Felt Christmas Tree Ornaments \u2013 Cute Handmade Decorations",
+    description: "Sew charming felt Christmas tree ornaments with simple materials and beginner-friendly stitches — a lovely handmade holiday project for a cozy tree or gift topper.",
+    category: "diy-crafts",
+    topic: "Christmas sewing crafts",
+    articleSlug: "felt-christmas-tree-ornaments",
+    poster: "/img/a30-a",
+    durationSec: 30,
+    date: "2026-11-25",
+  },
+  {
     slug: "diy-christmas-mantle-garland",
     title: "DIY Christmas Mantle Garland \u2013 Easy Holiday Fireplace Decor",
     description: "Style a cozy Christmas mantel with a handmade evergreen garland, warm fairy lights and velvet ribbon \u2014 an easy DIY fireplace decoration for the holidays.",

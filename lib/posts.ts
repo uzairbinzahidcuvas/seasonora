@@ -93,6 +93,306 @@ const P = (o: Post) => o;
 
 export const POSTS: Post[] = [
   P(  {
+    "bannerTitle": "Felt Christmas Tree Ornaments",
+    "category": "diy-crafts",
+    "date": "2026-11-25",
+    "excerpt": "Felt Christmas tree ornaments are the softest little things you can hang on a tree. Two pieces of felt, a few simple stitches and a ribbon loop — that is all it takes to make a set of handmade trees in sage, forest green and cream.",
+    "faqs": [
+      {
+        "a": "About 30 to 40 minutes for your first one, including cutting and stitching. Once you have the rhythm, each tree takes around 20 minutes, and a set of five fits easily into one relaxed evening. Most of that time is stitching, so put on some music or a Christmas film and enjoy it.",
+        "q": "How long does it take to sew felt Christmas tree ornaments?"
+      },
+      {
+        "a": "Yes — this is one of the best first sewing projects for kids aged seven and up. Let them trace and cut the shapes with safety scissors, then help them with the needle, or let them use a blunt needle with chunky thread. Keep the embroidery stars simple: three or four straight stitches make a sweet little star, and nobody minds if it is a bit crooked.",
+        "q": "Can kids help make felt Christmas tree ornaments?"
+      },
+      {
+        "a": "Wool-blend felt is the nicest to work with: it cuts cleanly, holds its shape and has a soft, slightly fuzzy surface that looks handmade in the best way. Craft felt from a hobby shop works fine too, especially for a first try — just pick sheets that feel firm rather than floppy, so the trees stand up straight when they hang.",
+        "q": "What kind of felt works best for Christmas ornaments?"
+      },
+      {
+        "a": "Lay them flat in a small box with a sheet of tissue paper between layers, and keep the box somewhere dry. Felt holds dust, so a closed box beats an open basket. The ribbon loops can tangle, so tuck each loop flat against its tree before you stack them. Stored this way, your ornaments will come out next December looking just as good as the day you made them.",
+        "q": "How do I store felt Christmas tree ornaments after Christmas?"
+      }
+    ],
+    "from": "#4E8FB8",
+    "hero": {
+      "alt": "Handmade miniature felt Christmas tree ornaments in sage, forest green and cream with embroidered stars, hanging from a small evergreen branch in cozy Scandinavian holiday styling",
+      "src": "/img/a30-hero"
+    },
+    "images": [
+      {
+        "after": 3,
+        "img": {
+          "alt": "Handmade felt Christmas tree ornaments in sage, forest green and cream with embroidered stars, laid out on linen with pinecones, dried orange slices and cinnamon sticks",
+          "caption": "A finished set of felt trees — sage, forest green and cream, each with its own little embroidered stars.",
+          "src": "/img/a30-a"
+        }
+      },
+      {
+        "after": 5,
+        "img": {
+          "alt": "Handmade felt Christmas tree ornaments in sage, forest green and cream arranged on a rustic wooden table beside a steaming cup of tea and an evergreen branch",
+          "caption": "The trees styled for a quiet afternoon — a cup of tea, an evergreen branch, and five little handmade trees.",
+          "src": "/img/a30-b"
+        }
+      }
+    ],
+    "intro": "Felt Christmas tree ornaments are the kind of project that makes you wonder why you ever bought ornaments at all. A few sheets of felt, a needle, some thread and an evening in front of the fire, and you have a set of soft little trees that look straight out of a Scandinavian Christmas market. We have made these with friends, with kids, and on our own with a cup of tea, and they always turn out charming — even the slightly wonky ones, which honestly have the most character. This guide walks you through the whole thing in four simple steps, from tracing the template to hanging the finished trees, plus styling ideas and answers to the questions we get asked most.",
+    "motif": "snow",
+    "readTime": 8,
+    "sections": [
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Felt Christmas tree ornaments work because they are soft in every sense. They are soft to the touch, soft in colour, and soft on the budget — a few sheets of felt cost less than a single shop-bought ornament, and one evening of stitching gives you a whole set. They are also light, so they hang happily on the thinnest branch, and they cannot shatter, which makes them perfect for homes with kids, cats, or a tree that gets bumped more than once a season."
+          },
+          {
+            "t": "h3",
+            "text": "Soft, light and almost impossible to break"
+          },
+          {
+            "t": "p",
+            "text": "The other reason we keep coming back to this project is the stitching itself. A running stitch around the edge of a felt tree is slow, simple handwork, and there is something deeply calming about it. You do not need a sewing machine, a pattern you paid for, or any real experience — if you can thread a needle and tie a knot, you can make these."
+          },
+          {
+            "items": [
+              "Cost: about $8 to $12 for a set of five, and less if you already own felt and thread",
+              "Time: around 20 to 30 minutes per tree, or one relaxed evening for a full set",
+              "Skill level: true beginner — a first sewing project that still looks grown-up",
+              "Supplies: felt, thread, a needle, stuffing and ribbon, all easy to find",
+              "Result: soft, light ornaments that last for years and pack flat in a box"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "p",
+            "text": "Best of all, no two trees come out exactly alike. The stitch length varies, the stars land in different spots, and the mix of sage, forest green and cream means the set looks collected rather than mass-made. That is the whole charm of handmade ornaments, and it is why guests always ask where you got them."
+          }
+        ],
+        "heading": "Why Felt Christmas Tree Ornaments Work So Well"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Everything on this list fits in a small basket, and most of it you may already have at home. We like to lay it all out on the table before we start, so the stitching part flows without hunting for a lost needle halfway through."
+          },
+          {
+            "t": "h3",
+            "text": "The materials list"
+          },
+          {
+            "items": [
+              "Green and cream felt — one sheet of each colour makes about three trees, so grab two or three sheets in sage, forest green and cream",
+              "A paper tree template — draw one freehand or print a simple tree outline about 12 cm tall",
+              "Sharp scissors for the felt, plus small embroidery scissors if you have them",
+              "Embroidery thread in cream, red or gold for the stitching and the stars",
+              "A needle — a sharp embroidery needle, or a blunt needle for kids",
+              "A small amount of stuffing — toy stuffing, cotton wool, or even scraps of felt",
+              "Ribbon for the hanging loops — narrow satin or twine both look lovely",
+              "Pins to hold the template and the two felt layers together while you cut and stitch"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "h3",
+            "text": "A few handy extras"
+          },
+          {
+            "items": [
+              "A pencil or fabric marker for tracing the template onto the felt",
+              "A thimble if your fingers tire while pushing the needle through two layers",
+              "A small bowl to keep pins and thread ends in one place",
+              "A warm drink — this is a slow-craft evening, after all"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "p",
+            "text": "One note on felt: wool-blend felt is the nicest to sew, but ordinary craft felt works fine for a first set. Pick sheets that feel firm in your hand rather than floppy, and check that the colours sit well together before you cut — sage, forest green and cream is our favourite mix, but deep red and cream is just as pretty."
+          }
+        ],
+        "heading": "What You Need"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Good cutting is half the project. A clean, matching pair of tree shapes makes the stitching easy and the finished ornament neat, so take your time here — it pays off in every step that follows."
+          },
+          {
+            "t": "h3",
+            "text": "Make your paper tree template first"
+          },
+          {
+            "t": "p",
+            "text": "Draw a simple tree on paper: a triangle with two or three stepped layers and a short trunk, about 12 cm tall and 9 cm wide. It does not need to be perfect — a slightly chubby tree looks even cuter in felt. Cut it out and hold it up: if it looks like a tree, it is ready."
+          },
+          {
+            "items": [
+              "Pin the paper template onto a sheet of felt and trace around it with a pencil or fabric marker.",
+              "Cut along the traced line with sharp scissors, keeping the cuts smooth and steady.",
+              "Trace and cut a second tree from the same colour felt, using the same template so the pair matches.",
+              "Lay the two shapes together and trim any edges that stick out — matching pairs stitch up far more neatly.",
+              "Repeat for each tree you want in your set, mixing the colours as you go."
+            ],
+            "t": "ol"
+          },
+          {
+            "t": "p",
+            "text": "A quick tip: cut the felt with long, smooth scissor strokes instead of short snips. Short snips leave jagged edges that show once the ornament is stuffed. And save your felt scraps — small pieces make great stuffing later."
+          }
+        ],
+        "heading": "Step 1: Trace and Cut Two Matching Felt Tree Shapes"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "This is the heart of the project, and it is simpler than it looks. A running stitch — in and out, in and out — joins the two felt trees, and the little gap you leave at the bottom is where the stuffing goes in."
+          },
+          {
+            "t": "h3",
+            "text": "Pin, then stitch with small even stitches"
+          },
+          {
+            "items": [
+              "Pin the two felt trees together, wrong sides facing in, with a few pins around the edge.",
+              "Thread your needle with embroidery thread and knot the end.",
+              "Start at the bottom of the trunk and stitch around the edge with a running stitch, keeping each stitch about 3 mm long.",
+              "Keep the stitches even and close to the edge — about 3 mm in — so the seam looks tidy.",
+              "Stop about 4 cm before you reach your starting point, leaving a short opening at the bottom of the tree."
+            ],
+            "t": "ol"
+          },
+          {
+            "t": "h3",
+            "text": "Add a little stuffing — not too much"
+          },
+          {
+            "t": "p",
+            "text": "Push small tufts of stuffing through the opening with the blunt end of a pencil or a chopstick, starting with the tip of the tree and working down. The tree should feel soft and plump, not hard — if you can see the felt stretching, you have put in too much. A little stuffing goes a long way, and a softly filled tree hangs better than a stiff one."
+          },
+          {
+            "t": "p",
+            "text": "If you are making these with kids, this is their favourite part. Hand them the stuffing and let them fill the tree while you hold it open — it is the closest thing to magic in the whole project."
+          }
+        ],
+        "heading": "Step 2: Stitch Around the Edges and Add the Stuffing"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "With the tree stuffed, close the opening with the same running stitch, hiding the knot inside the felt. Then comes the best part: the embroidered stars that turn a plain green tree into a proper little ornament."
+          },
+          {
+            "t": "h3",
+            "text": "Stitch a tiny star in three moves"
+          },
+          {
+            "items": [
+              "Bring the needle up through the felt where you want the star to sit.",
+              "Make a small star with five short straight stitches radiating from one centre point, like a little asterisk.",
+              "Pull each stitch gently so the star sits flat, then take the needle to the next spot and repeat.",
+              "Add three or four stars of different sizes across the tree, mixing cream and gold thread.",
+              "Finish by taking the needle through to the back and tying a small knot hidden inside the felt."
+            ],
+            "t": "ol"
+          },
+          {
+            "t": "p",
+            "text": "Do not worry about making the stars perfect. Slightly uneven stars look hand-stitched in the loveliest way, and from a normal distance nobody can tell one star from another — they just see a tree sparkling with little stitches. If embroidery feels new to you, practise one star on a felt scrap first. One scrap, one star, and your hands will know what to do."
+          }
+        ],
+        "heading": "Step 3: Close the Opening and Add the Embroidered Star"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "The last step takes two minutes and turns your sewn tree into a hanging ornament. A ribbon loop at the top is all it needs — plus a moment to step back and admire the set."
+          },
+          {
+            "t": "h3",
+            "text": "Attach the ribbon loop"
+          },
+          {
+            "items": [
+              "Cut a piece of ribbon about 15 cm long and fold it into a loop.",
+              "Tuck the two cut ends into the top of the tree, just inside the seam.",
+              "Stitch through the loop ends and the felt a few times to anchor them firmly.",
+              "Knot the thread inside the tree and trim the ends.",
+              "Hang your finished tree and check it sits straight — adjust the loop if it leans."
+            ],
+            "t": "ol"
+          },
+          {
+            "t": "p",
+            "text": "Ribbon choice changes the whole look. Narrow red satin feels classic, natural twine feels rustic and Scandinavian, and thin gold ribbon makes the trees look a little bit fancy. We mix twine and red ribbon across a set so the tree looks gathered over time rather than bought in one go."
+          },
+          {
+            "t": "p",
+            "text": "Once the loop is on, hang the tree somewhere you can see it while you make the next one. A growing row of felt trees on a branch or a door handle is the best motivation to keep stitching."
+          }
+        ],
+        "heading": "Step 4: Attach the Ribbon Loop and Hang Your Felt Christmas Tree Ornaments"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "A set of felt Christmas tree ornaments earns its place in more spots than the big tree. Their soft colours and handmade look fit almost anywhere, and because they are light and unbreakable, you can hang them in places glass ornaments would never survive."
+          },
+          {
+            "t": "h3",
+            "text": "Where to hang them"
+          },
+          {
+            "items": [
+              "On the Christmas tree, spread among the baubles for a soft handmade note",
+              "Along a small evergreen branch in a vase, as a table centrepiece",
+              "On gift wrapping instead of a bow — the ornament becomes part of the present",
+              "From door handles, hooks and a fireplace garland, mixed in with dried oranges",
+              "On a wreath, tucked between the branches for a pop of sage and cream"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "h3",
+            "text": "Easy variations to try"
+          },
+          {
+            "items": [
+              "Swap the star for a tiny embroidered heart or a French knot snowflake",
+              "Make a mini set in one colour — all cream trees look beautiful on a white tree",
+              "Add a dab of cinnamon scent by tucking a tiny sachet of ground cinnamon inside before you close the seam",
+              "Sew a felt trunk in brown or red for a two-tone tree",
+              "Scale the template down to 7 cm for sweet little trees that suit a small tabletop tree"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "h3",
+            "text": "Looking after them"
+          },
+          {
+            "t": "p",
+            "text": "Felt is tougher than it looks. A quick brush with a lint roller takes off any dust, and a spot of mild soap and water handles most marks — just let the tree dry flat. When Christmas is over, lay the trees flat in a box with tissue paper between the layers and keep the ribbon loops tucked flat so they do not tangle. Stored this way, a set of felt trees will come out next year looking just as good, and a little more loved."
+          }
+        ],
+        "heading": "Styling, Care and Easy Variations for Your Felt Christmas Tree Ornaments"
+      }
+    ],
+    "slug": "felt-christmas-tree-ornaments",
+    "subcategory": "Handmade Gifts",
+    "title": "Felt Christmas Tree Ornaments: Easy Handmade Sewing Project for a Cozy Tree",
+    "to": "#275E7E",
+    "video": "felt-christmas-tree-ornaments"
+  }),
+  P(  {
     "slug": "christmas-party-games-for-adults",
     "title": "Christmas Party Games for Adults 2026: Easy, Funny & No-Prep Games for Family & Friends",
     "bannerTitle": "Christmas Party Games for Adults",
