@@ -93,6 +93,586 @@ const P = (o: Post) => o;
 
 export const POSTS: Post[] = [
   P({
+    "bannerTitle": "Mini Christmas Gift Baskets",
+    "category": "diy-crafts",
+    "date": "2026-11-25",
+    "excerpt": "Mini Christmas gift baskets are the sweetest way to say thanks this December — a little wicker basket, some tissue paper and a handful of small treats turn into a gift that looks like it came from a fancy shop. Here is the four-step method we use, plus the filling ideas that make each basket feel personal.",
+    "faqs": [
+      {
+        "a": "About $8 to $15 per basket, if you shop smart. Mini wicker baskets cost $2 to $4 at craft stores and dollar shops, and tissue paper, kraft filler and ribbon are cheap in bulk. The treats inside are the wild card — a few wrapped chocolates, a small candle or a packet of cocoa keep the cost down, and buying the filler and ribbon for a whole batch at once brings the per-basket price down fast.",
+        "q": "How much do mini Christmas gift baskets cost to make?"
+      },
+      {
+        "a": "Think small, useful and sweet. Wrapped chocolates, a mini candle, a packet of hot cocoa, a small jar of jam, a lip balm, a pair of cosy socks or a little ornament all fit nicely. For coworkers, keep it to treats and one small useful item — nothing too personal. For close friends, add something that nods to an inside joke or a shared memory.",
+        "q": "What should I put in mini Christmas gift baskets for coworkers?"
+      },
+      {
+        "a": "Yes — they are one of the best last-minute gifts we know. Once you have the baskets and filler on hand, one basket takes about fifteen minutes to fill and finish. Make the filler base and cut the ribbon in advance, then you can put a basket together the same morning you need it. Keep a small stash of wrapped treats in a cupboard through December and you will never be caught out.",
+        "q": "Can I make mini Christmas gift baskets at the last minute?"
+      },
+      {
+        "a": "Keep them somewhere cool and dry, out of direct sun. Chocolate and cookies go soft in a warm room, so a hallway shelf or a cool cupboard beats a spot by the radiator. If you made them more than a day ahead, slip the finished basket into a cellophane bag and tie it shut — it keeps the tissue crisp and the treats fresh until you hand it over.",
+        "q": "How do I store mini Christmas gift baskets before giving them away?"
+      }
+    ],
+    "from": "#4E8FB8",
+    "hero": {
+      "alt": "Three small handmade Christmas gift baskets filled with wrapped mini presents, treats, tissue paper and ribbon in cream and red festive styling",
+      "src": "/img/a26-hero"
+    },
+    "images": [
+      {
+        "after": 3,
+        "img": {
+          "alt": "Two handmade mini Christmas gift baskets filled with wrapped presents, dried orange slices, pinecones and red ribbon in bright natural light",
+          "caption": "Two baskets filled and ready — the mix of heights is what makes each one look full and generous.",
+          "src": "/img/a26-a"
+        }
+      },
+      {
+        "after": 5,
+        "img": {
+          "alt": "Close-up of one finished mini Christmas gift basket with a big red ribbon bow, kraft gift tag, wrapped treats and evergreen sprigs",
+          "caption": "The finished basket, ribbon tied and tag attached — fifteen minutes of work, and it looks shop-bought.",
+          "src": "/img/a26-b"
+        }
+      }
+    ],
+    "intro": "Mini Christmas gift baskets are the sweetest way to say thanks this December. A little wicker basket, some tissue paper and a handful of small treats turn into a gift that looks like it came from a fancy shop — and it costs a fraction of what a store-bought hamper does. We make a batch every year for neighbours, coworkers, teachers and hosts. Below are the exact materials, the four steps, and the filling ideas that make each basket feel personal.",
+    "motif": "snow",
+    "readTime": 8,
+    "sections": [
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "A mini Christmas gift basket works because it feels generous without being big. The basket itself is part of the gift — it holds everything together, and the person you give it to can reuse it long after the treats are gone. The tissue and kraft filler do the quiet work: they lift the gifts up, hide the empty space at the bottom, and make a few small items look like a full, overflowing basket."
+          },
+          {
+            "t": "h3",
+            "text": "Why small baskets beat big hampers"
+          },
+          {
+            "t": "p",
+            "text": "Big hampers cost a lot and often end up half full of filler you did not want. A mini basket flips that around: you pick three or four good things, arrange them so each one shows, and the basket looks full because it is full. It suits almost anyone — a coworker, a neighbour, a teacher, a host — because it is thoughtful without being over the top."
+          },
+          {
+            "items": [
+              "Cost: about $8 to $15 per basket, and less when you buy ribbon and filler in bulk",
+              "Time: around fifteen minutes per basket once your supplies are laid out",
+              "Skill level: if you can fold tissue paper and tie a bow, you can make these",
+              "Supplies: baskets, tissue paper, kraft filler, ribbon, tags and scissors — most of it lasts for years",
+              "Personal: you choose every item inside, so no two baskets need to be the same"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "p",
+            "text": "One more reason we love this project: it scales. One basket is a sweet thank-you for a host, and ten cover the whole office, the neighbours and the kids' teachers in one afternoon. Make them in a batch — the second basket always comes together faster than the first."
+          }
+        ],
+        "heading": "Why Mini Christmas Gift Baskets Work So Well"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Keep the supply list short. You can start with one shop run, and most of what you buy — the ribbon, the tags, the filler — will last for next year too. Buy the baskets first, then match the tissue and ribbon to them."
+          },
+          {
+            "t": "h3",
+            "text": "What you need for mini Christmas gift baskets"
+          },
+          {
+            "items": [
+              "Mini wicker baskets — about 15 to 20 cm across, with a handle",
+              "Tissue paper — cream and red, or any two colours that sit well together",
+              "Kraft crinkle filler — the shredded paper that gives the basket its base and lift",
+              "Small wrapped treats or gifts — chocolates, a mini candle, cocoa, jam, a small ornament",
+              "Ribbon — satin or grosgrain in red, cream or gold",
+              "Gift tags and scissors — plain kraft tags look best, and sharp scissors cut ribbon cleanly"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "p",
+            "text": "Wicker is the classic, but small wooden crates, metal tins and sturdy cardboard gift boxes work just as well. The key is the size — it should hold three or four small items snugly, with no big gaps. If the basket is too deep, add an extra handful of filler at the bottom so the gifts sit high enough to be seen."
+          },
+          {
+            "t": "h3",
+            "text": "Picking treats that fit the person"
+          },
+          {
+            "t": "p",
+            "text": "The treats are where the basket turns personal. For a coworker, pick safe favourites: wrapped chocolates, a nice tea or cocoa, and a small candle. For a close friend, add something only they would love — a jam you made, a packet of their favourite biscuits, or a tiny ornament that matches their tree. For a host, add a small bottle of something festive or a packet of good coffee. Keep each item small: the basket is mini, and a tall item will topple the whole arrangement."
+          }
+        ],
+        "heading": "What You Need"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Every basket starts the same way: a soft bed of tissue paper. It lines the basket so the wicker does not snag anything, and it gives the basket its colour. Take your time here: a tidy lining is the difference between a basket that looks thrown together and one that looks shop-bought."
+          },
+          {
+            "t": "h3",
+            "text": "Lining the basket with tissue paper"
+          },
+          {
+            "items": [
+              "Lay two sheets of tissue paper flat, one on top of the other, and pinch the centre.",
+              "Push the pinched centre down into the basket so the paper billows up around the sides.",
+              "Let the edges flop over the rim — about 5 cm of tissue showing above the basket looks best.",
+              "Tuck the tissue into the corners so it sits evenly, with no bare wicker showing inside.",
+              "If you are using two colours, put the lighter one on top so it catches the light."
+            ],
+            "t": "ol"
+          },
+          {
+            "t": "p",
+            "text": "If the tissue tears, do not worry — a small tear disappears under the filler and the gifts. If the paper looks too puffy, press the centre down gently with your palm. The lining should look soft and full, not flat and not exploding out of the basket."
+          }
+        ],
+        "heading": "Step 1: Line the Basket With Tissue Paper"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Kraft filler is the quiet hero of this project. A handful of crinkled paper lifts the gifts up to the rim, stops them sliding around, and hides the empty space at the bottom. Without it, small gifts sink out of sight and the basket looks half empty."
+          },
+          {
+            "t": "h3",
+            "text": "Adding kraft filler for a stable base"
+          },
+          {
+            "items": [
+              "Take a generous handful of kraft crinkle filler and drop it loosely into the lined basket.",
+              "Press it down lightly with your palm so it forms a firm, springy bed about 5 cm deep.",
+              "Add a little more at the back of the basket than the front, so the gifts tilt gently towards the viewer.",
+              "Check that the filler reaches the rim — the gifts should sit on top of it, not down inside it.",
+              "Keep a spare handful nearby: you will tuck small bits around the gifts in the next step."
+            ],
+            "t": "ol"
+          },
+          {
+            "t": "p",
+            "text": "Do not pack the filler down hard. It should spring back when you press it, like a soft nest. Too flat and the gifts will sink; too loose and they will wobble. One firm press with your palm is usually enough, and you can add a pinch more around the edges once the gifts are in."
+          }
+        ],
+        "heading": "Step 2: Add Kraft Filler for a Stable Base"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Now comes the fun part. Arrange the gifts so each one can be seen, with the tallest at the back and the smallest at the front. Vary the heights, mix the shapes, and leave no big gaps — a basket where every item shows is a basket that looks generous."
+          },
+          {
+            "t": "h3",
+            "text": "Arranging gifts at varied heights"
+          },
+          {
+            "items": [
+              "Place the tallest item at the back of the basket, leaning gently against the rim.",
+              "Add the next tallest item beside it, slightly forward, so the two overlap a little.",
+              "Set the smallest treats at the front, where they are easy to see and easy to reach.",
+              "Tuck small bits of kraft filler into any gaps, so nothing slides when the basket is carried.",
+              "Step back and look: if one side looks empty, move a treat over or add a small extra."
+            ],
+            "t": "ol"
+          },
+          {
+            "t": "p",
+            "text": "Three or four items per basket is the sweet spot: one taller gift, one or two medium ones, and a small sweet treat at the front. More than that and the basket looks crowded; fewer and it looks sparse. If an item keeps falling over, nestle it deeper into the filler or lean it against a sturdier neighbour."
+          }
+        ],
+        "heading": "Step 3: Arrange the Gifts in Your Mini Christmas Gift Basket"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "The ribbon is the finishing touch that makes the basket look like a gift instead of a shopping basket. Tie it around the handle so it frames the basket, then attach the tag. A neat bow takes thirty seconds, and it is the first thing the person you give it to will notice."
+          },
+          {
+            "t": "h3",
+            "text": "Tying the ribbon and attaching the gift tag"
+          },
+          {
+            "items": [
+              "Cut about a metre of ribbon and wrap it once around the basket handle, or around the whole basket just under the rim.",
+              "Tie a simple bow and pull the loops even — trim the tails at an angle so they do not fray.",
+              "Thread a gift tag onto one tail of the ribbon before you tie the final knot, or tie the tag on with a short piece of twine.",
+              "Write the tag by hand — a name and one short line is all it needs.",
+              "Tuck a small sprig of evergreen or a cinnamon stick under the bow for a festive touch."
+            ],
+            "t": "ol"
+          },
+          {
+            "t": "p",
+            "text": "If the bow looks lopsided, untie it and start again rather than tugging at the loops — ribbon remembers a bad crease, and a fresh bow always looks better. Satin ties the neatest bows, while grosgrain holds its shape longer if the basket will sit on a shelf for a few days."
+          }
+        ],
+        "heading": "Step 4: Tie the Ribbon and Add the Gift Tag"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "A finished mini Christmas gift basket suits almost any spot in the house. We line ours up on the hallway table in December, ready to grab on the way out the door, and they look just as good under the tree. They also make sweet centrepieces: three baskets down the middle of a table, with a few evergreen sprigs between them, dress up a whole Christmas dinner."
+          },
+          {
+            "t": "h3",
+            "text": "Styling mini Christmas gift baskets around the house"
+          },
+          {
+            "items": [
+              "On a hallway table: two or three baskets in a row, ready to hand out",
+              "Under the tree: baskets tucked between presents, ribbon facing out",
+              "On a dining table: one basket per place setting, with a name tag instead of a place card",
+              "As a centrepiece: three baskets down the middle of the table with evergreen sprigs between them",
+              "On a mantel: a single basket beside a candle and a few pinecones, for a quiet festive touch"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "h3",
+            "text": "Care, storage and easy variations"
+          },
+          {
+            "t": "p",
+            "text": "Mini Christmas gift baskets keep well somewhere cool and dry. Chocolate and cookies go soft in a warm room, so a hallway shelf or a cool cupboard beats a spot by the radiator. If you made them more than a day ahead, slip each one into a cellophane bag and tie it shut — it keeps the tissue crisp and the treats fresh."
+          },
+          {
+            "t": "p",
+            "text": "For variations, swap the wicker for a small tin or a wooden crate, or match the ribbon to the person's favourite colour. A kid-friendly basket works well too: a small toy, a packet of cocoa and a candy cane, with the kids tying their own bows — wonky, and somehow better for it. Or make a themed batch: cocoa and cookies for the neighbours, candles and jam for the teachers, all chocolate for the office."
+          }
+        ],
+        "heading": "Styling, Care and Easy Variations for Mini Christmas Gift Baskets"
+      }
+    ],
+    "slug": "mini-christmas-gift-baskets",
+    "subcategory": "Handmade Gifts",
+    "title": "Mini Christmas Gift Baskets: Cute DIY Gift Baskets for Friends, Coworkers and Hosts",
+    "to": "#275E7E",
+    "video": "mini-christmas-gift-baskets"
+  }),
+  P({
+  "bannerTitle": "Cozy Christmas Movie Nights",
+  "category": "seasonal-living",
+  "date": "2026-11-24",
+  "excerpt": "Christmas movie night ideas for the whole family — blanket forts, a hot chocolate bar, popcorn three ways and bingo cards that turn film night into an event.",
+  "faqs": [
+    {
+      "a": "Start with the film, then build the night around it. A blanket fort with fairy lights, a small hot chocolate bar, popcorn in two or three flavours and one game — bingo or trivia — is enough. Pick the film by vote before anyone sits down, start by 7 pm so the film ends by 10, and keep the snack table within arm's reach of the sofa.",
+      "q": "What are the best Christmas movie night ideas for families?"
+    },
+    {
+      "a": "Popcorn, hot chocolate and cookies cover almost everyone. Add one snack matched to the film — green punch for the Grinch, spaghetti and maple syrup jokes for Elf night, candy canes for a Polar Express night. Keep portions small and the table simple: two bowls, one tray of toppings, one jug of cocoa.",
+      "q": "What snacks go with a Christmas movie night?"
+    },
+    {
+      "a": "Pick the film first, then set up in this order: move the coffee table aside, lay out blankets and cushions, string fairy lights along the sofa, set the snack table, and dim the lamps. The whole setup takes 20 to 30 minutes. A blanket fort is the one extra that makes kids remember the night.",
+      "q": "How do I plan Christmas movie night ideas at home?"
+    },
+    {
+      "a": "Start with the ones everyone quotes: Home Alone, Elf, The Polar Express and It's a Wonderful Life. For kids, add A Charlie Brown Christmas and Rudolph. For a second night, try Love Actually, The Holiday or National Lampoon's Christmas Vacation. One film a night from 1 December carries you right to Christmas Eve.",
+      "q": "What Christmas movies should I watch first?"
+    }
+  ],
+  "from": "#7FA653",
+  "hero": {
+    "alt": "Couple lying under blankets watching a Christmas film projected on the wall beside a lit tree and fairy lights",
+    "src": "/img/a25-hero"
+  },
+  "images": [
+    {
+      "after": 2,
+      "img": {
+        "alt": "Red Christmas mug filled with hot chocolate, marshmallows and a candy cane beside snowy miniature trees",
+        "caption": "The hot chocolate bar in one mug — marshmallows, a candy cane and a red Christmas mug do all the work.",
+        "src": "/img/a25-a"
+      }
+    },
+    {
+      "after": 4,
+      "img": {
+        "alt": "Couple watching Home Alone projected on the wall next to a decorated Christmas tree",
+        "caption": "A projector turns the wall into a cinema — Home Alone on the big wall, tree lights glowing beside it.",
+        "src": "/img/a25-b"
+      }
+    },
+    {
+      "after": 6,
+      "img": {
+        "alt": "Couple cuddled under knit blankets watching a film by warm fairy lights",
+        "caption": "The wind-down: two people, one blanket, fairy lights still on — the cheapest date night of December.",
+        "src": "/img/a25-c"
+      }
+    }
+  ],
+  "intro": "Christmas movie night ideas are the easiest win of December. The shopping is done, the lights are up, and all that's left is piling onto the sofa with blankets, hot chocolate and a film everyone actually agrees on. We've run movie nights in our living room for years, and the ones people remember aren't the fancy ones — they're the nights with a blanket fort, a mug of cocoa and a game to play along. This guide covers the whole thing: picking the film without a 20-minute argument, building a fort, setting up a hot chocolate bar and a popcorn spread, and winding down so the kids actually go to bed happy.",
+  "motif": "leaf",
+  "readTime": 10,
+  "sections": [
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Every good movie night starts before anyone sits down. The film is picked, the start time is fixed, and the snacks are ready — so the evening feels like an event, not just the TV being on. The best Christmas movie night ideas share one rule: decide the film first, then build everything else around it."
+        },
+        {
+          "t": "h3",
+          "text": "The three-film vote that ends the argument"
+        },
+        {
+          "t": "p",
+          "text": "Nobody agrees on a film at 7 pm on the sofa. We vote during dinner instead: three options on the table, everyone picks one, and the winner runs. Kids get one vote each, grown-ups get one vote each, and the person who cooked gets the tie-breaker. It takes two minutes and it works — the film starts on time and nobody sulks through the first half hour."
+        },
+        {
+          "t": "h3",
+          "text": "Match the film to the night you have"
+        },
+        {
+          "t": "p",
+          "text": "A school night wants a short, gentle film — A Charlie Brown Christmas is 25 minutes and Rudolph is under an hour. A Friday night can carry a full marathon: one classic, one comedy and one animated favourite, in that order. For couples after bedtime, The Holiday or Love Actually beats a kids' film every time."
+        },
+        {
+          "items": [
+            "School night: A Charlie Brown Christmas (25 minutes) or Rudolph (47 minutes)",
+            "Family Friday: Home Alone, then Elf, then The Polar Express",
+            "Date night for two: The Holiday, Love Actually or Last Christmas",
+            "Teen night: Die Hard or Gremlins — yes, both count as Christmas films",
+            "Christmas Eve itself: It's a Wonderful Life, always, no vote needed"
+          ],
+          "t": "ul"
+        }
+      ],
+      "heading": "Christmas Movie Night Ideas That Work for Every Kind of Evening"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "A blanket fort turns the living room into a cinema in about ten minutes. Kids love it, grown-ups secretly love it, and it costs nothing if you already own two chairs and a spare sheet."
+        },
+        {
+          "t": "h3",
+          "text": "What you need for the fort"
+        },
+        {
+          "t": "p",
+          "text": "Two dining chairs set a metre apart, one big sheet or two flat bedsheets, and a string of warm-white fairy lights. Drape the sheet over the chair backs and tuck the edges under the seat cushions so it stays put. Run the lights along the inside of the roof — not outside — so the fort glows softly from within."
+        },
+        {
+          "items": [
+            "Two sturdy dining chairs, backs facing each other, about a metre apart",
+            "One large sheet or two flat bedsheets for the roof and walls",
+            "One string of warm-white fairy lights (battery pack is easiest)",
+            "Four cushions and two folded blankets for the floor",
+            "A small tray for mugs — spills on the sheet are the one thing to avoid"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "Keep the fort close to the screen"
+        },
+        {
+          "t": "p",
+          "text": "Build the fort facing the TV, not sideways — necks get sore fast when kids twist to watch. Leave one side open so the room's warm air gets in, and keep the fort small: a fort that fits two kids and one adult feels snug. After the film, the fort comes down in two minutes and the sheet goes straight back on the bed."
+        }
+      ],
+      "heading": "Build a Blanket Fort Cinema in Ten Minutes"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "A hot chocolate bar is the centrepiece of a Christmas movie night. It's a small table, a slow cooker or a big jug, and a tray of toppings — and it makes the whole evening smell like December. Set it up before the film starts so nobody misses the opening scene queuing in the kitchen."
+        },
+        {
+          "t": "h3",
+          "text": "The hot chocolate bar checklist"
+        },
+        {
+          "items": [
+            "One big jug or slow cooker of cocoa, kept warm on low",
+            "Mugs — one per person, plus two spares for seconds",
+            "Toppings in small bowls: mini marshmallows, whipped cream, candy canes, chocolate chips",
+            "A shaker of cinnamon and a pinch of sea salt for the grown-ups' mugs",
+            "A ladle and a tea towel — cocoa drips, and the tray catches them"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "Cocoa that actually tastes good"
+        },
+        {
+          "t": "p",
+          "text": "Skip the instant sachets for movie night. Warm 1 litre of whole milk in a pan until it steams — about 5 minutes on medium heat, never boiling. Whisk in 4 tablespoons of cocoa powder and 3 tablespoons of sugar, then stir in 50 grams of dark chocolate until it melts. That's four generous mugs, ready in ten minutes."
+        },
+        {
+          "t": "p",
+          "text": "For a Polar Express night, serve it in red mugs with a candy cane in each one. For a Grinch night, add a drop of green food colouring to the whipped cream. Small touches like that cost nothing and the kids talk about them for a week."
+        }
+      ],
+      "heading": "Set Up a Hot Chocolate Bar Before the Film Starts"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Popcorn is the one snack every Christmas movie night needs, and three flavours beat one big bowl. Pop about 100 grams of kernels — roughly 10 cups — then split it into three bowls and season each one differently. It takes five extra minutes and it feels like a proper snack bar."
+        },
+        {
+          "t": "h3",
+          "text": "Popcorn three ways"
+        },
+        {
+          "items": [
+            "Classic buttered: melt 2 tablespoons of butter, drizzle over the warm popcorn, toss with a pinch of fine salt",
+            "Cinnamon sugar: toss with 2 tablespoons of sugar mixed with 1 teaspoon of cinnamon while the popcorn is still warm",
+            "White chocolate peppermint: drizzle 100 grams of melted white chocolate over the popcorn, then crush two candy canes on top and let it set for 5 minutes"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "h3",
+          "text": "Match one snack to the film"
+        },
+        {
+          "t": "p",
+          "text": "Themed snacks are where Christmas movie night ideas get fun. Elf night gets spaghetti and meatballs on the table — we let the kids laugh about the syrup. Grinch night gets green punch: lemon-lime soda with a scoop of lime sherbet. A Polar Express night gets golden tickets tucked under each mug."
+        },
+        {
+          "items": [
+            "Elf: spaghetti and meatballs, plus a bowl of candy for Buddy's four food groups",
+            "The Grinch: green punch and heart-shaped cookies (his heart grows three sizes)",
+            "Home Alone: cheese pizza, obviously — order it in, no shame",
+            "The Polar Express: hot cocoa in red mugs and golden paper tickets",
+            "It's a Wonderful Life: gingerbread cookies and a pot of tea for the grown-ups"
+          ],
+          "t": "ul"
+        }
+      ],
+      "heading": "Popcorn Three Ways and Snacks Matched to the Film"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "A game to play along with the film is what stops the phones coming out. Christmas movie bingo is the easiest one: five squares across, five down, and everyone marks a square when it happens on screen. Print one card per person before the film — it takes two minutes and it keeps even the teenagers watching."
+        },
+        {
+          "t": "h3",
+          "text": "Christmas movie bingo cards that work for any film"
+        },
+        {
+          "items": [
+            "Someone says 'Merry Christmas' — the free square in the middle",
+            "A snowball fight, a snowman or snow falling on screen",
+            "Someone opens a present and it's the wrong size",
+            "A Christmas song starts playing in a shop or a car",
+            "A dog, a cat or a reindeer steals the scene",
+            "Someone burns the dinner or drops the tree",
+            "The whole family ends up in one room at the end"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "Five trivia questions before the credits roll"
+        },
+        {
+          "t": "p",
+          "text": "Run five quick questions before the film starts — who directed it, which year it came out, one famous quote, the name of the main character's dog. The winner picks the next film night's movie. It takes three minutes, and the kids love beating the grown-ups at it. Keep score on a scrap of paper stuck to the fridge — after four film nights, the person with the most wins chooses the Christmas Eve film."
+        }
+      ],
+      "heading": "Christmas Movie Night Ideas for Game Night: Bingo and Trivia to Play Along"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The pajama dress code is the simplest upgrade to a Christmas movie night. Everyone changes into pajamas before the film, matching sets optional, and the whole evening drops a gear. It works for kids, it works for couples, and it makes the photos better too."
+        },
+        {
+          "t": "h3",
+          "text": "A 24-night advent movie countdown"
+        },
+        {
+          "t": "p",
+          "text": "If one night a week isn't enough, run a countdown: one Christmas film a night from 1 December to Christmas Eve, crossing each one off a paper list on the fridge. Keep weeknights short and save the long films for Fridays and Saturdays."
+        },
+        {
+          "items": [
+            "Week 1: A Charlie Brown Christmas, Rudolph, The Santa Clause, Arthur Christmas, Klaus, The Nightmare Before Christmas, Elf",
+            "Week 2: Home Alone, The Polar Express, The Muppet Christmas Carol, Jingle Jangle, The Grinch (2000), Love Actually, The Holiday",
+            "Week 3: Miracle on 34th Street, A Christmas Story, National Lampoon's Christmas Vacation, The Family Stone, Gremlins, The Santa Clause 2, Home Alone 2",
+            "Final nights: Die Hard, then It's a Wonderful Life on Christmas Eve"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "h3",
+          "text": "Matching pajamas, optional but worth it"
+        },
+        {
+          "t": "p",
+          "text": "Matching family pajamas run about $15 to $25 a set at Target or Primark, and one set lasts the whole season. If matching sets feel like too much, one rule is enough: everyone in pajamas, no jeans on the sofa."
+        }
+      ],
+      "heading": "The Pajama Dress Code and a 24-Night Advent Countdown"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The end of the night matters as much as the start. A good wind-down sends the kids to bed happy instead of wired, and it gives the grown-ups twenty quiet minutes with the last of the cocoa. Plan the ending when you plan the film — it's the part most people forget."
+        },
+        {
+          "t": "h3",
+          "text": "The wind-down that gets kids to bed"
+        },
+        {
+          "items": [
+            "Film ends by 9:30 on a school night, 10 on a Friday",
+            "Fairy lights off, one last cookie each",
+            "Kids pick tomorrow's breakfast before they head upstairs",
+            "Fort comes down in two minutes, sheet straight back on the bed"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "p",
+          "text": "When the credits roll, hand out one last cookie each and let the kids pick tomorrow's breakfast — Christmas pancakes with a raspberry nose are the usual winner in our house. The film ends, the fort comes down, and bedtime feels like part of the night, not the end of it."
+        },
+        {
+          "t": "h3",
+          "text": "Movie night for two, after bedtime"
+        },
+        {
+          "t": "p",
+          "text": "Once the kids are asleep, the same setup works for two. Two mugs, one blanket, the fairy lights still on, and a film the kids would never sit through. Keep the snack table small — one bowl of popcorn, two mugs of cocoa, and the rest of the cookies. It's the cheapest date night of December, and honestly one of the best."
+        },
+        {
+          "t": "p",
+          "text": "Christmas movie night ideas don't need a big budget or a big living room. A fort, a jug of cocoa, three bowls of popcorn and a film everyone voted for — that's the whole recipe. Pick your first film tonight, and by Christmas Eve you'll have a tradition the kids ask for every year."
+        }
+      ],
+      "heading": "The Cozy Wind-Down and Movie Night for Two"
+    }
+  ],
+  "slug": "christmas-movie-night-ideas",
+  "subcategory": "Winter Ideas",
+  "title": "Christmas Movie Night Ideas 2026: Cozy Blanket Forts, Hot Chocolate Bars & Family Films for December Nights",
+  "to": "#46682F"
+}),
+  P({
   "bannerTitle": "Christmas Party Outfit Ideas",
   "category": "lifestyle",
   "date": "2026-11-24",

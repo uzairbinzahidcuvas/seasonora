@@ -16,6 +16,17 @@ export type VideoEntry = {
 
 export const VIDEOS: VideoEntry[] = [
   {
+    slug: "mini-christmas-gift-baskets",
+    title: "DIY Mini Christmas Gift Baskets \u2013 Cute Handmade Gift Ideas",
+    description: "Create thoughtful mini Christmas gift baskets with affordable supplies, pretty tissue paper and festive ribbon — a charming gift idea for friends, coworkers and holiday hosts.",
+    category: "diy-crafts",
+    topic: "Christmas gifting",
+    articleSlug: "mini-christmas-gift-baskets",
+    poster: "/img/a26-a",
+    durationSec: 30,
+    date: "2026-11-25",
+  },
+  {
     slug: "paper-snowflake-window-decor",
     title: "Easy DIY Paper Snowflakes for Beautiful Winter Windows",
     description: "Make delicate paper snowflakes with simple folding and cutting techniques — an inexpensive winter craft for Christmas windows, family craft time and seasonal decorating.",
