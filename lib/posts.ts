@@ -93,6 +93,311 @@ const P = (o: Post) => o;
 
 export const POSTS: Post[] = [
   P(  {
+    "bannerTitle": "Christmas Eve Box Ideas",
+    "category": "holidays",
+    "date": "2026-11-25",
+    "excerpt": "Christmas Eve box ideas for kids, teens and adults — cozy pajamas, hot cocoa, a book and a film in one box, opened on the night before Christmas every year.",
+    "faqs": [
+      {
+        "a": "The classic Christmas Eve box has four things: something to wear (new pajamas or fuzzy socks), something warm to drink (hot cocoa with marshmallows), something to read (a Christmas book) and something to watch (a family film or a movie list). Add one small activity, like a colouring book or a game, and a handwritten note on top.",
+        "q": "What do you put in a Christmas Eve box?"
+      },
+      {
+        "a": "Open it on the evening of December 24, around 6 or 7 pm, after dinner. That leaves time to change into the pajamas, make the cocoa and watch the film before bed. Everything inside is meant to be used that same evening, before midnight.",
+        "q": "When do you open a Christmas Eve box?"
+      },
+      {
+        "a": "Most boxes cost $25 to $40 per person. A simple box for about $20 works well: fuzzy socks, a cocoa sachet, a candy cane, a small candle, a thrifted paperback, popcorn and a handwritten note. A personalised wooden box adds about $20 to $55 on top, but it lasts for years.",
+        "q": "How much does a Christmas Eve box cost?"
+      },
+      {
+        "a": "The adult version follows the same rule — four things for one evening. Popular themes are a spa night box (face mask, bath salts, candle, fuzzy socks), a reader's box (a paperback, a bookmark, a mug and a tea sampler) or a cocktail box (two glasses, a small bottle, a mixer and a recipe card). Keep it to five or six items and a budget of about $25 to $40.",
+        "q": "What is a Christmas Eve box for adults?"
+      }
+    ],
+    "from": "#E3A72F",
+    "hero": {
+      "alt": "Woman in a red plaid dress placing wrapped gift boxes under a decorated Christmas tree with white paper ornaments",
+      "src": "/img/a31-hero"
+    },
+    "images": [
+      {
+        "after": 2,
+        "img": {
+          "alt": "Open Christmas Eve box on a bed with a folded grey hoodie, red fuzzy socks, a burgundy book, a lit candle, a mug of hot cocoa with marshmallows and white earbuds, fairy lights behind",
+          "caption": "A teen's Christmas Eve box: hoodie, fuzzy socks, a book, a candle and cocoa — everything for one slow evening.",
+          "src": "/img/a31-a"
+        }
+      },
+      {
+        "after": 4,
+        "img": {
+          "alt": "Flat lay of cheap Christmas Eve box fillers on rustic wood: a cocoa sachet, a candy cane, fuzzy cream socks, a lit candle, a bag of popcorn, a blank note card and an evergreen sprig",
+          "caption": "Cocoa, a candy cane, fuzzy socks and a candle — a full box for about $20.",
+          "src": "/img/a31-b"
+        }
+      },
+      {
+        "after": 6,
+        "img": {
+          "alt": "Family of five in matching red plaid Christmas pajamas sitting together by candlelight and fairy lights",
+          "caption": "Matching pajamas, candles and fairy lights — the box is just the start of the evening.",
+          "src": "/img/a31-c"
+        }
+      }
+    ],
+    "intro": "Christmas Eve box ideas are the easiest new tradition you can start this year. One box, opened on the evening of December 24, turns the longest night of the year into a slow, cozy one — new pajamas, something warm to drink, a book to read and a film to watch together. It started in the UK as a way to settle excited kids before bed, and now families everywhere do their own version. The box costs as little as $15 and takes about 20 minutes to put together. Below are the fillers that work for every age, the budgets that keep it sane, and the one rule that keeps it from turning into a second pile of presents.",
+    "motif": "star",
+    "readTime": 10,
+    "sections": [
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "A Christmas Eve box is a small box of treats opened on the night before Christmas — Thursday, December 24 this year. It is not a second round of presents. Everything inside gets used that same evening, before midnight, and the whole point is to slow the night down instead of winding it up."
+          },
+          {
+            "t": "h3",
+            "text": "The classic four things every Christmas Eve box needs"
+          },
+          {
+            "t": "p",
+            "text": "Every good box follows the same four-part rule, and it has worked for years because it is so simple. One thing to wear, one thing to drink, one thing to read and one thing to watch. If you stick to that, the box fills itself and you never end up stuffing it with random bits."
+          },
+          {
+            "items": [
+              "Something to wear: new pajamas, fuzzy socks or a soft nightshirt — the item every guide agrees on",
+              "Something warm to drink: a hot cocoa sachet, a few marshmallows and a candy cane to stir with",
+              "Something to read: a Christmas picture book, a short story or a festive magazine",
+              "Something to watch: a family film, a printed list of three movies to pick from, or a Christmas movie bingo card"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "h3",
+            "text": "What time to open the box on December 24"
+          },
+          {
+            "t": "p",
+            "text": "Open it in the early evening, around 6 or 7 pm, after dinner and before the last jobs of the night. That gives everyone time to change into the pajamas, make the cocoa and settle in for the film. Opening it too late defeats the purpose — tired kids and a film nobody finishes."
+          }
+        ],
+        "heading": "What a Christmas Eve Box Is, and When to Open It"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Kids are where the tradition started, and the box works best when you match the fillers to the age. A toddler needs soft things and simple fun. A seven-year-old wants a game and a treat. The rule stays the same: one wearable, one watchable, one edible, one to keep."
+          },
+          {
+            "t": "h3",
+            "text": "Christmas Eve box for toddlers, ages 1 to 3"
+          },
+          {
+            "items": [
+              "A Christmas sleepsuit or festive pajamas in the next size up, so they still fit in January — about $15 to $20",
+              "A soft toy or a first comforter, small enough to carry to bed",
+              "A board book about bedtime or Santa, with thick pages that survive small hands",
+              "A keepsake ornament with their name and the year on it — the one thing that comes back out every December"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "h3",
+            "text": "Christmas Eve box for kids ages 4 to 10"
+          },
+          {
+            "t": "p",
+            "text": "This is the age the box shines. They are old enough to read the note, play the game and remember the night — and young enough that new pajamas still feel like a gift. Add one small activity they can do at the table while the cocoa cools."
+          },
+          {
+            "items": [
+              "Pajamas with a character or Christmas print — about $20 a set",
+              "Santa slippers or fluffy socks if slippers are already on the Christmas list",
+              "A picture book to read tonight and a colouring book with new pens or crayons",
+              "A bag of popcorn and a Christmas movie bingo card for the film",
+              "A small ornament for the tree, plus a handwritten note from Santa"
+            ],
+            "t": "ul"
+          }
+        ],
+        "heading": "Christmas Eve Box Ideas for Kids"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Teens are the hardest box to fill, because the classic pajamas-and-book combo can feel babyish. The fix is simple: swap the book for something they will actually use, and let them pick one item themselves. A box they helped choose gets opened with a lot more enthusiasm."
+          },
+          {
+            "t": "h3",
+            "text": "What teens actually want in a Christmas Eve box"
+          },
+          {
+            "items": [
+              "Cozy socks or a soft hoodie instead of a full pajama set",
+              "A face mask, lip balm or a small candle — the spa-night angle works at this age too",
+              "A phone stand or a pair of earbuds for the movie, if the budget stretches",
+              "Their favourite snacks: a chocolate bar, a bag of kettle chips, a bottle of sparkling juice",
+              "A puzzle, a card game or a quiz book they can do with friends the next day"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "h3",
+            "text": "Let them build half the box"
+          },
+          {
+            "t": "p",
+            "text": "Hand a teen $15 and the list of four categories — wear, drink, read or watch, do — and let them pick two of the items. It takes five minutes at the shops, it costs the same, and the box stops feeling like something done to them. In our house this is the difference between an eye roll and a photo on their story."
+          }
+        ],
+        "heading": "Christmas Eve Box Ideas for Teens"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "The adult version started as a copy of the kids' box, and it works just as well. The rule is the same — four things, one evening, everything used before midnight — but the contents get a little more grown-up. Pick one theme and keep the box to five or six items."
+          },
+          {
+            "t": "h3",
+            "text": "The spa night Christmas Eve box"
+          },
+          {
+            "items": [
+              "A face mask, bath salts or a bath bomb, and a good body lotion",
+              "Fuzzy socks and a candle — the two cheapest items that make the evening feel special",
+              "A small bar of nice chocolate and a herbal tea sampler",
+              "A do-not-disturb sign for the bathroom door, if you want a laugh"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "h3",
+            "text": "The reader's box and the cocktail box"
+          },
+          {
+            "t": "p",
+            "text": "For a reader, put in one paperback they have mentioned, a bookmark, a mug and a tea or coffee sampler, with a note saying the evening is theirs. For a couple who like a drink, two nice glasses, a small bottle of something, a mixer, cocktail cherries or dried orange slices and a recipe card. Either box lands around $25 to $40, and both feel far more thoughtful than the price suggests."
+          }
+        ],
+        "heading": "Christmas Eve Box Ideas for Adults and Couples"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "A Christmas Eve box does not need a big budget. Most boxes cost $25 to $40 per person, and you can build a lovely one for $15 if you lean on small fillers. These are the cheap items that look like far more than they cost, and every one of them fits the one-evening rule."
+          },
+          {
+            "t": "h3",
+            "text": "Cheap Christmas Eve box fillers that still feel special"
+          },
+          {
+            "items": [
+              "A hot cocoa sachet with marshmallows in a twist of paper — about $1",
+              "A candy cane to stir the cocoa with — under $1",
+              "A handwritten note or a printed Christmas movie list — free, and the item people keep",
+              "A small bag of popcorn kernels with a pinch of cinnamon sugar — about $2",
+              "A pair of fuzzy socks from the dollar store — $1 to $3",
+              "A tea sampler or a single-serve coffee pouch — about $2",
+              "A mini candle or a wax melt — $3 to $5",
+              "A colouring page and one good pen — under $2"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "h3",
+            "text": "A $20 box, priced out"
+          },
+          {
+            "t": "p",
+            "text": "Here is a full box for about $20: fuzzy socks ($3), a cocoa sachet with marshmallows ($1), a candy cane ($1), a small candle ($4), a paperback from the thrift shelf ($5), popcorn and a printed bingo card ($2), and a handwritten note (free). That is seven items, every one used on the night, and nothing in it feels cheap."
+          }
+        ],
+        "heading": "Christmas Eve Box Fillers Under $5"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "The box matters more than people think, because it is the one part that comes back out every year. A personalised wooden box with a child's name on the lid is a gift in itself, and it turns the box into part of the tradition. But a plain shoebox, wrapped in brown paper with a ribbon, works just as well on the night."
+          },
+          {
+            "t": "h3",
+            "text": "Personalised wooden Christmas Eve boxes"
+          },
+          {
+            "t": "p",
+            "text": "Engraved or printed wooden boxes with a name on the lid start at about $20, and a pine crate runs closer to $55. If you buy one, get the name right and the year on it — that is what makes it a keepsake instead of a crate. Line it with tissue paper so the fillers sit neatly and nothing rattles."
+          },
+          {
+            "t": "h3",
+            "text": "The free shoebox version that still looks lovely"
+          },
+          {
+            "items": [
+              "Take a sturdy shoebox and line the inside with tissue paper in red, green or gold",
+              "Put the biggest item — the pajamas or the blanket — at the bottom as padding",
+              "Layer the smaller items on top by size, heaviest first, lightest last",
+              "Tuck the handwritten note on top so it is the first thing they see",
+              "Wrap the lid in brown paper, tie it with twine, and add a sprig of evergreen"
+            ],
+            "t": "ol"
+          }
+        ],
+        "heading": "The Box Itself: Wooden, Personalised or a Plain Shoebox"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "The box is a 20-minute job if you plan it, and a last-minute panic if you do not. Buy the fillers in the first week of December, while the shops still have the good pajamas and the cocoa sets. Assemble the boxes on December 23, when the house is quiet, and put them under the tree or by the fireplace ready for the next evening."
+          },
+          {
+            "t": "h3",
+            "text": "Your Christmas Eve box timeline"
+          },
+          {
+            "items": [
+              "Early December: buy the pajamas, the book and the film or game — the three items that sell out first",
+              "Mid-December: pick up the small fillers — cocoa, socks, candle, snacks — in one shop run",
+              "December 23: assemble each box, layer it, add the note, and wrap the lid",
+              "December 24, around 6 pm: open the boxes, change into the pajamas, make the cocoa",
+              "December 24, evening: read the book, watch the film, and let the night wind down on its own"
+            ],
+            "t": "ol"
+          },
+          {
+            "t": "h3",
+            "text": "What to leave out of a Christmas Eve box"
+          },
+          {
+            "items": [
+              "Anything that needs batteries, charging or setup — it eats the evening",
+              "A second round of real presents — that is what Christmas morning is for",
+              "Messy crafts like glitter or paint, unless you enjoy cleaning at 11 pm",
+              "Food that needs cooking — the cocoa is the only kitchen job",
+              "Anything noisy or bright that winds kids up instead of winding them down"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "p",
+            "text": "Keep it to one box, one evening, five or six items. That is the whole tradition, and it is enough. The families who love it most are the ones who keep it small year after year — the same box, the same cocoa, the same film, and a new note on top."
+          }
+        ],
+        "heading": "A Simple Christmas Eve Box Timeline and What to Leave Out"
+      }
+    ],
+    "slug": "christmas-eve-box-ideas",
+    "subcategory": "Christmas",
+    "title": "Christmas Eve Box Ideas 2026: Cozy Pajamas, Hot Cocoa & Family Traditions for Kids and Adults",
+    "to": "#B95E14"
+  }),
+  P(  {
     "bannerTitle": "Felt Christmas Tree Ornaments",
     "category": "diy-crafts",
     "date": "2026-11-25",
