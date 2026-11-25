@@ -16,6 +16,17 @@ export type VideoEntry = {
 
 export const VIDEOS: VideoEntry[] = [
   {
+    slug: "diy-christmas-mantle-garland",
+    title: "DIY Christmas Mantle Garland \u2013 Easy Holiday Fireplace Decor",
+    description: "Style a cozy Christmas mantel with a handmade evergreen garland, warm fairy lights and velvet ribbon \u2014 an easy DIY fireplace decoration for the holidays.",
+    category: "diy-crafts",
+    topic: "Christmas mantle decor",
+    articleSlug: "diy-christmas-mantle-garland",
+    poster: "/img/a28-a",
+    durationSec: 30,
+    date: "2026-11-25",
+  },
+  {
     slug: "mini-christmas-gift-baskets",
     title: "DIY Mini Christmas Gift Baskets \u2013 Cute Handmade Gift Ideas",
     description: "Create thoughtful mini Christmas gift baskets with affordable supplies, pretty tissue paper and festive ribbon — a charming gift idea for friends, coworkers and holiday hosts.",

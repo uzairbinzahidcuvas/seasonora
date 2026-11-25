@@ -92,6 +92,578 @@ export type Post = {
 const P = (o: Post) => o;
 
 export const POSTS: Post[] = [
+  P(  {
+    "bannerTitle": "Easy Christmas Mantle Garland",
+    "category": "diy-crafts",
+    "date": "2026-11-25",
+    "excerpt": "A Christmas mantle garland turns a plain fireplace into the warm heart of the room. Fresh evergreen, fairy lights and velvet ribbon, in four simple steps.",
+    "faqs": [
+      {
+        "a": "About $25 to $40, if you buy everything new. Fresh branches are the cheapest part — many garden centres sell bundles for a few dollars, and a neighbour with a fir tree may give you trimmings for free. Battery fairy lights cost around $5 to $8, velvet ribbon about $4 a roll, and pinecones and dried orange slices are cheap or free if you make them at home. Reuse the lights, ribbon and hooks next year and the cost drops to almost nothing.",
+        "q": "How much does a Christmas mantle garland cost to make?"
+      },
+      {
+        "a": "Yes — one made from fresh branches lasts about two to three weeks indoors, which covers most of December. Keep it away from the heat of a lit fire and mist it lightly every few days to slow drying. If your mantel sits right above a working fireplace, hang the garland a little higher, and take it down on nights when the fire burns long and hot.",
+        "q": "How long does a fresh Christmas mantle garland last indoors?"
+      },
+      {
+        "a": "Start with the garland, then add one layer at a time. Two stockings, a pair of candles and a small stack of books or a framed photo are plenty — the garland is the star, so the rest should frame it, not fight it. Keep candles at the ends of the mantel, well clear of dry branches, and never leave a lit candle unattended. If the mantel is narrow, skip the books and let the garland drape down at the sides.",
+        "q": "What should I put on the mantel with my Christmas mantle garland?"
+      },
+      {
+        "a": "Yes. If fresh branches are hard to find, a good faux evergreen garland works the same way — the steps do not change, and you can reuse it every year. Look for one with mixed branch tips and a full shape, then fluff it out before you start. Add the same lights, ribbon, pinecones and dried oranges, and no one will know it is not fresh unless you tell them.",
+        "q": "Can I make a Christmas mantle garland with a faux garland instead of fresh branches?"
+      }
+    ],
+    "from": "#4E8FB8",
+    "hero": {
+      "alt": "Finished Christmas mantle garland with fresh evergreen branches, warm fairy lights, burgundy and forest green velvet ribbon, pinecones and dried orange slices, stockings hanging below and candles lit beside a fire",
+      "src": "/img/a28-hero"
+    },
+    "images": [
+      {
+        "after": 3,
+        "img": {
+          "alt": "Handmade Christmas mantle garland with fresh evergreen branches, warm fairy lights, burgundy velvet ribbon, pinecones and dried orange slices on a bright stone fireplace",
+          "caption": "The garland taking shape — lights woven in, ribbon draped, and the oranges and pinecones tucked in evenly.",
+          "src": "/img/a28-a"
+        }
+      },
+      {
+        "after": 5,
+        "img": {
+          "alt": "Close-up of a finished Christmas mantle garland with a large burgundy velvet bow, dried orange slices, pinecones, a lit candle and a knitted stocking",
+          "caption": "The finished end of the garland — a big velvet bow, a lit candle and a stocking waiting for Christmas morning.",
+          "src": "/img/a28-b"
+        }
+      }
+    ],
+    "intro": "A Christmas mantle garland is the fastest way we know to make a living room feel like Christmas. One long swag of fresh evergreen, a string of warm fairy lights and a few loops of velvet ribbon turn a bare mantel into the cosy heart of the house — and you can build it in about an hour, with no special tools and no experience. We make one every December, and it is the decoration guests notice first. Below are the exact materials, the four steps, and the styling tricks that make the finished garland look full, even and properly festive.",
+    "motif": "snow",
+    "readTime": 8,
+    "sections": [
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "A Christmas mantle garland works because it does three jobs at once. The evergreen gives you colour and texture, the fairy lights give you warmth and glow, and the ribbon, pinecones and dried oranges give you the little details that make people lean in for a closer look. Nothing on the list is expensive, and nothing needs a special skill — if you can overlap branches and tie a bow, you can make this."
+          },
+          {
+            "t": "h3",
+            "text": "Why a garland beats a row of decorations"
+          },
+          {
+            "t": "p",
+            "text": "A row of small decorations can look scattered, with gaps that catch the eye. A garland joins the whole mantel into one flowing piece, so the eye travels across it, and it softens the hard edge where the wall meets the shelf."
+          },
+          {
+            "items": [
+              "Cost: about $25 to $40 for everything, and far less once you reuse the lights and ribbon",
+              "Time: around an hour from first branch to final fluff, plus drying time for orange slices if you make your own",
+              "Skill level: if you can tie a bow and twist wire, you can make a garland",
+              "Supplies: branches, lights, ribbon, pinecones, dried oranges, wire and hooks — most of it keeps for next year",
+              "Impact: the mantel becomes the focal point of the room, day and night"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "p",
+            "text": "One more reason we love this project: it smells like Christmas. Fresh fir, pine and cedar give off a soft, resinous scent, and the dried orange slices add a faint citrus note."
+          }
+        ],
+        "heading": "Why a Christmas Mantle Garland Works So Well"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Keep the list short and buy the branches last, so they stay fresh. A garden centre, a Christmas tree lot or a neighbour with a fir tree are all good sources — ask for trimmings, which are often free or very cheap. Choose branches that bend without snapping."
+          },
+          {
+            "t": "h3",
+            "text": "What you need for a Christmas mantle garland"
+          },
+          {
+            "items": [
+              "Fresh evergreen branches — a mix of fir, pine and cedar, about 6 to 8 long branches",
+              "Battery fairy lights — one warm-white string, 3 to 5 metres, with a small battery pack",
+              "Velvet ribbon — burgundy and forest green, about 2 metres of each",
+              "Pinecones — 6 to 8 small to medium ones, clean and dry",
+              "Dried orange slices — 6 to 8, shop-bought or dried at home in a low oven",
+              "Garland ties or command hooks — 3 or 4, to hold the garland on the mantel",
+              "Scissors and floral wire — for trimming branches and tying them together"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "p",
+            "text": "If you cannot find all three types, do not worry — two still look good. The mix is what matters: fir gives soft, full needles, pine gives long, loose tips, and cedar gives flat, feathery sprays. Together they look layered and natural."
+          },
+          {
+            "t": "h3",
+            "text": "A quick note on the lights"
+          },
+          {
+            "t": "p",
+            "text": "Battery fairy lights are the right choice here — no plug to hide, no wire trailing down the wall. Pick warm white, not cool white: warm light makes the green look rich and the room feel cosy. A string with a timer is worth the extra dollar — set it for six hours and the lights switch themselves off at bedtime."
+          }
+        ],
+        "heading": "What You Need"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Start by measuring the mantel, then add about 30 cm extra so the garland can drape down a little at each end. Lay the branches on a table and sort them into fir, pine and cedar piles. The base is the most important part of the whole project — a full, even base makes everything after it easy."
+          },
+          {
+            "t": "h3",
+            "text": "Laying the evergreen base"
+          },
+          {
+            "items": [
+              "Measure the mantel and cut a length of floral wire a little longer than the finished garland.",
+              "Lay the first branch flat, tip pointing left, and lay the next branch over it so its tip covers the first branch's cut end.",
+              "Keep layering — fir at the back for fullness, pine in the middle for length, cedar at the front for soft, feathery tips.",
+              "Overlap each branch by about a third, so no bare stems show through the middle.",
+              "Every 20 cm or so, wrap floral wire around the bundle to hold the layers together.",
+              "Lift the finished base and check it from the front: it should look full all the way along, with no thin patches."
+            ],
+            "t": "ol"
+          },
+          {
+            "t": "p",
+            "text": "If a patch looks thin, tuck an extra cedar spray in and wire it in place — cedar is the best filler because its flat sprays cover a lot of space. Do not pull the wire too tight: snug is enough, and over-tight wire snaps thin stems."
+          }
+        ],
+        "heading": "Step 1: Measure the Mantel and Build the Evergreen Base"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Lights go in before the decorations, because the wire is much easier to hide while the garland is still bare. Work from one end to the other in a slow, loose zigzag, pushing the wire deep into the branches so only the tiny bulbs show. The glow should come from inside the garland, not sit on top of it."
+          },
+          {
+            "t": "h3",
+            "text": "Weaving the fairy lights through the garland"
+          },
+          {
+            "items": [
+              "Start at one end and leave the battery pack hanging free — you will hide it last.",
+              "Weave the wire in and out of the branches, dipping it deep every 15 cm so the bulbs sit inside the greenery.",
+              "Keep the spacing loose and even: a bulb every 10 to 15 cm gives a soft glow without hot spots.",
+              "When you reach the far end, loop back along the front edge so the front of the garland glows too.",
+              "Tuck the battery pack behind the thickest part of the garland, near the back of the mantel.",
+              "Switch the lights on and check for dark patches — add a small loop of wire wherever the glow fades."
+            ],
+            "t": "ol"
+          },
+          {
+            "t": "p",
+            "text": "If the battery pack is too heavy to sit in the branches, tape it to the back of the mantel, or rest it behind the garland where it cannot be seen. Keep the switch where you can reach it without moving the garland — behind the end drape is usually best."
+          }
+        ],
+        "heading": "Step 2: Weave in the Fairy Lights"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Now the fun part. Ribbon loops, pinecones and dried orange slices are the jewellery of the garland, and spacing is everything: too close together and the garland looks crowded, too far apart and it looks bare. Aim for a rhythm — a ribbon loop, then a pinecone, then an orange slice — repeated down the whole length."
+          },
+          {
+            "t": "h3",
+            "text": "Adding velvet ribbon, pinecones and dried orange slices"
+          },
+          {
+            "items": [
+              "Cut the velvet ribbon into 40 cm lengths and tie each one into a simple loop with two tails.",
+              "Alternate burgundy and forest green loops along the garland, spacing them about 30 cm apart.",
+              "Wire each loop to the garland at its centre, then fan the tails out so they fall naturally.",
+              "Tuck a pinecone into the garland between every two ribbon loops, wiring it in place so it sits snug.",
+              "Slide a dried orange slice into the branches beside each pinecone, catching its edge in the wire so it does not slip.",
+              "Step back and look from the front: the spacing should feel even, with no two of the same thing side by side."
+            ],
+            "t": "ol"
+          },
+          {
+            "t": "p",
+            "text": "If a ribbon loop looks flat, pinch its centre and pull the tails apart — velvet holds a shape well once you give it one. Dried orange slices look best facing out, so turn each one until its pattern shows. Save one or two spare slices: if one cracks or falls, you will want a replacement on hand."
+          }
+        ],
+        "heading": "Step 3: Add Ribbon, Pinecones and Dried Orange Slices"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Carry the finished garland to the mantel in both hands, supporting the middle so it does not sag and shed needles. Hook the wire at each end, let the ends drape down a little, and then fluff — pull the outer tips forward, lift the flat spots, and shake the whole thing gently so it settles into a natural shape."
+          },
+          {
+            "t": "h3",
+            "text": "Hanging, fluffing and styling your Christmas mantle garland"
+          },
+          {
+            "items": [
+              "Hang the garland on the command hooks or garland ties, one at each end and one in the middle.",
+              "Let the ends drape down 10 to 15 cm past the mantel edge for a soft, finished look.",
+              "Fluff the branches: pull cedar tips forward, lift any flat fir, and fill thin spots with a spare spray.",
+              "Hang two stockings from the mantel, one near each end, so they frame the garland.",
+              "Place a candle at each end of the mantel, well clear of dry branches, and light them in the evening.",
+              "Switch the fairy lights on, light the fire if you have one, and step back for the reveal."
+            ],
+            "t": "ol"
+          },
+          {
+            "t": "p",
+            "text": "The reveal is the best moment of the whole project. With the lights twinkling, the stockings hanging and the fire lit, the mantel looks like it came from a Christmas card — and you made it in an afternoon. Take a photo now, while the branches are at their freshest."
+          }
+        ],
+        "heading": "Step 4: Hang, Fluff and Style Your Christmas Mantle Garland"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "A finished Christmas mantle garland suits the whole room, not just the fireplace. We keep ours up from the first week of December until just after New Year — it becomes the backdrop for morning coffee, evening fires and the pile of presents underneath it."
+          },
+          {
+            "t": "h3",
+            "text": "Styling your Christmas mantle garland around the room"
+          },
+          {
+            "items": [
+              "On the mantel itself: two stockings, two candles and nothing else — the garland is the star",
+              "Under the mantel: a small stack of wrapped presents, or a basket of pinecones and extra oranges",
+              "Beside the fireplace: a lantern or a tall candle in a glass holder, for a second pool of light",
+              "On the wall above: leave it bare, or hang a simple wreath that matches the garland's ribbon",
+              "At night: fairy lights on, candles lit, fire going — the mantel becomes the warmest corner of the house"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "h3",
+            "text": "Care, storage and easy variations"
+          },
+          {
+            "t": "p",
+            "text": "Fresh garlands last about two to three weeks indoors. Mist the branches lightly every few days, keep the garland away from direct heat, and sweep up fallen needles each morning. When the season ends, compost the branches, keep the pinecones, and coil the lights and ribbon away for next year."
+          },
+          {
+            "t": "p",
+            "text": "For variations, swap the burgundy ribbon for gold, or add a few cinnamon sticks for scent. A kid-friendly version works well too: let the kids tie the ribbon loops and place the pinecones — wonky, and somehow better for it. Or make a matching mini garland for a shelf or doorway, using the same steps on a shorter length."
+          }
+        ],
+        "heading": "Styling, Care and Easy Variations for Your Christmas Mantle Garland"
+      }
+    ],
+    "slug": "diy-christmas-mantle-garland",
+    "subcategory": "Wreaths & Garlands",
+    "title": "Christmas Mantle Garland DIY: Easy Evergreen, Fairy Lights & Ribbon Styling",
+    "to": "#275E7E",
+    "video": "diy-christmas-mantle-garland"
+  }),
+  P(  {
+    "slug": "christmas-mantle-decor-ideas-2026",
+    "title": "Christmas Mantle Decor Ideas 2026: Cozy Garland, Stockings & Fireplace Styling",
+    "bannerTitle": "Cozy Christmas Mantle Ideas",
+    "category": "seasonal-living",
+    "subcategory": "Winter Ideas",
+    "excerpt": "Christmas mantle decor ideas that work in real homes: a full garland, stockings that stay put, warm lights and simple layers for a cozy fireplace look.",
+    "date": "2026-11-25",
+    "readTime": 10,
+    "motif": "leaf",
+    "from": "#7FA653",
+    "to": "#46682F",
+    "intro": "Christmas mantle decor ideas are the fastest way to make a living room feel like December. The mantel is the one spot every eye lands on, so a little work there does more than a whole room of small touches. You don't need a big budget or a designer's eye — a full garland, stockings that actually stay put, warm lights and a few taller pieces are enough. This guide walks through each layer in order, with real sizes, prices and the small mistakes to skip, so you can finish the whole thing in one relaxed afternoon.",
+    "sections": [
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Walk into any living room in December and your eyes go straight to the fireplace. It's the tallest thing in the room, it sits dead centre, and it's where the stockings hang — so it carries the whole Christmas feeling almost by itself. That's good news: put most of your decorating energy into one shelf and the rest of the room just falls in line."
+          },
+          {
+            "t": "h3",
+            "text": "Pick one look before you buy anything"
+          },
+          {
+            "t": "p",
+            "text": "The mantles that look best aren't the ones with the most stuff. They're the ones with one clear idea. Pick your look first, then buy only what fits it. Three looks work in almost any home:"
+          },
+          {
+            "items": [
+              "Classic red and green — evergreen garland, red stockings, plaid ribbon and brass candlesticks. Warm, familiar, and easy to shop for.",
+              "Snowy white and gold — frosted garland, cream stockings, gold fairy lights and a few bottle-brush trees. Soft and calm, great in bright rooms.",
+              "Rustic woodland — plain cedar garland, pinecones, dried orange slices and kraft-paper tags. Cozy without feeling fancy."
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "p",
+            "text": "Once you've picked a look, take a phone photo of your bare mantel and keep it with you while you shop. It stops you buying a 24-inch sign for an 18-inch shelf."
+          }
+        ],
+        "heading": "Christmas Mantle Decor Ideas That Make the Whole Room Feel Festive"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Garland is the base layer, and it does about half the work. A good garland hides the bare shelf, gives the stockings something to hang from, and holds the lights. Get this layer right and everything on top looks better. Get it wrong — too short, too thin, too flat — and the whole mantel feels unfinished."
+          },
+          {
+            "t": "h3",
+            "text": "How much garland do you need for a mantle?"
+          },
+          {
+            "t": "p",
+            "text": "Measure the mantel first, then buy garland at least 1.5 times that length. A 6-foot mantel needs a 9-foot garland so it can drape and swag instead of stretching flat. If it still looks thin, layer a second one on top — a plain 6-foot faux garland costs about $12 to $18 and doubles the fullness. Fluff each branch tip outward before you hang it — that one step makes a $15 garland look like a $40 one."
+          },
+          {
+            "items": [
+              "6-foot mantel: one 9-foot garland, or a 6-foot plus a 6-foot layered on top.",
+              "8-foot mantel: a 12-foot garland, or two 9-foot garlands overlapped in the middle.",
+              "Fresh cedar or pine: smells wonderful, lasts about 2 weeks indoors, around $25 to $40 for 6 feet.",
+              "Faux Norfolk pine or spruce: the fullest look, reusable for years, $20 to $60 for 9 feet."
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "h3",
+            "text": "Fresh, faux or a mix?"
+          },
+          {
+            "t": "p",
+            "text": "Faux garland is the safe pick for most homes — no needles on the floor, no watering, and you can hang it the day after Thanksgiving and leave it up till New Year. Fresh garland wins on scent, so a lot of people do both: faux as the full base, then one fresh cedar sprig tucked along the top for the smell. Mist fresh garland lightly every two or three days and keep it away from the firebox heat."
+          }
+        ],
+        "heading": "Start With the Garland: Christmas Mantle Garland Styles That Work"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Stockings are the part everyone remembers, and they're also the part that goes wrong most often. They slide off, they bunch together, they pull the garland down. The fix is boring but it works: proper holders, real spacing, and the heavy stockings where the mantel is strongest."
+          },
+          {
+            "t": "h3",
+            "text": "Stocking holders that hold real weight"
+          },
+          {
+            "items": [
+              "Weighted cast-iron or resin holders: hold 2 to 3 pounds each, about $8 to $15 apiece, and they look like decor themselves.",
+              "Command-style hooks rated for 3 pounds: fine for light stockings, but test one overnight before you trust it with gifts inside.",
+              "Skip tape, putty and suction cups on a mantel — heat from the fire and the weight of a filled stocking pull them off by Christmas morning.",
+              "One holder per stocking, always. Sharing a holder is how two stockings end up on the floor."
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "h3",
+            "text": "Hang them so they look good, not just so they stay up"
+          },
+          {
+            "items": [
+              "Space the holders 8 to 10 inches apart so each stocking hangs free.",
+              "Hang the tallest stocking in the centre and step the heights down toward the ends.",
+              "Let the stockings hang in front of the garland, not buried behind it.",
+              "Stuff the toes lightly with tissue paper so flat stockings hold their shape all season.",
+              "If you have more stockings than mantel, hang two or three on the front edge and line the rest along the hearth below."
+            ],
+            "t": "ol"
+          },
+          {
+            "t": "p",
+            "text": "One small thing that makes a big difference: match the stockings to each other in style, even if the colours differ. Four knit stockings in different colours look planned. Four random stockings in four random styles look like a lost-and-found box."
+          }
+        ],
+        "heading": "Christmas Stockings on the Mantle: Hanging Them So They Stay Put"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Once the garland and stockings are up, the mantel still needs glow. Lights and candles are what turn a nice display into the thing everyone gathers around after dinner. The trick is warm light only, and heights that step up and down instead of sitting in one flat line."
+          },
+          {
+            "t": "h3",
+            "text": "Warm white beats cool white every time"
+          },
+          {
+            "items": [
+              "Fairy lights in warm white (2700K): one 20-foot strand with 100 lights is enough for a 6-foot mantel — weave it through the garland, not on top of it.",
+              "Battery fairy lights with a timer: set them for 6 hours on, 18 off, and you never have to remember them. A strand costs $5 to $8.",
+              "LED flameless candles: the safe choice if you have kids or pets. A set of three pillar candles runs $12 to $20 and the flicker looks real from across the room.",
+              "Real taper candles in brass holders: lovely for Christmas Eve dinner, but never leave them burning in another room."
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "h3",
+            "text": "The rule of three heights"
+          },
+          {
+            "t": "p",
+            "text": "Put something tall at each end of the mantel — candlesticks, a small tree, a tall vase — then let the middle sit lower. Your eye reads that shape as calm and finished. If everything on the shelf is the same height, the mantel looks like a shop counter. Leave a little breathing room between groups: empty space is part of the look, not a gap you forgot to fill."
+          }
+        ],
+        "heading": "Layer Lights, Candles and Height on Your Mantel"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Not every fireplace is a grand one, and the styling has to fit the shelf you've actually got. A narrow apartment mantel and a wide stone fireplace need opposite approaches — one needs restraint, the other needs filling."
+          },
+          {
+            "t": "h3",
+            "text": "Fireplace styling for small mantles"
+          },
+          {
+            "items": [
+              "One slim garland, two or three stockings, and a pair of tall candlesticks at one end. That's the whole setup — don't add more.",
+              "Go up, not out: a mirror or framed print above the centre pulls the eye up and makes the fireplace feel bigger.",
+              "Use fairy lights inside the garland for glow — they take up zero shelf space.",
+              "Skip wide signs and big wreaths on a small mantel; they crowd the shelf and hide the stockings."
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "h3",
+            "text": "Fireplace styling for big mantles"
+          },
+          {
+            "t": "p",
+            "text": "A wide mantel swallows small decor, so think in groups. Anchor the centre with one strong piece — a large mirror, a framed winter print, or a wide wreath — then build a cluster at each end: candlesticks plus a small tree on one side, a lantern plus stacked books on the other. If the mantel is over 8 feet wide, a second garland layered underneath the first is what makes it look full instead of stretched thin."
+          }
+        ],
+        "heading": "Fireplace Styling Ideas for Small Mantles and Big Ones"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "A beautiful mantel doesn't have to cost much. Most of the pieces that make the biggest difference are the cheapest ones — garland, lights and ribbon — and the rest can come from around the house."
+          },
+          {
+            "t": "h3",
+            "text": "The $50 Christmas mantle shopping list"
+          },
+          {
+            "items": [
+              "9-foot faux evergreen garland: $15 to $20 at a craft store or dollar shop.",
+              "20-foot warm-white fairy lights, battery with timer: $6.",
+              "Two wired ribbon rolls (2.5 inches wide, 9 feet each): $8 total — weave one through the garland, use the other for bows.",
+              "Three LED flameless pillar candles: $12.",
+              "Bag of pinecones or dried orange slices: $4, or free from the garden and the fruit bowl.",
+              "Total: about $45 to $50, and the garland, lights and candles all come back out next year."
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "h3",
+            "text": "Free swaps from around the house"
+          },
+          {
+            "items": [
+              "Books you already own: stack two or three under a candle to add height for free.",
+              "A mirror or framed print from another room: hang it above the centre for a week and put it back in January.",
+              "Glass jars with a tea light inside: instant lanterns, and they look lovely through the garland.",
+              "Last year's ribbon and ornaments: a few small baubles tucked into the garland fill gaps better than anything you can buy."
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "p",
+            "text": "One money tip: buy the garland and lights the week before Christmas, when craft stores cut seasonal decor by 40 to 50 percent. The mantel goes up a little late, but the same $50 buys nearly twice as much."
+          }
+        ],
+        "heading": "Christmas Mantle Decor Ideas on a Budget"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Guests are coming in an hour and the mantel still looks bare? Don't start over. A fast refresh fixes the most common problems — flat garland, dark corners, and a shelf that looks half-finished — in about thirty minutes."
+          },
+          {
+            "t": "h3",
+            "text": "A quick refresh when guests are coming"
+          },
+          {
+            "items": [
+              "Fluff the garland: pull each branch tip outward for five minutes. It looks twice as full.",
+              "Add light: tuck a fairy-light strand into the garland and switch on the candles. Glow covers a lot.",
+              "Fix the spacing: slide the stockings 8 inches apart and straighten the holders.",
+              "Add one tall thing at each end — candlesticks, a vase with branches, even a tall jar.",
+              "Step back to the sofa and look. If one side feels heavier, move one small piece to the other side and stop."
+            ],
+            "t": "ol"
+          },
+          {
+            "t": "h3",
+            "text": "Pack it away so next year is easy"
+          },
+          {
+            "items": [
+              "Take a photo of the finished mantel before you take it down — it's your map for next December.",
+              "Wrap the garland loosely in a bin bag, not tight in a box, so the branches keep their shape.",
+              "Put the stocking holders, ribbon and lights in one labelled box together.",
+              "Store candles upright, away from heat, so they don't bend or melt into each other."
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "p",
+            "text": "That's the whole job. A mantel doesn't need to be perfect — it needs to feel warm when the lights are low and the stockings are full. Get the garland, the stockings and the glow right, and the room does the rest."
+          }
+        ],
+        "heading": "The 30-Minute Mantle Refresh and Easy After-Christmas Storage"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "The looks getting the most saves this year are full evergreen garland with warm fairy lights, classic red and green with plaid ribbon, and soft white-and-gold with bottle-brush trees. What ties them together is layering: garland first, then stockings, then lights and a few taller pieces at the ends. Pick one colour story and stick to it, and the whole thing reads calm instead of cluttered.",
+        "q": "What are the best Christmas mantle decor ideas for 2026?"
+      },
+      {
+        "a": "Use proper stocking holders, not tape or sticky hooks. A good cast-iron or weighted holder handles 2 to 3 pounds, which covers a filled stocking. Space the holders 8 to 10 inches apart so the stockings don't bunch, and hang the heaviest stocking nearest the centre where the mantel is strongest.",
+        "q": "How do I hang stockings on a Christmas mantle without damaging it?"
+      },
+      {
+        "a": "Measure the mantel, then buy garland at least 1.5 times that length so it can drape and swag instead of lying flat. A 6-foot mantel needs a 9-foot garland, and a second 6-foot garland layered on top makes it look twice as full for about $15 more.",
+        "q": "How much garland do I need for a Christmas mantle?"
+      },
+      {
+        "a": "Keep it simple and go vertical. One slim garland, two or three stockings, a pair of tall candlesticks at one end and a small framed print or mirror above the centre is plenty. Skip the wide swags and big signs — they eat up the little shelf space you have. A string of warm fairy lights tucked into the garland adds glow without taking up a single inch of shelf.",
+        "q": "What Christmas mantle decor ideas work for a small fireplace?"
+      }
+    ],
+    "hero": {
+      "alt": "A decorated Christmas mantel with full evergreen garland, warm fairy lights, red stockings and brass candlesticks glowing in a cozy living room",
+      "src": "/img/a27-hero"
+    },
+    "images": [
+      {
+        "after": 2,
+        "img": {
+          "alt": "Close-up of red and cream knit Christmas stockings hanging from brass holders on a mantel dressed with evergreen garland and warm fairy lights",
+          "caption": "Weighted holders and a little spacing are the whole trick — the stockings hang straight and stay put all season.",
+          "src": "/img/a27-a"
+        }
+      },
+      {
+        "after": 4,
+        "img": {
+          "alt": "A styled Christmas fireplace mantel with tall brass candlesticks, a framed winter print, evergreen garland and soft candlelight",
+          "caption": "Tall pieces at the ends, one calm focal point in the middle — that's the shape that works on nearly every mantel.",
+          "src": "/img/a27-b"
+        }
+      }
+    ]
+  }),
   P({
     "bannerTitle": "Mini Christmas Gift Baskets",
     "category": "diy-crafts",
