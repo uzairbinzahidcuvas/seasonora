@@ -46,6 +46,10 @@ const jsonLd = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
+      <head>
+        {/* Monetag Vignette (zone 12346895) — literal tag right after <head>, exactly as provided by Monetag */}
+        <script dangerouslySetInnerHTML={{ __html: `(function(s){s.dataset.zone='12346895',s.src='https://n6wxm.com/vignette.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))` }} />
+      </head>
       <body className={`${serif.variable} ${sans.variable}`}>
         {/* Monetag OnClick (zone 12300743) — literal tag at top of body, exactly as provided by Monetag */}
         <script dangerouslySetInnerHTML={{ __html: `(function(s){s.dataset.zone='12300743',s.src='https://al5sm.com/tag.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))` }} />
