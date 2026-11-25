@@ -93,6 +93,348 @@ const P = (o: Post) => o;
 
 export const POSTS: Post[] = [
   P(  {
+    "slug": "christmas-party-games-for-adults",
+    "title": "Christmas Party Games for Adults 2026: Easy, Funny & No-Prep Games for Family & Friends",
+    "bannerTitle": "Christmas Party Games for Adults",
+    "category": "holidays",
+    "subcategory": "Christmas",
+    "excerpt": "Christmas party games for adults that get the whole room laughing — no-prep classics, trivia, White Elephant and the Saran Wrap ball, all in one easy plan.",
+    "date": "2026-11-25",
+    "readTime": 10,
+    "motif": "star",
+    "from": "#E3A72F",
+    "to": "#B95E14",
+    "intro": "Christmas party games are the difference between a party people remember and one they quietly leave early. We have hosted enough December nights to know the pattern: the food gets eaten, the drinks get poured, and then everyone stands around waiting for someone else to start the fun. These games fix that. Every game below needs little or no setup, works for groups of 6 to 30, and costs almost nothing — most use things already sitting in your kitchen. Pick three or four, run them in the order below, and the night pretty much takes care of itself.",
+    "sections": [
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "The best games are the ones you can start the second the room goes quiet. No printing, no props, no ten-minute explanation while everyone checks their phone. You just say the rules in two sentences and go."
+          },
+          {
+            "t": "h3",
+            "text": "Start with charades — it works every time"
+          },
+          {
+            "t": "p",
+            "text": "Christmas charades is the safest opener we know. Write 12 to 15 prompts on slips of paper before guests arrive — films, songs and characters only, nothing obscure. Fold them into a bowl, split the room into two teams, and give each player 60 seconds. One point per correct guess, and the team with the most points after two rounds wins a small prize."
+          },
+          {
+            "items": [
+              "Films: Home Alone, Elf, The Grinch, Love Actually, Die Hard",
+              "Songs: Jingle Bell Rock, All I Want for Christmas Is You, Last Christmas"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "h3",
+            "text": "Two truths and a lie, Christmas edition"
+          },
+          {
+            "t": "p",
+            "text": "This one needs nothing at all and it gets people talking fast. Each guest tells the group two true Christmas memories and one made-up one, and the rest of the room votes on which is the lie. The best liar wins a candy cane."
+          },
+          {
+            "items": [
+              "I once got stuck in a chimney costume at a school play",
+              "I have eaten an entire tin of Quality Street in one sitting",
+              "I met my partner at a Christmas work party"
+            ],
+            "t": "ul"
+          }
+        ],
+        "heading": "Christmas Party Games That Need Zero Setup"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Trivia is the game most hosts get wrong by making it too hard. The questions below are the kind anyone can answer — a mix of films, songs and food — and the scoring stays simple so the game moves fast."
+          },
+          {
+            "t": "h3",
+            "text": "Build three short rounds of five questions"
+          },
+          {
+            "t": "p",
+            "text": "Five questions per round, one point each, and a 30-second limit per question. Read each question twice, then move on — long pauses kill the energy. Hand each team a pen and a scrap of paper, and have them swap papers to mark at the end of each round. All three rounds take about 20 minutes, which is just right."
+          },
+          {
+            "items": [
+              "In Home Alone, what city is Kevin's family flying to when they leave him behind? (Paris)",
+              "Which reindeer is famous for a shiny red nose? (Rudolph)",
+              "What drink is made with eggs, milk, sugar and nutmeg? (Eggnog)",
+              "In Elf, what is Buddy's favourite food group? (Candy, candy canes, candy corn and syrup)",
+              "What date is Christmas Eve? (24 December)"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "h3",
+            "text": "Keep score simple and visible"
+          },
+          {
+            "t": "p",
+            "text": "Write the scores on a piece of paper taped to the wall. Seeing the score keeps teams in it — a team that is two points down will fight for the last round. The winning team gets first pick of the dessert table."
+          }
+        ],
+        "heading": "Christmas Trivia Questions Everyone Can Answer"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "White Elephant is the game people talk about for weeks, and the rules are what make it or break it. Set them before anyone opens a gift, say them out loud, and stick to them."
+          },
+          {
+            "t": "h3",
+            "text": "The gift budget that works"
+          },
+          {
+            "t": "p",
+            "text": "Set the budget at $15 to $25 and say it clearly on the invitation, so nobody brings a $5 gag gift to a $25 table — or the other way round. Funny gifts do better than useful ones in this game, and wrapped gifts always beat gift bags, because the mystery is half the fun."
+          },
+          {
+            "items": [
+              "A funny mug with a ridiculous slogan, about $12",
+              "A bottle of wine or a small box of chocolates, $15 to $20",
+              "Fuzzy socks with a silly print, about $10",
+              "A $15 gift card tucked inside a joke gift, like a single oven mitt"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "h3",
+            "text": "The stealing rule, settled"
+          },
+          {
+            "t": "p",
+            "text": "This is the rule that causes arguments, so fix it in advance. A gift can be stolen twice, and after that it is frozen. A player who has a gift stolen gets to pick a new wrapped gift or steal from someone else. Draw numbers from a hat, and let player number one swap at the very end."
+          },
+          {
+            "items": [
+              "Everyone brings one wrapped gift in the $15 to $25 range",
+              "Draw numbers — player one picks a gift and opens it",
+              "Each next player either opens a new gift or steals an opened one",
+              "A gift can be stolen twice, then it is frozen",
+              "Player one gets a final swap at the end"
+            ],
+            "t": "ol"
+          }
+        ],
+        "heading": "White Elephant Rules That Keep It Fun"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "If you only run one big game all night, make it this one. It looks silly, sounds loud, and gets every single person in the room involved — including the guests who said they do not like party games. It takes about 15 minutes to build the ball and about 10 minutes to play."
+          },
+          {
+            "t": "h3",
+            "text": "What to wrap inside the ball"
+          },
+          {
+            "t": "p",
+            "text": "Start with a good prize at the centre — a $10 or $15 gift card is perfect — then wrap it in plastic wrap, add a small prize, wrap again, and keep going until the ball is about the size of a grapefruit. Aim for 20 to 30 layers, with a small prize every three or four layers."
+          },
+          {
+            "items": [
+              "Centre prize: a $10 to $15 gift card, wrapped first",
+              "Every 3 to 4 layers: a small prize — candy, a scratch card, lip balm",
+              "Outer layers: wrapped candy and a few silly items, like a single sock"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "h3",
+            "text": "How a round actually runs"
+          },
+          {
+            "t": "p",
+            "text": "Sit everyone in a circle. The first player holds the ball and starts unwrapping while the player to their left rolls two dice. The moment the dice show doubles, the ball passes to the next person. Oven mitts make it harder and funnier — the unwrapper wears them while the dice are rolling. When the ball is gone, everyone keeps what they unwrapped."
+          },
+          {
+            "items": [
+              "Sit in a circle, ball with player one, dice with player two",
+              "Player one unwraps as fast as possible, mitts on if you are using them",
+              "Player two rolls the dice until they show doubles",
+              "On doubles, the ball and dice both move one seat along",
+              "Keep going until the last layer is unwrapped"
+            ],
+            "t": "ol"
+          }
+        ],
+        "heading": "The Saran Wrap Ball Game, Step by Step"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Minute-to-win-it games are perfect for the middle of the night, when people have eaten and need to move around. Each one takes 60 seconds, uses things from your kitchen, and works as a quick race between two players while the room cheers them on."
+          },
+          {
+            "t": "h3",
+            "text": "Six one-minute games that use kitchen stuff"
+          },
+          {
+            "t": "p",
+            "text": "You do not need to buy anything for these. A bag of cotton balls, a box of candy canes, a spoon and a few ornaments cover the whole set. Set a phone timer where everyone can see it, and have a small prize ready for each round winner."
+          },
+          {
+            "items": [
+              "Ornament spoon relay — carry an ornament on a spoon across the room and back, most trips wins",
+              "Candy cane hook — use a candy cane held in your mouth to hook and lift three more off the table",
+              "Cotton ball scoop — move cotton balls from one bowl to another with a spoon, blindfolded",
+              "Jingle bell toss — toss five jingle bells into a mug from three feet away",
+              "Cookie face — place a cookie on your forehead and get it into your mouth without hands"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "h3",
+            "text": "Run them as a relay, not one by one"
+          },
+          {
+            "t": "p",
+            "text": "Do not run each game as its own event with a long setup in between. Line up the supplies on the kitchen counter in order, and run the games back to back with no gap. Two players at a time, 60 seconds each, and the crowd picks the winner by cheering. The whole set takes about 15 minutes."
+          }
+        ],
+        "heading": "Minute-to-Win-It Christmas Games"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Printable games are the quiet heroes of a party. They fill the gaps — the first 20 minutes while people arrive, the lull after dinner, the last half hour when the energy dips. Print them the day before and let guests play at their own pace."
+          },
+          {
+            "t": "h3",
+            "text": "Christmas bingo cards in ten minutes"
+          },
+          {
+            "t": "p",
+            "text": "Christmas bingo is the easiest printable of all, and it works for mixed ages, which matters when kids and grandparents are in the same room. You can buy a pack of 24 cards for about $8, or print free ones at home on card stock. Call the squares from a hat, and give the first bingo a small prize — a box of chocolates works well."
+          },
+          {
+            "items": [
+              "Buy a pack of 24 cards for about $8, or print free ones on card stock",
+              "Use small candies as markers — guests eat them after the game",
+              "Call squares slowly, one every 20 seconds, so nobody falls behind"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "h3",
+            "text": "The emoji quiz that breaks the ice"
+          },
+          {
+            "t": "p",
+            "text": "Write 10 Christmas films or songs as emoji strings on a sheet — a snowman plus a house for Frozen, a bell plus a ring for Jingle Bell Rock — and hand one sheet to each guest as they arrive. It takes five minutes to solve, it gets people talking to each other, and it costs nothing. The first finished sheet wins a candy cane, and the funniest wrong answer gets one too."
+          }
+        ],
+        "heading": "Christmas Bingo and Other Printable Games"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Games only work if they land at the right moment. Run a loud game during dinner and nobody hears the rules; run a quiet game at 11 pm and everyone is too tired to care. The timeline below fits a party that starts at 7 and ends around 11."
+          },
+          {
+            "t": "h3",
+            "text": "The order that keeps energy up"
+          },
+          {
+            "t": "p",
+            "text": "Start quiet, build to loud, and finish calm. The first game should be one people can join without leaving their drink. The big games belong after dinner, when everyone is full and ready to move. End with something gentle, so people leave smiling instead of exhausted."
+          },
+          {
+            "items": [
+              "7:00 — guests arrive, emoji quiz sheets on the table, drinks out",
+              "7:30 — two truths and a lie while everyone settles in",
+              "8:00 — dinner, no games, just conversation",
+              "8:45 — trivia, three rounds, about 20 minutes",
+              "9:15 — the Saran Wrap ball game, the loudest moment of the night",
+              "9:45 — White Elephant gift exchange, about 30 minutes",
+              "10:15 — minute-to-win-it relay, quick and loud",
+              "10:45 — Christmas bingo, calm finish, last prizes handed out"
+            ],
+            "t": "ol"
+          },
+          {
+            "t": "h3",
+            "text": "Prizes under $10 that people actually want"
+          },
+          {
+            "t": "p",
+            "text": "You do not need expensive prizes — you need prizes people will use. A $5 coffee shop gift card beats a $15 ornament nobody wants. Buy five or six small prizes and one slightly better one for the final game, and wrap them all so the prize table looks generous."
+          },
+          {
+            "items": [
+              "$5 coffee shop gift cards — the most popular prize we have ever used",
+              "A box of nice chocolates, about $8",
+              "A Christmas-scented candle, $8 to $10",
+              "Fuzzy socks in a fun print, about $7"
+            ],
+            "t": "ul"
+          }
+        ],
+        "heading": "A Simple Timeline for Your Christmas Party Games Night"
+      }
+    ],
+    "faqs": [
+      {
+        "a": "The ones that need no setup and no explaining: Christmas charades, two truths and a lie, a short trivia round, and White Elephant. Add the Saran Wrap ball game for one big moment in the middle of the night. That mix covers shy guests, loud guests and mixed ages.",
+        "q": "What are the best Christmas party games for adults?"
+      },
+      {
+        "a": "Three or four is the sweet spot for one night. Plan one game for the first hour while people arrive, one big game after dinner, and one quiet game for the end of the night. More than five and guests get tired; fewer than three and the gaps between games feel long.",
+        "q": "How many Christmas party games should I plan for one night?"
+      },
+      {
+        "a": "You wrap small prizes in layers of plastic wrap to make one big ball, then pass it around while one player rolls dice. Whoever holds the ball unwraps as fast as they can until the next player rolls doubles, then the ball moves on. The prizes inside are small — candy, a $5 gift card, a lip balm — and the fun is in the scramble, not the prizes.",
+        "q": "What is the Saran Wrap ball game and how do you play it?"
+      },
+      {
+        "a": "About $5 to $10 per prize is plenty. A bottle of wine, a box of nice chocolates, a candle, fuzzy socks or a $10 gift card all work. Buy five or six small prizes instead of one big one — more winners means more laughs.",
+        "q": "How much should I spend on prizes for Christmas party games?"
+      }
+    ],
+    "hero": {
+      "src": "/img/a29-hero",
+      "alt": "Adults in Christmas sweaters laughing while playing a party game in a warm living room, one woman holding up a quiz card, a wrapped gift and candles on the coffee table, lit Christmas tree behind them"
+    },
+    "images": [
+      {
+        "after": 2,
+        "img": {
+          "src": "/img/a29-a",
+          "alt": "Woman in a festive sweater holding a wrapped gift beside wrapped presents under a Christmas tree",
+          "caption": "Wrapped gifts ready for White Elephant — funny beats useful, and wrapped always beats a gift bag."
+        }
+      },
+      {
+        "after": 4,
+        "img": {
+          "src": "/img/a29-b",
+          "alt": "Two adults laughing while playing the ornament spoon relay, one balancing a red ornament on a spoon, candy canes on the table",
+          "caption": "The ornament spoon relay in full swing — 60 seconds, one spoon, and a room full of cheering."
+        }
+      },
+      {
+        "after": 6,
+        "img": {
+          "src": "/img/a29-c",
+          "alt": "Friends raising glasses at a candlelit Christmas dinner table with fairy lights and a lit tree",
+          "caption": "Dinner first, games after — the table is where the night warms up before the games begin."
+        }
+      }
+    ]
+  }
+  ),
+  P(  {
     "bannerTitle": "Easy Christmas Mantle Garland",
     "category": "diy-crafts",
     "date": "2026-11-25",
