@@ -92,6 +92,423 @@ export type Post = {
 const P = (o: Post) => o;
 
 export const POSTS: Post[] = [
+  P({
+    "bannerTitle": "Christmas Hot Chocolate Bar",
+    "category": "food-recipes",
+    "date": "2026-11-26",
+    "excerpt": "Christmas hot chocolate bar ideas that turn one pot of cocoa into the best part of the party — rich slow cooker cocoa, 25 toppings and a simple setup.",
+    "faqs": [
+        {
+            "a": "Plan on 1 to 1.5 cups of cocoa per guest, and make a little extra — people always go back for a second mug once the toppings are out. For 8 guests, that's about 10 cups, or roughly 2.5 quarts. For 12 guests, make the full slow cooker batch in section 3, which gives about 12 cups. Count kids as half a cup each, but set out extra marshmallows — they use more toppings than cocoa.",
+            "q": "How much hot chocolate do I need for a Christmas hot chocolate bar?"
+        },
+        {
+            "a": "Yes, and you should. The cocoa mix jar in section 7 keeps for a month on a shelf, the topping bowls can be filled the night before and covered, and the cocoa itself can be made the morning of the party and held on warm in the slow cooker for up to 3 hours. Set the tray, mugs and labels out the night before, so party day is just heating the cocoa and opening jars.",
+            "q": "Can I make a Christmas hot chocolate bar ahead of time?"
+        },
+        {
+            "a": "Start with the five that never fail: mini marshmallows, whipped cream, crushed candy canes, chocolate shavings and a dusting of cinnamon. Then add a few fun ones from section 4 — caramel sauce, toffee bits, mini chocolate chips and sprinkles cover most tastes. Five or six toppings are plenty for a quiet night; for a party, ten to twelve across the groups in section 4 give everyone something to reach for.",
+            "q": "What toppings go on a hot chocolate bar?"
+        },
+        {
+            "a": "A slow cooker on the warm setting is the whole trick. Make the cocoa on low, give it a good whisk, then switch to warm and leave the lid on — it holds for about 3 hours without a skin forming, as long as you stir it every 30 minutes or so. A stovetop pot works too, but it needs someone nearby to stir and watch the heat. Never let cocoa boil.",
+            "q": "How do I keep hot chocolate warm for a whole Christmas party?"
+        }
+    ],
+    "from": "#DE7A3D",
+    "hero": {
+        "alt": "Christmas hot chocolate bar on a dark wooden sideboard — slow cooker of steaming cocoa, jars of marshmallows and candy canes, red and cream mugs, fairy lights and pine",
+        "src": "/img/a36-hero"
+    },
+    "images": [
+        {
+            "after": 2,
+            "img": {
+                "alt": "Hand whisking rich hot chocolate in a saucepan on the stove, steam rising, bowl of cocoa powder and dark chocolate bar beside it",
+                "caption": "Whisking the cocoa until smooth — the base for every mug on the bar.",
+                "src": "/img/a36-a"
+            }
+        },
+        {
+            "after": 4,
+            "img": {
+                "alt": "White enamel mug of hot chocolate topped with mini marshmallows, dried orange slice and cinnamon stick, pinecone and knit blanket beside it",
+                "caption": "One finished mug — marshmallows, a dried orange slice and a cinnamon stick.",
+                "src": "/img/a36-b"
+            }
+        },
+        {
+            "after": 6,
+            "img": {
+                "alt": "Glass mason jars layered with cocoa mix, topped with mini marshmallows and chocolate chips, tied with red ribbon and blank kraft gift tags",
+                "caption": "Cocoa mix jars, ready to take home — layer the mix, add marshmallows, tie a ribbon.",
+                "src": "/img/a36-c"
+            }
+        }
+    ],
+    "intro": "A Christmas hot chocolate bar is the easiest party trick we know. You make one pot of proper cocoa, set out a few bowls of toppings, and suddenly dessert takes care of itself — guests serve themselves, kids treat it like a lab, and nobody stands in the kitchen asking what they can do. We set ours up last December on the kitchen sideboard, and it was still the thing people talked about on the way home. This guide covers the whole setup: the cocoa recipes that actually work, 25 toppings worth buying, how much to make per guest, and the little details — mugs, jars, labels — that make it look like you planned it for weeks.",
+    "motif": "cookie",
+    "readTime": 10,
+    "sections": [
+        {
+            "blocks": [
+                {
+                    "t": "p",
+                    "text": "A hot chocolate bar does three jobs at once: dessert, activity, and the thing that keeps people gathered in one spot. That's a lot of work for one pot of cocoa, and it costs far less than a dessert table."
+                },
+                {
+                    "t": "p",
+                    "text": "It also fixes the two hardest parts of hosting. Nobody needs the oven — the cocoa lives in a slow cooker, so your roast keeps its space. And there's nothing to serve: guests ladle their own cocoa and pick their own toppings, so you're free to enjoy the party."
+                },
+                {
+                    "t": "h3",
+                    "text": "Why guests love a hot chocolate bar"
+                },
+                {
+                    "items": [
+                        "Everyone gets exactly the mug they want — extra marshmallows, no cream, double chocolate, a candy cane stirrer.",
+                        "Kids stay busy for ages, which means the adults get to finish a sentence.",
+                        "It costs about $25 to $40 for a party of 12, toppings and all, if you shop your own cupboards first.",
+                        "It works for a big party or a quiet movie night — the setup is the same, just smaller."
+                    ],
+                    "t": "ul"
+                },
+                {
+                    "t": "h3",
+                    "text": "What a good bar needs (and what it doesn't)"
+                },
+                {
+                    "t": "p",
+                    "text": "A good bar needs one great pot of cocoa, five or six toppings, mugs people can hold, and a tray that catches the drips. That's it — no themed signs, no matching mugs. The cocoa is the star."
+                }
+            ],
+            "heading": "Why Christmas Hot Chocolate Bar Ideas Work for Every Party"
+        },
+        {
+            "blocks": [
+                {
+                    "t": "p",
+                    "text": "Pick the spot before you buy anything: a counter, sideboard or side table with a power outlet nearby. The slow cooker needs one, and you don't want a cable stretched across the room."
+                },
+                {
+                    "t": "p",
+                    "text": "A kitchen counter works for small groups. For a party, move the bar to the dining room sideboard or a folding table, so the kitchen stays free. Leave room for two people at once: one ladling, one choosing toppings. If guests queue in a doorway, the spot is wrong."
+                },
+                {
+                    "t": "h3",
+                    "text": "Hot chocolate bar setup checklist"
+                },
+                {
+                    "items": [
+                        "Lay a tray or tea towel under everything — cocoa drips.",
+                        "Put the pot at the back, ladle in it. Hot things back, toppings front.",
+                        "Set the mugs at one end, handles facing the same way.",
+                        "Put a small spoon in every bowl. No spoon, no topping.",
+                        "Put napkins and a small bowl at the end for used wrappers.",
+                        "Add one bit of decor — fairy lights, a pine sprig, a small tree."
+                    ],
+                    "t": "ol"
+                },
+                {
+                    "t": "h3",
+                    "text": "Where not to put the bar"
+                },
+                {
+                    "t": "p",
+                    "text": "Don't put it by the front door, where cold air hits the cocoa and guests block the entrance. Don't put it on the food counter, or the topping bowls fill with crumbs. And keep it off table edges where small kids can pull a bowl down."
+                }
+            ],
+            "heading": "Pick Your Spot: Where to Set Up a Christmas Hot Chocolate Bar"
+        },
+        {
+            "blocks": [
+                {
+                    "t": "p",
+                    "text": "The cocoa matters more than anything else on the bar. A thin, watery cocoa makes the whole thing feel cheap, no matter how pretty the toppings look. Pick the recipe that fits your night."
+                },
+                {
+                    "t": "h3",
+                    "text": "Classic stovetop hot chocolate recipe"
+                },
+                {
+                    "t": "p",
+                    "text": "For 4 mugs, about 10 minutes. This is the one we make on a quiet night in — quick, rich, and easy to double."
+                },
+                {
+                    "items": [
+                        "4 cups whole milk",
+                        "1/4 cup unsweetened cocoa powder",
+                        "1/4 cup granulated sugar",
+                        "A pinch of fine salt",
+                        "2 oz dark chocolate (60 to 70% cacao), finely chopped",
+                        "1 teaspoon vanilla extract"
+                    ],
+                    "t": "ul"
+                },
+                {
+                    "items": [
+                        "Whisk the cocoa, sugar and salt with 1/2 cup of the milk in a saucepan until smooth.",
+                        "Whisk in the rest of the milk. Warm over medium-low heat until steaming, about 5 to 8 minutes — don't let it boil.",
+                        "Take the pan off the heat and stir in the chocolate and vanilla until melted and glossy.",
+                        "Pour into warm mugs, leaving room for toppings."
+                    ],
+                    "t": "ol"
+                },
+                {
+                    "t": "h3",
+                    "text": "Slow cooker hot chocolate for a crowd"
+                },
+                {
+                    "t": "p",
+                    "text": "For 12 mugs. This is the party recipe — make it, switch to warm, and forget it for up to 3 hours."
+                },
+                {
+                    "items": [
+                        "10 cups whole milk",
+                        "1 cup heavy cream",
+                        "1/2 cup unsweetened cocoa powder",
+                        "1/2 cup granulated sugar",
+                        "8 oz dark chocolate (60 to 70% cacao), finely chopped",
+                        "1 teaspoon vanilla extract",
+                        "1/4 teaspoon fine salt"
+                    ],
+                    "t": "ul"
+                },
+                {
+                    "items": [
+                        "Whisk the cocoa, sugar and salt with 1 cup of the milk in the slow cooker until smooth.",
+                        "Whisk in the remaining milk, the cream and the salt.",
+                        "Cover and cook on low for 2 hours, whisking every 30 minutes, until hot and smooth. On high it takes about 1 hour — whisk every 15 minutes, don't let it boil.",
+                        "Stir in the chocolate and vanilla, switch to warm, and stir every 30 minutes."
+                    ],
+                    "t": "ol"
+                },
+                {
+                    "t": "h3",
+                    "text": "Dairy-free hot chocolate that still tastes rich"
+                },
+                {
+                    "t": "p",
+                    "text": "For 4 mugs. Oat milk is the best swap — it stays creamy and doesn't split when heated."
+                },
+                {
+                    "items": [
+                        "4 cups oat milk",
+                        "1/4 cup unsweetened cocoa powder",
+                        "3 tablespoons maple syrup",
+                        "2 oz dairy-free dark chocolate, chopped",
+                        "1 teaspoon vanilla extract",
+                        "A pinch of salt"
+                    ],
+                    "t": "ul"
+                },
+                {
+                    "items": [
+                        "Whisk the cocoa and salt with 1/2 cup of the oat milk until smooth.",
+                        "Add the rest of the oat milk and the maple syrup. Warm over medium-low heat until steaming, about 5 to 8 minutes.",
+                        "Off the heat, stir in the chocolate and vanilla and pour into mugs."
+                    ],
+                    "t": "ol"
+                }
+            ],
+            "heading": "The Best Hot Chocolate Base: 3 Recipes That Actually Work"
+        },
+        {
+            "blocks": [
+                {
+                    "t": "p",
+                    "text": "Toppings are the fun part, and the easiest place to overspend. You don't need all 25 — pick five or six for a quiet night, or ten to twelve for a party, with at least one from each group. Check your cupboards first: most kitchens already hold half this list."
+                },
+                {
+                    "t": "h3",
+                    "text": "Classic hot chocolate bar toppings"
+                },
+                {
+                    "items": [
+                        "Mini marshmallows — buy the big bag, it goes fast",
+                        "Large marshmallows — for floating on top and toasting",
+                        "Whipped cream — a can is fine",
+                        "Chocolate shavings — run a vegetable peeler down a chocolate bar",
+                        "Ground cinnamon — a light dusting on top of the cream"
+                    ],
+                    "t": "ul"
+                },
+                {
+                    "t": "h3",
+                    "text": "Peppermint hot chocolate toppings"
+                },
+                {
+                    "items": [
+                        "Candy canes, left whole — guests stir with them",
+                        "Crushed candy cane — small bowl, with a spoon",
+                        "Peppermint patties, cut into quarters",
+                        "Andes mint pieces or mint chocolate chips"
+                    ],
+                    "t": "ul"
+                },
+                {
+                    "t": "h3",
+                    "text": "Chocolate and candy toppings"
+                },
+                {
+                    "items": [
+                        "Mini chocolate chips, white chocolate chips, peanut butter chips",
+                        "Chocolate-covered pretzels, broken into pieces",
+                        "Toffee bits or crushed Heath bars",
+                        "Mini M&M's and red and green sprinkles",
+                        "Crushed Oreos — one small bowl, they disappear fast"
+                    ],
+                    "t": "ul"
+                },
+                {
+                    "t": "h3",
+                    "text": "Creamy extras and finishing touches"
+                },
+                {
+                    "items": [
+                        "Caramel sauce and chocolate sauce — squeeze bottles are neater than open jars",
+                        "Salted caramel — a pinch of flaky salt on top",
+                        "Pirouette cookies or wafer sticks for dipping",
+                        "Mini gingerbread men or shortbread stars, for the rim of the mug",
+                        "Cocoa powder for dusting, and a pinch of chilli powder for a kick",
+                        "Toasted marshmallow fluff — spread on top and torch for 5 seconds"
+                    ],
+                    "t": "ul"
+                },
+                {
+                    "t": "p",
+                    "text": "Keep toppings in small bowls and refill them during the party. Small bowls look fuller, stay fresher, and mean less waste."
+                }
+            ],
+            "heading": "25 Hot Chocolate Bar Toppings Your Guests Will Love"
+        },
+        {
+            "blocks": [
+                {
+                    "t": "p",
+                    "text": "The setup is what turns a pot of cocoa into a bar. It doesn't need to be fancy — it needs to be clear. Guests should see the mugs, the cocoa, the toppings and the spoons in one glance, and know where to start."
+                },
+                {
+                    "t": "h3",
+                    "text": "Mugs, jars and spoons"
+                },
+                {
+                    "t": "p",
+                    "text": "Mismatched Christmas mugs look better than a matching set, and they're what most of us own. Use 10 to 12 oz mugs for adults, smaller cups for kids. For a big crowd, sturdy paper cups with lids save on washing up. Put the mugs at the start of the line, not among the toppings."
+                },
+                {
+                    "t": "p",
+                    "text": "Small jars, ramekins and little bowls all work — what matters is that each one has its own spoon. A jam jar with a wooden scoop suits marshmallows; a small bowl with a teaspoon suits sprinkles. Label the jars if you have more than eight toppings."
+                },
+                {
+                    "t": "h3",
+                    "text": "What the whole setup costs"
+                },
+                {
+                    "items": [
+                        "Cocoa for 12 mugs: about $8 to $10",
+                        "Toppings: about $12 to $18",
+                        "Mugs and jars: $0 if you use your own",
+                        "Decor (fairy lights, pine, a tea towel): about $5",
+                        "Total for 12: roughly $25 to $40."
+                    ],
+                    "t": "ul"
+                },
+                {
+                    "t": "p",
+                    "text": "Short on time? Buy a good cocoa mix and spend your effort on the toppings and setup. Nobody will know the difference."
+                }
+            ],
+            "heading": "Mugs, Jars & Labels: Hot Chocolate Bar Setup in 30 Minutes"
+        },
+        {
+            "blocks": [
+                {
+                    "t": "p",
+                    "text": "A bar for kids and a bar for adults are almost the same setup — the difference is height, heat and what goes in the bottles at the end. Get those three right and everyone has a good time."
+                },
+                {
+                    "t": "h3",
+                    "text": "A kids' hot cocoa station"
+                },
+                {
+                    "t": "p",
+                    "text": "Set the kids' toppings on a lower table so small hands can reach them without climbing. Pour their cocoa into small mugs and let it cool — or fill a jug and let them pour their own once it's warm, not hot. Give them the fun jobs: sprinkles, marshmallows, stirring with a candy cane. Skip the kitchen torch at the kids' table."
+                },
+                {
+                    "items": [
+                        "Small mugs with handles they can grip, 6 to 8 oz",
+                        "Mini marshmallows, sprinkles, crushed candy cane, a few mini cookies",
+                        "A jug of warm cocoa they can pour themselves, once it's cooled",
+                        "Napkins — lots of them. Cocoa on a Christmas sweater is a tradition by now."
+                    ],
+                    "t": "ul"
+                },
+                {
+                    "t": "h3",
+                    "text": "Grown-up add-ins for the cocoa bar"
+                },
+                {
+                    "t": "p",
+                    "text": "For the adults, set a small tray of bottles at the far end of the bar, away from the kids' toppings. A shot of Baileys, Kahlúa, peppermint schnapps, bourbon or amaretto turns a mug into a nightcap — one shot per mug is plenty. Label the tray so nobody pours the wrong thing."
+                }
+            ],
+            "heading": "Hot Chocolate Bar Ideas for Kids and Grown-Ups"
+        },
+        {
+            "blocks": [
+                {
+                    "t": "p",
+                    "text": "The best part of a hot chocolate bar is how much of it you can do early. A little planning the day before means party day is just heating the cocoa and opening jars."
+                },
+                {
+                    "t": "h3",
+                    "text": "How much cocoa per guest"
+                },
+                {
+                    "items": [
+                        "4 guests: 5 cups (about 1.25 quarts)",
+                        "8 guests: 10 cups (about 2.5 quarts)",
+                        "12 guests: 12 to 14 cups — the slow cooker batch",
+                        "16 guests: the slow cooker batch plus a second pot",
+                        "Toppings: about 1 cup of mini marshmallows per 4 guests."
+                    ],
+                    "t": "ul"
+                },
+                {
+                    "t": "h3",
+                    "text": "Cocoa mix jars as party favours"
+                },
+                {
+                    "t": "p",
+                    "text": "At the end of the night, let guests build a cocoa jar to take home. It takes two minutes and people love it."
+                },
+                {
+                    "items": [
+                        "Layer 1/2 cup of cocoa mix (1/4 cup cocoa powder, 1/4 cup sugar, a pinch of salt) in each jar.",
+                        "Add a small handful of mini chocolate chips and a few mini marshmallows on top.",
+                        "Screw the lid on tight and tie a ribbon around it with a card: \"Mix 3 tablespoons with 1 cup of hot milk.\"",
+                        "One batch of mix fills about 6 small jars. Store them in a cool cupboard for up to a month."
+                    ],
+                    "t": "ol"
+                },
+                {
+                    "t": "h3",
+                    "text": "Leftovers and storing"
+                },
+                {
+                    "t": "p",
+                    "text": "Leftover cocoa keeps in the fridge for up to 3 days in a covered jug — reheat gently on the stove, whisking often, never let it boil. Leftover toppings go back in their packets: marshmallows and candy keep for weeks, whipped cream is a same-day thing. Freeze extra cocoa in ice cube trays — the cubes melt into hot milk for a quick mug later."
+                }
+            ],
+            "heading": "Make-Ahead, Leftovers & Cocoa Mix Party Favours"
+        }
+    ],
+    "slug": "christmas-hot-chocolate-bar-ideas",
+    "subcategory": "Drinks",
+    "title": "Christmas Hot Chocolate Bar Ideas 2026: Easy Cocoa, Toppings & Slow Cooker Recipes for a Party",
+    "to": "#A83E1B"
+}),
   P(    {
         "bannerTitle": "Cozy Pom-Pom Cushion Cover",
         "category": "diy-crafts",
