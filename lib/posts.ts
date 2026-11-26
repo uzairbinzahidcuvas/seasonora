@@ -93,6 +93,344 @@ const P = (o: Post) => o;
 
 export const POSTS: Post[] = [
   P(    {
+    "bannerTitle": "Cozy Christmas Porch Ideas",
+    "category": "home-decor",
+    "date": "2026-11-26",
+    "excerpt": "Christmas porch decor ideas that turn your front door into the warmest spot on the street — wreaths, garland, lanterns and small-porch tricks that work.",
+    "faqs": [
+      {
+        "a": "Go vertical: a slim potted tree beside the door, a full door garland with a wreath, and one lantern on the step. A layered doormat and a folded throw finish the look without blocking the walkway. Wreath, lantern and doormat cost under $40 and take about 15 minutes.",
+        "q": "What are the best Christmas porch decor ideas for a small porch?"
+      },
+      {
+        "a": "Choose faux greenery for anything that has to last six weeks, use battery timer candles so the lights come on every night, and check the ties after the first big wind. Swap the candle batteries once in mid-December.",
+        "q": "How do I keep my Christmas porch decor looking good all winter?"
+      },
+      {
+        "a": "The weekend after Thanksgiving is the sweet spot. It's early enough to enjoy the porch all December, and late enough that fresh wreaths and garland survive to Christmas Day. If you use all faux greenery, you can put it up any time in November.",
+        "q": "When should I put up Christmas porch decor ideas?"
+      },
+      {
+        "a": "Real garland smells wonderful, but it dries out in two to three weeks and drops needles on the step. Faux costs about the same, survives rain and wind, and you can reuse it for years. For a porch that has to look good all season, faux wins.",
+        "q": "Are real evergreen garlands better than faux for a porch?"
+      }
+    ],
+    "from": "#4E7D46",
+    "hero": {
+      "alt": "White front door dressed for Christmas with evergreen wreaths, a big gold bow and garland with red ornaments along the porch railing",
+      "src": "/img/a34-hero"
+    },
+    "images": [
+      {
+        "after": 2,
+        "img": {
+          "alt": "Red metal lantern with star cut-outs hanging beside fresh pine branches on a wooden porch wall",
+          "caption": "A red lantern beside fresh pine — one lantern by the door is the warmest light on the porch.",
+          "src": "/img/a34-a"
+        }
+      },
+      {
+        "after": 4,
+        "img": {
+          "alt": "Red plaid and reindeer-pattern cushions on a snowy porch bench",
+          "caption": "Plaid and reindeer cushions on a snowy bench — one soft layer makes a small porch feel lived in.",
+          "src": "/img/a34-b"
+        }
+      },
+      {
+        "after": 6,
+        "img": {
+          "alt": "White front door with a simple evergreen wreath and warm fairy lights on a snowy green wooden house, ice skates and a knitted scarf hung beside the door",
+          "caption": "The finished look: one wreath, a string of lights and a little snow — a door that welcomes you home.",
+          "src": "/img/a34-c"
+        }
+      }
+    ],
+    "intro": "Christmas porch decor ideas are the first hello your home gives anyone who walks up the steps, and most of us spend far less time on the porch than we do on the tree inside. That's a shame, because the porch is the one spot every guest, every delivery driver and every neighbour actually sees. The good news is you don't need a big porch or a big budget. A wreath that fits the door, a garland that frames it, and one warm glow after dark will do most of the work. This guide walks through it piece by piece, with real prices and timings, so you can build a porch that looks finished by the weekend.",
+    "motif": "tree",
+    "readTime": 10,
+    "sections": [
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "The wreath is the anchor — get it right and the rest falls into place. The common mistake is size: too small and it gets lost on the door, too big and it swallows it. Measure your door first, then shop."
+          },
+          {
+            "t": "h3",
+            "text": "Christmas wreath front door sizes that actually work"
+          },
+          {
+            "items": [
+              "Standard 36-inch door: a 24 to 28-inch wreath fills the space without crowding the edges.",
+              "Double doors or a 42-inch door: go 30 to 36 inches, or hang two matching 20-inch wreaths side by side.",
+              "Hang it at eye level, about 60 inches from the step."
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "p",
+            "text": "We hung a 24-inch faux cedar wreath on our door last year — $28 at a craft store, and it still looks new. A fresh wreath smells wonderful for two weeks, then dries out and drops needles all over the step."
+          },
+          {
+            "t": "h3",
+            "text": "Fresh vs faux wreaths: what lasts outside"
+          },
+          {
+            "items": [
+              "Fresh evergreen: gorgeous scent, lasts 2 to 3 weeks, $25 to $45.",
+              "Faux cedar or fir: no shedding, survives rain and wind, $20 to $60 and reusable for years.",
+              "Flocked wreaths: pretty, but the flocking washes off in heavy rain — keep them under cover.",
+              "A $6 velvet bow in deep red or forest green makes a plain wreath look custom."
+            ],
+            "t": "ul"
+          }
+        ],
+        "heading": "Christmas Porch Decor Ideas Start at the Front Door"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Garland is what turns a door with a wreath into a porch that looks decorated. One swag across the doorframe, or a run down the railing, gives you that layered look for very little money. A 9-foot faux cedar garland runs about $18 to $35, and one length is usually enough."
+          },
+          {
+            "t": "h3",
+            "text": "Where to hang garland on a porch"
+          },
+          {
+            "items": [
+              "Across the top of the doorframe, swagged down at the corners — the classic look.",
+              "Down the railing, wound through the spindles and tied with ribbon every 18 inches.",
+              "Over a window frame beside the door."
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "h3",
+            "text": "Hang it in 20 minutes without drilling holes"
+          },
+          {
+            "items": [
+              "Hook three removable adhesive hooks across the top of the doorframe — one in the centre, one at each corner.",
+              "Drape the garland over the hooks and let it sag about 6 inches in the middle for a soft swag.",
+              "Tie a ribbon or a small cluster of pinecones at each corner to hide the hooks.",
+              "Step back to the street and check the drape. Adjust once, then leave it — garland looks better slightly loose than pulled tight.",
+              "If your porch gets wind, add a couple of zip ties around the railing so the garland can't slide."
+            ],
+            "t": "ol"
+          },
+          {
+            "t": "p",
+            "text": "Battery-powered garland with warm white lights built in costs about $10 more, and it's worth it. No extension cord across the step, and a timer switches it on at dusk and off after six hours. Ours has run on the same batteries for three winters."
+          }
+        ],
+        "heading": "Frame the Door With Christmas Porch Garland"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "A porch without light after dark is just a dark doorway. Light is what makes people slow down and look, and it's the cheapest part of the display. One or two lanterns plus a short string of warm white lights will do more than a whole box of ornaments."
+          },
+          {
+            "t": "h3",
+            "text": "Christmas porch lanterns that glow all evening"
+          },
+          {
+            "items": [
+              "A pair of black metal lanterns, 12 to 14 inches tall, flanking the door — $15 to $25 each.",
+              "Battery pillar candles inside, on a 6-hour timer — no flame, and they switch themselves on at dusk.",
+              "One oversized lantern, 18 inches or taller, on the step if you only want a single statement piece."
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "p",
+            "text": "We keep two lanterns on the steps all winter, and they're the piece guests comment on most. The trick is the timer — a lantern you have to switch on every night stays dark half the time."
+          },
+          {
+            "t": "h3",
+            "text": "String lights without the tangled mess"
+          },
+          {
+            "items": [
+              "Warm white, not cool white — cool white reads blue and cold on a porch.",
+              "One 25-foot strand traces a doorframe; two strands cover a railing and a column.",
+              "Outdoor-rated lights only, with the plug kept under cover or in a weatherproof box.",
+              "Wrap the cord once around the garland so it disappears instead of dangling."
+            ],
+            "t": "ul"
+          }
+        ],
+        "heading": "Light It Up: Lanterns and Warm White Lights"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Two matching planters by the door give the porch height and shape, and evergreen cuttings cost almost nothing if you have a tree nearby. The whole arrangement takes about 30 minutes and holds up from late November through January."
+          },
+          {
+            "t": "h3",
+            "text": "Evergreen porch planters in 30 minutes"
+          },
+          {
+            "items": [
+              "Fill each pot with soil or foam, and push a tall branch — cedar, pine or a bare birch twig — into the centre.",
+              "Add shorter cuttings around it, angled outward, until the pot looks full from the front.",
+              "Tuck in three pinecones and a few red berries or small ornaments for colour.",
+              "Finish with a wide ribbon around the pot, or battery fairy lights wound through the branches.",
+              "Water once so the soil freezes solid — a frozen pot won't blow over."
+            ],
+            "t": "ol"
+          },
+          {
+            "t": "h3",
+            "text": "What to plant when the ground is frozen"
+          },
+          {
+            "items": [
+              "Cut cedar, fir and pine branches: free from your own yard or $5 a bundle at a tree lot.",
+              "Birch twigs or curly willow: tall, pale stems that stand out against dark green.",
+              "Red twig dogwood: bright red stems that look made for Christmas.",
+              "Skip anything with thin leaves — they turn to mush after the first hard freeze."
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "p",
+            "text": "If you don't have pots yet, check thrift stores first. Heavy ceramic or concrete planters show up there for $5 to $10, and weight matters more than looks on a windy porch."
+          }
+        ],
+        "heading": "Planters That Stay Pretty All Winter"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Most of us don't have a wraparound porch. We have a stoop, two steps and a door — and that's plenty. Small porches actually photograph better, because every piece sits close together and the eye reads it as one scene. The rule is simple: go up, not out."
+          },
+          {
+            "t": "h3",
+            "text": "Go vertical on a small porch"
+          },
+          {
+            "items": [
+              "A tall, slim potted tree — 3 to 4 feet — on one side of the door gives height without eating floor space.",
+              "A full door garland with a wreath on top uses the door itself as the display.",
+              "Hang oversized ornaments from the porch ceiling at different heights — they read as a chandelier from the street.",
+              "Stack two crates on their sides for a plant stand that holds a lantern and a small arrangement."
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "h3",
+            "text": "One bench, one throw, one lantern"
+          },
+          {
+            "t": "p",
+            "text": "If your porch fits a bench, that's your whole seating moment. A slim bench with a folded plaid throw and one cushion makes the porch feel lived in, and gives you a spot for a lantern or a basket of pinecones. Add a layered doormat and the entry feels finished in ten minutes. Keep the walkway clear, though — guests should never have to step around decor to reach the door."
+          },
+          {
+            "items": [
+              "Apartment stoop: wreath, one lantern, layered doormat — done in 15 minutes for under $40.",
+              "Small covered porch: add a garland across the doorframe and a slim potted tree."
+            ],
+            "t": "ul"
+          }
+        ],
+        "heading": "Small Porch Christmas Decor That Still Feels Big"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "The difference between a porch with a wreath and a porch that looks styled is the small stuff. None of these pieces cost much, and each takes under five minutes. Together, they're what make neighbours stop and ask where you got the idea."
+          },
+          {
+            "t": "h3",
+            "text": "Layered Christmas doormats in one minute"
+          },
+          {
+            "items": [
+              "Start with a large patterned rug — plaid, buffalo check or a simple stripe — about 24 by 36 inches.",
+              "Lay a smaller coir mat on top, centred, with an even border showing on all sides.",
+              "Two layers catch boots and slush better than one, and they look intentional instead of thrown down.",
+              "Total cost: about $20 to $30, and both pieces work again next year."
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "h3",
+            "text": "A bench, a basket and a welcome sign"
+          },
+          {
+            "items": [
+              "A basket of pinecones by the door — free, and it fills an empty corner.",
+              "A small chalkboard or wooden sign with a simple greeting, hung beside the door at eye level.",
+              "A folded plaid throw over the bench arm, in the same reds and greens as the wreath.",
+              "A cluster of wrapped empty gift boxes on the step, tied with ribbon — they read as presents from the street."
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "p",
+            "text": "Don't add all four at once. Pick two or three and stop — too many small pieces look cluttered, and the wreath stops standing out. Our first year, the porch looked like a gift shop exploded."
+          }
+        ],
+        "heading": "The Little Layers That Finish the Look"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Most of the pieces last for years, so the first year costs the most and every year after gets cheaper. Here's what a complete porch actually costs in 2026."
+          },
+          {
+            "t": "h3",
+            "text": "What Christmas porch decor costs in 2026"
+          },
+          {
+            "items": [
+              "Faux wreath, 24-inch: $20 to $35",
+              "Faux garland, 9-foot: $18 to $35",
+              "Pair of lanterns with timer candles: $35 to $55",
+              "Two planters with evergreen cuttings: $15 to $40",
+              "Layered doormats: $20 to $30",
+              "Ribbon, pinecones and ornaments: $10 to $20",
+              "Total for a full porch: about $120 to $215 the first year, and under $40 a year after that."
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "p",
+            "text": "Thrift stores and end-of-season sales cut that first-year number in half. Buy the lanterns and faux greenery in January, when they're 50 to 70 percent off."
+          },
+          {
+            "t": "h3",
+            "text": "When to put it up and take it down"
+          },
+          {
+            "items": [
+              "Put the porch up the weekend after Thanksgiving — early enough to enjoy it, late enough that fresh greenery survives to Christmas.",
+              "Swap the timer candles' batteries once, around mid-December, so the lights don't fade on Christmas Eve.",
+              "Take fresh greenery down in the first week of January, before it dries out and drops needles.",
+              "Leave the lanterns and the plain evergreen planters up through January — they look right all winter."
+            ],
+            "t": "ol"
+          }
+        ],
+        "heading": "Christmas Porch Decor Ideas: Budget, Timing and Upkeep"
+      }
+    ],
+    "slug": "christmas-porch-decor-ideas",
+    "subcategory": "Entryway",
+    "title": "Christmas Porch Decor Ideas 2026: Cozy Wreaths, Garland & Lantern Looks for a Warm Welcome",
+    "to": "#243B24"
+  }
+  ),
+  P(    {
     "bannerTitle": "Winter Snow Globe Jars",
     "category": "diy-crafts",
     "date": "2026-11-26",
