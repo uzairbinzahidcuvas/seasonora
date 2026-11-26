@@ -93,6 +93,258 @@ const P = (o: Post) => o;
 
 export const POSTS: Post[] = [
   P(    {
+        "bannerTitle": "Cozy Pom-Pom Cushion Cover",
+        "category": "diy-crafts",
+        "date": "2026-11-26",
+        "excerpt": "A DIY pom-pom cushion cover turns a plain cushion into the softest seat in the house — fluffy yarn pom-poms in cream and dusty pink, stitched or glued onto a simple cover in one relaxed afternoon. It costs very little, needs no sewing machine, and makes a neutral sofa feel warm and finished.",
+        "faqs": [
+            {
+                "a": "About two hours from start to finish for your first one, and most of that is waiting for the glue to cure. Marking the positions takes ten minutes, attaching the pom-poms takes about an hour, and the rest is drying time. If you stitch instead of glue, you can use the cushion straight away — there is no curing to wait for.",
+                "q": "How long does it take to make a DIY pom-pom cushion cover?"
+            },
+            {
+                "a": "Yes, but gently. Turn the cover inside out, pop it in a laundry bag and wash it on a cold, gentle cycle, then lay it flat to dry. Do not tumble dry it — the heat can flatten the pom-poms and loosen the glue. If a pom-pom looks a little squashed after washing, give it a light shake and a quick fluff with your fingers once it is dry.",
+                "q": "Can I wash a DIY pom-pom cushion cover?"
+            },
+            {
+                "a": "Both work, and the best choice depends on how the cushion will be used. Stitching is stronger and lasts longer, so it is the better pick for cushions that get leaned on every day or washed often. Fabric-safe adhesive is faster and easier if you do not sew — just give it the full curing time before you use the cushion, and use a generous dab on each pom-pom so it holds.",
+                "q": "Should I glue or stitch the pom-poms on a DIY pom-pom cushion cover?"
+            },
+            {
+                "a": "A soft medium-weight yarn in wool or a wool blend gives the fullest, fluffiest pom-poms. Cotton yarn works too and holds its shape well, but it feels a little firmer. Pick two or three colours that sit close together — cream, beige and dusty pink is a calm mix that suits most sofas — and avoid very dark yarn on a light cover, since loose fibres can show.",
+                "q": "What yarn works best for a DIY pom-pom cushion cover?"
+            }
+        ],
+        "from": "#4E8FB8",
+        "hero": {
+            "alt": "Cream cushion decorated with soft beige and dusty-pink yarn pom-poms on a neutral sofa with a knitted blanket, bright snowy winter interior",
+            "src": "/img/a35-hero"
+        },
+        "images": [
+            {
+                "after": 3,
+                "img": {
+                    "alt": "Cream cushion with a neat border of soft beige and dusty-pink yarn pom-poms, styled on a neutral sofa with a knitted throw, snowy window behind",
+                    "caption": "The finished cover — a soft border of cream and dusty-pink pom-poms around a plain cream cushion.",
+                    "src": "/img/a35-a"
+                }
+            },
+            {
+                "after": 5,
+                "img": {
+                    "alt": "Close-up of a cream cushion covered in a dense pattern of beige and dusty-pink yarn pom-poms beside a folded knitted throw and a warm mug",
+                    "caption": "A fuller version of the same idea — pom-poms packed close together for a plush, textured look.",
+                    "src": "/img/a35-b"
+                }
+            }
+        ],
+        "intro": "A DIY pom-pom cushion cover is the fastest way we know to make a plain sofa feel like winter. You start with a cushion cover you already own, add a row of soft yarn pom-poms in cream and dusty pink, and by the end of the afternoon you have something that looks like it came from a boutique home shop. We made ours on a quiet afternoon with a mug of tea going cold beside us, and it is still the cushion everyone reaches for first. This guide walks you through the whole project in four simple steps, from marking your positions to fluffing the finished cushion, plus styling ideas and answers to the questions we hear most.",
+        "motif": "snow",
+        "readTime": 8,
+        "sections": [
+            {
+                "blocks": [
+                    {
+                        "t": "p",
+                        "text": "A DIY pom-pom cushion cover works because it adds texture, and texture is what makes a room feel warm. A flat cushion in a plain fabric can look fine, but it does not invite you to pick it up. Add a border of fluffy pom-poms and suddenly the whole cushion looks soft, handmade and worth touching. The pom-poms catch the light, break up the flat surface and give a neutral sofa a gentle, cosy focal point."
+                    },
+                    {
+                        "t": "h3",
+                        "text": "Small cost, big change"
+                    },
+                    {
+                        "t": "p",
+                        "text": "The other reason we love this project is how little it asks of you. There is no sewing machine, no pattern and no special skill — if you can tie a knot or squeeze a glue tube, you can make this. A plain cover, a few balls of yarn and an afternoon are all it takes, and the result looks far more expensive than the supplies cost. It is also forgiving: pom-poms hide a wobbly stitch, and a slightly uneven row just looks handmade in the best way."
+                    },
+                    {
+                        "items": [
+                            "Cost: about $10 to $15, and less if you already own a plain cover and some yarn",
+                            "Time: about two hours, including glue drying time",
+                            "Skill level: true beginner — no machine sewing and no pattern needed",
+                            "Supplies: a plain cover, yarn pom-poms, a tape measure, chalk and glue or a needle and thread",
+                            "Result: a soft, textured cushion that makes a neutral sofa feel warm and finished"
+                        ],
+                        "t": "ul"
+                    },
+                    {
+                        "t": "p",
+                        "text": "Best of all, the cover is a blank canvas for your own taste. Cream and dusty pink suit a calm, neutral room, but the same project works in mustard and rust for autumn, or in soft sage and white for spring. Once you have made one, you will start eyeing every plain cushion in the house."
+                    }
+                ],
+                "heading": "Why a DIY Pom-Pom Cushion Cover Works So Well"
+            },
+            {
+                "blocks": [
+                    {
+                        "t": "p",
+                        "text": "Everything on this list fits in a small basket, and you may already have most of it at home. Lay it all out before you start so the making part flows without a hunt for a missing piece halfway through."
+                    },
+                    {
+                        "t": "h3",
+                        "text": "The materials list"
+                    },
+                    {
+                        "items": [
+                            "A plain cushion cover in cotton or linen — cream, white or a soft neutral shows the pom-poms best",
+                            "Yarn pom-poms in cream, beige and dusty pink — ready-made, or made by hand from yarn",
+                            "A measuring tape for spacing the pom-poms evenly",
+                            "A chalk pencil for marking positions on the fabric",
+                            "Fabric-safe adhesive, or a needle and matching thread for stitching",
+                            "A cushion insert that fits the cover",
+                            "Scissors and a few pins to hold things in place while you work"
+                        ],
+                        "t": "ul"
+                    },
+                    {
+                        "t": "p",
+                        "text": "A quick note on the pom-poms: ready-made ones save time, but making your own lets you match the colours exactly and control the size. Aim for pom-poms about 4 to 5 centimetres across — big enough to read as fluffy, small enough to sit in a neat row. Mix two or three close colours rather than one flat shade; the mix is what gives the finished cushion its soft, layered look. If you are buying ready-made, count how many you need first — a border around a standard 45-centimetre cushion takes about 16 to 20 pom-poms."
+                    }
+                ],
+                "heading": "What You Need for a DIY Pom-Pom Cushion Cover"
+            },
+            {
+                "blocks": [
+                    {
+                        "t": "p",
+                        "text": "Even spacing is the whole secret of a tidy finish. A row of pom-poms that wanders looks homemade in the wrong way, while an even row looks like a shop-bought trim. Ten careful minutes here pays off in the finished cushion."
+                    },
+                    {
+                        "t": "h3",
+                        "text": "Mark a balanced row before you attach anything"
+                    },
+                    {
+                        "items": [
+                            "Lay the cushion cover flat on a table, front side up, and smooth out any creases",
+                            "Measure along each edge and mark a pom-pom position every 7 to 8 centimetres with the chalk pencil",
+                            "Keep the corner positions a little in from the seam, so the pom-poms do not crowd the corners",
+                            "Step back and check the row by eye — the marks should look even all the way around"
+                        ],
+                        "t": "ol"
+                    },
+                    {
+                        "t": "p",
+                        "text": "If you are covering the whole front of the cushion instead of just a border, mark a simple grid instead — rows about 7 centimetres apart, with the dots staggered like bricks. Chalk marks brush off easily once you are done, so do not worry about making them neat. The point is a map you can follow without stopping to measure every single pom-pom as you go."
+                    }
+                ],
+                "heading": "Step 1: Lay the Cover Flat and Mark Your Pom-Pom Positions"
+            },
+            {
+                "blocks": [
+                    {
+                        "t": "p",
+                        "text": "With the positions marked, get your pom-poms ready. This is a good moment to sort them by colour and size, because a little planning now keeps the finished row looking balanced instead of random."
+                    },
+                    {
+                        "t": "h3",
+                        "text": "Sort, trim and plan the colour mix"
+                    },
+                    {
+                        "items": [
+                            "Lay the pom-poms out in a line and sort them by colour — cream, beige, dusty pink",
+                            "Trim any stray long strands with scissors so each pom-pom is round and full",
+                            "Plan the order: alternate the colours along the row, or group them in soft blocks of two or three",
+                            "Count them against your chalk marks so you know you have enough before you start attaching"
+                        ],
+                        "t": "ol"
+                    },
+                    {
+                        "t": "p",
+                        "text": "If you are making your own pom-poms, wind the yarn generously — a full, dense pom-pom holds its shape far better than a thin one. Tie the centre knot tight, then trim the ball into a round shape over a bin, turning it as you go. A slightly uneven pom-pom is fine; once it sits on the cushion next to its neighbours, nobody will spot the difference."
+                    }
+                ],
+                "heading": "Step 2: Prepare and Select Your Matching Pom-Poms"
+            },
+            {
+                "blocks": [
+                    {
+                        "t": "p",
+                        "text": "Now comes the satisfying part — watching the plain cover turn into something soft and pretty, one pom-pom at a time. Work slowly and keep checking your spacing against the chalk marks."
+                    },
+                    {
+                        "t": "h3",
+                        "text": "Attach one by one, and keep the spacing even"
+                    },
+                    {
+                        "items": [
+                            "Start at one corner and work your way along the first edge",
+                            "For stitching: pass the needle through the pom-pom centre, then through the cover, and knot it firmly on the inside",
+                            "For adhesive: put a generous dab of fabric-safe glue on the pom-pom base and press it onto its chalk mark for a few seconds",
+                            "Pin each pom-pom in place for a minute if it wants to slide while the glue grabs",
+                            "Check the row as you go — the pom-poms should sit snug against each other with no big gaps"
+                        ],
+                        "t": "ol"
+                    },
+                    {
+                        "t": "p",
+                        "text": "Resist the urge to rush this step. A pom-pom glued in the wrong spot is easy to peel off while the glue is fresh, but a pain once it has set. If you are stitching, a couple of small stitches per pom-pom is enough — the knot on the inside does the real work. And if a pom-pom looks a little squashed after handling, give it a gentle roll between your palms to fluff it back up."
+                    }
+                ],
+                "heading": "Step 3: Attach the Pom-Poms with Stitches or Fabric-Safe Glue"
+            },
+            {
+                "blocks": [
+                    {
+                        "t": "p",
+                        "text": "The cover is finished — now let it set, fill it and put it where it belongs. This last step is short, but do not skip the waiting if you used glue. A cushion that gets sat on before the adhesive cures will shed pom-poms."
+                    },
+                    {
+                        "t": "h3",
+                        "text": "Let it cure, stuff it and fluff it up"
+                    },
+                    {
+                        "items": [
+                            "If you used adhesive, lay the cover flat and leave it alone for the full curing time on the glue tube",
+                            "Once cured, brush away any chalk marks with a dry cloth",
+                            "Slide the cushion insert in and zip the cover closed",
+                            "Fluff the cushion by hand and give each pom-pom a light shake so it sits full and round",
+                            "Place it on the sofa beside a knitted throw and step back to admire it"
+                        ],
+                        "t": "ol"
+                    },
+                    {
+                        "t": "p",
+                        "text": "For styling, a pom-pom cushion does best with quiet neighbours — a plain knit throw, a simple linen cushion or two, and nothing too busy. It suits the corner of a sofa, a reading chair or the end of a bed. On a neutral sofa it becomes the softest thing in the room, and that is exactly the point."
+                    }
+                ],
+                "heading": "Step 4: Let the Glue Cure, Insert the Cushion and Style It"
+            },
+            {
+                "blocks": [
+                    {
+                        "t": "p",
+                        "text": "A pom-pom cushion cover is easy to live with, and a little care keeps it looking soft for years. Most problems have simple fixes, and the project invites new ideas every season."
+                    },
+                    {
+                        "t": "h3",
+                        "text": "Keeping it soft, and making it yours"
+                    },
+                    {
+                        "items": [
+                            "Wash gently: turn the cover inside out, use a laundry bag, cold water and a gentle cycle, then dry flat",
+                            "Fluff pom-poms after washing with a light shake and a quick roll between your palms",
+                            "Re-glue any loose pom-pom with a dab of fabric-safe adhesive and leave it flat to cure",
+                            "Try a full-face version: cover the whole front in a tight grid of pom-poms for a plush, textured look",
+                            "Swap the colours with the seasons — mustard and rust for autumn, sage and white for spring",
+                            "Make a matching pair for the ends of the sofa, or a small one for a reading chair"
+                        ],
+                        "t": "ul"
+                    },
+                    {
+                        "t": "p",
+                        "text": "Our favourite variation is the simplest one: the same cream cover with a single row of pom-poms in one colour only, all cream. It looks calm and expensive, and it goes with everything. But the two-tone version in cream and dusty pink is the one guests always ask about — and now you can tell them you made it yourself in an afternoon."
+                    }
+                ],
+                "heading": "Care, Fixes and Fun Variations for Your DIY Pom-Pom Cushion Cover"
+            }
+        ],
+        "slug": "cozy-pom-pom-cushion-cover",
+        "subcategory": "Handmade Gifts",
+        "title": "DIY Pom-Pom Cushion Cover: Cozy Handmade Winter Pillow for Your Sofa",
+        "to": "#275E7E",
+        "video": "cozy-pom-pom-cushion-cover"
+    }
+  ),
+  P(    {
     "bannerTitle": "Cozy Christmas Porch Ideas",
     "category": "home-decor",
     "date": "2026-11-26",

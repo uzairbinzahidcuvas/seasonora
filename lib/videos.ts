@@ -16,6 +16,17 @@ export type VideoEntry = {
 
 export const VIDEOS: VideoEntry[] = [
   {
+    slug: "cozy-pom-pom-cushion-cover",
+    title: "DIY Pom-Pom Cushion Cover for Cozy Winter Home Decor",
+    description: "Give a plain cushion a cozy makeover with soft yarn pom-poms — a simple handmade project that adds texture to neutral sofas and winter living spaces.",
+    category: "diy-crafts",
+    topic: "Winter home decor",
+    articleSlug: "cozy-pom-pom-cushion-cover",
+    poster: "/img/a35-a",
+    durationSec: 30,
+    date: "2026-11-26",
+  },
+  {
     slug: "winter-snow-globe-jars",
     title: "DIY Winter Snow Globe Jars \u2013 Magical Christmas Craft",
     description: "Make a charming homemade snow globe with a glass jar, miniature winter decorations and artificial snow \u2014 a lovely seasonal craft and handmade gift idea.",

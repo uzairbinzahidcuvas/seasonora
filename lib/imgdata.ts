@@ -109,6 +109,9 @@ import a32C from "./imgdata/a32-c";
 import a33Hero from "./imgdata/a33-hero";
 import a33A from "./imgdata/a33-a";
 import a33B from "./imgdata/a33-b";
+import a35Hero from "./imgdata/a35-hero";
+import a35A from "./imgdata/a35-a";
+import a35B from "./imgdata/a35-b";
 import a34Hero from "./imgdata/a34-hero";
 import a34A from "./imgdata/a34-a";
 import a34B from "./imgdata/a34-b";
@@ -240,6 +243,9 @@ export const IMAGES: Record<string, string> = {
   "a33-hero": a33Hero,
   "a33-a": a33A,
   "a33-b": a33B,
+  "a35-hero": a35Hero,
+  "a35-a": a35A,
+  "a35-b": a35B,
   "a34-hero": a34Hero,
   "a34-a": a34A,
   "a34-b": a34B,
