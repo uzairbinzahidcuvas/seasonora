@@ -92,6 +92,540 @@ export type Post = {
 const P = (o: Post) => o;
 
 export const POSTS: Post[] = [
+  P(    {
+    "bannerTitle": "Winter Snow Globe Jars",
+    "category": "diy-crafts",
+    "date": "2026-11-26",
+    "excerpt": "DIY winter snow globe jars turn a plain glass jar into a tiny snowy world — miniature trees, a little house and soft falling snow, all sealed up in a jar you can shake again and again. They cost just a few dollars to make, take under an hour, and make the sweetest handmade Christmas gifts.",
+    "faqs": [
+      {
+        "a": "About 30 to 45 minutes for your first one, including drying time for the glue. The hands-on work is only about 15 minutes — gluing the scene, mixing the water and filling the jar. The rest is waiting for the adhesive to cure, so start the scene first and mix the water while it dries.",
+        "q": "How long does it take to make DIY winter snow globe jars?"
+      },
+      {
+        "a": "Yes — this is a great project to make with kids aged seven and up. Let them plan the scene, place the trees and sprinkle the snow while you handle the waterproof glue and the water. Use plastic jars instead of glass for younger kids, and keep the lid gluing as a grown-up job.",
+        "q": "Can kids help make DIY winter snow globe jars?"
+      },
+      {
+        "a": "Distilled water stays clear for months, while tap water can turn cloudy as minerals settle. Add just a teaspoon or two of glycerin per cup of water — it thickens the liquid slightly so the snow drifts down slowly instead of dropping straight to the bottom. Too much glycerin makes the snow hang in the water and look murky, so go easy.",
+        "q": "Why do DIY winter snow globe jars use distilled water and glycerin?"
+      },
+      {
+        "a": "Keep it upright on a shelf out of direct sunlight, which can fade the miniatures and warm the water. If a little water escapes around the lid, dry the rim, add a thin ring of waterproof glue under the lid and screw it back on tight. Stored upright and dry, a snow globe jar looks just as good next Christmas as it did the day you made it.",
+        "q": "How do I store a snow globe jar so it does not leak?"
+      }
+    ],
+    "from": "#4E8FB8",
+    "hero": {
+      "alt": "Handmade glass snow globe jar with miniature evergreen trees and a tiny log cabin with glowing windows, artificial snow drifting inside, styled on a winter table with pinecones, cotton stems and a candle",
+      "src": "/img/a33-hero"
+    },
+    "images": [
+      {
+        "after": 3,
+        "img": {
+          "alt": "Handmade glass snow globe jar with miniature evergreen trees and a tiny stone cottage with lit windows, artificial snow suspended in the water, styled with pinecones and dried orange slices",
+          "caption": "The finished jar — two little trees, a stone cottage with glowing windows, and snow that drifts every time you tip it.",
+          "src": "/img/a33-a"
+        }
+      },
+      {
+        "after": 5,
+        "img": {
+          "alt": "Handmade glass snow globe jar with miniature evergreen trees and a tiny winter house on a cork base, styled on a wooden shelf with pine branches, pinecones and warm fairy lights",
+          "caption": "On a shelf with pine branches and fairy lights, a snow globe jar does the work of a whole mantel display.",
+          "src": "/img/a33-b"
+        }
+      }
+    ],
+    "intro": "DIY winter snow globe jars are the kind of project that makes people smile the second they pick one up. A plain glass jar, a couple of tiny trees, a little house and a pinch of fake snow — shake it once and a whole winter scene comes alive in your hands. We have made these on quiet December afternoons, with kids crowded around the table and with friends over mugs of cocoa, and they always turn out charming. This guide walks you through the whole thing in four simple steps, from gluing the scene to the lid to the first shake, plus styling ideas and answers to the questions we get asked most.",
+    "motif": "snow",
+    "readTime": 8,
+    "sections": [
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "DIY winter snow globe jars work because they are small in every good way. They are small in cost — a jar from the cupboard, a few miniatures and a spoonful of fake snow add up to just a few dollars. They are small in effort — the whole thing takes under an hour, and most of that is waiting for glue to dry. And they are small enough to sit on a windowsill, a desk or a bedside table, where a full snow globe would never fit."
+          },
+          {
+            "t": "h3",
+            "text": "A tiny scene with a big payoff"
+          },
+          {
+            "t": "p",
+            "text": "The other reason we keep coming back to this project is the shake. A snow globe is one of the few decorations you actually play with — you pick it up, tip it gently, and watch the snow drift down over the little trees. Kids love it, guests love it, and it never gets old. It is also a gift that feels personal in a way a shop-bought globe never does, because you chose every tiny piece inside it."
+          },
+          {
+            "items": [
+              "Cost: about $5 to $10 per jar, and less if you already own a jar and miniatures",
+              "Time: 30 to 45 minutes, including glue drying time",
+              "Skill level: true beginner — if you can use a glue tube, you can make one",
+              "Supplies: a jar, miniatures, fake snow, distilled water and glycerin",
+              "Result: a keepsake decoration that lasts for years and makes a lovely handmade gift"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "p",
+            "text": "Best of all, no two jars come out alike — the trees lean differently and the house sits at its own angle. That is the whole charm of a handmade snow globe, and it is why people always ask where you got it."
+          }
+        ],
+        "heading": "Why DIY Winter Snow Globe Jars Work So Well"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Everything on this list fits in a small basket, and most of it you may already have at home. We like to lay it all out on the table before we start, so the making part flows without hunting for a missing piece halfway through."
+          },
+          {
+            "t": "h3",
+            "text": "The materials list"
+          },
+          {
+            "items": [
+              "A clean screw-top glass jar with a tight-fitting lid — a jam jar or mason jar works well",
+              "Waterproof miniature figurines — tiny evergreen trees and a little winter house",
+              "Waterproof adhesive — a clear glue that sets firm and stays clear under water",
+              "Artificial snow — fine fake snow or white glitter, about two tablespoons per jar",
+              "Distilled water — enough to fill the jar, about one to two cups",
+              "Glycerin — one to two teaspoons per cup of water, to slow the snowfall",
+              "A small measuring cup and a spoon for mixing the water",
+              "A cloth for wiping the outside of the jar"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "p",
+            "text": "A quick note on the miniatures: pick pieces made for water use, like resin or plastic trees and houses, and give them a rinse first. Painted wood or paper pieces can bleed colour into the water, and anything that floats will drift up to the lid instead of staying in your scene. If you are not sure about a piece, drop it in a glass of water for ten minutes and see what happens."
+          }
+        ],
+        "heading": "What You Need for DIY Winter Snow Globe Jars"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "The scene lives on the inside of the lid, so this is where your little winter world takes shape. Work on a clean, dry lid and take your time — a well-planned scene is what makes the finished jar look like a shop-bought globe instead of a craft project."
+          },
+          {
+            "t": "h3",
+            "text": "Plan the scene before you glue anything"
+          },
+          {
+            "items": [
+              "Set the lid flat on the table, inside facing up, and arrange the trees and house on it without glue",
+              "Put the tallest tree at the back and the house slightly off-centre, so the scene has depth",
+              "Leave a little space around the edges — pieces that touch the jar wall look squashed",
+              "Check the fit by lowering the jar over the lid and peeking through the glass"
+            ],
+            "t": "ol"
+          },
+          {
+            "t": "p",
+            "text": "Once you are happy with the layout, glue each piece in place. Put a generous dab of waterproof adhesive on the base of each miniature, press it onto the lid and hold it for a few seconds. A toothpick helps spread the glue into small corners. Then leave the lid alone until the glue has fully cured — check the tube for the drying time, usually 15 to 30 minutes. Rushing this step is the one mistake that ruins jars, because a loose tree will float off the moment you fill it with water."
+          }
+        ],
+        "heading": "Step 1: Glue the Scene to the Lid"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "While the glue cures, get the snow water ready. This is the part that decides how your snow falls — a slow, dreamy drift or a quick drop like a stone — so it is worth doing with care."
+          },
+          {
+            "t": "h3",
+            "text": "Mix the water, then add the snow"
+          },
+          {
+            "items": [
+              "Pour distilled water into a small measuring cup — a little less than the jar holds",
+              "Stir in one to two teaspoons of glycerin per cup of water and mix well",
+              "Sprinkle about two tablespoons of artificial snow into the clean, dry jar",
+              "Give the jar a gentle swirl so the snow coats the bottom evenly"
+            ],
+            "t": "ol"
+          },
+          {
+            "t": "p",
+            "text": "Distilled water is the quiet hero here. Tap water looks fine on day one, but the minerals in it can cloud the water over a few weeks. Distilled water stays clear for months. The glycerin thickens the liquid just enough to slow the snow down — too little and the snow falls too fast, too much and it hangs in the water and turns it milky. Start with one teaspoon per cup and add a little more only if the snow still falls too quickly in your test shake."
+          }
+        ],
+        "heading": "Step 2: Add the Snow and Mix the Water"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Now comes the satisfying part — bringing the scene and the water together. Go slowly here. A calm hand at this stage is the difference between a crystal-clear globe and a jar full of bubbles."
+          },
+          {
+            "t": "h3",
+            "text": "Fill slowly, seal tight, test gently"
+          },
+          {
+            "items": [
+              "Pour the mixed water into the jar slowly, down the side of the glass, until it is nearly full",
+              "Leave a small gap at the top — about a finger's width — so the water has room to move",
+              "Lower the lid with its scene into the jar and screw it on firmly, over a towel in case of drips",
+              "Wipe the outside of the jar dry and check the seal for any beads of water",
+              "Turn the jar over gently and watch the snow drift through the miniature scene"
+            ],
+            "t": "ol"
+          },
+          {
+            "t": "p",
+            "text": "If you spot a leak, dry the rim, unscrew the lid and add a thin ring of waterproof glue just inside the rim before screwing it back on. If the water looks bubbly, let the jar sit upright for an hour — most bubbles rise and clear on their own. And if a tree has come loose, tip the water out, dry everything and re-glue it; the scene is worth fixing properly rather than living with a floating tree."
+          }
+        ],
+        "heading": "Step 3: Fill, Seal and Give It a Shake"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "A snow globe jar earns its place anywhere you want a little winter magic. Because it is small and self-contained, it fits in spots where bigger decorations never work — and it looks good in all of them."
+          },
+          {
+            "t": "h3",
+            "text": "Where to put your snow globe jar"
+          },
+          {
+            "items": [
+              "On a windowsill with daylight behind it — the light makes the snow sparkle",
+              "On a mantel between pine branches and a string of fairy lights",
+              "On a bedside table as a calm, quiet night-light scene for kids",
+              "On a desk or office shelf, where a little shake breaks up a long afternoon",
+              "In a gift basket with cocoa, a candle and a handwritten note"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "p",
+            "text": "As a gift, pair the jar with a small tag that says \"shake gently\" — people always want to shake it hard the first time. For a group gift, make a set of three small jars with different scenes: a house, a forest of trees, and a tiny snowman. They look lovely lined up on a shelf together, and each one takes only a few minutes more than the first."
+          }
+        ],
+        "heading": "Styling Your DIY Winter Snow Globe Jars"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "A snow globe jar is happiest left alone on a shelf, but a little care keeps it looking clear and bright for years. Most problems have simple fixes, and the jar itself invites new ideas every winter."
+          },
+          {
+            "t": "h3",
+            "text": "Keeping it clear, and making it yours"
+          },
+          {
+            "items": [
+              "Store it upright, out of direct sunlight, so the miniatures keep their colour",
+              "If the water clouds, empty the jar, rinse it and refill with fresh distilled water",
+              "Top up a low jar with a little distilled water through the lid — never tap water",
+              "Try a different scene each year: a tiny deer, a red barn, or a miniature church",
+              "Swap the fake snow for fine white or silver glitter for a frostier look",
+              "Use a plastic jar with a screw lid for a kid-safe version that survives drops"
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "p",
+            "text": "Our favourite variation is the simplest one: a single tiny tree and a pinch of silver glitter in a small jam jar. It takes ten minutes, costs almost nothing, and it still gets picked up and shaken every time someone walks past. That is the real test of a snow globe jar — not how fancy it looks, but how often people reach for it."
+          }
+        ],
+        "heading": "Care, Fixes and Fun Variations"
+      }
+    ],
+    "slug": "winter-snow-globe-jars",
+    "subcategory": "Handmade Gifts",
+    "title": "DIY Winter Snow Globe Jars: Magical Homemade Christmas Craft & Gift Idea",
+    "to": "#275E7E",
+    "video": "winter-snow-globe-jars"
+  }),
+  P(  {
+    "bannerTitle": "Christmas Tree Decorating Ideas",
+    "category": "home-decor",
+    "date": "2026-11-26",
+    "excerpt": "Christmas tree decorating ideas for 2026 — 15 easy themes, ribbon cascades and velvet bows, plus pro order and light counts that make any tree look finished.",
+    "faqs": [
+      {
+        "a": "Plan on about 100 lights per foot of tree height — roughly 700 for a 7-foot tree and 900 for a 9-footer. Weave the strands deep into the branches, not just around the outside, and push some bulbs 6 to 8 inches inside the tree. That depth is what makes a tree glow instead of looking strung.",
+        "q": "How many lights do I need for a Christmas tree?"
+      },
+      {
+        "a": "Fluff the branches first, then lights, then ribbon or garland, then the big ornaments, then the small ones, then the topper, and the skirt or collar last. Ribbon goes on before ornaments so it can tuck into the branches, and lights go on first so you can hide the wires behind everything else.",
+        "q": "What order do you decorate a Christmas tree?"
+      },
+      {
+        "a": "For a 7-foot tree with vertical ribbon strips, plan on 30 to 50 yards of wired ribbon in total. Cut the ribbon into 3 to 4 foot sections, tuck the top of each section deep into the branches, let it fall, then tuck it in again lower down. Wired ribbon 2.5 to 4 inches wide holds its shape best — plain ribbon goes flat by week two.",
+        "q": "How much ribbon do I need for a Christmas tree?"
+      },
+      {
+        "a": "Start by fluffing every branch tip outward and slightly upward, working from the bottom up — on an artificial tree this one step makes the biggest difference. Then push the lights deep inside, hang ornaments at different depths (some near the trunk, some on the tips), and fill gaps with ribbon, picks or extra-large ornaments. A tree skirt or collar hides the stand and makes the whole thing look done.",
+        "q": "How do you make a Christmas tree look fuller?"
+      }
+    ],
+    "from": "#4E7D46",
+    "hero": {
+      "alt": "Christmas tree decorated with red and gold ornaments and long burgundy velvet ribbon cascading down, beside a lit stone fireplace with wrapped gifts at its base",
+      "src": "/img/a32-hero"
+    },
+    "images": [
+      {
+        "after": 2,
+        "img": {
+          "alt": "Close-up of a red ribbon bow tied among red and gold ornaments on a Christmas tree",
+          "caption": "A red ribbon bow among red and gold baubles — the bow tree look costs less than a box of ornaments.",
+          "src": "/img/a32-a"
+        }
+      },
+      {
+        "after": 4,
+        "img": {
+          "alt": "Christmas tree with red and gold ornaments, gold tinsel and a gold star topper against a plain wall",
+          "caption": "Red and gold with a gold star topper — the vintage look is really just the tree most of us grew up with.",
+          "src": "/img/a32-b"
+        }
+      },
+      {
+        "after": 6,
+        "img": {
+          "alt": "Hands hanging a red glass ornament on a Christmas tree among warm fairy lights",
+          "caption": "Hang ornaments at different depths — some near the trunk, some on the tips — and the tree looks full.",
+          "src": "/img/a32-c"
+        }
+      }
+    ],
+    "intro": "Our tree used to look fine from across the room and a bit sad up close — dark patches, ornaments all hanging at the same depth, ribbon that looked like an afterthought. Then we learned the order the pros use, and the same tree, with the same ornaments, suddenly looked like a different tree. These Christmas tree decorating ideas start with that order, then give you 15 themes to choose from — classic red and gold, the bow tree everyone is pinning this year, whimsical candy trees, vintage tinsel and small-space trees. Most of them need only a few new pieces, like a ribbon roll or a topper, to pull the whole look together.",
+    "motif": "tree",
+    "readTime": 10,
+    "sections": [
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Most trees don't look unfinished because of the ornaments. They look unfinished because of the order. Decorate in the wrong sequence and you end up moving ornaments to make room for ribbon, or fishing light wires out from behind baubles. Do it in this order and the tree practically finishes itself."
+          },
+          {
+            "t": "h3",
+            "text": "Fluff, then lights, then ribbon"
+          },
+          {
+            "items": [
+              "Fluff every branch. Pull each branch tip outward and slightly upward, working from the bottom up. On an artificial tree this single step makes the biggest difference, especially on an older tree.",
+              "Add the lights. Weave strands deep into the branches, working from the top down. Push some bulbs 6 to 8 inches inside the tree — depth is what makes a tree glow instead of looking strung.",
+              "Add ribbon or garland next, before ornaments get in the way. Ribbon tucks into the branches much more easily when nothing else is hanging yet.",
+              "Hang the large ornaments first, then the medium ones, then the small fillers. Finish with the topper and the skirt or collar last."
+            ],
+            "t": "ol"
+          },
+          {
+            "t": "h3",
+            "text": "The 100-lights-per-foot rule"
+          },
+          {
+            "t": "p",
+            "text": "Plan on about 100 lights per foot of tree height — roughly 700 for a 7-foot tree and 900 for a 9-footer. Warm white is the safest pick for almost every theme; it flatters reds, golds, greens and pastels alike. If your tree still has dark patches after lighting, you don't need more ornaments — you need more lights pushed deeper in."
+          }
+        ],
+        "heading": "The Order That Makes Any Tree Look Finished"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Red and gold is the tree most of us grew up with, and it still works because the palette does the heavy lifting. True red, antique gold and a hint of evergreen — nothing else needed. It's also the cheapest theme to build, since most ornament boxes already hold the pieces."
+          },
+          {
+            "t": "h3",
+            "text": "What goes on a red and gold tree"
+          },
+          {
+            "items": [
+              "Red glass balls in three sizes — the mix of sizes matters more than the count. About 30 to 40 ornaments cover a 7-foot tree.",
+              "Gold glitter pinecones and gold stars tucked deep into the branches for sparkle at the back of the tree.",
+              "A wide red velvet ribbon, 2.5 to 4 inches, draped in loose swags or cut into vertical cascades.",
+              "A gold star or plaid bow topper, and a tartan or plain red tree skirt to finish the base."
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "h3",
+            "text": "A 2026 update that costs almost nothing"
+          },
+          {
+            "t": "p",
+            "text": "If red and gold feels a little too familiar, add velvet bows. A dozen small burgundy or cream velvet bows clipped between the ornaments gives the classic tree the 2026 look for about $10 of ribbon. Skip the tinsel this year — the plain green tree with real ornaments is the look people are saving most, and tinsel fights it."
+          }
+        ],
+        "heading": "Classic Red and Gold Christmas Tree Decorating Ideas"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "If there's one Christmas tree decorating idea that defines 2026, it's ribbon used as the main event instead of an afterthought. The two looks everyone is pinning are the vertical ribbon cascade and the bow tree — and both cost very little, because ribbon does the work that dozens of ornaments used to do."
+          },
+          {
+            "t": "h3",
+            "text": "The vertical ribbon cascade"
+          },
+          {
+            "items": [
+              "Pick one ribbon colour and stick to it — velvet burgundy, cream satin or plaid all work. Buy wired ribbon, 2.5 to 4 inches wide.",
+              "Cut 6 to 10 strips a little longer than the tree. For a 7-foot tree, plan on 30 to 50 yards in total.",
+              "Attach one end of each strip under the topper with floral wire or a zip tie.",
+              "Let the strips fall straight down, tucking them into the branches every 12 to 18 inches so they make soft waves.",
+              "Cut the ends at an angle or into a V so they don't fray."
+            ],
+            "t": "ol"
+          },
+          {
+            "t": "h3",
+            "text": "The bow tree"
+          },
+          {
+            "t": "p",
+            "text": "Skip half the ornaments and clip 20 to 30 small velvet bows all over the tree instead. One colour, repeated — red is classic, cream is softer — with warm white lights and nothing else. It takes about 30 minutes, costs less than a box of ornaments, and photographs beautifully because the eye has somewhere to rest."
+          }
+        ],
+        "heading": "Christmas Tree Ribbon Ideas: Cascades and the Bow Tree"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Whimsical Christmas decor is the fastest-rising mood of the season — Pinterest searches for it are up 810% this year — and the tree is where it shines brightest. Think candy shop colours, paper chains and ornaments that make kids (and honestly, adults) grin."
+          },
+          {
+            "t": "h3",
+            "text": "The candy shop tree"
+          },
+          {
+            "items": [
+              "Peppermint swirl ornaments, candy canes and lollipop picks in red, white and pink.",
+              "Felt or resin gingerbread figures tucked between the branches, plus a gumdrop garland.",
+              "An oversized peppermint topper and a red-and-white striped tree skirt to tie it together.",
+              "A paper chain in mixed patterns draped as a second garland — the kids can help make it in an afternoon."
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "h3",
+            "text": "Pastel and pink trees"
+          },
+          {
+            "t": "p",
+            "text": "Blush pink, powder blue and soft mint are still going strong for a dreamy, romantic tree. The trick is keeping the palette to two or three colours and letting the lights stay warm white — cool white lights wash pastels out. A pink tree with velvet bows and pearl bead garland looks far more expensive than it is, and it's the tree kids ask for by name."
+          }
+        ],
+        "heading": "Whimsical Christmas Tree Decorating Ideas"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Nostalgia is the biggest decorating wave of 2026, and nowhere does it feel warmer than on the tree. Vintage glass, dried fruit, wood and plaid — the ornaments that look collected over years, not bought in one afternoon."
+          },
+          {
+            "t": "h3",
+            "text": "Vintage tinsel and retro bulbs"
+          },
+          {
+            "items": [
+              "Silver tinsel strands draped loosely, big colourful C9 bulbs and faded pastel ornaments.",
+              "A spire topper instead of a star — the tall, thin shape is the giveaway that this tree is vintage on purpose.",
+              "Your own ornament box raided first: mismatched glass balls, a few chipped favourites and anything handmade beat a matching set here."
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "h3",
+            "text": "Woodland farmhouse trees"
+          },
+          {
+            "items": [
+              "Burlap or buffalo check ribbon, wood slice ornaments, pinecones and faux birds.",
+              "Mini cowbells, a galvanized tree collar and warm white lights — no glitter needed.",
+              "Dried orange slices threaded on twine as a garland: they cost almost nothing, smell lovely and fit the handmade mood of the year."
+            ],
+            "t": "ul"
+          }
+        ],
+        "heading": "Vintage, Woodland and Nostalgic Christmas Trees"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "Not everyone has room for a 7-foot tree, and the good news is you don't need one. Slim pencil trees and tabletop trees are having a moment precisely because they fit real apartments — and a small tree decorated well looks better than a big tree decorated halfway."
+          },
+          {
+            "t": "h3",
+            "text": "The slim pencil tree"
+          },
+          {
+            "items": [
+              "A pencil tree takes up about half the floor space of a full tree and still holds 25 to 35 ornaments on a 6-foot frame.",
+              "Use smaller ornaments — 2 to 3 inch balls instead of 4 inch — so the proportions stay right.",
+              "One ribbon colour in a vertical cascade works beautifully here, since there's less width to cover.",
+              "Tuck it into a corner by a window and let the fairy lights do the rest; a slim tree by a window is the single most-pinned small-space look this year."
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "h3",
+            "text": "Tabletop trees that still feel special"
+          },
+          {
+            "t": "p",
+            "text": "A 2 to 3 foot tabletop tree on a sideboard or entry table needs only 15 to 20 ornaments, a short string of 50 lights and a small topper. Set it on a stack of books or a wooden crate so it sits at eye level, and wrap the base in a linen napkin or a scrap of plaid fabric instead of a skirt. It costs under $30 all in, and it's the easiest way to get Christmas into a room that can't hold a full tree."
+          }
+        ],
+        "heading": "Christmas Tree Decorating Ideas for Small Spaces"
+      },
+      {
+        "blocks": [
+          {
+            "t": "p",
+            "text": "The last ten minutes decide whether the tree looks finished or almost finished. The skirt, the topper and a little care after decorating are the difference — and they're the parts most people rush."
+          },
+          {
+            "t": "h3",
+            "text": "Skirt or collar?"
+          },
+          {
+            "items": [
+              "A tree skirt is the classic choice: tartan, velvet or plain linen, and it hides the stand completely. Budget about $25 to $40 for a good one.",
+              "A tree collar — galvanized metal, wicker or wood — suits farmhouse and woodland trees and takes up less floor space.",
+              "Either way, pick it before you start decorating, not after. The wrong base colour can fight the whole palette."
+            ],
+            "t": "ul"
+          },
+          {
+            "t": "h3",
+            "text": "If your tree is real"
+          },
+          {
+            "items": [
+              "Water it every day — a real tree can drink a litre or more in the first 24 hours, and a dry tree drops needles fast.",
+              "Keep it away from radiators and fireplaces; heat is what dries a tree out, not age.",
+              "Check the lights for hot bulbs before you hang them, and switch the tree off when you leave the house.",
+              "When the season ends, wrap ornaments in tissue and store them upright in a divided box — you'll thank yourself next December."
+            ],
+            "t": "ol"
+          }
+        ],
+        "heading": "Finishing Touches: Skirts, Toppers and Keeping It Fresh"
+      }
+    ],
+    "slug": "christmas-tree-decorating-ideas-2026",
+    "subcategory": "Living Room",
+    "title": "Christmas Tree Decorating Ideas 2026: Easy Ribbon Cascades, Velvet Bows & 15 Themes for Every Style",
+    "to": "#243B24"
+  }),
   P(  {
     "bannerTitle": "Christmas Eve Box Ideas",
     "category": "holidays",

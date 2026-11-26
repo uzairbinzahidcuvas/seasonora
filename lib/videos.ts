@@ -16,6 +16,17 @@ export type VideoEntry = {
 
 export const VIDEOS: VideoEntry[] = [
   {
+    slug: "winter-snow-globe-jars",
+    title: "DIY Winter Snow Globe Jars \u2013 Magical Christmas Craft",
+    description: "Make a charming homemade snow globe with a glass jar, miniature winter decorations and artificial snow \u2014 a lovely seasonal craft and handmade gift idea.",
+    category: "diy-crafts",
+    topic: "Winter gifts and decor",
+    articleSlug: "winter-snow-globe-jars",
+    poster: "/img/a33-a",
+    durationSec: 30,
+    date: "2026-11-26",
+  },
+  {
     slug: "felt-christmas-tree-ornaments",
     title: "DIY Felt Christmas Tree Ornaments \u2013 Cute Handmade Decorations",
     description: "Sew charming felt Christmas tree ornaments with simple materials and beginner-friendly stitches — a lovely handmade holiday project for a cozy tree or gift topper.",
