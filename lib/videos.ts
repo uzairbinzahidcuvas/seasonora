@@ -16,6 +16,17 @@ export type VideoEntry = {
 
 export const VIDEOS: VideoEntry[] = [
   {
+    slug: "winter-pinecone-wreath",
+    title: "DIY Pinecone Winter Wreath – Natural Holiday Door Decor",
+    description: "Create a natural winter wreath with pinecones, evergreen branches and a soft ribbon — handmade decor for Christmas and all winter long.",
+    category: "diy-crafts",
+    topic: "Winter door decor",
+    articleSlug: "winter-pinecone-wreath",
+    poster: "/img/a38-a",
+    durationSec: 30,
+    date: "2026-11-27",
+  },
+  {
     slug: "cozy-pom-pom-cushion-cover",
     title: "DIY Pom-Pom Cushion Cover for Cozy Winter Home Decor",
     description: "Give a plain cushion a cozy makeover with soft yarn pom-poms — a simple handmade project that adds texture to neutral sofas and winter living spaces.",

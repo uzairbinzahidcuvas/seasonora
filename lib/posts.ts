@@ -93,6 +93,572 @@ const P = (o: Post) => o;
 
 export const POSTS: Post[] = [
   P({
+    "bannerTitle": "DIY Pinecone Winter Wreath",
+    "category": "diy-crafts",
+    "date": "2026-11-27",
+    "excerpt": "A DIY winter pinecone wreath is the easiest way to make your front door look like Christmas without buying anything new. A grapevine base, dry pinecones, a few evergreen sprigs and a cream ribbon are the whole list, and the wreath looks right all winter long.",
+    "faqs": [
+        {
+            "a": "About an hour, start to finish, once your pinecones are dry. Planning the layout takes ten minutes, wiring the pinecones on takes about half an hour, and the evergreen and the bow take the rest. If you are making your first wreath, give yourself ninety minutes so you can step back and check the balance as you go. Drying fresh pinecones in a low oven adds about 45 minutes before you start, but you can do that the day before.",
+            "q": "How long does it take to make a DIY winter pinecone wreath?"
+        },
+        {
+            "a": "Yes, and they are the best kind to use, because no two are alike. Pick cones that are fully open and dry, and give them a shake to drop any loose seeds or dirt. If they came from the garden, bake them on a tray at 200\u00b0F for about 45 minutes to dry them out fully and send any tiny bugs packing. Let them cool completely before you wire them on. Skip any cone that is still closed tight or feels damp, since it will open later and push against its neighbours.",
+            "q": "Can I use real pinecones I found outside for a DIY winter pinecone wreath?"
+        },
+        {
+            "a": "Yes, as long as it hangs somewhere sheltered. A covered porch or a door under an overhang is ideal, because driving rain is what wears a wreath down fastest. Grapevine, pinecones and faux evergreen all handle cold well, and a little frost only makes the wreath look better. If your door faces the weather with no cover at all, bring the wreath inside on stormy nights or hang it on an interior door instead, and it will last the whole season.",
+            "q": "Will a DIY winter pinecone wreath survive outside all winter?"
+        },
+        {
+            "a": "A plain wire wreath frame works well and costs about the same, and a foam ring wrapped in burlap is another good option if you want a fuller look with fewer pinecones. A willow or twig ring from the garden centre behaves much like grapevine. What matters most is that the base is sturdy enough to hold the weight of the pinecones and has gaps you can thread wire through. Avoid a flat cardboard ring, since it sags once the pinecones go on and it will not survive a damp porch.",
+            "q": "What can I use instead of a grapevine base for a DIY winter pinecone wreath?"
+        }
+    ],
+    "from": "#4E8FB8",
+    "hero": {
+        "alt": "Natural pinecone winter wreath with evergreen foliage and a cream velvet bow hanging on a bright neutral front door, planters with greenery on either side",
+        "src": "/img/a38-hero"
+    },
+    "images": [
+        {
+            "after": 3,
+            "img": {
+                "alt": "Close-up of a natural pinecone winter wreath with evergreen foliage and a cream velvet bow hanging on a white front door",
+                "caption": "The finished wreath up close \u2014 pinecones, evergreen and a soft cream bow on a plain white door.",
+                "src": "/img/a38-a"
+            }
+        },
+        {
+            "after": 5,
+            "img": {
+                "alt": "Natural pinecone winter wreath with a cream bow on a front door, a stack of firewood and a woven doormat beside the door",
+                "caption": "The wreath in place on the porch, with a stack of firewood and a woven mat to finish the look.",
+                "src": "/img/a38-b"
+            }
+        }
+    ],
+    "intro": "A DIY winter pinecone wreath might be the simplest Christmas project we have made all season. There is no glue gun marathon, no fussy pattern and nothing to buy that you cannot find in one craft-store trip \u2014 or under a pine tree, if you have one nearby. We start with a plain grapevine base, lay pinecones around it until the shape feels balanced, wire them on, tuck evergreen into the gaps, and finish with a soft cream bow. About an hour later the front door looks ready for the season, and the wreath does not shout Christmas. It just looks like winter, so it can stay up from the first frost right through February.",
+    "motif": "snow",
+    "readTime": 8,
+    "sections": [
+        {
+            "blocks": [
+                {
+                    "t": "p",
+                    "text": "A DIY winter pinecone wreath works because it leans on nature instead of fighting it. Pinecones are free or nearly free, no two are alike, and their warm brown tones sit beautifully against dark green evergreen. The wreath never looks flat or plastic, because every piece has its own shape and texture, and the whole thing smells faintly of the woods when you walk past it. looks just as right in January as it does on Christmas Eve."
+                },
+                {
+                    "t": "h3",
+                    "text": "Cheap, natural and hard to get wrong"
+                },
+                {
+                    "t": "p",
+                    "text": "The other reason we love this project is how forgiving it is. There is no pattern to follow and no exact spacing to measure. If a pinecone sits a little crooked, it looks handmade in the best way, and a gap you missed is just a spot for one more sprig of evergreen. The wire does the holding, the evergreen does the hiding, and the bow covers whatever is left. You do not need steady hands or craft experience \u2014 if you can twist a piece of wire and tie a bow, you can make this wreath."
+                },
+                {
+                    "items": [
+                        "Cost: about $12 to $18 if you buy everything, and close to nothing if you gather the pinecones yourself",
+                        "Time: about one hour, plus drying time if your pinecones are fresh from outside",
+                        "Skill level: true beginner \u2014 no sewing, no gluing, no power tools",
+                        "Lasts: the whole winter on a sheltered porch, and it packs away flat for next year"
+                    ],
+                    "t": "ul"
+                }
+            ],
+            "heading": "Why a DIY Winter Pinecone Wreath Works So Well"
+        },
+        {
+            "blocks": [
+                {
+                    "t": "p",
+                    "text": "The list is short, and you probably own half of it already. A grapevine base in the 12 to 14 inch range is the right size for a standard front door \u2014 big enough to see from the street, light enough to hang on a normal wreath hook. Pick pinecones in two sizes if you can: large ones for the main ring and small ones to fill the gaps. Faux sprigs are the easier choice, because they never dry out or drop needles on the doormat."
+                },
+                {
+                    "items": [
+                        "Grapevine wreath base, 12 to 14 inches across",
+                        "12 to 15 clean, dry pinecones in mixed sizes",
+                        "Craft wire, 22 gauge, in a natural or dark green colour",
+                        "6 to 8 faux evergreen sprigs, or fresh clippings if you prefer",
+                        "Wire cutters",
+                        "Cream or ivory ribbon, 2 inches wide, about 1 yard \u2014 velvet looks best",
+                        "A wreath hook or over-door hanger, and a pair of garden gloves if your pinecones are prickly"
+                    ],
+                    "t": "ul"
+                },
+                {
+                    "t": "h3",
+                    "text": "Picking pinecones that behave"
+                },
+                {
+                    "t": "p",
+                    "text": "Look for cones that are fully open, dry to the touch and free of sap. A cone that is still closed tight will open as it dries indoors and push its neighbours out of place, so leave those in the basket. If your pinecones came from the garden, bake them on a tray at 200\u00b0F for 45 minutes and let them cool \u2014 they will open a little wider and smell wonderful, and any tiny bugs will be gone."
+                }
+            ],
+            "heading": "What You Need for a DIY Winter Pinecone Wreath"
+        },
+        {
+            "blocks": [
+                {
+                    "t": "p",
+                    "text": "Lay the grapevine base flat on the table and set your pinecones around it before you attach a single one. This dry run is the whole secret of a balanced wreath, because moving a loose pinecone takes two seconds and moving a wired one takes a lot longer. Start with your three or four largest cones spaced evenly around the ring, like numbers on a clock, then fill between them with the medium ones. Mix the sizes as you go \u2014 a ring of identical cones looks stiff, while a mix looks like it grew that way."
+                },
+                {
+                    "items": [
+                        "Place the biggest pinecones first, spaced evenly around the ring",
+                        "Turn each cone so its tip points outward, away from the centre hole",
+                        "Leave small gaps between cones \u2014 the evergreen fills those later",
+                        "Step back and look from above before you wire anything on",
+                        "Set aside two or three small cones for filling gaps at the end"
+                    ],
+                    "t": "ul"
+                },
+                {
+                    "t": "p",
+                    "text": "Take a photo of your layout with your phone before you start wiring \u2014 once the cones are in your hand, it is easy to forget which one went where."
+                }
+            ],
+            "heading": "Step 1: Arrange the Pinecones Around the Grapevine Base"
+        },
+        {
+            "blocks": [
+                {
+                    "t": "p",
+                    "text": "Cut a piece of craft wire about 8 inches long and wrap it once around the fat end of a pinecone, right where the scales meet the stem. Twist the two ends together behind the cone, then thread them through the grapevine base and twist again on the back, pulling snug but not so tight that the wire bites through the vine. The cone should sit firm against the base with no wobble. Work around the ring in the order you planned, checking the front every few cones to make sure the spacing still looks even."
+                },
+                {
+                    "items": [
+                        "Wrap the wire around the base of the cone, not the tip \u2014 the base holds, the tip snaps",
+                        "Twist the wire ends on the back of the wreath, never on the front",
+                        "Tuck sharp wire ends flat against the vine so they cannot scratch the door",
+                        "Give each cone a gentle tug when it is on \u2014 if it moves, add one more twist",
+                        "Wear gloves if the cone scales are sharp on your fingers"
+                    ],
+                    "t": "ul"
+                },
+                {
+                    "t": "p",
+                    "text": "If a cone will not sit flat, it is usually because the wire is wrapped too high up the cone. Slide the wire down toward the fat end and try again \u2014 a cone wired at its base hugs the ring, while one wired near its tip tips forward and leaves a gap behind it."
+                }
+            ],
+            "heading": "Step 2: Wire Each Pinecone to the Grapevine Base"
+        },
+        {
+            "blocks": [
+                {
+                    "t": "p",
+                    "text": "Now the wreath starts to look full. Take an evergreen sprig, trim the stem to about 4 inches, and push it into a gap between two pinecones, angling it outward so the tips follow the curve of the ring. A short piece of wire around the stem and through the base holds it if the sprig will not stay put on its own. Layer the sprigs so they overlap slightly, like roof tiles, turning the wreath as you go so the fullness stays even."
+                },
+                {
+                    "items": [
+                        "Start with the biggest gaps and work toward the small ones",
+                        "Angle sprigs outward, following the curve of the ring",
+                        "Mix sprig types if you have them \u2014 fir, cedar and pine together look more natural than one kind alone",
+                        "Hide every wire twist under a sprig or a pinecone",
+                        "Save the prettiest sprigs for the top of the wreath, where the eye lands first"
+                    ],
+                    "t": "ul"
+                },
+                {
+                    "t": "p",
+                    "text": "Stand the wreath up and hold it at arm's length when you think you are done. Gaps that are invisible on the table show up at once when the wreath is upright."
+                }
+            ],
+            "heading": "Step 3: Fill the Gaps with Faux Evergreen Sprigs"
+        },
+        {
+            "blocks": [
+                {
+                    "t": "p",
+                    "text": "Cut about a yard of cream ribbon and tie a full bow with two loops and two tails, keeping the loops even and the tails long \u2014 long tails look soft and wintery, and they move a little in the breeze. Wire the back of the bow to the bottom of the wreath, or the top if you prefer the bow at twelve o'clock, and fluff the loops until the bow looks full from the front. A bow at the bottom suits a door wreath best."
+                },
+                {
+                    "items": [
+                        "Tie the bow separately first, then wire it on \u2014 tying it in place is much harder",
+                        "Keep the tails at least 8 inches long and cut the ends at an angle",
+                        "Wire the bow through the grapevine, not through the pinecones",
+                        "Give the wreath a shake once the bow is on \u2014 anything loose will show itself now",
+                        "Hang the wreath on a hook rated for at least 5 pounds and check that it sits level"
+                    ],
+                    "t": "ul"
+                },
+                {
+                    "t": "p",
+                    "text": "Hang the wreath and step back to the street if you can. From a distance you will see the shape as a whole, and that is the view that matters most. If one side looks heavier than the other, move a single pinecone or add one sprig \u2014 small changes read large from far away, and you are usually one tweak from done."
+                }
+            ],
+            "heading": "Step 4: Tie the Ribbon Bow and Hang Your Wreath"
+        },
+        {
+            "blocks": [
+                {
+                    "t": "p",
+                    "text": "On the door, the wreath does the work on its own, but a few things around it make the whole porch feel finished. A woven doormat, a stack of firewood or a potted evergreen beside the door all echo the same natural palette, and warm white fairy lights wrapped loosely through the ring make the wreath glow after dark. Inside, the same wreath looks lovely over a mantel or on a plain wall."
+                },
+                {
+                    "t": "h3",
+                    "text": "Ways to make it your own"
+                },
+                {
+                    "items": [
+                        "Tuck in a few dried orange slices for a warm, spiced look",
+                        "Add small red berries or a cinnamon stick bundle for a Christmas feel",
+                        "Swap the cream ribbon for deep green velvet, plaid or a soft dusty pink",
+                        "Dust the pinecone tips with a little white craft paint for a frosted finish",
+                        "Make a matching mini wreath for a window using the same steps on a 6 inch base"
+                    ],
+                    "t": "ul"
+                },
+                {
+                    "t": "h3",
+                    "text": "Keeping it looking good"
+                },
+                {
+                    "t": "p",
+                    "text": "Shake it gently once a week to drop dust, and bring it inside on nights of heavy rain if your porch is uncovered. At the end of the season, take the bow off, slip the wreath into a large paper bag or an old pillowcase, and store it flat on a shelf. With that little bit of care the same wreath comes back next winter looking as good as the day you made it."
+                }
+            ],
+            "heading": "Styling, Care and Variations for Your DIY Winter Pinecone Wreath"
+        }
+    ],
+    "slug": "winter-pinecone-wreath",
+    "subcategory": "Wreaths & Garlands",
+    "title": "DIY Winter Pinecone Wreath: Natural Christmas Door Decor with Evergreen & a Cream Velvet Bow",
+    "to": "#275E7E",
+    "video": "winter-pinecone-wreath"
+}),
+  P({
+    "bannerTitle": "Christmas Breakfast Ideas 2026",
+    "category": "food-recipes",
+    "date": "2026-11-27",
+    "excerpt": "Christmas breakfast ideas that let you sleep in: overnight cinnamon rolls, a French toast casserole and a sausage egg bake, all made the night before.",
+    "faqs": [
+        {
+            "a": "Pick one sweet bake, one egg dish and something fresh — that's the whole menu. The three recipes in this guide feed 8 to 12 people: 12 cinnamon rolls, a French toast casserole for 8 to 10, and a sausage egg bake for 8 to 10. Add a fruit platter and coffee and you're covered for 12. If your group is bigger, double the sausage egg bake first — it's the cheapest to scale and holds heat the longest.",
+            "q": "What are the best Christmas breakfast ideas for a crowd?"
+        },
+        {
+            "a": "Yes — that's the whole point of these Christmas breakfast ideas. All three recipes are assembled on Christmas Eve and baked on Christmas morning: the rolls rise slowly in the fridge overnight and both casseroles soak up their custard. The fruit platter can be cut the night before too, and the pancake batter keeps in a jug in the fridge for 24 hours. Only the coffee and the glaze are made fresh.",
+            "q": "Can I make Christmas breakfast ideas ahead of time?"
+        },
+        {
+            "a": "Take the dishes out of the fridge at 7:45 a.m. and turn the oven to 350°F. The first dish goes in at 8:05, the second at about 8:30, and breakfast is on the table at 9:00. If your family opens presents later, hold the baked dishes at 200°F, loosely covered in foil, for up to an hour. Don't cook from scratch on Christmas morning; every recipe here is built so the morning is just oven time.",
+            "q": "What time should I start Christmas breakfast on Christmas morning?"
+        },
+        {
+            "a": "Plan on 2 cinnamon rolls per person, about 1 generous square of casserole per person, and 1 cup of fruit each. For 8 people that's the full batch of rolls, one casserole of each kind, and roughly 4 cups of cut fruit. Coffee runs at about 2 cups per adult, so a 12-cup pot covers 6 adults. Kids eat about half an adult portion of casserole but the same number of cinnamon rolls, in our experience.",
+            "q": "How much food do I need for Christmas breakfast?"
+        }
+    ],
+    "from": "#DE7A3D",
+    "hero": {
+        "alt": "Christmas morning breakfast table — pan of glazed cinnamon rolls, golden baked casserole in a glass dish, fruit platter, coffee mugs, lit mini Christmas tree and fairy lights",
+        "src": "/img/a37-hero"
+    },
+    "images": [
+        {
+            "after": 2,
+            "img": {
+                "alt": "Close-up of freshly baked cinnamon rolls with creamy icing drizzling down",
+                "caption": "Glazed and still warm — the overnight rolls, straight from the pan.",
+                "src": "/img/a37-a"
+            }
+        },
+        {
+            "after": 4,
+            "img": {
+                "alt": "Golden baked breakfast casserole topped with fresh herbs in a white dish",
+                "caption": "The sausage and egg bake, golden from the oven — it feeds 8 to 10.",
+                "src": "/img/a37-b"
+            }
+        },
+        {
+            "after": 6,
+            "img": {
+                "alt": "Christmas breakfast table set with a fruit platter, orange juice, cheese board and a lit Christmas tree in the background",
+                "caption": "The table at nine — everything baked, everything warm, nothing left to cook.",
+                "src": "/img/a37-c"
+            }
+        }
+    ],
+    "intro": "Christmas morning is the one morning nobody wants to spend at the stove. The kids are up at six, the presents are calling, and the last thing anyone needs is a parent chained to a frying pan. The best christmas breakfast ideas work the other way round: you do the work on Christmas Eve, the fridge does the waiting, and the oven does the rest while the stockings get opened. This guide gives you three complete make-ahead recipes — overnight cinnamon rolls, a French toast casserole and a sausage and egg bake — plus quick wins for the table and a timeline that puts breakfast on the table by nine.",
+    "motif": "cookie",
+    "readTime": 10,
+    "sections": [
+        {
+            "blocks": [
+                {
+                    "t": "p",
+                    "text": "A good Christmas breakfast has one job: feed everyone well without stealing the morning. No recipe that needs you whisking batter at 7 a.m. while the kids are already tearing paper. The trick is a menu built the night before, in three parts, so nothing competes for the oven."
+                },
+                {
+                    "t": "h3",
+                    "text": "The one-sweet, one-savory, one-fresh rule"
+                },
+                {
+                    "t": "p",
+                    "text": "Every Christmas breakfast that actually works follows the same shape. One sweet bake for the kids and the sweet tooths, one savory egg dish so nobody's hungry again by ten, and one fresh thing — fruit, usually — to cut through all the butter and sugar. Stick to that and you don't need a buffet."
+                },
+                {
+                    "items": [
+                        "One sweet bake: overnight cinnamon rolls or the French toast casserole (sections 3 and 4).",
+                        "One savory dish: the sausage and egg bake in section 5.",
+                        "One fresh thing: a big fruit platter — grapes, berries, orange slices and a few clementines.",
+                        "Drinks that run themselves: coffee on a timer and a kettle for tea."
+                    ],
+                    "t": "ul"
+                },
+                {
+                    "t": "h3",
+                    "text": "What counts as make-ahead"
+                },
+                {
+                    "t": "p",
+                    "text": "Make-ahead means the dish is fully assembled and sitting in the fridge before you go to bed on Christmas Eve. Not chopped, not half-mixed — assembled, covered, done. All three recipes bake at the same temperature, 350°F, so they can share the oven and the morning runs on one dial setting."
+                }
+            ],
+            "heading": "Christmas Breakfast Ideas That Let You Sleep In"
+        },
+        {
+            "blocks": [
+                {
+                    "t": "p",
+                    "text": "Christmas Eve afternoon is when the real cooking happens, and it takes about an hour all in. The rolls need a rise, the casseroles need a soak, and the fruit needs cutting — none of it hard, and all of it doable while the tree lights are on."
+                },
+                {
+                    "t": "h3",
+                    "text": "The Christmas Eve jobs that save the morning"
+                },
+                {
+                    "items": [
+                        "Make the cinnamon roll dough first, around 3 p.m. It rises for an hour, then shape, roll and pan the rolls and slide the pan into the fridge.",
+                        "Cube the bread for both casseroles next. Day-old bread works best — fresh bread turns mushy in the custard, so buy the loaves a day early and leave them out overnight.",
+                        "Assemble both casseroles in their 9x13 dishes, cover tightly, and refrigerate.",
+                        "Mix the French toast crumb topping in a small bowl and refrigerate it separately.",
+                        "Cut the fruit, squeeze the oranges for juice, and set the table with mugs, plates and serving spoons.",
+                        "Set the coffee maker on a timer for 7:30 a.m. and fill the kettle. Then you're done for the night."
+                    ],
+                    "t": "ol"
+                },
+                {
+                    "t": "p",
+                    "text": "Check your fridge space before you start — two 9x13 dishes plus a pan of rolls take up a full shelf. If space is tight, stack the casseroles with a cutting board between them."
+                }
+            ],
+            "heading": "What to Make on Christmas Eve"
+        },
+        {
+            "blocks": [
+                {
+                    "t": "p",
+                    "text": "These are the rolls our family asks for every year, and the overnight version is better than the same-day one — the slow fridge rise makes the dough softer and the filling soaks right in. They bake in 25 to 30 minutes while the first presents are opened, and the glaze goes on warm so it melts into the swirls."
+                },
+                {
+                    "t": "h3",
+                    "text": "Overnight cinnamon roll ingredients (makes 12 rolls)"
+                },
+                {
+                    "items": [
+                        "Dough: 3 1/2 cups all-purpose flour, 1 packet instant yeast (2 1/4 teaspoons), 1/4 cup sugar, 1 teaspoon salt, 1 cup warm whole milk, 1/4 cup melted butter, 1 large egg.",
+                        "Filling: 1/2 cup softened butter, 3/4 cup brown sugar, 2 tablespoons ground cinnamon.",
+                        "Glaze: 4 oz cream cheese, softened, 1/4 cup butter, softened, 1 cup powdered sugar, 1 teaspoon vanilla extract, 2 tablespoons milk."
+                    ],
+                    "t": "ul"
+                },
+                {
+                    "t": "h3",
+                    "text": "Overnight cinnamon roll method"
+                },
+                {
+                    "items": [
+                        "Whisk the flour, yeast, sugar and salt in a big bowl, then add the warm milk, melted butter and egg and stir until a soft dough forms.",
+                        "Knead on a floured counter for 5 minutes until smooth, cover, and let it rise in a warm spot for 1 hour, until doubled.",
+                        "Roll into a 12x18-inch rectangle, spread the butter over it, then sprinkle the brown sugar and cinnamon to the edges.",
+                        "Roll up tightly from the long side, pinch the seam shut, and cut into 12 slices with plain dental floss.",
+                        "Place cut-side up in a greased 9x13 dish, cover tightly, and refrigerate overnight, 8 to 12 hours.",
+                        "On Christmas morning, let the pan sit at room temperature for 30 minutes while the oven heats to 350°F.",
+                        "Bake 25 to 30 minutes until golden and the centers are set.",
+                        "Beat the glaze ingredients together until smooth and spread over the warm rolls."
+                    ],
+                    "t": "ol"
+                },
+                {
+                    "t": "p",
+                    "text": "If your kitchen is cold, the morning rest matters — cold dough bakes unevenly. And don't skip the floss for cutting: a knife squashes the swirl, floss keeps it round."
+                }
+            ],
+            "heading": "Overnight Cinnamon Rolls With Cream Cheese Glaze"
+        },
+        {
+            "blocks": [
+                {
+                    "t": "p",
+                    "text": "This is the easiest sweet bake in the guide and the one most likely to disappear first. Brioche or challah soaks up the custard overnight and turns into something between French toast and bread pudding — soft in the middle, crisp and sugary on top. It feeds 8 to 10."
+                },
+                {
+                    "t": "h3",
+                    "text": "French toast casserole ingredients (serves 8 to 10)"
+                },
+                {
+                    "items": [
+                        "1 loaf brioche or challah, about 1 pound, cut into 1-inch cubes.",
+                        "Custard: 8 large eggs, 2 cups half-and-half, 1/2 cup brown sugar, 2 teaspoons cinnamon, 1 teaspoon vanilla extract, a pinch of salt.",
+                        "Topping: 1/2 cup flour, 1/2 cup brown sugar, 1 teaspoon cinnamon, 1/4 cup cold butter, cut into small pieces.",
+                        "To serve: maple syrup, powdered sugar and a handful of berries."
+                    ],
+                    "t": "ul"
+                },
+                {
+                    "t": "h3",
+                    "text": "French toast casserole method"
+                },
+                {
+                    "items": [
+                        "Grease a 9x13 dish and fill it with the bread cubes in an even layer.",
+                        "Whisk the eggs, half-and-half, brown sugar, cinnamon, vanilla and salt, then pour slowly over the bread.",
+                        "Press the bread down so every cube gets wet, cover tightly, and refrigerate overnight.",
+                        "In the morning, let the dish sit at room temperature for 20 minutes while the oven heats to 350°F.",
+                        "Rub the topping ingredients together with your fingertips until crumbly and sprinkle it evenly over the top.",
+                        "Bake covered with foil for 30 minutes, then uncovered for 15 to 20 minutes more, until puffed and golden.",
+                        "Rest for 10 minutes before serving — it sets as it cools and cuts into clean squares."
+                    ],
+                    "t": "ol"
+                },
+                {
+                    "t": "p",
+                    "text": "Brioche is worth the extra dollar here — regular sandwich bread goes soft and flat, brioche holds its shape and tastes like the bakery version. If you only have sandwich bread, use day-old slices and cut the half-and-half back to 1 3/4 cups."
+                }
+            ],
+            "heading": "French Toast Casserole: The Sweet One-Pan Bake"
+        },
+        {
+            "blocks": [
+                {
+                    "t": "p",
+                    "text": "The savory anchor. This is the dish that keeps everyone full until lunch, and it's the simplest of the three — brown the sausage, whisk the eggs, layer it all in a dish and let the fridge do the rest. It bakes at the same 350°F, so it can go in right after the French toast casserole comes out."
+                },
+                {
+                    "t": "h3",
+                    "text": "Sausage and egg casserole ingredients (serves 8 to 10)"
+                },
+                {
+                    "items": [
+                        "1 pound breakfast sausage, 10 large eggs, 2 cups whole milk, 1 teaspoon salt, 1/2 teaspoon black pepper, 1 teaspoon dry mustard.",
+                        "6 cups cubed day-old bread, about half a loaf, 2 cups shredded sharp cheddar, 1/2 cup diced bell pepper (optional)."
+                    ],
+                    "t": "ul"
+                },
+                {
+                    "t": "h3",
+                    "text": "Sausage and egg casserole method"
+                },
+                {
+                    "items": [
+                        "Brown the sausage in a skillet over medium heat for 8 to 10 minutes, breaking it into crumbles, then drain well.",
+                        "Whisk the eggs, milk, salt, pepper and dry mustard in a large bowl until smooth.",
+                        "Grease a 9x13 dish. Layer half the bread, sausage, cheese and pepper, then repeat with the rest.",
+                        "Pour the egg mixture evenly over the top and press down gently so the bread soaks. Cover and refrigerate overnight.",
+                        "On Christmas morning, let the dish sit at room temperature for 20 minutes while the oven heats to 350°F. Then bake.",
+                        "Bake uncovered for 45 to 55 minutes, until puffed, golden at the edges and set in the center.",
+                        "Rest for 10 minutes before cutting. It slices cleanly once it settles."
+                    ],
+                    "t": "ol"
+                },
+                {
+                    "t": "p",
+                    "text": "Drain the sausage properly — that's the step people rush, and greasy sausage makes a soggy bottom. And the dry mustard looks optional but it isn't; it's what gives the eggs flavor once the cheese melts in."
+                }
+            ],
+            "heading": "Sausage and Egg Breakfast Casserole"
+        },
+        {
+            "blocks": [
+                {
+                    "t": "p",
+                    "text": "Not everything needs to be made the night before. A couple of quick wins round out the table and keep the kids busy while the casseroles bake — and they're the parts of the morning that feel the most like Christmas."
+                },
+                {
+                    "t": "h3",
+                    "text": "Gingerbread pancakes in 20 minutes"
+                },
+                {
+                    "items": [
+                        "Whisk 2 cups flour, 2 teaspoons baking powder, 1 teaspoon ginger, 1 teaspoon cinnamon, 1/4 teaspoon cloves and a pinch of salt together.",
+                        "Stir in 2 eggs, 1 1/2 cups milk, 1/4 cup molasses and 2 tablespoons melted butter until just combined — lumps are fine.",
+                        "Cook on a buttered griddle over medium heat, 2 to 3 minutes per side, until the edges set and bubbles pop.",
+                        "Serve with maple syrup, whipped cream and powdered sugar. The batter keeps in a jug in the fridge for 24 hours."
+                    ],
+                    "t": "ul"
+                },
+                {
+                    "t": "h3",
+                    "text": "What to put on the table while the casseroles bake"
+                },
+                {
+                    "items": [
+                        "A fruit platter: red grapes, blueberries, orange slices and clementines, cut the night before.",
+                        "A bowl of yogurt with honey and granola for anyone who wants something light first.",
+                        "Juice and coffee: orange juice in a jug, coffee on the timer, and a kettle for tea.",
+                        "The hot chocolate bar, if you set one up — our Christmas hot chocolate bar guide has the full topping list."
+                    ],
+                    "t": "ul"
+                },
+                {
+                    "t": "p",
+                    "text": "Put the pancakes last on the plan, not first. They're quick, but they need someone at the griddle. Let the oven do the heavy lifting and save the pancakes for the second wave, when the first plates are already cleared."
+                }
+            ],
+            "heading": "Quick Christmas Breakfast Ideas: Gingerbread Pancakes, Fruit and Hot Drinks"
+        },
+        {
+            "blocks": [
+                {
+                    "t": "p",
+                    "text": "The recipes are only half the plan — the other half is timing. Here's the schedule that works in a real house, with presents, kids and a dog underfoot. It aims for breakfast on the table at nine, with slack built in, because Christmas morning never runs exactly on time."
+                },
+                {
+                    "t": "h3",
+                    "text": "The 9 a.m. Christmas breakfast timeline"
+                },
+                {
+                    "items": [
+                        "Dec 24, afternoon: make the roll dough, assemble both casseroles, mix the crumb topping, cut the fruit, set the table. About 1 hour.",
+                        "Dec 24, evening: set the coffee timer for 7:30 a.m. and fill the kettle.",
+                        "7:45 a.m.: take the rolls and casseroles out of the fridge. Turn the oven to 350°F.",
+                        "8:05 a.m.: slide the cinnamon rolls in. Open stockings while they bake.",
+                        "8:30 a.m.: rolls out, French toast casserole in. Glaze the rolls while it bakes.",
+                        "9:00 a.m.: casserole out, sausage egg bake in — or serve everything together and hold the bake warm at 200°F.",
+                        "9:15 a.m.: pancakes on the griddle for anyone still hungry, fruit and coffee already on the table."
+                    ],
+                    "t": "ol"
+                },
+                {
+                    "t": "h3",
+                    "text": "Keeping everything warm"
+                },
+                {
+                    "items": [
+                        "Hold baked dishes in the oven at 200°F, loosely covered in foil, for up to 1 hour.",
+                        "A slow cooker on warm holds sausage or bacon perfectly and keeps it off the stove.",
+                        "Warm the plates in the oven for 5 minutes before serving — hot food on a cold plate goes lukewarm in minutes.",
+                        "Leftovers keep 3 days in the fridge; the casseroles reheat in the microwave in 90-second bursts."
+                    ],
+                    "t": "ul"
+                },
+                {
+                    "t": "p",
+                    "text": "That's the whole morning: an hour of work on Christmas Eve, an oven that does the rest, and a table full of food by nine. The best part is that you're sitting down with everyone else instead of standing at the stove."
+                }
+            ],
+            "heading": "A Christmas Morning Timeline That Actually Works"
+        }
+    ],
+    "slug": "christmas-breakfast-ideas",
+    "subcategory": "Brunch",
+    "title": "Christmas Breakfast Ideas 2026: Easy Make-Ahead Casseroles, Cinnamon Rolls & French Toast for Christmas Morning",
+    "to": "#A83E1B"
+}),
+P({
     "bannerTitle": "Christmas Hot Chocolate Bar",
     "category": "food-recipes",
     "date": "2026-11-26",
