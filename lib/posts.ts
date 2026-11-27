@@ -93,6 +93,386 @@ const P = (o: Post) => o;
 
 export const POSTS: Post[] = [
   P({
+
+  "bannerTitle": "DIY Christmas Gift Tags",
+  "category": "diy-crafts",
+  "date": "2026-11-27",
+  "excerpt": "DIY Christmas gift tags turn plain wrapping into something personal. 15 easy handmade ideas — kraft, felt, clay, wax seals and photo tags — most under $1 each.",
+  "faqs": [
+    {
+      "a": "Kraft cardstock between 65 and 110 lb is the best all-rounder — thick enough to hold its shape on a gift, light enough to cut with ordinary scissors. For contrast tags, use white or red cardstock in the same weight. Avoid regular printer paper: it's too flimsy, tears at the hole, and ink bleeds through it.",
+      "q": "What paper works best for DIY Christmas gift tags?"
+    },
+    {
+      "a": "Most of the ideas in this guide cost 25 to 80 cents per tag once you own the basic tools. A $15 starter kit — kraft cardstock, twine, a hole punch, ink and a couple of stamps — makes 50 or more tags, about 30 cents each. The cheapest idea is upcycled cereal-box tags at roughly 10 cents each.",
+      "q": "How much do DIY Christmas gift tags cost to make?"
+    },
+    {
+      "a": "Yes — the washi tape, button snowman and stamped kraft tags are all kid-friendly for ages 5 and up, as long as an adult handles the hole punch and any hot glue. Give kids their own small pile of blanks and let them decorate freely; their wonky, glitter-covered tags are usually the ones adults love most.",
+      "q": "Can kids help make DIY Christmas gift tags?"
+    },
+    {
+      "a": "Paper, felt and washi tape tags keep for months if you store them flat in a dry box, so make them any time from November. Dried orange slice tags last about 3 to 4 weeks before they soften, so make those in mid-December. Clay tags last for years once fully dry, and wax seals keep indefinitely as long as they don't get knocked around.",
+      "q": "How far ahead can I make my Christmas gift tags?"
+    }
+  ],
+  "from": "#4E8FB8",
+  "hero": {
+    "alt": "Kraft-wrapped Christmas gifts with blank handmade kraft gift tags, candles, fairy lights and pinecones on a dark wooden table",
+    "src": "/img/a41-hero"
+  },
+  "images": [
+    {
+      "after": 2,
+      "img": {
+        "alt": "Eighteen handwritten kraft Christmas gift tags arranged in rows on a dark wooden table with pine sprigs",
+        "caption": "A whole set of kraft tags in one sitting — stamp, write, tie, done.",
+        "src": "/img/a41-a"
+      }
+    },
+    {
+      "after": 4,
+      "img": {
+        "alt": "Kraft gift box tied with white twine and sealed with a red wax seal beside an evergreen sprig",
+        "caption": "A wax seal turns a plain kraft wrap into the fanciest gift under the tree.",
+        "src": "/img/a41-b"
+      }
+    },
+    {
+      "after": 6,
+      "img": {
+        "alt": "White gift box with a hand-lettered tag tied in green-and-white twine beside a pine sprig with fairy lights",
+        "caption": "Match the tag to the gift — a hand-lettered tag suits a personal present perfectly.",
+        "src": "/img/a41-c"
+      }
+    }
+  ],
+  "intro": "The first thing anyone reads on a Christmas present isn't the card — it's the tag. And a handmade one says something a store-bought sticker never will: you actually thought about this gift before you wrapped it. DIY Christmas gift tags cost almost nothing — most of ours come in under a dollar each — and you can make a whole matching set in one evening with supplies you probably already have in a drawer. Here are 15 ideas that actually work, grouped from easiest to most impressive, with real costs and timings so you know what you're getting into.",
+  "motif": "snow",
+  "readTime": 10,
+  "sections": [
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "A pack of 20 printed tags costs $4 to $6 at a craft store, and every single one looks the same. You get a generic snowflake, a generic reindeer, and a name line so small you need a fine-tip pen to write on it. Handmade tags flip that around: they cost less, they look like you, and nobody else under the tree has the same one."
+        },
+        {
+          "t": "p",
+          "text": "There's a practical side too. When every gift under your tree wears the same brown kraft paper and the same style of tag, the whole pile looks planned. And you can match the tag to the person: a photo tag for Grandma, a cinnamon stick tag for the neighbour who bakes, a wax seal for the one gift you really splurged on."
+        },
+        {
+          "t": "h3",
+          "text": "What a Handmade Tag Actually Costs"
+        },
+        {
+          "items": [
+            "Kraft cardstock, 50 sheets: about $3 — enough for 100+ tags",
+            "Baker's twine, one roll: about $2 — lasts for years",
+            "Christmas rubber stamps: $3 to $8 at a thrift or dollar store",
+            "Hole punch, 1/8 inch: about $2, one-time buy",
+            "Total per tag: roughly 40 to 60 cents, most of it twine and ink"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "p",
+          "text": "Compare that with $5 for a pack of printed tags and the math is obvious. The real cost is your time — about ten minutes a tag once you get going. Put on a Christmas film, make a mug of cocoa, and knock out the whole family's tags in one sitting."
+        }
+      ],
+      "heading": "DIY Christmas Gift Tags Beat Store-Bought Every Time"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "You don't need a craft room. Everything on this list fits in a shoebox, and most of it is stuff you can grab in one trip to the dollar store or the craft aisle. Buy the basics once and you'll be set for the next three Christmases."
+        },
+        {
+          "items": [
+            "Kraft cardstock, 65 to 110 lb — thick enough to hold its shape, easy to cut",
+            "White and red cardstock, a few sheets each, for contrast tags",
+            "Scissors or a paper trimmer, plus a corner rounder if you own one",
+            "Hole punch, 1/8 inch, and a few eyelets for a finished look",
+            "Baker's twine in red-white and green-white, plus plain jute string",
+            "Black ink pad and one red or green ink pad",
+            "Two or three Christmas rubber stamps — a tree, a snowflake and a star",
+            "Fine-tip black pen or gold gel pen for names",
+            "Glue stick and a roll of double-sided tape",
+            "Small extras: dried orange slices, cinnamon sticks, felt scraps, buttons, washi tape"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "The Three Tools Worth Buying"
+        },
+        {
+          "t": "p",
+          "text": "If you buy nothing else, buy these three. A decent hole punch ($2) stops tags from tearing at the string. A corner rounder ($4) makes every tag look store-bought in the best way. And a gold gel pen ($2) turns plain handwriting into something that looks like calligraphy, even when it isn't."
+        },
+        {
+          "items": [
+            "Clear a kitchen table and lay down newspaper — ink and glue get everywhere.",
+            "Cut all your tag blanks first: 2 by 3.5 inches is the sweet spot.",
+            "Round the corners and punch the holes in one batch, before decorating.",
+            "Set out stamps, inks and extras in small bowls so you're not hunting mid-project.",
+            "Make one test tag first: check ink colour, name size and twine length."
+          ],
+          "t": "ol"
+        }
+      ],
+      "heading": "Your $15 Starter Kit for DIY Christmas Gift Tags"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "If you only make one kind of tag this year, make this one. Brown kraft paper, a black stamp and red-white twine is the look every wrapping blog uses for a reason: it goes with any paper, any ribbon and any tree. It takes ten minutes, it never looks wrong, and it photographs beautifully."
+        },
+        {
+          "t": "h3",
+          "text": "Stamped Kraft Tags in 10 Minutes"
+        },
+        {
+          "items": [
+            "Cut kraft cardstock into 2 by 3.5 inch rectangles and round the top corners.",
+            "Punch a 1/8 inch hole near the top centre, a quarter inch from the edge.",
+            "Press the stamp into the ink pad, then straight down onto the tag — don't rock it.",
+            "Let the ink dry 2 to 3 minutes. Smudged ink is the one mistake you can't undo.",
+            "Write the name in black fine-tip pen, or gold gel pen for a fancier look.",
+            "Thread 8 inches of baker's twine through the hole, knot it, trim the ends at an angle."
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "p",
+          "text": "One stamp set and one ink pad will carry you through the whole family. We made 24 tags last year from a single $3 pack of kraft cardstock and still had paper left for the birthday tags in January."
+        },
+        {
+          "t": "h3",
+          "text": "Dried Orange Slice Tags That Smell Like Christmas"
+        },
+        {
+          "t": "p",
+          "text": "These are the tags people sniff before they read. A thin dried orange slice tied to a kraft tag with jute string looks like something from a farmhouse shop, and the whole house smells faintly of citrus while you make them."
+        },
+        {
+          "items": [
+            "2 oranges, sliced a quarter inch thick — one orange makes about 8 slices",
+            "Bake at 200°F (95°C) for 2 to 3 hours, flipping once, until dry and crisp",
+            "Kraft tags, jute string and a sprig of evergreen or rosemary per tag",
+            "Write the name on the tag first, then tie the orange slice on"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "p",
+          "text": "Make the slices a week ahead and store them in a paper bag, not plastic — plastic traps moisture and they'll go soft. If a slice curls while it dries, press it flat under a heavy book overnight."
+        }
+      ],
+      "heading": "Kraft Paper Tags: The Classic That Never Fails"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Paper tags get recycled on Boxing Day. Felt and clay tags get kept. We've seen felt tree tags hanging on next year's tree as ornaments, and clay tags with a child's name on them tucked into a memory box. They take a little longer, but they're the ones people remember."
+        },
+        {
+          "t": "h3",
+          "text": "Felt Tree and Stocking Tags"
+        },
+        {
+          "items": [
+            "Felt sheets in dark green, red and cream — about $0.30 a sheet",
+            "A simple tree or stocking template cut from cardboard",
+            "Embroidery thread in white and gold, plus a needle with a big eye",
+            "Tiny buttons for ornaments, and 6 inches of twine per tag"
+          ],
+          "t": "ul"
+        },
+        {
+          "items": [
+            "Trace the template onto felt and cut two layers per tag — front and back.",
+            "Stitch a running stitch around the edge in white thread, leaving a small gap at the top.",
+            "Sew on three or four tiny buttons as ornaments, then close the gap with a few more stitches.",
+            "Write the name on a small cream felt strip and glue it across the bottom.",
+            "Loop twine through the top stitch and knot it. One tag takes about 15 minutes."
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "h3",
+          "text": "Air-Dry Clay Tags With Stamped Names"
+        },
+        {
+          "t": "p",
+          "text": "Air-dry clay is the closest thing to magic in the craft aisle. No kiln, no oven — you roll it out, stamp it, and leave it on the counter overnight. A $6 pack makes 30 or more tags, which works out to about 20 cents each."
+        },
+        {
+          "items": [
+            "Roll the clay to a quarter inch thick on a floured surface — a rolling pin or a smooth glass works.",
+            "Cut tag shapes with a cookie cutter or a knife: circles, stars and plain rectangles all work.",
+            "Press alphabet stamps gently into the clay to spell the name. Press once, firmly — a second press blurs the letter.",
+            "Poke a hole near the top with a straw before the clay starts to set.",
+            "Leave flat for 24 hours to dry fully, flipping once after 12 hours so both sides dry evenly.",
+            "Optional: brush the edges with gold paint or rub in a little cinnamon for a warm, rustic finish."
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "p",
+          "text": "Clay tags are heavier than paper, so tie them with jute string rather than thin twine, and tape the string to the wrapping paper so the tag doesn't swing and tear it. They double as ornaments — tell the person to hang theirs on the tree."
+        }
+      ],
+      "heading": "Felt and Clay Tags That Feel Like Keepsakes"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "These two are for the gifts you want to look expensive. A photo tag turns the wrapping into a memory before the present is even opened, and a wax seal makes a $10 gift look like it came from a boutique. Both are easier than they look, and both use supplies you can find in one shop run."
+        },
+        {
+          "t": "h3",
+          "text": "Photo Tags With Festive Frames"
+        },
+        {
+          "items": [
+            "Pick one small photo per person — a snapshot from last Christmas works better than a posed portrait.",
+            "Print at home on photo paper at 2 by 3 inches, or order wallet-size prints for about 25 cents each.",
+            "Glue the photo onto a slightly larger piece of red or green cardstock so a coloured border shows around it.",
+            "Write the name on the back in gold pen, punch a hole at the top and add twine.",
+            "For kids' gifts, let them pick their own photo — they'll spot their present from across the room."
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "p",
+          "text": "Photo tags solve the annual problem of two gifts looking identical under the tree. Nobody unwraps the wrong present when their own face is on the tag, and grandparents will keep these long after the gift is gone."
+        },
+        {
+          "t": "h3",
+          "text": "Wax Seal Tags With a Stamped Initial"
+        },
+        {
+          "items": [
+            "A wax seal stamp with a single initial or a star — about $8 to $12 online",
+            "Sealing wax sticks in burgundy or forest green, about $6 for a pack of five",
+            "A low-heat glue gun or a small spoon and a tea light, plus kraft tags and twine"
+          ],
+          "t": "ul"
+        },
+        {
+          "items": [
+            "Melt a coin-sized puddle of wax onto the tag, just below the hole.",
+            "Press the seal stamp straight down and hold it still for 10 seconds — don't wiggle it.",
+            "Lift straight up. If the wax sticks, chill the stamp in the freezer for 5 minutes and try again.",
+            "Let the seal set for 2 minutes before you handle the tag.",
+            "Practice on scrap paper first. Your first three seals will be messy; the fourth one will be perfect."
+          ],
+          "t": "ol"
+        }
+      ],
+      "heading": "Photo Tags and Wax Seals for a Polished Finish"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Here's the full list in one place, from the five-minute ideas to the weekend projects. Pick two or three styles at most for a matching set — a whole tree of mismatched tags looks busy, but two or three styles repeated across every gift looks intentional."
+        },
+        {
+          "t": "h3",
+          "text": "The 5-Minute Tags"
+        },
+        {
+          "items": [
+            "Washi tape tags — 5 minutes, about $0.25 each. Stripes of tape across plain cardstock.",
+            "Cinnamon stick tags — 5 minutes, about $0.35 each. A cinnamon stick and rosemary tied to a kraft tag.",
+            "Stamped kraft tags — 10 minutes, about $0.40 each. The classic; start here.",
+            "Chalkboard tags — 10 minutes, about $0.45 each. Black cardstock, white gel pen; wipe and reuse.",
+            "Photo tags — 10 minutes, about $0.30 each. Wallet-size prints on coloured cardstock.",
+            "Cereal box upcycled tags — 10 minutes, about $0.10 each. Cut from the plain inside of a cereal box."
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "h3",
+          "text": "The Keepers: Tags Worth an Evening"
+        },
+        {
+          "items": [
+            "Dried orange slice tags — 15 minutes plus 2 to 3 hours in a low oven, about $0.50 each.",
+            "Mini wreath tags — 20 minutes, about $0.75 each. A tiny evergreen wreath tied to a kraft tag.",
+            "Felt tree tags — 15 minutes, about $0.60 each. Soft and keepsake-worthy.",
+            "Air-dry clay tags — 20 minutes plus 24 hours drying, about $0.50 each. Doubles as an ornament.",
+            "Wax seal tags — 15 minutes, about $0.80 each. The fanciest look here, and easier than it sounds.",
+            "Watercolor wash tags — 15 minutes, about $0.40 each. A loose wash of green or red, name in black ink.",
+            "Embroidery stitch tags — 25 minutes, about $0.55 each. Stitch a tree or snowflake onto cardstock.",
+            "Button snowman tags — 15 minutes, about $0.50 each. Three white buttons, drawn carrot nose.",
+            "Gold-ink calligraphy tags — 15 minutes, about $0.45 each. Gold gel pen on dark green or navy cardstock."
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "p",
+          "text": "If you're short on time, the five-minute ideas — washi tape and cinnamon stick — still beat anything from a shop. And if you have a whole evening, make the clay or felt ones: they're the tags people keep."
+        }
+      ],
+      "heading": "15 DIY Christmas Gift Tags at a Glance"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "A tag looks best when it suits what's inside. A wax seal on a child's toy looks stuffy; a button snowman on a bottle of wine looks wrong. Match the tag to the gift and the person, and the wrapping feels like part of the present instead of an afterthought."
+        },
+        {
+          "t": "h3",
+          "text": "Pick the Tag to Match the Gift"
+        },
+        {
+          "items": [
+            "Kids' gifts: photo tags or button snowmen — they can spot their own present instantly",
+            "Food and baking gifts: dried orange slice or cinnamon stick tags — the tag smells like what's inside",
+            "The one expensive gift: a wax seal tag — it signals that this one matters",
+            "Handmade gifts: felt or clay tags — the tag matches the effort of the gift",
+            "Secret Santa or office gifts: stamped kraft tags — clean, neutral and quick to make in bulk",
+            "Grandparents: photo tags, every time — they'll keep the tag long after the gift is gone"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "How to Store Handmade Tags So They Last"
+        },
+        {
+          "items": [
+            "Make extras. Ten spare blank kraft tags in a drawer will save you on Christmas Eve, guaranteed.",
+            "Store finished tags flat in a shoebox, layered between sheets of tissue paper so ink and wax don't transfer.",
+            "Keep clay and wax seal tags in a separate small box with tissue — they chip if they rattle around.",
+            "Write names in pencil first if you're making tags ahead, then ink them in once the gift list is final.",
+            "Save your templates, stamps and leftover twine in one labelled box. Next December you'll open it and be halfway done."
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "p",
+          "text": "That's the real secret of handmade tags: the first year takes an evening, and every year after takes half the time, because the kit is already in the box. Start with the stamped kraft tags this year, add one new style next year, and in three years you'll have a collection that looks like it came from a shop — except it came from your kitchen table."
+        }
+      ],
+      "heading": "Matching the Tag to the Gift (and Storing Them for Next Year)"
+    }
+  ],
+  "slug": "diy-christmas-gift-tags",
+  "subcategory": "Handmade Gifts",
+  "title": "DIY Christmas Gift Tags: 15 Easy Handmade Ideas for Beautiful Wrapping",
+  "to": "#275E7E"
+
+}),
+  P({
   "bannerTitle": "Concrete Leaf Stepping Stones",
   "category": "diy-crafts",
   "date": "2026-11-27",
