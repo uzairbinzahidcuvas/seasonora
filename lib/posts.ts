@@ -93,6 +93,613 @@ const P = (o: Post) => o;
 
 export const POSTS: Post[] = [
   P({
+  "bannerTitle": "Concrete Leaf Stepping Stones",
+  "category": "diy-crafts",
+  "date": "2026-11-27",
+  "excerpt": "Concrete leaf stepping stones turn one fresh hosta leaf and a bucket of cement into garden art. Mix, pour, press, peel — the leaf's veins stay in the stone.",
+  "faqs": [
+    {
+      "a": "Give them 24 to 48 hours in the mold before you peel the leaf away, and a full week before you walk on them every day. The surface feels hard after a day, but cement keeps gaining strength for days after that. If the weather is cool or damp, wait the full 48 hours — rushing the peel is the most common reason a print smudges.",
+      "q": "How long do concrete leaf stepping stones take to cure?"
+    },
+    {
+      "a": "Big leaves with strong veins give the clearest prints. Hosta is the classic choice because its leaves are broad, thick and deeply veined, and rhubarb works just as well. Maple and oak leaves also print nicely, though the pattern is finer. Skip thin, papery leaves and anything wilted — a limp leaf folds in the wet cement and the print comes out patchy.",
+      "q": "Which leaves work best for concrete leaf stepping stones?"
+    },
+    {
+      "a": "Yes, once they have cured fully. Cement is made for the outdoors, and a leaf stone that has cured for a week handles rain, frost and foot traffic without trouble. In a very cold climate, set the stones on a bed of sand rather than straight onto soil so water drains away instead of freezing under them. A yearly brush with a concrete sealer keeps the print crisp and stops moss from settling into the veins.",
+      "q": "Can I leave concrete leaf stepping stones outside all winter?"
+    },
+    {
+      "a": "A blurry print usually means the leaf moved, or the mix was too wet. Press the leaf face-down and smooth over its back with your palm so every vein touches the cement, then leave it completely alone — lifting a corner to peek breaks the contact. The mix should hold its shape like thick porridge; if it slumps or water pools on top, stir in a little more cement and sand before you pour.",
+      "q": "Why did my leaf print come out blurry?"
+    }
+  ],
+  "from": "#4E8FB8",
+  "hero": {
+    "alt": "Finished concrete leaf stepping stones with crisp hosta leaf vein imprints set into a garden path among green plants and soft mulch, bright natural daylight",
+    "src": "/img/a40-hero"
+  },
+  "images": [
+    {
+      "after": 3,
+      "img": {
+        "alt": "Hands in rubber gloves mixing grey cement in a bucket and pouring it into a round mold on a garden workbench, trowel and fresh hosta leaf nearby",
+        "caption": "The mix should be thick and smooth, like porridge — wet enough to pour, stiff enough to hold the leaf's shape.",
+        "src": "/img/a40-a"
+      }
+    },
+    {
+      "after": 5,
+      "img": {
+        "alt": "Close-up of a hand gently peeling a fresh hosta leaf off set grey cement, revealing a crisp veined leaf imprint in the round stepping stone",
+        "caption": "Peel slowly from one edge and the leaf lifts away clean, leaving every vein behind in the stone.",
+        "src": "/img/a40-b"
+      }
+    }
+  ],
+  "intro": "Concrete leaf stepping stones are the kind of project that makes you look twice. You press a real leaf into wet cement, wait a day, peel it away — and the stone keeps the leaf's veins, stem and shape forever. No carving, no molds to buy, no skill you do not already have. We made our first set with one hosta leaf from the garden, a bag of cement and an old baking tray, and they still sit on our path looking like they came from a garden shop. This guide walks you through the whole thing in five simple steps, plus the small tricks that keep the print crisp and the stones strong for years.",
+  "motif": "snow",
+  "readTime": 9,
+  "sections": [
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "A concrete leaf stepping stone works because it borrows nature's best pattern. A hosta or rhubarb leaf has veins, ridges and a shape no human hand can carve as well, and wet cement records all of it — every fine line and every fold. The result looks like real garden art, yet the making could not be simpler: mix, pour, press, peel."
+        },
+        {
+          "t": "h3",
+          "text": "One leaf, one afternoon, years of use"
+        },
+        {
+          "t": "p",
+          "text": "The other reason we love this project is how little it asks of you. The supplies cost a few dollars if you already own a bucket and a trowel, the work takes about half an hour of hands-on time, and the stones last for years outside. It is also forgiving in a way most cement work is not — a slightly uneven edge just looks handmade, and a stone that comes out a little rough still reads as rustic garden charm rather than a mistake."
+        },
+        {
+          "items": [
+            "Cost: about $10 to $15 for cement, sand and a mold, and less if you already own the tools",
+            "Time: about 30 minutes of hands-on work, plus 24 to 48 hours of curing",
+            "Skill level: true beginner — if you can stir a bucket, you can make these",
+            "Supplies: Portland cement, play sand, water, a bucket, a trowel, gloves, one big fresh leaf and a shallow mold",
+            "Result: a solid garden stone with a crisp leaf print that looks shop-bought"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "p",
+          "text": "Best of all, no two stones are ever the same. Each leaf prints a little differently, so a path of four or five stones has the easy, natural variation of real leaves — which is exactly why people stop and look at them."
+        }
+      ],
+      "heading": "Why Concrete Leaf Stepping Stones Work So Well"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Everything on this list fits in a small basket, and you may already have most of it at home. Lay it all out on your workbench before you start so the making part flows without a hunt for a missing piece halfway through."
+        },
+        {
+          "t": "h3",
+          "text": "The materials list"
+        },
+        {
+          "items": [
+            "Portland cement — one small bag makes several stones",
+            "Play sand — fine, clean sand mixes smoothly and gives a neat finish",
+            "Water — a jug of clean tap water, added a little at a time",
+            "A mixing bucket — sturdy, with room to stir without slopping over",
+            "A trowel for smoothing the surface and pressing the leaf",
+            "Rubber gloves — cement dries skin out fast, so wear them from the first stir",
+            "One large fresh leaf — hosta or rhubarb, with strong veins and no tears",
+            "A shallow round mold, or an old baking tray lined with plastic",
+            "Cooking spray or petroleum jelly to coat the mold so the stone pops out clean"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "p",
+          "text": "A quick note on the leaf: pick it the same morning you plan to make the stones. A fresh leaf is pliable and presses flat without cracking, and its veins stand proud against the cement. A leaf that has sat in a vase for two days goes limp, folds in the wet mix and prints patchy. If you only have smaller leaves, use two or three side by side in one mold for a cluster print — it looks just as good."
+        }
+      ],
+      "heading": "What You Need for Concrete Leaf Stepping Stones"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Two small jobs before the cement gets wet, and both of them decide how good the finished stone looks. Ten careful minutes here pays off in a print that comes out crisp instead of smeared."
+        },
+        {
+          "t": "h3",
+          "text": "Step 1: Lightly coat the mold"
+        },
+        {
+          "items": [
+            "Wipe the inside of the mold with cooking spray or a thin smear of petroleum jelly",
+            "Cover every corner and the rim — any dry spot can grip the cement and chip the edge",
+            "Set the mold on a flat, level surface where it can sit undisturbed for two days",
+            "Lay your leaf nearby, face-down, so you can grab it the moment the mix is poured"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "h3",
+          "text": "Step 2: Mix cement and sand 1:1 with water"
+        },
+        {
+          "items": [
+            "Put one part Portland cement and one part play sand in the bucket and stir them dry first",
+            "Add water a little at a time, stirring as you go — a splash too much makes the mix runny",
+            "Stop when the mix is thick and smooth, like porridge, and holds its shape on the trowel",
+            "Wear your gloves from the first stir; cement is rough on bare skin"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "p",
+          "text": "The mix is the whole game. Too wet and the leaf sinks, the veins blur and the stone cures weak. Too dry and it will not take the print at all. Aim for thick and smooth: it should pour slowly off the trowel in a heavy ribbon, not run like soup. If you overshoot the water, stir in a spoonful more cement and sand until it firms up again."
+        }
+      ],
+      "heading": "Prep and Mix: Steps 1 and 2 for Concrete Leaf Stepping Stones"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Now comes the satisfying part — the moment the flat grey mix turns into something with a leaf in it. Work steadily and do not rush the pressing; this is the step the whole project is named for."
+        },
+        {
+          "t": "h3",
+          "text": "Step 3: Pour into the mold and smooth the surface"
+        },
+        {
+          "items": [
+            "Spoon the mix into the coated mold and tap the sides gently to shake out air bubbles",
+            "Fill it nearly to the rim, then smooth the top flat with the trowel",
+            "Wipe the rim clean so the stone's edge comes out neat",
+            "Check the surface by eye — it should look flat and even, with no puddles of water"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "h3",
+          "text": "Step 4: Press the leaf face-down and smooth over its back"
+        },
+        {
+          "items": [
+            "Lay the leaf face-down in the centre of the wet cement, veins toward the mix",
+            "Press it down with your palm, starting at the stem and working out to the edges",
+            "Smooth over the back of the leaf with your fingers so every vein touches the cement",
+            "Push out any air pockets trapped under the leaf, then leave it completely alone"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "p",
+          "text": "Resist the urge to lift a corner and peek. The leaf needs full, still contact with the wet cement to print every vein, and one lift breaks that contact for good. If an edge curls up, press it back down gently and walk away. The cement will do the rest while you clean your tools — wash the bucket and trowel right away, before the mix sets on them."
+        }
+      ],
+      "heading": "Pour and Press: Steps 3 and 4 for Concrete Leaf Stepping Stones"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The hard part is over. Now the stone needs time, and time is the one thing you cannot hurry with cement. A stone peeled too early smudges; a stone given its full cure lasts for years."
+        },
+        {
+          "t": "h3",
+          "text": "Step 5: Cure 24 to 48 hours, peel the leaf away, place the stone"
+        },
+        {
+          "items": [
+            "Leave the mold somewhere flat and shaded for 24 to 48 hours — sun and wind dry the surface too fast and can crack it",
+            "After a day, touch the surface: it should feel hard and cool, not soft or tacky",
+            "Peel the leaf away slowly from one edge, like peeling a sticker, and watch the print appear",
+            "Pop the stone out of the mold and set it aside for a full week before daily foot traffic",
+            "Place it on a garden path on a bed of sand, and press it level with your foot"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "p",
+          "text": "That first peel is the best moment of the whole project. The leaf lifts away and the stone keeps its veins, its stem, even the faint texture of the leaf's skin. If a few green bits stick in the grooves, brush them out gently with an old toothbrush once the stone is fully dry. Then step back and look at it on the path — it will not look handmade, it will look found, like something the garden grew on its own."
+        }
+      ],
+      "heading": "Cure, Peel and Place: Step 5 for Concrete Leaf Stepping Stones"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Most leaf prints fail for small, fixable reasons — the mix was too wet, the leaf moved, or the peel came too early. A few habits keep the print sharp every time."
+        },
+        {
+          "t": "h3",
+          "text": "Small habits, crisp prints"
+        },
+        {
+          "items": [
+            "Pick the leaf the same morning, and choose one with deep veins and no tears or holes",
+            "Keep the mix thick — it should hold its shape on the trowel, not slump",
+            "Press the leaf from the stem outward so air escapes instead of getting trapped under it",
+            "Do not move the mold once the leaf is pressed; even a small jolt can smear the veins",
+            "Cover the mold loosely with plastic on a hot day so the surface dries slowly and evenly",
+            "If the first stone disappoints, the leaf is free — try again with a fresh one the same afternoon"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "Styling and uses around the garden"
+        },
+        {
+          "t": "p",
+          "text": "A single leaf stone makes a lovely marker beside a favourite plant, but a set of four or five turns a plain stretch of lawn into a path. Space them a comfortable step apart on a bed of sand, and let low plants like creeping thyme or moss grow between them. They also work as plant-pot saucers with personality, as a stepping stone to a bird bath, or as a gift — wrap one in brown paper with a sprig of the same leaf tied on top, and it looks like something from a craft fair."
+        }
+      ],
+      "heading": "Tips That Keep the Imprint Crisp"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Concrete leaf stepping stones are easy to live with, and a little care keeps the print sharp for years. Most problems have simple fixes, and the project invites new ideas every season."
+        },
+        {
+          "t": "h3",
+          "text": "Keeping them strong, and making them yours"
+        },
+        {
+          "items": [
+            "Seal once a year: brush on a concrete sealer to keep the print crisp and stop moss settling into the veins",
+            "Clean with a stiff brush and water — skip the pressure washer, which can wear the fine detail away",
+            "Lift and re-level any stone that rocks by adding a scoop of sand underneath",
+            "Try other leaves: maple, oak and fern each print a different pattern, and a set of mixed leaves looks like a pressed-leaf collection",
+            "Tint the mix with a little cement colour for soft grey-green or warm sand tones",
+            "Make a matching pair of small stones for either side of a gate, or one big stone as a doorstep feature"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "p",
+          "text": "Our favourite version is the simplest one: a set of plain grey hosta stones on a mulch path, no colour, no fuss. The leaf does all the talking, and guests always ask where we bought them. Now you can tell them you made them yourself in an afternoon — with one leaf and a bucket of cement."
+        }
+      ],
+      "heading": "Care and Variations for Your Concrete Leaf Stepping Stones"
+    }
+  ],
+  "slug": "diy-concrete-leaf-stepping-stones",
+  "subcategory": "Handmade Gifts",
+  "title": "Concrete Leaf Stepping Stones: Easy DIY Cement Garden Stones with Real Leaf Imprints",
+  "to": "#275E7E",
+  "video": "diy-concrete-leaf-stepping-stones"
+}),
+  P({
+  "bannerTitle": "Easy Concrete Garden Crafts",
+  "category": "diy-crafts",
+  "date": "2026-11-27",
+  "excerpt": "Concrete garden crafts turn one bag of cement into planters, stepping stones and garden orbs that look store-bought. Here are 15 easy projects with real costs.",
+  "faqs": [
+    {
+      "a": "Use one part Portland cement to one part sharp sand, with just enough water to reach a thick porridge texture. Add water a splash at a time — too much water makes weak concrete that cracks in frost. For big pieces like planters over 40 cm or long troughs, add a handful of fine gravel or a strip of wire mesh for extra strength.",
+      "q": "What mix do I use for concrete garden crafts?"
+    },
+    {
+      "a": "Leave pieces in the mould for 24 to 48 hours, then let them cure for a full 7 days before you plant in them, fill them with water, or put them to heavy use. Small pots are fine to handle after 24 hours, but they only reach full strength after a week. Mist the surface with water for the first day or two in hot weather so it cures slowly and doesn't crack.",
+      "q": "How long do concrete garden crafts take to cure?"
+    },
+    {
+      "a": "Yes, once cured. Fresh concrete is alkaline and can raise the pH of the soil, so let planters cure for the full 7 days, then soak them in water overnight and rinse before you plant. Succulents, herbs, and most garden plants are happy in cured concrete pots, and the drainage hole matters more than the material.",
+      "q": "Are concrete garden crafts safe for plants?"
+    },
+    {
+      "a": "Most projects in this guide cost $3 to $15 in materials. Small pots and candle holders run under $1 to $3 each, stepping stones about $2 each, and big planters or bird baths $10 to $25. A 25 kg bag of cement costs about $8 to $12 and covers three or four medium projects, so the first bag is the biggest cost — after that, each project is cheap.",
+      "q": "How much do concrete garden crafts cost to make?"
+    }
+  ],
+  "from": "#4E8FB8",
+  "hero": {
+    "alt": "Bright garden with handmade concrete planters holding succulents, round stepping stones and concrete garden orbs on a lawn",
+    "src": "/img/a39-hero"
+  },
+  "images": [
+    {
+      "after": 2,
+      "img": {
+        "alt": "Three weathered concrete planters with tall ornamental grasses on a white terrace",
+        "caption": "Cast planters like these in a weekend — a bucket mould, a 1:1 mix and two days of patience.",
+        "src": "/img/a39-a"
+      }
+    },
+    {
+      "after": 4,
+      "img": {
+        "alt": "Stone-slab stepping path through lush green grass in a garden",
+        "caption": "A stepping-stone path turns a plain lawn into a garden walk — flat stones, set level, spaced a stride apart.",
+        "src": "/img/a39-b"
+      }
+    }
+  ],
+  "intro": "Concrete garden crafts are having a moment, and it's easy to see why. One bag of cement, a bucket, and a free afternoon can turn into planters, stepping stones, and garden orbs that look like they came from a garden centre — at a tenth of the price. We started with a wobbly little pot three summers ago, and now half our garden is filled with things we cast ourselves. This guide rounds up 15 concrete garden craft ideas, grouped from the quickest wins to the bigger weekend pieces. You'll get real numbers throughout: mix ratios, sizes, curing times, and what each project costs in materials.",
+  "motif": "snow",
+  "readTime": 10,
+  "sections": [
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "You don't need a workshop or fancy gear. Most concrete garden crafts use the same short list: a bag of Portland cement, sharp sand, water, a mixing bucket, an old trowel, and something to use as a mould. Old tubs, buckets, cake tins, and cardboard boxes all work — oil them lightly with cooking spray so the set concrete slips out clean."
+        },
+        {
+          "t": "p",
+          "text": "The mix most of us use is one part cement to one part sand, with just enough water to reach a thick porridge texture. Add water a splash at a time — too much makes weak, crumbly concrete that cracks in the first frost. A 25 kg bag costs about $8 to $12 and covers three or four medium projects."
+        },
+        {
+          "t": "h3",
+          "text": "Concrete garden crafts: curing times and costs"
+        },
+        {
+          "items": [
+            "Cure time: leave pieces in the mould for 24 to 48 hours, then cure for 7 days before planting or heavy use.",
+            "Cost per project: $3 to $10 for small pots and candle holders; $10 to $25 for big planters and bird baths.",
+            "Safety: wear gloves and a dust mask when you mix dry cement, and keep it off bare skin.",
+            "Frost: seal outdoor pieces before winter so trapped water can't crack them."
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "Picking the right mould"
+        },
+        {
+          "t": "p",
+          "text": "Smooth plastic gives a clean finish; rough wood or cardboard leaves a rustic texture. For drainage holes, push a greased cork into the base of the mould before you pour. Tap the mould on the ground after pouring to shake out air bubbles that would leave pockmarks."
+        }
+      ],
+      "heading": "What You Need for Concrete Garden Crafts"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "If you've never mixed cement before, start small. These three projects take under an hour of hands-on time, and if one goes wrong, you've lost a few dollars of mix — not a weekend."
+        },
+        {
+          "t": "h3",
+          "text": "1. Tiny succulent pots"
+        },
+        {
+          "t": "p",
+          "text": "Cast little pots in yoghurt tubs or small plastic cups, with a smaller cup pressed inside to form the hollow. Use the 1:1 cement and sand mix, fill to the rim, and press the inner cup down with a stone so it doesn't float up. They cure in 24 hours, cost under $1 each, and look great in a row on a windowsill."
+        },
+        {
+          "t": "h3",
+          "text": "2. Concrete plant markers"
+        },
+        {
+          "items": [
+            "Roll the mix flat in a shallow tray, about 1 cm thick, and cut it into rectangles with a knife.",
+            "Press a wooden skewer into the back of each one while the mix is still soft.",
+            "Stamp the plant name in with letter stamps or write it with a stick.",
+            "Let them cure for 48 hours, then push them into the soil next to your herbs."
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "p",
+          "text": "Markers are the friendliest first project of all: no mould to hunt for, no drainage to think about, and they still look good when the lettering is a bit wonky."
+        }
+      ],
+      "heading": "Small Concrete Garden Crafts to Start With"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Planters are where concrete garden crafts really pay off. A cast cement planter can cost $60 or more in a garden centre; the same size cast at home costs about $10 to $15 in materials and lasts for years outside."
+        },
+        {
+          "t": "h3",
+          "text": "3. Square box planters"
+        },
+        {
+          "t": "p",
+          "text": "Build a box mould from scrap wood, or use a sturdy plastic crate as the outer mould with a smaller box inside to form the walls. Walls about 4 cm thick suit a planter up to 40 cm across. Fill it, tap out the bubbles, and leave it 48 hours before you take the mould off."
+        },
+        {
+          "items": [
+            "Mix: 1 part cement to 1 part sand, plus a handful of fine gravel for strength on big planters.",
+            "Drainage: drill a hole with a masonry bit after curing, or set a greased dowel in the base.",
+            "Finish: brush the outside with a wire brush once dry for a soft stone texture."
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "4. Round pots from old buckets"
+        },
+        {
+          "t": "p",
+          "text": "An old bucket makes a perfect round planter mould, and a smaller bucket pressed inside leaves thick, even walls. Grease both buckets well, pour the mix, and weigh the inner bucket down with bricks so it stays put. A 30 cm pot takes about 8 kg of mix and costs around $5."
+        },
+        {
+          "t": "h3",
+          "text": "5. Long trough planters"
+        },
+        {
+          "t": "p",
+          "text": "Troughs suit herbs, trailing plants, and window boxes — they're just a stretched-out box planter. Keep the walls 4 to 5 cm thick and add a strip of wire mesh for any trough longer than 60 cm, so the long sides don't crack when you move it. Fill with succulents or trailing rosemary and it looks far more expensive than it is."
+        }
+      ],
+      "heading": "Cement Planters You Can Cast in a Weekend"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Orbs and mushrooms make people stop and look. They're pure decoration, so they don't need drainage or perfect walls — just a good round shape and a smooth finish."
+        },
+        {
+          "t": "h3",
+          "text": "6. Garden orbs from old balls"
+        },
+        {
+          "t": "p",
+          "text": "A cheap rubber ball, a balloon, or a glass light shade makes a great orb mould. Cut a small hole, pour in a runny 1:1 mix, and roll the ball gently so the mix coats the inside. Cure for 48 hours, then peel the mould away. Orbs 15 to 30 cm across cost about $3 to $6 each, and a group of three in different sizes looks best tucked into a flower bed."
+        },
+        {
+          "t": "h3",
+          "text": "7. Concrete mushrooms"
+        },
+        {
+          "items": [
+            "Cast the cap in a shallow bowl and the stem in a plastic bottle with the top cut off.",
+            "Join them with a thick dab of fresh mix while both parts are still slightly damp.",
+            "Add a dusting of white paint or leave them plain grey — both look right in a shady corner."
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "p",
+          "text": "Mushrooms take about an hour to cast and two days to cure, and three cost under $8. Kids love helping with these, and they survive rain, frost, and the odd knock from the lawnmower."
+        },
+        {
+          "t": "h3",
+          "text": "8. Mosaic gazing balls"
+        },
+        {
+          "t": "p",
+          "text": "Press broken tiles, glass gems, or pebbles into a fresh orb while the mix is still soft, and you get a gazing ball that catches the light. Push each piece in halfway so it stays put, and mist the surface for the first day so it cures slowly and holds tight."
+        }
+      ],
+      "heading": "Concrete Garden Orbs, Mushrooms and Spheres"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "A stepping stone path is the most useful project in this list: it keeps shoes clean, gives the garden structure, and costs a fraction of bought pavers. Cast your stones in old cake tins, pizza trays, or shallow boxes, and space them a comfortable step apart — about 45 to 50 cm from centre to centre."
+        },
+        {
+          "t": "h3",
+          "text": "9. Leaf-print stepping stones"
+        },
+        {
+          "t": "p",
+          "text": "Press a big rhubarb, hosta, or elephant ear leaf face-down into the wet mix, veins up, and peel it off after 24 hours. The leaf leaves a perfect print in the stone. They take 48 hours to cure, cost about $2 each, and look like something from a botanical garden."
+        },
+        {
+          "t": "h3",
+          "text": "10. Mosaic and handprint stones"
+        },
+        {
+          "items": [
+            "Press tiles, shells, or coloured glass into the surface while the mix is wet.",
+            "For a handprint stone, press a hand in gently, then lift it straight out.",
+            "Write a name or date with a stick before the mix firms up.",
+            "Cure for 48 hours, then seal so the colours stay bright."
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "p",
+          "text": "Handprint stones are a classic family project and sweet gifts for grandparents. Seal them well if they'll sit in a path — feet wear the surface fast."
+        },
+        {
+          "t": "h3",
+          "text": "11. Round concrete pavers"
+        },
+        {
+          "t": "p",
+          "text": "Round pavers cast in cake tins are the simplest stones of all: pour, level, cure, lay. Make them at least 4 cm thick and 30 cm across so they don't rock or crack underfoot. One bag of cement makes about ten, enough for a short path from the back door to the veg patch."
+        }
+      ],
+      "heading": "Concrete Stepping Stones for a Garden Path"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Birds want shallow water and a rough edge to grip, and concrete gives you both. A good bird bath is wide and shallow, about 5 cm deep in the middle, with a rim birds can perch on."
+        },
+        {
+          "t": "h3",
+          "text": "12. Simple pedestal bird bath"
+        },
+        {
+          "t": "p",
+          "text": "Cast the basin in a large shallow bowl and the pedestal in a bucket, then join them with fresh mix. Keep the basin under 50 cm across so it doesn't get too heavy to move, and set it on level ground where cats can't hide nearby. It costs about $12 to $15 and cures in 48 hours."
+        },
+        {
+          "t": "h3",
+          "text": "13. Leaf-shaped bird bath"
+        },
+        {
+          "items": [
+            "Press a big leaf into a mound of damp sand, veins up, to form the mould.",
+            "Spread a 3 to 4 cm layer of 1:1 mix over the leaf and let it set 48 hours.",
+            "Lift it off the sand, rinse the leaf away, and seal the inside so it holds water."
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "p",
+          "text": "Change the water every few days and scrub the basin now and then — birds drink from it, so it needs to stay clean. In winter, tip it out so ice can't crack it."
+        }
+      ],
+      "heading": "Concrete Bird Baths That Birds Actually Use"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The last project is the smallest, and the finishing steps here apply to everything else in this list. A little sealing and care is what keeps concrete garden crafts looking good after their first winter."
+        },
+        {
+          "t": "h3",
+          "text": "14. Concrete candle holders"
+        },
+        {
+          "t": "p",
+          "text": "Cast small holders in paper cups with a tea light pressed into the top while the mix is wet. They cure in 24 hours, cost pennies, and look lovely on a garden table on a summer evening. Keep them out of the rain when you're not using them, or seal them."
+        },
+        {
+          "t": "h3",
+          "text": "15. Painted and stained planters"
+        },
+        {
+          "t": "p",
+          "text": "A coat of masonry paint or concrete stain turns a plain grey pot into something that matches your garden. Paint after the full 7-day cure, using paint made for masonry so it sticks. Soft sage, terracotta, and white are the colours we reach for most — they sit well with green leaves and don't show dust."
+        },
+        {
+          "t": "h3",
+          "text": "Sealing your concrete garden crafts"
+        },
+        {
+          "items": [
+            "Wait the full 7 days after casting before you seal anything.",
+            "Brush off dust and let the piece dry completely.",
+            "Apply two thin coats of outdoor concrete sealer, letting the first dry before the second.",
+            "Re-seal once a year, in spring, to keep water and frost out."
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "p",
+          "text": "That's the whole list — 15 concrete garden crafts, from a $1 succulent pot to a bird bath that will outlast the fence. Pick one, mix a small batch this weekend, and see how it goes. If a piece comes out rough, a wire brush and a coat of sealer fix most sins, and the next one always comes out better."
+        }
+      ],
+      "heading": "Concrete Candle Holders, Sealing and Care"
+    }
+  ],
+  "slug": "concrete-garden-crafts",
+  "subcategory": "Handmade Gifts",
+  "title": "Concrete Garden Crafts: Easy DIY Cement Planters, Stepping Stones & Garden Orbs for a Beautiful Backyard",
+  "to": "#275E7E"
+}),
+  P({
     "bannerTitle": "DIY Pinecone Winter Wreath",
     "category": "diy-crafts",
     "date": "2026-11-27",

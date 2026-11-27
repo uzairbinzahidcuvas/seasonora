@@ -16,6 +16,17 @@ export type VideoEntry = {
 
 export const VIDEOS: VideoEntry[] = [
   {
+    slug: "diy-concrete-leaf-stepping-stones",
+    title: "DIY Concrete Leaf Stepping Stones – Easy Garden Stones with Real Leaf Prints",
+    description: "Press a real leaf into wet cement and keep its veins forever — an easy beginner garden craft that looks like it came from a garden shop.",
+    category: "diy-crafts",
+    topic: "Concrete garden crafts",
+    articleSlug: "diy-concrete-leaf-stepping-stones",
+    poster: "/img/a40-a",
+    durationSec: 30,
+    date: "2026-11-27",
+  },
+  {
     slug: "winter-pinecone-wreath",
     title: "DIY Pinecone Winter Wreath – Natural Holiday Door Decor",
     description: "Create a natural winter wreath with pinecones, evergreen branches and a soft ribbon — handmade decor for Christmas and all winter long.",
