@@ -94,6 +94,325 @@ const P = (o: Post) => o;
 export const POSTS: Post[] = [
   P({
 
+{
+  "bannerTitle": "Colorful Winter Acrylic Nails",
+  "category": "lifestyle",
+  "date": "2026-11-28",
+  "excerpt": "Colorful acrylic nail ideas for winter \u2014 red French tips, emerald almond nails, gold foil and icy blue glitter. Pick a set you'll actually love wearing.",
+  "faqs": [
+    {
+      "a": "A full set of colorful acrylic nails usually costs $45 to $85 at a salon, depending on your city and how much art you add. A plain color set sits at the low end; hand-painted snowflakes, chrome or 3D charms push it toward $90 or more. Fills run $30 to $45 every two to three weeks. Press-on acrylic-look sets are the budget route \u2014 $8 to $20 a pack \u2014 and a good set lasts a week with proper prep.",
+      "q": "How much do colorful acrylic nails cost at a salon?"
+    },
+    {
+      "a": "Two to three weeks is normal for a well-done set. After that, the gap at your cuticle starts to show and it's time for a fill. Glitter and chrome finishes tend to hide chips better than flat cream colors, so if you need the set to stretch to a full three weeks, pick a sparkly finish. Skip the urge to pick at a lifting edge \u2014 that is what takes your real nail with it.",
+      "q": "How long will my colorful acrylic nails last?"
+    },
+    {
+      "a": "Yes \u2014 a basic set is doable at home if you keep it simple. You need acrylic liquid and powder, a brush, tips or forms, a file and a good top coat, plus a well-ventilated spot. Start with one solid color and short almond or square tips; save the hand-painted snowflakes and 3D charms for your second or third try. A practice hand costs about $10 and is worth every cent before you touch your own nails.",
+      "q": "Can I do colorful acrylic nails at home?"
+    },
+    {
+      "a": "A careful tech will not wreck your nails. The damage people blame on acrylics usually comes from prying sets off or skipping fills until they lift. Get them soaked off properly \u2014 20 to 30 minutes in acetone, no peeling \u2014 and give your nails a week of cuticle oil and a strengthening base coat between sets if they feel thin. Healthy nails grow back in about three to six months, so one rough set is never permanent.",
+      "q": "Do acrylic nails damage your natural nails?"
+    }
+  ],
+  "from": "#C4748F",
+  "hero": {
+    "alt": "Hands with glossy colorful acrylic nails in ruby red, emerald green and gold glitter resting on a dark green velvet cloth beside pine branches and fairy lights",
+    "src": "/img/a43-hero"
+  },
+  "images": [
+    {
+      "after": 2,
+      "img": {
+        "alt": "Close-up of glossy ruby red almond-shaped acrylic nails in soft natural light",
+        "caption": "Glossy ruby red \u2014 the classic festive set that suits every shape and skin tone.",
+        "src": "/img/a43-a"
+      }
+    },
+    {
+      "after": 4,
+      "img": {
+        "alt": "Close-up of almond-shaped acrylic nails painted icy blue with tiny white hand-painted snowflakes and silver glitter",
+        "caption": "Icy blue with hand-painted snowflakes \u2014 the quietest way to wear winter on your nails.",
+        "src": "/img/a43-b"
+      }
+    },
+    {
+      "after": 6,
+      "img": {
+        "alt": "Hands with glossy burgundy acrylic nails with a gold chrome accent nail, resting on a cream knitted sweater beside a lit candle",
+        "caption": "Burgundy with one gold chrome accent nail \u2014 glam without going over the top.",
+        "src": "/img/a43-c"
+      }
+    }
+  ],
+  "intro": "Colorful acrylic nail ideas are having a moment \u2014 searches for colorful acrylic nails are up 2,500% on Pinterest this month, and it is easy to see why. December is the one month when bright nails feel completely normal: red, green, gold and glitter all show up at the same party and nobody bats an eye. Acrylics hold color and art better than regular polish, so a set you get in early December can still look fresh at New Year's Eve. This guide walks through the shapes, colors and designs that work right now, what they cost, and how to keep them looking good for the full three weeks.",
+  "motif": "bloom",
+  "readTime": 10,
+  "sections": [
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Nail trends come and go, but this winter the signal is loud: bold color is back. Pinterest's own trend list puts colorful acrylic nails up 2,500% month over month, and editors are flagging reflective nails as a pick for the season. The timing lines up perfectly \u2014 Christmas parties, family photos and New Year's Eve all land within a few weeks of each other, so one good set covers all of them."
+        },
+        {
+          "t": "p",
+          "text": "Acrylics are the right base for this because they give you a smooth, strong canvas. Hand-painted snowflakes, chrome powder and glitter all sit better on acrylic than on a natural nail, and they chip far less. If you have never had a set before, winter is a forgiving time to start \u2014 dark and sparkly colors hide small flaws while you learn what shape suits your hands."
+        },
+        {
+          "t": "h3",
+          "text": "Why winter is the best season to go bold"
+        },
+        {
+          "t": "p",
+          "text": "In summer, a neon set can feel like a lot. In December, a ruby red or emerald set matches everything from a wool coat to a party dress. Dark colors also photograph well in low winter light, which is why so many of the most-saved sets this month are deep red, pine green and navy with gold or silver on top."
+        },
+        {
+          "items": [
+            "One set covers Christmas, Boxing Day and New Year's Eve \u2014 book early December, fill mid-month",
+            "Dark and glitter finishes hide chips, so sets last the full 2 to 3 weeks",
+            "Holiday photos make the $45\u2013$85 feel worth it \u2014 your hands are in every picture",
+            "Press-ons in the same colors cost $8\u2013$20 if you only need a weekend set"
+          ],
+          "t": "ul"
+        }
+      ],
+      "heading": "Why Colorful Acrylic Nail Ideas Are Everywhere Right Now"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Color comes second. Shape comes first, because the same red looks completely different on a short square nail and a long stiletto. If you type all day, keep the length short to medium \u2014 about a quarter inch past your fingertip. If you want drama for one party, go longer, but ask for a medium thickness so they do not snap when you open a car door."
+        },
+        {
+          "t": "h3",
+          "text": "Almond, coffin, square or stiletto?"
+        },
+        {
+          "t": "p",
+          "text": "Almond is the safest pick for most hands: it makes fingers look longer and it rarely catches on things. Coffin (also called ballerina) is the party shape \u2014 flat tip, tapered sides, lots of room for art. Square is classic and strong, best for shorter lengths. Stiletto is pure drama and the most likely to break, so save it for a weekend, not a three-week set."
+        },
+        {
+          "items": [
+            "Almond \u2014 flattering on short fingers, great for glitter ombr\u00e9 and French tips",
+            "Coffin \u2014 best canvas for snowflakes, plaid and 3D charms",
+            "Square \u2014 strongest shape, best for solid deep colors like burgundy and pine green",
+            "Stiletto \u2014 dramatic, but book a fill sooner and keep the length medium",
+            "Round \u2014 the low-maintenance pick if you want color without the fuss"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "Pick a length you can actually live with"
+        },
+        {
+          "t": "p",
+          "text": "Your tech will ask short, medium or long. Short means just past the fingertip \u2014 you can still type, cook and open cans. Medium is the sweet spot for most people and still fits in gloves. Long looks amazing in photos and terrible when you try to put in contact lenses. When in doubt, go one step shorter than you think you want; you can always go longer next time."
+        }
+      ],
+      "heading": "Pick Your Shape and Length Before You Pick a Color"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Red and green are the Christmas pair, but the trick is picking the right versions. A blue-red suits cool skin; a warm brick red suits warm skin. For green, go deep \u2014 pine, emerald or forest \u2014 rather than bright kelly green, which can look harsh against pale winter skin. One accent nail in the opposite color keeps the set from looking like a costume."
+        },
+        {
+          "t": "h3",
+          "text": "Ruby red with gold foil"
+        },
+        {
+          "t": "p",
+          "text": "This is the most-saved Christmas acrylic look for a reason: it is simple, it suits everyone, and it takes about ten extra minutes at the salon. All ten nails in a glossy ruby red, then a little gold foil pressed onto the ring fingers while the top coat is still tacky. The foil catches the light every time you move your hands, and it hides any tiny flaw in the polish underneath."
+        },
+        {
+          "t": "h3",
+          "text": "Emerald almond nails with tiny stars"
+        },
+        {
+          "t": "p",
+          "text": "Emerald needs very little decoration to feel festive. A deep green on almond nails, a few tiny gold or silver stars on two accent nails, and a glossy top coat \u2014 done. If your tech offers a matte top coat, try it on the green: matte emerald looks like velvet and feels more grown-up than shine. Keep the stars small and off-center so they read as a detail, not a pattern."
+        },
+        {
+          "items": [
+            "Ruby red + gold foil \u2014 the classic, works on every shape and skin tone",
+            "Emerald green + gold stars \u2014 quiet glam, great for work parties",
+            "Burgundy + pearl crescents \u2014 rich, soft, and easy to wear into January",
+            "Pine green matte + gold edges \u2014 the velvet look, best on almond or coffin",
+            "Red French tips + white bows \u2014 playful, and the French tip makes nails look longer"
+          ],
+          "t": "ul"
+        }
+      ],
+      "heading": "Christmas Reds and Greens That Actually Look Good"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Glitter, chrome and foil are where acrylics really earn their price, because these finishes are hard to get right with regular polish. Chrome powder gets rubbed onto a gel top coat and sealed in \u2014 the result is a mirror shine that lasts weeks. Glitter can be mixed into the acrylic itself, which means it never peels off in sheets the way glitter polish does."
+        },
+        {
+          "t": "h3",
+          "text": "Chrome and glitter finishes worth asking for"
+        },
+        {
+          "t": "p",
+          "text": "Red chrome is the holiday showstopper \u2014 it looks like a Christmas ornament and it photographs beautifully. Gold chrome on one or two accent nails lifts a plain red or green set without much extra cost, usually $5 to $10 more. Silver glitter French tips are the subtle pick: the glitter sits only on the tip, so grow-out is barely visible and you can stretch the set to three full weeks."
+        },
+        {
+          "items": [
+            "Red chrome \u2014 mirror shine, best on almond or coffin, add $5\u2013$10 to the set price",
+            "Gold foil accents \u2014 pressed on by hand, no two nails look alike, very forgiving",
+            "Silver glitter French \u2014 hides grow-out, the longest-lasting festive finish",
+            "Pink chrome \u2014 soft and sweet, pairs well with a red or green outfit",
+            "Holographic glitter ombr\u00e9 \u2014 fades from clear to sparkle, great on short nails"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "Keep the sparkle where it belongs"
+        },
+        {
+          "t": "p",
+          "text": "The one thing nobody warns you about is glitter everywhere. A good tech seals glitter under two layers of top coat so it does not shed onto your clothes or your face. At home, do not file a glitter nail the way you file a plain one \u2014 file gently from the sides and let the top coat do the work. If a chunk of glitter lifts, a dab of clear polish holds it until your fill."
+        }
+      ],
+      "heading": "Glitter, Chrome and Foil Without the Mess"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "You do not need to be an artist to wear nail art. The designs that get saved the most are the simple ones: one snowflake per hand, a candy cane stripe on two nails, a tiny tree on the ring finger. The rest of the nails stay a solid color, which makes the art look deliberate instead of busy."
+        },
+        {
+          "t": "h3",
+          "text": "Snowflake nails that don't need a steady hand"
+        },
+        {
+          "t": "p",
+          "text": "Real snowflakes are six-pointed and uneven, so a slightly wobbly hand-painted snowflake actually looks more real than a perfect one. Your tech draws three crossing lines and adds tiny branches \u2014 it takes about two minutes per nail. Icy blue or deep navy is the best base; white snowflakes pop on both. If you are doing it yourself, a dotting tool or the end of a bobby pin works fine for the small dots around the flake."
+        },
+        {
+          "t": "h3",
+          "text": "Candy cane stripes in five steps"
+        },
+        {
+          "items": [
+            "Paint the nail white and let it dry fully \u2014 at least 5 minutes, or cure 60 seconds under a lamp for gel",
+            "With a thin striping brush, paint diagonal red stripes from one corner to the other",
+            "Keep the stripes uneven \u2014 real candy canes are not machine-perfect",
+            "Add a thin gold line next to one red stripe if you want a little extra shine",
+            "Seal with two coats of glossy top coat and let it dry 10 minutes before touching anything"
+          ],
+          "t": "ol"
+        },
+        {
+          "items": [
+            "One accent nail of art per hand is enough \u2014 the rest stay solid",
+            "Stickers and water decals look hand-painted once a top coat goes over them",
+            "Tiny bows and pearls: one per hand, glued on with nail glue, sealed with top coat",
+            "Plaid: two crossing lines in white over red or green \u2014 easier than it looks"
+          ],
+          "t": "ul"
+        }
+      ],
+      "heading": "Snowflakes, Candy Canes and Simple Nail Art"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "A full set costs $45 to $85, and the range depends on three things: your city, the length, and the art. Big-city salons charge more; a short solid-color set in a small town can be $40. Art is priced per nail or per set \u2014 simple snowflakes are often free or $5, while 3D charms and chrome add $10 to $20. Always ask the full price before the tech starts, not after."
+        },
+        {
+          "t": "h3",
+          "text": "What a set costs, line by line"
+        },
+        {
+          "items": [
+            "Full set, short, one color \u2014 $45\u2013$60",
+            "Full set, medium or long \u2014 $55\u2013$75",
+            "Glitter, chrome or foil accents \u2014 add $5\u2013$15",
+            "Hand-painted art (snowflakes, plaid, trees) \u2014 add $5\u2013$20",
+            "3D charms, pearls or bows \u2014 add $10\u2013$25",
+            "Fill every 2\u20133 weeks \u2014 $30\u2013$45",
+            "Soak-off removal \u2014 $10\u2013$15, or free if you rebook a set"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "Making the set last the full three weeks"
+        },
+        {
+          "t": "p",
+          "text": "The first 24 hours matter most. Keep your hands dry for a few hours after the appointment \u2014 no long dishwashing session the same evening. After that, wear gloves for cleaning, use cuticle oil every night (a $5 bottle lasts months), and do not use your nails as tools. A thin layer of clear top coat once a week keeps the shine up and seals any tiny edge that starts to lift."
+        },
+        {
+          "items": [
+            "Cuticle oil nightly \u2014 the single best habit for making acrylics last",
+            "Gloves for dishes and cleaning \u2014 water and chemicals loosen the edges",
+            "Top coat refresh once a week \u2014 2 minutes, keeps the shine and seals chips",
+            "Book the fill at 2 weeks, not 3 \u2014 the gap shows less and the fill is cheaper"
+          ],
+          "t": "ul"
+        }
+      ],
+      "heading": "What Acrylic Nails Cost and How Long They Last"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "A good appointment starts with a short conversation, not with the tech picking a color for you. Bring two or three saved photos \u2014 one of the shape, one of the color, one of the art \u2014 and say out loud how long you need the set to last. A tech who knows you have a New Year's party in three weeks will build the set differently from one who thinks you just need a weekend look."
+        },
+        {
+          "t": "h3",
+          "text": "Questions to ask before they start filing"
+        },
+        {
+          "items": [
+            "What is the full price including the art I want?",
+            "How long will this set last before I need a fill?",
+            "Is the glitter mixed into the acrylic or painted on top?",
+            "Do you soak off, and what does removal cost if I don't rebook?",
+            "Can you do a matte top coat on one or two nails so I can compare?"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "What to skip this season"
+        },
+        {
+          "t": "p",
+          "text": "Skip the 3D charms if you type all day \u2014 they catch on everything and pop off within a week. Skip ultra-long stilettos if this is your first set; they look great in photos and break at the worst moments. And skip any design that needs all ten nails painted differently. It costs more, takes an extra hour in the chair, and the set looks busier than the one photo you saved. Two accent nails, a solid color, and one good finish will get you more compliments than a full set of tiny paintings."
+        },
+        {
+          "t": "p",
+          "text": "The best colorful acrylic nail ideas are the ones you will still like on day 18. Pick a color you already wear, a shape you can live with, and one detail \u2014 a little foil, one snowflake, a chrome accent nail \u2014 that makes it feel like December. Then book the fill before you leave the salon, so the set never gets the chance to look tired."
+        }
+      ],
+      "heading": "What to Ask Your Nail Tech (and What to Skip)"
+    }
+  ],
+  "slug": "colorful-acrylic-nail-ideas",
+  "subcategory": "Beauty Inspiration",
+  "title": "Colorful Acrylic Nail Ideas: Winter & Christmas Designs in Red, Green, Gold & Icy Blue",
+  "to": "#8C4462"
+}
+}),
+  P({
+
   "bannerTitle": "Heart Photo Garland DIY",
   "category": "diy-crafts",
   "date": "2026-11-27",
