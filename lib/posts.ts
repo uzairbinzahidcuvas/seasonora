@@ -94,7 +94,6 @@ const P = (o: Post) => o;
 export const POSTS: Post[] = [
   P({
 
-{
   "bannerTitle": "Colorful Winter Acrylic Nails",
   "category": "lifestyle",
   "date": "2026-11-28",
@@ -409,7 +408,6 @@ export const POSTS: Post[] = [
   "subcategory": "Beauty Inspiration",
   "title": "Colorful Acrylic Nail Ideas: Winter & Christmas Designs in Red, Green, Gold & Icy Blue",
   "to": "#8C4462"
-}
 }),
   P({
 
