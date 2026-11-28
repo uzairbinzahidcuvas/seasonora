@@ -94,6 +94,304 @@ const P = (o: Post) => o;
 export const POSTS: Post[] = [
   P({
 
+  "bannerTitle": "Sheer Mesh Tops, Styled",
+  "category": "lifestyle",
+  "date": "2026-11-28",
+  "excerpt": "Sheer and mesh tops outfit ideas for winter \u2014 layer them under blazers, over slip dresses and with jeans for party-ready looks that still keep you warm.",
+  "faqs": [
+    {
+      "a": "Yes \u2014 if you layer them right. A mesh top on its own won't keep you warm, but worn over a thin thermal or under a wool blazer or leather jacket, it works down to freezing temperatures. Treat the sheer piece as a middle layer, add tights, boots and a proper coat, and the look holds up for a full December evening out.",
+      "q": "Are sheer and mesh tops okay to wear in winter?"
+    },
+    {
+      "a": "A fitted camisole, a bralette or a bodysuit \u2014 those are the three that work every time. Black underneath black mesh looks sleek and intentional; a nude camisole close to your skin tone keeps the focus on the sheer texture; a bodysuit stops the top riding up. Skip loose, baggy layers underneath \u2014 they bunch up and ruin the clean line of the mesh.",
+      "q": "What do you wear under sheer and mesh tops?"
+    },
+    {
+      "a": "Yes, with the right styling. Pick a long-sleeve mesh top in black or navy, wear a plain camisole underneath, and layer a structured blazer or long cardigan over it. Keep the bottom half simple \u2014 tailored trousers or dark jeans \u2014 and skip glitter, rhinestones and cut-outs.",
+      "q": "Can you wear a sheer top to work or a family dinner?"
+    },
+    {
+      "a": "Hand wash in cold water with a gentle detergent, or use a mesh laundry bag on your machine's delicates cycle. Never wring it \u2014 press the water out between two towels. Hang to dry away from direct heat, and store it folded so the fine net doesn't stretch. Keep it away from rough zippers and chunky jewellery \u2014 one snag can run through the whole piece.",
+      "q": "How do you wash a mesh top without ruining it?"
+    }
+  ],
+  "from": "#C4748F",
+  "hero": {
+    "alt": "Smiling woman in a sparkly sheer black mesh top over a black camisole and jeans, holding a star headband, against a plain light wall",
+    "src": "/img/a44-hero"
+  },
+  "images": [
+    {
+      "after": 2,
+      "img": {
+        "alt": "Woman in an embellished black mesh top over a black bralette with black jeans",
+        "caption": "Embellished black mesh over a bralette \u2014 the party-ready version of the trend.",
+        "src": "/img/a44-a"
+      }
+    },
+    {
+      "after": 4,
+      "img": {
+        "alt": "Woman in a black dotted mesh top with lace trim over a nude camisole and black flared jeans",
+        "caption": "Dotted mesh over a nude camisole \u2014 the underlayer doing the quiet work.",
+        "src": "/img/a44-b"
+      }
+    }
+  ],
+  "intro": "Sheer and mesh tops went from runway daring to everyday winter dressing in one season, and Pinterest noticed \u2014 saves for sheer and mesh tops are up 1,500% this month. The trick is simple: treat the sheer layer as a texture, not the whole outfit. A black mesh top under a velvet blazer reads polished. The same top over a slip dress reads party-ready. And with the right pieces underneath, you stay warm enough for a December night out. This guide covers the sheer and mesh tops outfit ideas that actually work in cold weather \u2014 what to wear under them, how to layer them, and the small mistakes that make the look fall apart.",
+  "motif": "bloom",
+  "readTime": 10,
+  "sections": [
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "A sheer top is any top made from a see-through fabric \u2014 mesh, tulle, organza or fine lace. A mesh top is the stretchy, net-like version, and it's the one you'll see most this winter. Most come long-sleeved, in black, white or nude, and the fabric is so light it barely feels like you're wearing an extra layer. That's exactly why it works in cold weather: it adds texture and shine without bulk."
+        },
+        {
+          "t": "h3",
+          "text": "Why sheer tops took off this winter"
+        },
+        {
+          "t": "p",
+          "text": "Two things pushed sheer tops into the spotlight. First, the holiday party season \u2014 everyone wants one piece that turns a plain outfit into a night-out look, and a mesh top does that for the price of a takeaway. Second, the high street caught on fast: H&M, Zara and COS all put sheer tops in their winter lines."
+        },
+        {
+          "items": [
+            "Dotted mesh \u2014 tiny raised dots on black mesh, the easiest first buy",
+            "Long-sleeve black mesh \u2014 the workhorse, goes with everything",
+            "Sheer lace-trim tops \u2014 soft edges, good for dinners and dates",
+            "Mesh turtlenecks \u2014 the warmest option, layers under anything"
+          ],
+          "t": "ul"
+        }
+      ],
+      "heading": "Sheer and Mesh Tops Are Winter's Boldest Layer"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "You don't need a party to wear a sheer top. The everyday versions are quiet \u2014 a black mesh layer under a sweater, or a sheer sleeve peeking out of a blazer cuff. Start with one top and wear it three ways in a week; you'll figure out your own formula fast."
+        },
+        {
+          "t": "h3",
+          "text": "Mesh top with jeans: the easy starting point"
+        },
+        {
+          "t": "p",
+          "text": "Jeans are the safest partner for your first sheer top. The denim grounds the look and keeps it casual, so the sheer part reads as a detail, not a statement. High-waisted straight-leg jeans work best \u2014 tuck the mesh top in and the waistline stays clean."
+        },
+        {
+          "items": [
+            "Black mesh top + blue straight-leg jeans + white trainers \u2014 weekend errands",
+            "Black mesh top + black skinny jeans + ankle boots \u2014 evening, no effort",
+            "Mesh turtleneck + wide-leg jeans + loafers \u2014 polished but relaxed",
+            "Dotted mesh top + dark jeans + leather jacket \u2014 the going-out version"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "Under a blazer or cardigan"
+        },
+        {
+          "t": "p",
+          "text": "A blazer over a mesh top looks far more put-together than the effort it takes. Wear the mesh top with a plain camisole, add a wool blazer, and you've got a look for dinner, drinks or a smart lunch. A long open cardigan does the same job on colder days."
+        }
+      ],
+      "heading": "Sheer and Mesh Tops Outfit Ideas for Everyday Winter"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "December is where sheer tops earn their keep. One mesh layer can turn a plain slip dress or a velvet skirt into a proper party outfit, and you don't need a new dress for every invite. Pick your base piece, add the sheer top, then change the shoes and jewellery \u2014 three nights, one formula."
+        },
+        {
+          "t": "h3",
+          "text": "Sheer top over a slip dress"
+        },
+        {
+          "t": "p",
+          "text": "This is the combination all over Pinterest right now: a long-sleeve mesh top worn over a satin slip dress. The mesh softens the shine of the satin and adds sleeves to a dress that would otherwise freeze you. Black mesh over a champagne slip dress is the classic; black over emerald or burgundy is the bolder pick."
+        },
+        {
+          "items": [
+            "Black mesh top + champagne satin slip dress + gold hoops \u2014 Christmas dinner",
+            "Black mesh top + black slip dress + silver heels \u2014 New Year's Eve",
+            "Embellished mesh top + plain black slip dress \u2014 let the top do the talking",
+            "Mesh turtleneck + velvet slip dress + boots \u2014 warm and still dressy"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "Sequin, velvet and sparkle pairings"
+        },
+        {
+          "t": "p",
+          "text": "Sheer fabric loves sparkle \u2014 the contrast between see-through mesh and solid shine is what makes the outfit look expensive. A sequin skirt with a plain black mesh top balances out: one shiny piece, one quiet piece. The same rule works with velvet trousers or a satin skirt."
+        }
+      ],
+      "heading": "Holiday Party Looks With Sheer and Mesh Tops"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The underlayer decides whether a sheer top looks chic or awkward, so it's worth getting right. The goal is a smooth, intentional base \u2014 nothing lumpy, nothing that fights with the mesh."
+        },
+        {
+          "t": "h3",
+          "text": "The three underlayers that work every time"
+        },
+        {
+          "items": [
+            "Black bralette \u2014 sleek under black mesh, adds shape without bulk; $10 to $25",
+            "Nude camisole \u2014 closest to your skin tone, keeps the focus on the sheer texture; $8 to $20",
+            "Fitted bodysuit \u2014 stops the top riding up and smooths the waistline; $15 to $35",
+            "Long-sleeve thermal \u2014 the winter secret, invisible warmth under mesh; $12 to $25"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "Skin-tone or black? Picking your base"
+        },
+        {
+          "t": "p",
+          "text": "Match the underlayer to the mood, not to a rule. Black under black mesh looks deliberate and a little edgy \u2014 it's the night-out choice. A nude camisole close to your own skin tone makes the mesh itself the star, which suits daytime and softer outfits. White under white mesh reads fresh and clean. The one combo to skip: a bright coloured bra under dark mesh, unless the colour is the point of the outfit."
+        }
+      ],
+      "heading": "What to Wear Under a Sheer Top"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "The biggest worry with sheer tops in winter is the cold, and it's a fair one \u2014 mesh on its own is basically air. But nobody wears it on its own. Layered properly, a sheer top outfit is as warm as any other winter outfit, because the warmth comes from the pieces around it."
+        },
+        {
+          "t": "h3",
+          "text": "The layering order that works"
+        },
+        {
+          "items": [
+            "Start with a thin thermal or fitted bodysuit against your skin",
+            "Add the mesh or sheer top over it \u2014 this is your texture layer",
+            "Layer a camisole or slip dress over the mesh if you want more coverage",
+            "Add your warm piece: a wool blazer, knit cardigan or leather jacket",
+            "Finish with a proper coat, scarf and tights or boots for outdoors"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "h3",
+          "text": "Cold-weather fabrics to pair with mesh"
+        },
+        {
+          "items": [
+            "Wool \u2014 blazers, coats and knit skirts, the warmest partner for mesh",
+            "Velvet \u2014 trousers or a blazer, adds weight and party shine",
+            "Leather and faux leather \u2014 jackets and trousers, the edgy contrast",
+            "Chunky knit \u2014 cardigans and sweaters worn open over a mesh top",
+            "Denim \u2014 jeans and jackets, keeps the look grounded and warm"
+          ],
+          "t": "ul"
+        }
+      ],
+      "heading": "Sheer Top Layering That Keeps You Warm in Winter"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "A sheer top isn't one outfit \u2014 it's a starting point. The same black mesh top can go to a work dinner, a date, a weekend brunch or a New Year's party with different partners. Here's the quick guide, with honest prices."
+        },
+        {
+          "t": "h3",
+          "text": "Four outfits, four occasions"
+        },
+        {
+          "items": [
+            "Work dinner: black mesh top + nude camisole + grey wool blazer + tailored trousers + loafers \u2014 about $120 all in if you already own the blazer",
+            "Date night: dotted mesh top + black slip skirt + heeled boots + small gold hoops \u2014 the top is the whole statement",
+            "Weekend brunch: white mesh top + light jeans + tan coat + trainers \u2014 soft, easy, daytime-safe",
+            "New Year's Eve: embellished mesh top + black satin trousers + silver heels + clutch \u2014 one sparkly piece, everything else plain"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "What to spend on a sheer top"
+        },
+        {
+          "t": "p",
+          "text": "You don't need to spend much \u2014 mesh is a simple fabric, and the high-street versions are genuinely good. Buy your first one cheap and wear it a few times before deciding whether you want a better one."
+        },
+        {
+          "items": [
+            "Budget, $12 to $25 \u2014 H&M, Zara, Primark; perfect for a first try",
+            "Mid-range, $30 to $60 \u2014 COS, & Other Stories, Abercrombie; better fabric, cleaner seams",
+            "Splurge, $80 and up \u2014 designer or embellished pieces; only worth it for a party staple you'll wear for years",
+            "Underlayers, $8 to $35 \u2014 camisoles and bodysuits, buy two so one is always clean"
+          ],
+          "t": "ul"
+        }
+      ],
+      "heading": "Mesh Top Outfit Ideas by Occasion (and What They Cost)"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Most sheer-top outfits go wrong in small, fixable ways \u2014 a wrong underlayer, a top that's too tight, or mesh that snags on the first wear."
+        },
+        {
+          "t": "h3",
+          "text": "Five mistakes that ruin the look"
+        },
+        {
+          "items": [
+            "Skipping the underlayer \u2014 bare skin under mesh looks unfinished, not bold",
+            "Too-tight mesh \u2014 it pulls and shows every seam; size up for a smooth drape",
+            "Two sheer pieces at once \u2014 one sheer layer per outfit, the rest solid",
+            "Sparkle overload \u2014 sequins plus embellished mesh plus glitter heels is too much",
+            "Ignoring the weather \u2014 mesh with bare legs in December is a cold, short night"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "Washing and storing mesh so it lasts"
+        },
+        {
+          "items": [
+            "Hand wash in cold water with a gentle detergent, or use a mesh laundry bag on delicates",
+            "Never wring it \u2014 press the water out gently between two towels",
+            "Hang to dry away from radiators and direct sun",
+            "Fold to store instead of hanging, so the net doesn't stretch",
+            "Keep it away from rough zippers, Velcro and chunky jewellery that snag"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "p",
+          "text": "Sheer and mesh tops are having their moment because they're cheap, easy and fun to wear. Start with one black long-sleeve mesh top, a nude camisole and the jeans you already own \u2014 a full outfit for under $30."
+        }
+      ],
+      "heading": "Mistakes to Avoid With Sheer and Mesh Tops"
+    }
+  ],
+  "slug": "sheer-and-mesh-tops-outfit-ideas",
+  "subcategory": "Seasonal Outfits",
+  "title": "Sheer and Mesh Tops Outfit Ideas: Winter Layering, Holiday Party Looks & Styling Tips",
+  "to": "#8C4462"
+}),
+  P({
+
   "bannerTitle": "Colorful Winter Acrylic Nails",
   "category": "lifestyle",
   "date": "2026-11-28",
