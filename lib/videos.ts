@@ -16,6 +16,17 @@ export type VideoEntry = {
 
 export const VIDEOS: VideoEntry[] = [
   {
+    slug: "heart-photo-garland",
+    title: "DIY Heart Photo Garland – Cute Handmade Room Decor",
+    description: "Make a personalized photo garland with paper hearts, mini wooden clips and favourite printed memories — a sweet handmade decoration for bedrooms, celebrations and Valentine's Day.",
+    category: "diy-crafts",
+    topic: "Evergreen and Valentine's decor",
+    articleSlug: "heart-photo-garland",
+    poster: "/img/a42-a",
+    durationSec: 30,
+    date: "2026-11-28",
+  },
+  {
     slug: "diy-concrete-leaf-stepping-stones",
     title: "DIY Concrete Leaf Stepping Stones – Easy Garden Stones with Real Leaf Prints",
     description: "Press a real leaf into wet cement and keep its veins forever — an easy beginner garden craft that looks like it came from a garden shop.",

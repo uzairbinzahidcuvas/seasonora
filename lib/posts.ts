@@ -94,9 +94,299 @@ const P = (o: Post) => o;
 export const POSTS: Post[] = [
   P({
 
-  "bannerTitle": "DIY Christmas Gift Tags",
+  "bannerTitle": "Heart Photo Garland DIY",
   "category": "diy-crafts",
   "date": "2026-11-27",
+  "excerpt": "DIY heart photo garland turns blush cardstock, favourite prints and mini clips into a sweet handmade photo display. Cut, clip, string — done in under an hour.",
+  "faqs": [
+    {
+      "a": "Most people finish in 30 to 45 minutes once the photos are printed. Cutting the hearts takes about 15 minutes, clipping the photos takes five, and stringing and hanging takes another 10. If you are making a long garland with 12 or more hearts, give yourself a full hour so you are not rushing the spacing.",
+      "q": "How long does a DIY heart photo garland take to make?"
+    },
+    {
+      "a": "Small prints work best — about 2 by 3 inches, or the size of an instant-camera print. Anything bigger overwhelms the paper heart underneath and makes the garland heavy. Print on matte paper rather than glossy: matte prints do not glare in daylight, they grip the clips better, and they look softer against the cardstock.",
+      "q": "What size photos work best on a DIY heart photo garland?"
+    },
+    {
+      "a": "Yes, and it is the easiest way to do it. Pick your favourite shots on your phone, crop them square or to a 2-by-3 ratio, and print them at home or at a drugstore photo kiosk — a set of 10 small prints usually costs a couple of dollars. If you only have one or two photos you love, print each one twice and mix them with plain hearts so the garland still looks full.",
+      "q": "Can I use photos straight from my phone for a DIY heart photo garland?"
+    },
+    {
+      "a": "Take it down, lay it flat, and roll it loosely around a cardboard tube with a sheet of tissue paper between the layers so the hearts do not crease. Keep it in a dry box, away from damp and direct sun, and the cardstock will hold its colour for years. Store the clips in a small bag tied to the tube so nothing gets lost — then next year you only need fresh photos.",
+      "q": "How do I store a DIY heart photo garland between seasons?"
+    }
+  ],
+  "from": "#4E8FB8",
+  "hero": {
+    "alt": "Handmade blush pink and cream heart-shaped photo garland with mini wooden clips hanging above a sofa in a bright neutral living room, natural daylight",
+    "src": "/img/a42-hero"
+  },
+  "images": [
+    {
+      "after": 3,
+      "img": {
+        "alt": "Blush and cream paper heart garland with small printed photos clipped to cotton string on a white wall above a wooden shelf, soft daylight",
+        "caption": "Clip each photo to its heart before you string the garland — it keeps the spacing even and the photos level.",
+        "src": "/img/a42-a"
+      }
+    },
+    {
+      "after": 5,
+      "img": {
+        "alt": "Pink felt and paper heart garland with a row of small photos clipped below it, above a wooden shelf with a vase of dried flowers",
+        "caption": "Two rows work well too — a row of hearts on top, and your photos clipped just below them.",
+        "src": "/img/a42-b"
+      }
+    }
+  ],
+  "intro": "A DIY heart photo garland is the simplest way we know to turn a stack of favourite photos into something worth looking at every day. Instead of a frame that holds one picture, you get a whole row of little paper hearts, each one holding a photo, strung along cotton string and hung where you will actually see it — above a bed, along a mantel, across a bedroom wall. We made our first one for a Valentine's display, but it never came down: the blush and cream hearts look just as sweet in February as they do in June. The whole project takes under an hour, costs a few dollars, and needs nothing fancier than cardstock, scissors and a hole punch. This guide walks you through it in four easy steps, plus the styling ideas and small tricks that keep the garland neat, sturdy and easy to change later.",
+  "motif": "snow",
+  "readTime": 10,
+  "sections": [
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "A DIY heart photo garland works because it mixes two things we already love: paper hearts and printed photos. The hearts are soft, simple shapes that anyone can cut, and they do the decorating work on their own — even with no photos at all, a row of blush and cream hearts looks sweet on a wall. Add a photo to each one and the garland turns personal: every heart holds a memory, and guests always walk up close to look at the pictures."
+        },
+        {
+          "t": "h3",
+          "text": "Cheap, quick and easy to change"
+        },
+        {
+          "t": "p",
+          "text": "The other reason we love this project is how little it asks of you. There is no sewing, no glue gun, no drying time. The supplies cost a few dollars if you already own scissors and a hole punch, the work takes about half an hour of hands-on time, and nothing about it is permanent — which is exactly what you want for a photo display, because the photos you love change over time."
+        },
+        {
+          "items": [
+            "Cost: about $5 to $8 for cardstock, string and clips, and less if you already own the tools",
+            "Time: about 30 to 45 minutes of hands-on work, plus printing time for the photos",
+            "Skill level: true beginner — if you can trace a shape and use scissors, you can make this",
+            "Supplies: blush and cream cardstock, printed photos, a heart template, scissors, mini wooden clips, cotton string and a hole punch",
+            "Result: a handmade photo display you can re-hang, re-photo and re-style for years"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "p",
+          "text": "Best of all, the garland grows with you. Swap in new photos for a birthday, a graduation or a holiday, and the same hearts tell a new story. That is the whole point of a photo garland: it is not a finished object, it is a frame you keep living with."
+        }
+      ],
+      "heading": "Why a DIY Heart Photo Garland Works So Well"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Everything on this list fits in a small basket, and you may already have most of it at home. Lay it all out on your table before you start so the making part flows without a hunt for a missing piece halfway through."
+        },
+        {
+          "t": "h3",
+          "text": "The materials list"
+        },
+        {
+          "items": [
+            "Blush and cream cardstock — two or three sheets of each colour, medium weight so the hearts hold their shape",
+            "Printed personal photos — small prints, about 2 by 3 inches, on matte paper",
+            "A heart template — a cardboard cut-out, a cookie cutter to trace around, or a printed heart shape",
+            "Sharp scissors — clean cuts matter more than speed here, so use your best pair",
+            "Mini wooden clips — one per heart, plus a few spares in case one snaps",
+            "Cotton string — about 6 feet for a wall garland, more if you plan to drape it with a dip",
+            "A hole punch — a standard single-hole punch is all you need",
+            "Photo-safe adhesive or double-sided tape — optional, for photos you want stuck flat to the hearts"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "p",
+          "text": "A quick note on the photos: pick prints with clear faces and simple backgrounds, and keep them small. A busy photo shrinks down to a blur at 2 by 3 inches, while a close-up of two smiling faces still reads clearly from across the room. If you are short on prints, mix in a few plain hearts with no photo — they give the eye a rest and make the photos stand out more."
+        }
+      ],
+      "heading": "What You Need for a DIY Heart Photo Garland"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Two small jobs before the string comes out, and both of them decide how good the finished garland looks. Take your time here — a clean heart and a level photo are what make the whole thing look handmade in the best way, not hurried."
+        },
+        {
+          "t": "h3",
+          "text": "Step 1: Trace and cut heart shapes from cardstock"
+        },
+        {
+          "items": [
+            "Lay your heart template on the back of the cardstock and trace around it with a pencil",
+            "Trace 8 to 12 hearts, alternating blush and cream so the colours mix along the garland",
+            "Cut each heart out slowly, turning the paper rather than your hand around the curves",
+            "Trim any rough edges and set the hearts in a neat pile, blush and cream alternating",
+            "Punch one small hole near the top point of each heart, about a quarter inch from the edge"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "h3",
+          "text": "Step 2: Attach one small photo to each heart with a clip or photo-safe adhesive"
+        },
+        {
+          "items": [
+            "Match each photo to a heart — put your favourite prints on the blush hearts so they pop",
+            "Clip the photo to the front of the heart with a mini wooden clip, centred and level",
+            "Or stick the photo flat with a small piece of photo-safe adhesive if you prefer a cleaner look",
+            "Check each one by holding it up: the photo should sit straight, not tilted to one side",
+            "Leave two or three hearts photo-free if you want breathing room between the pictures"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "p",
+          "text": "The clips are the better choice if you plan to swap photos later — they hold firmly but come off without tearing the print. Adhesive looks neater in a close-up photo, but it is a one-way trip: once a photo is stuck down, peeling it off usually takes the cardstock with it. If you are making the garland as a gift, go with clips, so the person who receives it can change the photos whenever they like."
+        }
+      ],
+      "heading": "Cut the Hearts and Clip the Photos: Steps 1 and 2"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Now the garland starts to look like a garland. Stringing is the fiddly part, so work on a table or a clean floor where you can lay the whole thing out flat and see the spacing before you hang it."
+        },
+        {
+          "t": "h3",
+          "text": "Step 3: Tie or clip hearts along a measured length of cotton string"
+        },
+        {
+          "items": [
+            "Measure and cut the cotton string — your wall width plus about a foot extra on each end for tying",
+            "Lay the string flat and mark the spacing with small pieces of tape, about 6 inches apart",
+            "Thread the string through the punched hole in each heart and tie a small knot, or clip the heart to the string with a spare mini clip",
+            "Keep the colours alternating as you go — blush, cream, blush, cream — and check the row from a step back",
+            "Leave the extra string at both ends free for hanging, and trim any loose threads"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "h3",
+          "text": "Step 4: Hang the garland on a wall or mantel"
+        },
+        {
+          "items": [
+            "Pick two hooks, nails or removable adhesive hooks, level with each other and a little wider than the garland",
+            "Tie one end of the string to each hook, leaving a gentle dip in the middle — a slight sag looks relaxed and handmade",
+            "Step back and check the spacing: nudge any hearts that have slid together or twisted sideways",
+            "Turn each photo to face the room, and straighten any clip that sits at an angle",
+            "Stand back once more from the doorway — that is the view that matters most"
+          ],
+          "t": "ol"
+        },
+        {
+          "t": "p",
+          "text": "Removable adhesive hooks are the safest choice for rented rooms and painted walls, and they hold a paper garland easily — the whole thing weighs almost nothing. If you hang it on a mantel, let the ends drape down a few inches on either side; the loose ends make it look soft and finished instead of pulled tight."
+        }
+      ],
+      "heading": "String and Hang: Steps 3 and 4 for Your DIY Heart Photo Garland"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "A photo garland is at its best when it sits where you actually spend time. The whole point is to see the photos every day, so hang it somewhere your eyes land without trying — not tucked away in a corner you never look at."
+        },
+        {
+          "t": "h3",
+          "text": "Where a DIY heart photo garland looks best"
+        },
+        {
+          "items": [
+            "Above a bed — the classic spot, and the first thing you see in the morning",
+            "Along a mantel — the hearts frame the fireplace and the photos catch the light",
+            "Across a bedroom wall — one long garland, or two shorter ones stacked with a gap between them",
+            "Over a party table — swap in photos of the guest of honour for birthdays and anniversaries",
+            "In a nursery or kids' room — use family photos and soft colours, hung high enough to stay out of reach",
+            "On a gallery wall — hang the garland across a cluster of framed prints for a mixed display"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "h3",
+          "text": "Mixing colours and photos"
+        },
+        {
+          "t": "p",
+          "text": "Blush and cream is the easy, romantic pairing, but the same garland works in any palette. Try sage green and cream for a calm bedroom, red and cream for Valentine's Day, or dusty blue and white for a baby shower. Keep the photos in the same spirit: all colour prints, or all black and white, reads cleaner than a mix. And if one photo is much brighter than the rest, put it in the middle — the eye goes there first, and the garland looks planned rather than random."
+        }
+      ],
+      "heading": "Styling Your DIY Heart Photo Garland"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Most garlands go wrong for small, fixable reasons — the spacing drifts, a heart twists, or one photo sits crooked and pulls your eye every time you walk past. A few habits keep the row neat from the first hang."
+        },
+        {
+          "t": "h3",
+          "text": "Small habits, straight rows"
+        },
+        {
+          "items": [
+            "Cut all the hearts from the same template so they match — even a small size difference shows in a row",
+            "Punch every hole in the same spot, so the hearts hang at the same height on the string",
+            "Space the hearts before you hang the garland, not after — it is much harder to fix spacing on a wall",
+            "Use a level or a phone app to set the two hooks at the same height",
+            "Check the garland from the doorway, not from an inch away — that is how everyone else will see it",
+            "If a heart keeps twisting, add a tiny knot on either side of it to hold it in place"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "p",
+          "text": "One more habit worth keeping: take a photo of the garland once it is up and you are happy with it. Next time you take it down and re-hang it — or make a second one as a gift — you will have the spacing and the colour order right there to copy, and the second garland will take half the time."
+        }
+      ],
+      "heading": "Tips for a Neat, Sturdy Garland"
+    },
+    {
+      "blocks": [
+        {
+          "t": "p",
+          "text": "A paper garland is easy to live with, and a little care keeps it looking fresh for years. Most problems have simple fixes, and the project invites new ideas every time you change the photos."
+        },
+        {
+          "t": "h3",
+          "text": "Keeping it fresh, and making it yours"
+        },
+        {
+          "items": [
+            "Keep it out of direct sun — blush cardstock fades fast in a sunny window, so pick a shaded wall",
+            "Dust it gently with a dry cloth once a month; never wipe paper hearts with a damp cloth",
+            "Swap photos for the season — holiday snaps in December, beach photos in summer, birthday shots in between",
+            "Try felt hearts for a softer garland, or kraft card for a rustic look with twine instead of cotton string",
+            "Add a second row below the first for a fuller display — hearts on top, photos clipped just below",
+            "Make a matching mini garland for a door or a mirror, using the leftover hearts and three or four photos"
+          ],
+          "t": "ul"
+        },
+        {
+          "t": "p",
+          "text": "Our favourite version is the simplest one: blush and cream hearts, small matte prints, mini wooden clips and a gentle dip in the string above the bed. It cost a few dollars, took one quiet afternoon, and it is still the first thing we look at in the morning. Now you can make one too — pick your photos, cut your hearts, and hang a little row of memories on your wall."
+        }
+      ],
+      "heading": "Care and Variations for Your DIY Heart Photo Garland"
+    }
+  ],
+  "slug": "heart-photo-garland",
+  "subcategory": "Wreaths & Garlands",
+  "title": "DIY Heart Photo Garland: Cute Handmade Paper Heart Photo Display for Your Bedroom & Valentine's Day",
+  "to": "#275E7E",
+  "video": "heart-photo-garland"
+
+}),
+  P({
+
+  "bannerTitle": "DIY Christmas Gift Tags",
+  "category": "diy-crafts",
+  "date": "2026-11-28",
   "excerpt": "DIY Christmas gift tags turn plain wrapping into something personal. 15 easy handmade ideas — kraft, felt, clay, wax seals and photo tags — most under $1 each.",
   "faqs": [
     {
